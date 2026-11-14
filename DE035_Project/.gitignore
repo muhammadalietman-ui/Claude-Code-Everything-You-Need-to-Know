@@ -1,0 +1,8 @@
+# PUBLIC REPOSITORY: client/contract documents and project outputs must never be pushed.
+# Only the folder skeleton, tools and README are tracked.
+*
+!.gitignore
+!README.md
+!*/
+!*/.gitkeep
+!tools/*.py
