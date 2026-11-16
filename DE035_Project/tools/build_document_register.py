@@ -22,6 +22,7 @@ SKIP = {".gitkeep", ".gitignore"}
 
 # keyword -> (document type, owner department). First match wins; German and English.
 RULES = [
+    (r"fortschritt|progress|tracker|statusbericht|update|vorstellung|pr(ä|ae)sentation|transmittal", "Status / progress / transmittal information", "D13 Document Control"),
     (r"vertrag|contract|agreement|besondere vertragsbed|bvb|avb|zvb|conditions", "Contract conditions", "D04 Contracts"),
     (r"leistungsverzeichnis|\blv\b|boq|bill of quant|preisblatt|price schedule", "BOQ / price schedule", "D12 Cost"),
     (r"leistungsbeschreibung|scope of work|\bsow\b", "Scope of work", "D04 Contracts"),
@@ -78,10 +79,10 @@ def guess_title(text: str, name: str) -> str:
     return Path(name).stem.replace("_", " ")
 
 def classify(name: str, text: str):
-    hay = (name + " " + text[:4000]).lower()
-    for pat, typ, dept in RULES:
-        if re.search(pat, hay):
-            return typ, dept
+    for hay in (name.lower(), text[:4000].lower()):  # filename first, then content
+        for pat, typ, dept in RULES:
+            if re.search(pat, hay):
+                return typ, dept
     return "Unclassified - confirm", "CM to assign"
 
 def language(text: str) -> str:
@@ -91,6 +92,10 @@ def language(text: str) -> str:
 
 def main():
     TXT.mkdir(parents=True, exist_ok=True)
+    keep = {}  # manual review columns survive re-runs, keyed by checksum
+    if OUT.exists():
+        for r in openpyxl.load_workbook(OUT).active.iter_rows(min_row=2, values_only=True):
+            if r[11]: keep[r[11]] = list(r[13:17])
     files = sorted(f for d in SCAN if d.exists() for f in d.rglob("*")
                    if f.is_file() and f.name not in SKIP and "_text" not in f.parts and f != OUT and not f.name.startswith("~$"))
     rows, seen = [], {}
@@ -112,7 +117,7 @@ def main():
         rows.append([f"DOC-{i:03d}", str(f.relative_to(ROOT)), m_no.group(1) if m_no else "", m_rev.group(1).upper() if m_rev else "",
                      guess_title("" if err else text, f.name), typ, dept, language("" if err else text), pages,
                      dt.date.fromtimestamp(f.stat().st_mtime), round(f.stat().st_size / 1024, 1), h, flag,
-                     "", "To review", "", ""])
+                     *keep.get(h, ["", "To review", "", ""])])
     # superseded candidates: same doc no., lower revision
     by_no = {}
     for r in rows:
