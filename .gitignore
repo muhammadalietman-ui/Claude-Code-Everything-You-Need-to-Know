@@ -19,3 +19,5 @@ logs/
 
 # Claude Code local configuration
 .claude.json
+# DE035 handover packages contain client-derived data - never push (public repo)
+DE035_Handover*.zip
