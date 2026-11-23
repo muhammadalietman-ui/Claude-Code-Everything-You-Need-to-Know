@@ -1,0 +1,45 @@
+story_id,epic,persona,story,priority,points,hypothesis_link,acceptance_criteria_summary,mvp
+US-E1-01,E1,ADM,Import synthetic centreline with KP stationing,M,3,H1;H2,20 km imported ±1 m; point→KP to 1 m within 30 m ROW buffer; outside rejected,Y
+US-E1-02,E1,ADM,Generate sections of [SECTION_LENGTH_M],M,2,H1,"20 contiguous sections, no gaps/overlaps",Y
+US-E1-03,E1,QS,"Activity catalogue with unit, method, independent source, predecessor",M,3,H1;H4,Unit and independent source mandatory; predecessor stored,Y
+US-E1-04,E1,QS,Map BoQ items to activities/subcontracts with qty and rate,M,3,H1;H3,Claims valued at mapped rate; unmapped activity rejected,Y
+US-E2-01,E2,FM,Submit daily report on phone in <5 min,M,5,H2;H4,"Median ≤5 min, P90 ≤8 min; mandatory fields; KP outside section±200 m prompts",Y
+US-E2-02,E2,FM,Offline capture of a full shift,M,5,H2,≥6 lines + ≥10 photos offline; sync ≤2 min; no loss/duplicates,Y
+US-E2-03,E2,FM,Prefill from yesterday,S,2,H2,Crew/section/equipment prefilled; quantities blank,Y
+US-E2-04,E2,FM,Delay codes,M,2,H4,Delay stored by crew/section/date; annotates AL-05,Y
+US-E2-05,E2,SM,Approve field reports by cutoff,M,3,H2,Approved lines become Reported; returned report excluded and notified,Y
+US-E3-01,E3,SC,Submit daily claims via form or CSV template,M,3,H1;H3,"Valid rows become Claimed; receipt with counts, totals, file hash",Y
+US-E3-02,E3,QS,Automatic claim validation,M,3,H1,Row-level reject reasons; no partial rows,Y
+US-E3-03,E3,SC,View own claim status,S,2,H3,"Status, variance, reason visible; no other SC data",Y
+US-E4-01,E4,SV,Import per-flight measurements with uncertainty and footprint,M,5,H1,Measured records linked to flight; missing uncertainty rejected; footprint respected,Y
+US-E4-02,E4,SV,Flight accuracy check and exclusion,M,2,H1,RMSE_z > [MAX_RMSE_Z_M] gets FAIL flag and is excluded,Y
+US-E4-03,E4,CM,Flight coverage gaps on active sections,S,2,H2,Uncovered active section marked with icon and label,Y
+US-E5-01,E5,QS,Compute reconciliation status per key,M,8,H1;H3,1020/1050/1100 vs 1000±30 @3% gives MATCHED/WITHIN_TOLERANCE/DISCREPANCY; cap 1060; 10k keys ≤10 s,Y
+US-E5-02,E5,QS,Configure versioned tolerances,M,3,H1,Change versioned with reason; not retroactive,Y
+US-E5-03,E5,QS,Period vs cumulative consistency,M,3,H3,Period = Δcumulative (1950); daily sum equal ±0.01,Y
+US-E5-04,E5,QS,Independent source follows measurability matrix,M,3,H1,Welding M from QA log (40 vs claim 42),Y
+US-E6-01,E6,QS,AL-01 claimed vs measured beyond tolerance,M,2,H1;H3,"1100 vs 1000±30 @3% gives HIGH alert, excess 40 m³",Y
+US-E6-02,E6,SM,AL-02 missing field report,M,2,H2;H4,"Crew checked in, no report by 20:00, alert; auto-close on submit",Y
+US-E6-03,E6,QS,AL-03 duplicate/overlapping KP claim,M,3,H1;H3,Overlap 012+400–012+600 = 200 m flagged; not certifiable twice,Y
+US-E6-04,E6,CM,AL-04 cumulative exceeds BoQ,M,2,H3,11800+400 > 12000 gives alert 200 m³ (1.7%),Y
+US-E6-05,E6,SM,AL-05 productivity drop vs 5-day median,M,3,H4,40→26 joints = -35% > 25% gives alert; delay code lowers severity,Y
+US-E6-06,E6,QS,AL-06 claim without measurement or evidence,M,2,H1,No M within 2 days and no photo gives UNVERIFIABLE + alert,Y
+US-E6-07,E6,SM,AL-07 equipment reported vs telematics,S,3,H4,10 h reported vs 1.5 h telematics (tol 2 h) gives alert; no signal gives alert,Y
+US-E6-08,E6,PL,AL-08 out-of-sequence progress,S,3,H4,Lowering-in 300 m ahead of trench gives alert,Y
+US-E6-09,E6,QS,Alert lifecycle with reason codes,M,3,H2,Resolve requires reason; audit logged,Y
+US-E7-01,E7,CM,Spread overview KP strip and KPI tiles,M,5,H2,Worst status per section with colour+icon+label; 4 KPI tiles; load ≤3 s,Y
+US-E7-02,E7,SM,Daily production vs plan,M,3,H2;H4,Planned/reported/measured/productivity; totals equal approved reports,Y
+US-E7-03,E7,QS,Reconciliation workbench with evidence links,M,5,H1;H2;H3,Filter by status; sort by |variance|; 1-click evidence; CSV export,Y
+US-E7-04,E7,CM,Subcontractor scorecard,S,3,H3,"Status mix, over-claim value, duplicates, claim→cert days, trend",Y
+US-E7-05,E7,CM,Timeline playback (as-of view),C,5,H2,State shown as recorded at the selected date,N
+US-E7-06,E7,QS,Section/KP evidence detail,M,3,H1,"Orthophoto, measurement ±U and flag, photos, reports, claims, audit",Y
+US-E8-01,E8,FM,Crew-level check-in/out,M,2,H4,"Crew, headcount, section, equipment, time; no individual data",Y
+US-E8-02,E8,SM,Equipment presence from check-in + telematics,S,3,H4,Engine hours/day and last section; raw coordinates hidden from commercial roles,Y
+US-E8-03,E8,ADM,"Aggregated, restricted personnel data with retention",M,2,H4,Commercial roles see crew aggregates only; auto-delete after [RETENTION_DAYS],Y
+US-E9-01,E9,QS,Certify line items with cap and override,M,5,H3,Certify up to cap 1060; above cap requires reason + comment; flagged,Y
+US-E9-02,E9,QS,Certificate draft export,M,3,H3,CSV+PDF per BoQ item prev/period/cum/rate/amount; totals exact; DRAFT disclaimer,Y
+US-E9-03,E9,FIN,Record invoice vs certificate,S,2,H3,50 m³ mismatch flagged; state held until resolved,Y
+US-E9-04,E9,SC,Comment/dispute certified line,C,3,H3,Dispute thread recorded per line,N
+US-E10-01,E10,ADM,Immutable audit trail,M,3,H3,Who/when/before/after/reason; no deletion through the app,Y
+US-E10-02,E10,ADM,Role-based access control,M,3,-,Cross-subcontractor access returns 403; matrix tested,Y
+US-E10-03,E10,CM,Audit export for dispute file,S,2,H3,Export by section and period,N
