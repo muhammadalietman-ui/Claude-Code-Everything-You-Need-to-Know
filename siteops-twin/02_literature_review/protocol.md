@@ -65,6 +65,10 @@ Reporting guideline: PRISMA 2020 (Page et al., 2021). Procedures informed by Kit
 ## 5. Grey literature and standards policy
 - Standards are **not screened**. They are cited directly as normative sources and logged in `seed_references.md` with their edition. Examples: ISO 19650, ISO 16739-1, ISO 15143-3, IEC 62541, OGC, PODS, ANSI/EIA-748, PRISMA.
 - Industry reports are included only in a separate *grey-literature annex*. Examples: FIDIC measurement provisions, AACE recommended practices, IOGP guidance, professional-body reports. They are never used as evidence for H1–H4 effect sizes.
+- **Industry-practice tier (added at the user's request, D-011).** Practitioner bodies are a separate evidence stream, used to ground the as-is process, the activity taxonomy, the measurement practice and the field-practicality requirements. They are not screened with PRISMA. They are appraised with the AACODS checklist (Authority, Accuracy, Coverage, Objectivity, Date, Significance) and listed in `industry_practice_sources.md`.
+  - **Primary practitioner reference: IPLOCA** (International Pipe Line & Offshore Contractors Association). This includes *Onshore Pipelines: The Road to Success* (members-only app), Novel Construction Initiative session outputs, committee guidance (HSE, environment, innovation) and the Yearbook/newsletter technical articles.
+  - Secondary sources: AACE International recommended practices, FIDIC measurement provisions, IOGP guidance, and pipeline codes (ASME B31.4/B31.8, API 1104, ISO 13623, EN 1594, CSA Z662).
+  - **Use rule [R].** Industry practice can justify *requirements and design choices*, such as "progress is measured this way on spreads". It cannot justify *effect sizes* for H1–H4.
 - **[R]** Vendor material on `[DRONE_SW]` capability may inform the architecture. It is not cited as evidence of accuracy.
 
 ## 6. Information sources

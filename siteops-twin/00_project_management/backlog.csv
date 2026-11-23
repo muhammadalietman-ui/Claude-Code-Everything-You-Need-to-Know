@@ -23,3 +23,11 @@ T-204,P2,Gap analysis and conceptual framework,literature-reviewer;research-lead
 T-301,P3,Practitioner interviews (6-10),process-analyst,M1,03_as_is_analysis/interviews/,Anonymised notes; consent recorded,Must,To do
 T-302,P3,Validate as-is BPMN and pain points,process-analyst;field-operations-specialist,T-301,03_as_is_analysis/,2 validations,Must,To do
 T-303,P3,Root-cause analysis and KPI baseline template,process-analyst;commercial-analyst,T-302,03_as_is_analysis/kpi_baseline_template.csv,KPIs operationally defined,Must,To do
+T-205,P2,Confirm IPLOCA membership and obtain Road to Success access,literature-reviewer,Q-013,02_literature_review/industry_practice_sources.md,Access confirmed or fallback recorded,Must,To do
+T-206,P2,Extract IPLOCA practice evidence table,literature-reviewer;field-operations-specialist,T-205,02_literature_review/industry_practice_extract.csv,Each practice statement linked to an artefact,Must,To do
+T-207,P2,Code Novel Construction barriers/enablers vs UTAUT,literature-reviewer,T-201,02_literature_review/,Coded table for RQ5,Should,To do
+T-208,P3,Validate as-is and measurability matrix vs IPLOCA and interviews,field-operations-specialist,T-206;T-301,03_as_is_analysis/industry_practice_alignment.md,All 10 alignment items closed,Must,To do
+T-105,P1,DPIA screening and labour-law route for field sensing (T1-T5),research-lead,Q-008;Q-072,01_governance/data_governance_ethics.md,DPO opinion recorded; tiers approved,Must,To do
+T-401,P4,Design E11 field presence sensing (work-front registry; presence entities; AL-09..AL-13),solution-architect;data-engineer,D-069,04_to_be_architecture/field_sensing_layer.md,Entities in data dictionary; stories with AC,Must,To do
+T-402,P4,Add E11 stories and acceptance criteria to MVP backlog,ux-designer;commercial-analyst,T-401,04_to_be_architecture/ux/mvp_backlog.md,AL-09..AL-13 each with numeric AC,Must,To do
+T-403,P4,Extend synthetic dataset spec with presence/vehicle/camera data and seeded AL-09..AL-13,data-engineer,T-401,04_to_be_architecture/data_model/synthetic_dataset_spec.md,Ground-truth counts defined,Must,To do

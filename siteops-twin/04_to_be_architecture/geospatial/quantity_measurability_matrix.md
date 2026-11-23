@@ -79,9 +79,9 @@ Not every pipeline quantity can be verified from the air. This matrix classifies
 6. **Tolerance comparison** (used by AL-01):
    - `diff = Q_claimed − Q_measured`
    - Contract tolerance T: Q-007, default 3% for volume and 1% for length (A-050).
-   - Combined acceptance band: `band = max(T · Q_measured, k · σQ)`, with k = 2 (≈ 95%).
-   - `|diff| ≤ 0.5·band` → **MATCHED**. `≤ band` → **WITHIN_TOLERANCE**. Otherwise → **DISCREPANCY**. No valid measurement → **UNVERIFIABLE**.
-   - The 0.5 factor is a proposed parameter (D-050).
+   - Measurement uncertainty `U = k · σQ`, with k = 2 (≈ 95%). Contract tolerance `T · Q_measured`, with T from the subcontract (e.g. `[TOL_VOL_PCT]`).
+   - `|diff| ≤ U` → **MATCHED**. `≤ U + T·Q` → **WITHIN_TOLERANCE**. Otherwise → **DISCREPANCY**. No valid measurement → **UNVERIFIABLE**.
+   - The certifiable cap without override is `M + U + T·Q`. This rule is harmonised with D-063 and CTL rules in `ux/mvp_backlog.md`. The earlier "0.5·band" proposal (D-050) was superseded at the P0 quality review.
 7. **Length uncertainty** for digitised lines: `σL ≈ √2 · σxy` per end point, plus digitising error ≈ 2 × GSD. This is negligible against tolerance for lengths over 100 m.
 8. **Known biases:**
    - Water and specular surfaces (holes in the DSM, which must be masked)

@@ -32,6 +32,8 @@ Owner: research-lead. Version 0.1 (Phase 0). Status: for user and supervisor rev
 | H3 | Automated quantity reconciliation reduces invoicing disputes, rework in commercial administration, and payment-cycle delays. | Disputed line items per certificate; resubmissions; days from period end to certificate | Commercial records, certificate log | Baseline vs pilot periods; the historical periods give context | A trend is observed. Treat as exploratory, because the pilot has few billing cycles (L-02). |
 | H4 | Personnel, equipment and activity tracking improves visibility of work-front productivity and supports early identification of delays. | Productivity (unit/crew-h); lead time of the delay signal vs the conventional report; % of equipment idle time visible | Telematics, mobile logs, activity sampling | Pilot: alert date vs date of the conventional recognition | Median lead time of 2 days or more on detected slowdowns. Qualitative confirmation from interviews. |
 
+| H5 *(proposed, D-070)* | Structured presence sensing (check-in, vehicle GPS, telematics, cameras) reduces the discrepancy between claimed and independently verified manpower and equipment hours. | \|claimed − verified\| / verified for headcount-days and equipment-hours | Field sensing layer (E11), audit sample | Baseline vs pilot | Median discrepancy falls by 30% or more (Wilcoxon) |
+
 **[A] A-011.** The thresholds above are initial targets for discussion with the supervisor. They are not findings.
 
 ## 4. Scope
@@ -42,14 +44,14 @@ Owner: research-lead. Version 0.1 (Phase 0). Status: for user and supervisor rev
 - Daily UAV outputs from the existing `[DRONE_SW]`.
 - Mobile daily reports and subcontractor daily reports.
 - Equipment telematics where it is available.
-- Personnel tracking at crew or zone level only (A-012).
+- Personnel presence through a tiered sensing layer: muster check-in, vehicle GPS, plant trackers, camera people counts, and optional HSE-led badges. Commercial users see crew/front-level aggregates only. Identifiable data stays with HR/HSE (A-012, D-069).
 - The commercial certification workflow up to invoice approval.
 - Prototype on synthetic data. Pilot on anonymised data.
 
 **Out of scope for the thesis:**
 - Replacing `[DRONE_SW]`.
 - Real-time video analytics and computer-vision model training.
-- Individual worker biometrics.
+- Individual worker biometrics and facial recognition. Individual location tracks visible to commercial users.
 - ERP write-back. ERP integration stays read-only or file-based.
 - Offshore, facilities and station works.
 - Automatic payment execution.

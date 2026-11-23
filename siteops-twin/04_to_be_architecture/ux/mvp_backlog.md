@@ -23,6 +23,11 @@
 | FIN | Finance | Pay invoices that match certified quantities | Head office | Laptop | Invoices do not match certificates; resubmissions |
 | ADM | Administrator | Configure the spread, users and roles; keep data clean | Office | Laptop | none (new role) |
 
+**Backlog size:**
+- 44 stories. 41 are proposed for the MVP, at 127 pts [A]: 107 pts Must and 20 pts Should.
+- 3 stories are roadmap.
+- **[R]** If the timebox is tight, defer the MVP "Should" items first: E2-03, E3-03, E4-03, E6-07, E6-08, E7-04, E8-02, E9-03.
+
 ## 2. Story map
 
 ```mermaid

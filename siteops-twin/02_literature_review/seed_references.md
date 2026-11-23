@@ -48,4 +48,10 @@ Citation style: APA 7.
 | N07 | ANSI/EIA-748. *Earned Value Management Systems* (current revision). | C5 | VERIFY (revision) |
 | N08 | OGC standards: GeoPackage, WMS/WMTS, OGC API–Features, 3D Tiles. | C7 | VERIFY (versions) |
 
+## D. Industry practice (primary practitioner reference, D-011)
+| # | Reference | Cluster | Status |
+|---|---|---|---|
+| P01 | International Pipe Line & Offshore Contractors Association [IPLOCA]. (2017 or later edition). *Onshore pipelines: The road to success* (4th ed., app; 5th ed. referenced by IPLOCA). IPLOCA. | Practice: process, measurement, risk | VERIFY edition, year, citation form (members-only) |
+| P02 | IPLOCA Novel Construction Initiative. (2024). *Fall session working-group outputs: AI and digital transformation* [Presentation slides]. Lisbon. https://www.iploca.com/app/uploads/2024/07/Group-1-Novel-Construction-PPT-Template-Lisbon-2024.pdf | C1, C9 practice | Source located 2026-11-23; check authorship and title before citing |
+
 **[R]** In week 3, resolve every candidate DOI and fill in the missing ones (S03, S04, S07, S12, S15). Then update `verified_doi` = Y in the reference matrix.

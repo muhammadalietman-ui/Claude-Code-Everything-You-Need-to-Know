@@ -172,3 +172,14 @@ run_date,database,string_id,string_version,hits_raw,hits_after_limits,exported,e
 Before freezing the strings, check that CORE-01 or the relevant cluster string retrieves the seed works indexed in Scopus or WoS. Examples: Siebert & Teizer (2014) for C2; Omar & Nehdi (2016) for C6; Boje et al. (2020) for C1.
 
 **[R]** If more than 20% of the gold set is missed, broaden the string.
+
+## 8. Industry-practice searches (IPLOCA first, D-011)
+These searches run outside the PRISMA count, in the industry-practice stream, and are appraised with AACODS.
+
+| ID | Source | String / action |
+|---|---|---|
+| IP-S01 | iploca.com (site search, publications, committees) | `"Road to Success"`; `"Novel Construction"` + (digital OR drone OR UAV OR "progress" OR "AI") |
+| IP-S02 | IPLOCA NEST (members) | All Novel Construction session presentations from 2018 onward on digitalisation, survey, progress, productivity |
+| IP-S03 | Google (`site:iploca.com`) | `site:iploca.com (drone OR UAV OR "digital twin" OR "progress monitoring" OR productivity OR "as-built")` |
+| IP-S04 | IPLOCA Yearbook/Newsletter (issuu) | `IPLOCA yearbook (drone OR digital OR "spread" OR productivity)` |
+| IP-S05 | Scopus/WoS | `TITLE-ABS-KEY(IPLOCA OR "International Pipe Line and Offshore Contractors")`, to find academic papers citing IPLOCA practice |

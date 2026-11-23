@@ -135,7 +135,7 @@ Field reports, claim lines and drone measurements link to `section` **spatially*
 | AL-02 | Missing field report (crew active per telematics/presence, but no report) | 6 crew-days | Random crews |
 | AL-03 | Duplicate or overlapping KP claim | 3 (1 exact duplicate, 2 partial overlaps ≥ 100 m) | SYN-SUB-C WLD; SYN-SUB-A CLR |
 | AL-04 | Cumulative claimed > BoQ or planned quantity | 1 BoQ item | SYN-SUB-D LOW |
-| AL-05 | Productivity drop > X% (default X = 40%) vs the 5-day rolling median, not explained by logged weather | 4 crew-days | 2 crews |
+| AL-05 | Productivity drop > X% (default X = 25%, A-043; seeded drops are 35–50% so the backlog example at −35% fires) vs the 5-day rolling median, not explained by logged weather | 4 crew-days | 2 crews |
 | AL-06 | Claimed quantity with no measurement or evidence (UNVERIFIABLE activity with no log reference) | 5 claim lines | Mixed |
 | AL-07 | Equipment reported working in a field report, but telematics idle (> 80% idle) or `NO_DATA` on a telematics-enabled unit | 8 equipment-days | Random |
 | AL-08 | Out-of-sequence progress (e.g. LOW claimed or reported where TRN is not complete) | 2 | SYN-SUB-D |

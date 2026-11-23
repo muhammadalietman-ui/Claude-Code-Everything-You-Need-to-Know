@@ -27,6 +27,8 @@ Tags: **[F]** fact · **[A]** assumption · **[R]** recommendation.
    - The MVP uses file-based imports (CSV, GeoTIFF, GeoPackage, LandXML).
    - APIs are on the roadmap (R-08).
 
+> **Update (2026-11-23).** The field-sensing layer has been extended beyond the drone: muster check-in, vehicle GPS, plant trackers, camera counts and optional badges, with a work-front registry and a privacy filter. See [`field_sensing_layer.md`](field_sensing_layer.md) (E11, D-069). Sources S5 and S6 below are generalised by that document.
+
 ## 2. Layered architecture
 
 ```mermaid

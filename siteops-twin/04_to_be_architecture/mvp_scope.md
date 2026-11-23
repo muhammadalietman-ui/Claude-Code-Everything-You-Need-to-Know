@@ -25,7 +25,8 @@ This is the minimum artefact needed to evaluate H1–H3 and to give H4 a first, 
 | E5 | Reconciliation engine: 6 states, tolerance rules, statuses MATCHED / WITHIN_TOLERANCE / DISCREPANCY / UNVERIFIABLE | **In** | Central artefact contribution | E1–E4 | L |
 | E6 | Alerts AL-01…AL-08 | **In** (rule-based, thresholds configurable) | Addresses objective 8 and H4 | E5, E8 | M |
 | E7 | Commercial dashboard: KP strip + map, daily production, reconciliation workbench, subcontractor scorecard, timeline | **In** | Addresses H2 | E5, E6 | L |
-| E8 | Crew and equipment presence: crew-level check-in, telematics CSV (hours, idle per section) | **In** (crew-level only, D-006; CSV only) | Needed for AL-07 and productivity (H4) | E1 | S |
+| E8 | Crew and equipment presence: crew-level check-in, telematics CSV (hours, idle per section), **extended to hired and subcontractor plant trackers** | **In** (CSV only) | Needed for AL-07, AL-11 and productivity (H4) | E1 | S |
+| E11 | **Field presence sensing** (added 2026-11-23, see `field_sensing_layer.md`): muster check-in, vehicle GPS/manifest import, work-front registry and geofencing, AL-09 to AL-12; camera-count import and AL-13 as Should | **Proposed In** (D-069, needs confirmation) | Drone alone cannot verify manpower, equipment hours or fragmented fronts; H4, H5 | E1, E8, DPIA | M (+3–4 developer-weeks) |
 | E9 | Certification workflow: QS certifies line items with comment, certificate draft export | **In** (single approval step) | Closes the loop to Certified; H3 | E5, E10 | M |
 | E10 | Audit trail and basic RBAC | **In** (roles + change log; local auth) | Traceability and dispute evidence | none | S |
 | R1 | 3D mesh / point-cloud viewer (3D Tiles) | Out | High effort; 2D ortho + KP strip is enough to test the hypotheses | E4 | L |
@@ -88,6 +89,7 @@ Please confirm, or change, each item before any platform code is written:
 
 - [ ] **C1. Single synthetic spread** (about 25 km, 1-km sections) is the MVP boundary. Q-011 asks you to define "corner" and the section length.
 - [ ] **C2. Epics E1–E10 are In.** R1–R9 are roadmap only.
+- [ ] **C11. Field sensing (E11, D-069):** which tiers go into the MVP and pilot. Recommended: T1 check-in + T2 vehicle GPS + T3 plant trackers; T4 cameras at 2–3 fronts; T5 badges only as an optional HSE-led trial. Also confirm whether H5 is added (D-070).
 - [ ] **C3. Alert set AL-01…AL-08** as defined. Thresholds are configurable (e.g. the AL-05 drop is set to 25% by default, A-043).
 - [ ] **C4. Personnel granularity** is crew/zone level only, with no individual tracking (D-006).
 - [ ] **C5. File-based imports** only: drone exports, telematics, BoQ/plan, ERP invoice lines. No live APIs.
