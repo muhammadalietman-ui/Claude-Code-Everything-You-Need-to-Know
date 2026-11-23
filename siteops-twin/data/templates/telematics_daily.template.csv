@@ -1,0 +1,2 @@
+equipment_id,date,engine_hours,working_hours,idle_hours,last_kp_m,data_status,source,remarks
+SYN-EQ-011,2027-01-04,10.2,8.1,2.1,4790,OK,ISO15143-3-like daily aggregate,SYNTHETIC EXAMPLE

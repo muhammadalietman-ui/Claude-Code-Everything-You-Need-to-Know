@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/siteops-twin/field_daily_report.schema.json",
+  "title": "SiteOps Twin - Field Daily Report",
+  "description": "Daily production report submitted by a crew foreman (E2). Synthetic/demo schema; no personal data fields. Supervisor is recorded by role only.",
+  "type": "object",
+  "required": ["report_id", "report_date", "crew_id", "supervisor_role", "lines", "submitted_at"],
+  "additionalProperties": false,
+  "properties": {
+    "report_id": {"type": "string", "pattern": "^[A-Z0-9-]+$"},
+    "report_date": {"type": "string", "format": "date"},
+    "crew_id": {"type": "string", "pattern": "^[A-Z0-9-]+$"},
+    "supervisor_role": {"type": "string", "enum": ["FOREMAN", "SUPERINTENDENT", "INSPECTOR"]},
+    "submitted_at": {"type": "string", "format": "date-time"},
+    "sync_status": {"type": "string", "enum": ["DRAFT", "PENDING_SYNC", "SYNCED", "CONFLICT"], "default": "PENDING_SYNC"},
+    "client_device_ts": {"type": "string", "format": "date-time", "description": "Device time at capture, for offline clock-drift checks"},
+    "weather": {"type": "string", "enum": ["CLEAR", "RAIN", "WIND", "SAND", "SNOW", "HEAT", "OTHER"]},
+    "is_synthetic": {"type": "boolean"},
+    "lines": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["line_id", "activity_code", "kp_from_m", "kp_to_m", "qty", "unit", "hours_worked"],
+        "additionalProperties": false,
+        "properties": {
+          "line_id": {"type": "integer", "minimum": 1},
+          "activity_code": {"type": "string", "enum": ["CLR", "GRD", "ACR", "STR", "BND", "WLD", "TIE", "NDT", "FJC", "TRN", "TRR", "PAD", "LOW", "BKF", "XRD", "XRV", "HDD", "HYD", "CLD", "RST", "CPS", "MKR"]},
+          "kp_from_m": {"type": "number", "minimum": 0},
+          "kp_to_m": {"type": "number", "minimum": 0},
+          "qty": {"type": "number", "minimum": 0},
+          "unit": {"type": "string", "enum": ["m", "m2", "m3", "nr"]},
+          "equipment_ids": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+          "hours_worked": {"type": "number", "minimum": 0, "maximum": 24},
+          "downtime_h": {"type": "number", "minimum": 0, "maximum": 24},
+          "downtime_reason": {"type": "string", "enum": ["NONE", "WEATHER", "EQUIPMENT_BREAKDOWN", "MATERIAL_SHORTAGE", "ACCESS_LANDOWNER", "HSE_STOP", "WAITING_PRECEDING_ACTIVITY", "OTHER"]},
+          "photo_refs": {"type": "array", "items": {"type": "string"}},
+          "remarks": {"type": "string", "maxLength": 500}
+        }
+      }
+    }
+  }
+}

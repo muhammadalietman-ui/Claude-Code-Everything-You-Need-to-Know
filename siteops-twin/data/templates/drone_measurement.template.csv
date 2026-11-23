@@ -1,0 +1,2 @@
+measurement_id,flight_id,flight_date,activity_code,method,kp_from_m,kp_to_m,qty_measured,unit,sigma_qty,base_flight_id,gsd_cm,rmse_xy_m,rmse_z_m,quality_flag,footprint_ref,remarks
+SYN-DM-20270104-001,SYN-FLT-20270104,2027-01-04,TRN,LENGTH_DIGITISE,4205,4808,603,m,1.7,,2.5,0.03,0.04,OK,SYN-FP-20270104-001,SYNTHETIC EXAMPLE

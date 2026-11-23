@@ -1,0 +1,17 @@
+kpi_id,name,formula,unit,data_source,frequency,hypothesis_link,owner,baseline_value,target
+KPI-01,Claim-measurement discrepancy,median over items/sections of |claimed - measured| / measured,%,Claims; survey/drone measurement,Per claim period,H1,QS,,>=30% reduction vs baseline
+KPI-02,Share of claimed quantity independently verified,verified claimed quantity / total claimed quantity (by value),%,Claims; reconciliation records,Per claim period,H1,QS,,Increase (target to set in P5)
+KPI-03,Daily production review time,minutes spent by reviewer to review one day of production,min/day,Time-and-motion log,Daily,H2,Commercial Manager,,>=40% reduction
+KPI-04,Errors detected per review,number of errors/inconsistencies found per daily review,count/review,Review log,Daily,H2,Commercial Manager,,No decrease vs baseline
+KPI-05,DPR completeness,mandatory fields filled / mandatory fields required,%,DPRs,Daily,H2,Site engineer,,>=95%
+KPI-06,DPR timeliness,hours from shift end to approved DPR,h,DPR timestamps,Daily,H2,Site Manager,,<=12 h
+KPI-07,Decision latency,hours from deviation occurrence to documented decision/action,h,Review log; alerts,Per event,H2;H4,PM,,Reduction (target in P5)
+KPI-08,Disputed line items per certificate,count of BoQ line items disputed / items certified,%,Certificate log; dispute log,Per certificate,H3,Commercial Manager,,Reduction (exploratory)
+KPI-09,Certificate resubmissions,number of revisions before approval,count/certificate,Certificate log,Per certificate,H3,QS,,Reduction (exploratory)
+KPI-10,Certification cycle time,days from period end to approved certificate,days,Certificate log,Per certificate,H3,Commercial Manager,,Reduction (exploratory)
+KPI-11,Payment cycle time,days from approved certificate to payment,days,ERP,Per invoice,H3,Finance,,Reduction (exploratory)
+KPI-12,Commercial admin effort,person-hours spent on reconciliation and disputes per claim,h/claim,Time log,Per claim,H3,QS,,Reduction
+KPI-13,Crew productivity,quantity produced / crew-hours per activity per section,unit/crew-h,DPR; timesheets; telematics,Daily,H4,Planning,,Visible daily (baseline: not available)
+KPI-14,Equipment utilisation visibility,equipment hours with known activity assignment / total equipment hours,%,Telematics; equipment log,Daily,H4,Site Manager,,Increase
+KPI-15,Delay-signal lead time,date slowdown recognised in conventional report - date flagged by system,days,Progress reports; alerts,Per event,H4,Planning,,Median >=2 days
+KPI-16,Usability (SUS),System Usability Scale score,0-100,SUS questionnaire,End of pilot,H2,UX designer,,>=68

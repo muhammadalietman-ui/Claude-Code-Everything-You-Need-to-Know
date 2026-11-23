@@ -1,0 +1,2 @@
+report_id,report_date,crew_id,supervisor_role,line_id,activity_code,kp_from_m,kp_to_m,qty,unit,equipment_ids,hours_worked,downtime_h,downtime_reason,photo_refs,submitted_at,sync_status,remarks
+SYN-FR-20270104-CRW03,2027-01-04,SYN-CRW-03,FOREMAN,1,TRN,4200,4810,610,m,SYN-EQ-011;SYN-EQ-012,10,0.5,EQUIPMENT_BREAKDOWN,SYN-PH-0001;SYN-PH-0002,2027-01-04T16:45:00Z,SYNCED,SYNTHETIC EXAMPLE

@@ -1,0 +1,2 @@
+claim_id,subcontractor_id,period_from,period_to,claim_line_id,boq_item_id,activity_code,work_date,kp_from_m,kp_to_m,qty_claimed,unit,evidence_ref,submitted_at,remarks
+SYN-CLM-B-2027W01,SYN-SUB-B,2027-01-04,2027-01-09,1,SYN-BOQ-B-010,TRN,2027-01-04,4200,4810,640,m,SYN-FR-20270104-CRW03,2027-01-11T09:00:00Z,SYNTHETIC EXAMPLE

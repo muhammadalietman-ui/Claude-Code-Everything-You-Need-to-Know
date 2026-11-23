@@ -1,0 +1,3 @@
+record_id,source_db,string_id,authors,year,title,doi,stage1_decision,stage1_reason_code,screener,stage2_decision,stage2_reason_code,quality_score,cluster,notes
+R0001,Scopus,C2,EXAMPLE Author A; Author B,2019,EXAMPLE - UAV-based earthwork volume estimation on a road project,,Include,,S1,Include,,6.5,C2;C8,EXAMPLE ROW - delete before use
+R0002,WoS,C1,EXAMPLE Author C,2021,EXAMPLE - Digital twin for hospital facility operations,,Exclude,EX2,S1,,,,C1,EXAMPLE ROW - delete before use
