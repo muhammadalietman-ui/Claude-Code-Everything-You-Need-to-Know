@@ -1,0 +1,3975 @@
+{
+ "run_date": "2026-11-23",
+ "results": {
+  "R0187": {
+   "query_title": "Towards a semantic Construction Digital Twin: Directions for future research",
+   "query_doi": "10.1016/j.autcon.2020.103179",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2020.103179",
+   "cr_title": "Towards a semantic Construction Digital Twin: Directions for future research",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2020,
+   "cr_volume": "114",
+   "cr_issue": null,
+   "cr_page": "103179",
+   "cr_article_number": "103179",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Calin",
+     "family": "Boje"
+    },
+    {
+     "given": "Annie",
+     "family": "Guerriero"
+    },
+    {
+     "given": "Sylvain",
+     "family": "Kubicki"
+    },
+    {
+     "given": "Yacine",
+     "family": "Rezgui"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2020.103179",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0137": {
+   "query_title": "Construction with digital twin information systems",
+   "query_doi": "10.1017/dce.2020.16",
+   "crossref_url": "https://api.crossref.org/works/10.1017/dce.2020.16",
+   "cr_title": "Construction with digital twin information systems",
+   "cr_container": "Data-Centric Engineering",
+   "cr_year": 2020,
+   "cr_volume": "1",
+   "cr_issue": null,
+   "cr_page": null,
+   "cr_article_number": "e14",
+   "cr_type": "journal-article",
+   "cr_publisher": "Cambridge University Press (CUP)",
+   "cr_authors": [
+    {
+     "given": "Rafael",
+     "family": "Sacks"
+    },
+    {
+     "given": "Ioannis",
+     "family": "Brilakis"
+    },
+    {
+     "given": "Ergo",
+     "family": "Pikas"
+    },
+    {
+     "given": "Haiyan Sally",
+     "family": "Xie"
+    },
+    {
+     "given": "Mark",
+     "family": "Girolami"
+    }
+   ],
+   "cr_doi": "10.1017/dce.2020.16",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0185": {
+   "query_title": "Digital twin application in the construction industry: A literature review",
+   "query_doi": "10.1016/j.jobe.2021.102726",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.jobe.2021.102726",
+   "cr_title": "Digital twin application in the construction industry: A literature review",
+   "cr_container": "Journal of Building Engineering",
+   "cr_year": 2021,
+   "cr_volume": "40",
+   "cr_issue": null,
+   "cr_page": "102726",
+   "cr_article_number": "102726",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "De-Graft Joe",
+     "family": "Opoku"
+    },
+    {
+     "given": "Srinath",
+     "family": "Perera"
+    },
+    {
+     "given": "Robert",
+     "family": "Osei-Kyei"
+    },
+    {
+     "given": "Maria",
+     "family": "Rashidi"
+    }
+   ],
+   "cr_doi": "10.1016/j.jobe.2021.102726",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0135": {
+   "query_title": "Digital twin-based progress monitoring management model through reality capture to extended reality technologies (DRX)",
+   "query_doi": "10.1108/sasbe-01-2021-0016",
+   "crossref_url": "https://api.crossref.org/works/10.1108/sasbe-01-2021-0016",
+   "cr_title": "Digital twin-based progress monitoring management model through reality capture to extended reality technologies (DRX)",
+   "cr_container": "Smart and Sustainable Built Environment",
+   "cr_year": 2021,
+   "cr_volume": "12",
+   "cr_issue": "1",
+   "cr_page": "200-236",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Emerald",
+   "cr_authors": [
+    {
+     "given": "Sepehr",
+     "family": "Alizadehsalehi"
+    },
+    {
+     "given": "Ibrahim",
+     "family": "Yitmen"
+    }
+   ],
+   "cr_doi": "10.1108/sasbe-01-2021-0016",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2401": {
+   "query_title": "Digital Twins for Construction Sites: Concepts, LoD Definition, and Applications",
+   "query_doi": "10.1061/(asce)me.1943-5479.0000948",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29me.1943-5479.0000948",
+   "cr_title": "Digital Twins for Construction Sites: Concepts, LoD Definition, and Applications",
+   "cr_container": "Journal of Management in Engineering",
+   "cr_year": 2022,
+   "cr_volume": "38",
+   "cr_issue": "2",
+   "cr_page": null,
+   "cr_article_number": "04021094",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Jiaying",
+     "family": "Zhang"
+    },
+    {
+     "given": "Jack C. P.",
+     "family": "Cheng"
+    },
+    {
+     "given": "Weiwei",
+     "family": "Chen"
+    },
+    {
+     "given": "Keyu",
+     "family": "Chen"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)me.1943-5479.0000948",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2397": {
+   "query_title": "Towards next generation cyber-physical systems and digital twins for construction",
+   "query_doi": "10.36680/j.itcon.2021.027",
+   "crossref_url": "https://api.crossref.org/works/10.36680/j.itcon.2021.027",
+   "cr_title": "Towards next generation cyber-physical systems and digital twins for construction",
+   "cr_container": "Journal of Information Technology in Construction",
+   "cr_year": 2021,
+   "cr_volume": "26",
+   "cr_issue": null,
+   "cr_page": "505-525",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "International Council for Research and Innovation in Building and Construction",
+   "cr_authors": [
+    {
+     "given": "Abiola A.",
+     "family": "Akanmu"
+    },
+    {
+     "given": "Chimay J.",
+     "family": "Anumba"
+    },
+    {
+     "given": "Omobolanle O.",
+     "family": "Ogunseiju"
+    }
+   ],
+   "cr_doi": "10.36680/j.itcon.2021.027",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0161": {
+   "query_title": "Technologies for digital twin applications in construction",
+   "query_doi": "10.1016/j.autcon.2023.104931",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2023.104931",
+   "cr_title": "Technologies for digital twin applications in construction",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2023,
+   "cr_volume": "152",
+   "cr_issue": null,
+   "cr_page": "104931",
+   "cr_article_number": "104931",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Valerian Vanessa",
+     "family": "Tuhaise"
+    },
+    {
+     "given": "Joseph Handibry Mbatu",
+     "family": "Tah"
+    },
+    {
+     "given": "Fonbeyin Henry",
+     "family": "Abanda"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2023.104931",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2385": {
+   "query_title": "Digital Twins in the Construction Industry: A Comprehensive Review of Current Implementations, Enabling Technologies, and Future Directions",
+   "query_doi": "10.3390/su151410908",
+   "crossref_url": "https://api.crossref.org/works/10.3390/su151410908",
+   "cr_title": "Digital Twins in the Construction Industry: A Comprehensive Review of Current Implementations, Enabling Technologies, and Future Directions",
+   "cr_container": "Sustainability",
+   "cr_year": 2023,
+   "cr_volume": "15",
+   "cr_issue": "14",
+   "cr_page": "10908",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MDPI AG",
+   "cr_authors": [
+    {
+     "given": "Hossein",
+     "family": "Omrany"
+    },
+    {
+     "given": "Karam M.",
+     "family": "Al-Obaidi"
+    },
+    {
+     "given": "Amreen",
+     "family": "Husain"
+    },
+    {
+     "given": "Amirhosein",
+     "family": "Ghaffarianhoseini"
+    }
+   ],
+   "cr_doi": "10.3390/su151410908",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1939": {
+   "query_title": "Peeking into the void: Digital twins for construction site logistics",
+   "query_doi": "10.1016/j.compind.2020.103264",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.compind.2020.103264",
+   "cr_title": "Peeking into the void: Digital twins for construction site logistics",
+   "cr_container": "Computers in Industry",
+   "cr_year": 2020,
+   "cr_volume": "121",
+   "cr_issue": null,
+   "cr_page": "103264",
+   "cr_article_number": "103264",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Toni",
+     "family": "Greif"
+    },
+    {
+     "given": "Nikolai",
+     "family": "Stein"
+    },
+    {
+     "given": "Christoph M.",
+     "family": "Flath"
+    }
+   ],
+   "cr_doi": "10.1016/j.compind.2020.103264",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0011": {
+   "query_title": "CONSTRUCTION DIGITAL TWIN: A FRAMEWORK FOR A GENERAL CONTRACTOR",
+   "query_doi": "10.5281/zenodo.5705742",
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=CONSTRUCTION+DIGITAL+TWIN%3A+A+FRAMEWORK+FOR+A+GENERAL+CONTRACTOR&rows=3",
+   "note": "DOI not found in Crossref; no reliable Crossref match",
+   "verified_doi": "N",
+   "method": "query.bibliographic",
+   "best_candidate": [
+    "Automation systems and integration. Digital twin framework for manufacturing",
+    "10.3403/30374335u",
+    0.628
+   ]
+  },
+  "R2072": {
+   "query_title": "The Digital Twin of Oil and Gas Pipeline System",
+   "query_doi": "10.1016/j.ifacol.2021.04.162",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.ifacol.2021.04.162",
+   "cr_title": "The Digital Twin of Oil and Gas Pipeline System",
+   "cr_container": "IFAC-PapersOnLine",
+   "cr_year": 2020,
+   "cr_volume": "53",
+   "cr_issue": "5",
+   "cr_page": "710-714",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Li",
+     "family": "Bo"
+    },
+    {
+     "given": "Gai",
+     "family": "Jiannan"
+    },
+    {
+     "given": "Xue",
+     "family": "Xiangdong"
+    }
+   ],
+   "cr_doi": "10.1016/j.ifacol.2021.04.162",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0147": {
+   "query_title": "Extended Reality and Digital Twin in the Oil and Gas Pipeline Industry: A Systematic Review on Applications, Trends, and Future Directions",
+   "query_doi": "10.1109/ismar62088.2024.00086",
+   "crossref_url": "https://api.crossref.org/works/10.1109/ismar62088.2024.00086",
+   "cr_title": "Extended Reality and Digital Twin in the Oil and Gas Pipeline Industry: A Systematic Review on Applications, Trends, and Future Directions",
+   "cr_container": "2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)",
+   "cr_year": 2024,
+   "cr_volume": null,
+   "cr_issue": null,
+   "cr_page": "710-719",
+   "cr_article_number": null,
+   "cr_type": "proceedings-article",
+   "cr_publisher": "IEEE",
+   "cr_authors": [
+    {
+     "given": "Muskan",
+     "family": "Sarvesh"
+    },
+    {
+     "given": "Ryan",
+     "family": "Kang"
+    },
+    {
+     "given": "Hyeongil",
+     "family": "Nam"
+    },
+    {
+     "given": "Simon",
+     "family": "Park"
+    },
+    {
+     "given": "Ron",
+     "family": "Hugo"
+    },
+    {
+     "given": "Frank",
+     "family": "Maurer"
+    },
+    {
+     "given": "Kangsoo",
+     "family": "Kim"
+    }
+   ],
+   "cr_doi": "10.1109/ismar62088.2024.00086",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0190": {
+   "query_title": "Development of an Integrated Management Simulation Model for Pipeline Construction",
+   "query_doi": "10.21608/erj.2025.358280.1199",
+   "crossref_url": "https://api.crossref.org/works/10.21608/erj.2025.358280.1199",
+   "cr_title": "Development of an Integrated Management Simulation Model for Pipeline Construction",
+   "cr_container": "Engineering Research Journal",
+   "cr_year": 2025,
+   "cr_volume": "184",
+   "cr_issue": "4",
+   "cr_page": "341-363",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Egyptian Knowledge Bank",
+   "cr_authors": [
+    {
+     "given": "Abdelhamid Abdullah",
+     "family": "Abdelhamid"
+    },
+    {
+     "given": "Khaled",
+     "family": "Nassar"
+    },
+    {
+     "given": "Alaa",
+     "family": "Mandour"
+    }
+   ],
+   "cr_doi": "10.21608/erj.2025.358280.1199",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0315": {
+   "query_title": "Earthwork Volumetrics with an Unmanned Aerial Vehicle and Softcopy Photogrammetry",
+   "query_doi": "10.1061/(asce)su.1943-5428.0000138",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29su.1943-5428.0000138",
+   "cr_title": "Earthwork Volumetrics with an Unmanned Aerial Vehicle and Softcopy Photogrammetry",
+   "cr_container": "Journal of Surveying Engineering",
+   "cr_year": 2015,
+   "cr_volume": "141",
+   "cr_issue": "1",
+   "cr_page": null,
+   "cr_article_number": "06014003",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Chris H.",
+     "family": "Hugenholtz"
+    },
+    {
+     "given": "Jordan",
+     "family": "Walker"
+    },
+    {
+     "given": "Owen",
+     "family": "Brown"
+    },
+    {
+     "given": "Steve",
+     "family": "Myshak"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)su.1943-5428.0000138",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0014": {
+   "query_title": "Evaluation of UAV- and GNSS-Based DEMs for Earthwork Volume",
+   "query_doi": "10.1007/s13369-017-2811-9",
+   "crossref_url": "https://api.crossref.org/works/10.1007/s13369-017-2811-9",
+   "cr_title": "Evaluation of UAV- and GNSS-Based DEMs for Earthwork Volume",
+   "cr_container": "Arabian Journal for Science and Engineering",
+   "cr_year": 2017,
+   "cr_volume": "43",
+   "cr_issue": "4",
+   "cr_page": "1893-1909",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Springer Science and Business Media LLC",
+   "cr_authors": [
+    {
+     "given": "Mustafa",
+     "family": "Akgul"
+    },
+    {
+     "given": "Huseyin",
+     "family": "Yurtseven"
+    },
+    {
+     "given": "Sercan",
+     "family": "Gulci"
+    },
+    {
+     "given": "Abdullah E.",
+     "family": "Akay"
+    }
+   ],
+   "cr_doi": "10.1007/s13369-017-2811-9",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0325": {
+   "query_title": "Accuracy assessment of RTK-GNSS equipped UAV conducted as-built surveys for construction site modelling",
+   "query_doi": "10.1080/00396265.2020.1830544",
+   "crossref_url": "https://api.crossref.org/works/10.1080/00396265.2020.1830544",
+   "cr_title": "Accuracy assessment of RTK-GNSS equipped UAV conducted as-built surveys for construction site modelling",
+   "cr_container": "Survey Review",
+   "cr_year": 2020,
+   "cr_volume": "53",
+   "cr_issue": "381",
+   "cr_page": "477-492",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Informa UK Limited",
+   "cr_authors": [
+    {
+     "given": "Sander",
+     "family": "Varbla"
+    },
+    {
+     "given": "Raido",
+     "family": "Puust"
+    },
+    {
+     "given": "Artu",
+     "family": "Ellmann"
+    }
+   ],
+   "cr_doi": "10.1080/00396265.2020.1830544",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0359": {
+   "query_title": "Earthwork Volume Calculation, 3D Model Generation, and Comparative Evaluation Using Vertical and High-Oblique Images Acquired by Unmanned Aerial Vehicles",
+   "query_doi": "10.3390/aerospace9100606",
+   "crossref_url": "https://api.crossref.org/works/10.3390/aerospace9100606",
+   "cr_title": "Earthwork Volume Calculation, 3D Model Generation, and Comparative Evaluation Using Vertical and High-Oblique Images Acquired by Unmanned Aerial Vehicles",
+   "cr_container": "Aerospace",
+   "cr_year": 2022,
+   "cr_volume": "9",
+   "cr_issue": "10",
+   "cr_page": "606",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MDPI AG",
+   "cr_authors": [
+    {
+     "given": "Kirim",
+     "family": "Lee"
+    },
+    {
+     "given": "Won Hee",
+     "family": "Lee"
+    }
+   ],
+   "cr_doi": "10.3390/aerospace9100606",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0334": {
+   "query_title": "Unmanned Aerial Vehicle Surveying For Monitoring Road Construction Earthworks",
+   "query_doi": "10.7250/bjrbe.2019-14.430",
+   "crossref_url": "https://api.crossref.org/works/10.7250/bjrbe.2019-14.430",
+   "cr_title": "Unmanned Aerial Vehicle Surveying For Monitoring Road Construction Earthworks",
+   "cr_container": "The Baltic Journal of Road and Bridge Engineering",
+   "cr_year": 2019,
+   "cr_volume": "14",
+   "cr_issue": "1",
+   "cr_page": "1-17",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Riga Technical University",
+   "cr_authors": [
+    {
+     "given": "Kalev",
+     "family": "Julge"
+    },
+    {
+     "given": "Artu",
+     "family": "Ellmann"
+    },
+    {
+     "given": "Romet",
+     "family": "K\u00f6\u00f6k"
+    }
+   ],
+   "cr_doi": "10.7250/bjrbe.2019-14.430",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0026": {
+   "query_title": "Estimating Earthwork Volumes Through Use of Unmanned Aerial Systems",
+   "query_doi": "10.3141/2630-01",
+   "crossref_url": "https://api.crossref.org/works/10.3141/2630-01",
+   "cr_title": "Estimating Earthwork Volumes Through Use of Unmanned Aerial Systems",
+   "cr_container": "Transportation Research Record: Journal of the Transportation Research Board",
+   "cr_year": 2017,
+   "cr_volume": "2630",
+   "cr_issue": "1",
+   "cr_page": "1-8",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "SAGE Publications",
+   "cr_authors": [
+    {
+     "given": "Xi",
+     "family": "Wang"
+    },
+    {
+     "given": "Zamaan",
+     "family": "Al-Shabbani"
+    },
+    {
+     "given": "Roy",
+     "family": "Sturgill"
+    },
+    {
+     "given": "Adam",
+     "family": "Kirk"
+    },
+    {
+     "given": "Gabriel B.",
+     "family": "Dadi"
+    }
+   ],
+   "cr_doi": "10.3141/2630-01",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0347": {
+   "query_title": "EARTHWORK VOLUMETRICS WITH UNMANNED AERIAL VEHICLES: A COMPARATIVE STUDY",
+   "query_doi": "10.47412/klnq8966",
+   "crossref_url": "https://api.crossref.org/works/10.47412/klnq8966",
+   "cr_title": "EARTHWORK VOLUMETRICS WITH UNMANNED AERIAL VEHICLES: A COMPARATIVE STUDY",
+   "cr_container": "Proceedings of the International Conference on Emerging Trends in Engineering &amp; Technology (IConETech-2020)",
+   "cr_year": 2020,
+   "cr_volume": null,
+   "cr_issue": null,
+   "cr_page": "687-697",
+   "cr_article_number": null,
+   "cr_type": "proceedings-article",
+   "cr_publisher": "Faculty of Engineering, The University of the West Indies, St. Augustine",
+   "cr_authors": [
+    {
+     "given": "Raid",
+     "family": "Al-Tahir"
+    },
+    {
+     "given": "Travis",
+     "family": "Barran"
+    }
+   ],
+   "cr_doi": "10.47412/klnq8966",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0327": {
+   "query_title": "Accuracy Evaluation of Earthwork Volume Calculation According to Terrain Model Generation Method using RTK-UAV",
+   "query_doi": "10.7848/ksgpc.2024.42.6.541",
+   "crossref_url": "https://api.crossref.org/works/10.7848/ksgpc.2024.42.6.541",
+   "cr_title": "Accuracy Evaluation of Earthwork Volume Calculation According to Terrain Model Generation Method using RTK-UAV",
+   "cr_container": "Journal of the Korean Society of Surveying, Geodesy, Photogrammetry and Cartography",
+   "cr_year": 2024,
+   "cr_volume": "42",
+   "cr_issue": "6",
+   "cr_page": "541-550",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Korean Society of Surveying, Geodesy, Photogrammetry and Cartolography",
+   "cr_authors": [
+    {
+     "given": "Hyeong Seok",
+     "family": "Kang"
+    },
+    {
+     "given": "Kirim",
+     "family": "Lee"
+    },
+    {
+     "given": "Hyeon Gil",
+     "family": "Shin"
+    },
+    {
+     "given": "Do Hoon",
+     "family": "Kim"
+    },
+    {
+     "given": "Jung Ok",
+     "family": "Kim"
+    },
+    {
+     "given": "Won Hee",
+     "family": "Lee"
+    }
+   ],
+   "cr_doi": "10.7848/ksgpc.2024.42.6.541",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0476": {
+   "query_title": "Geometric Accuracy of 3D Reality Mesh Utilization for BIM-Based Earthwork Quantity Estimation Workflows",
+   "query_doi": "10.3390/ijgi10060399",
+   "crossref_url": "https://api.crossref.org/works/10.3390/ijgi10060399",
+   "cr_title": "Geometric Accuracy of 3D Reality Mesh Utilization for BIM-Based Earthwork Quantity Estimation Workflows",
+   "cr_container": "ISPRS International Journal of Geo-Information",
+   "cr_year": 2021,
+   "cr_volume": "10",
+   "cr_issue": "6",
+   "cr_page": "399",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MDPI AG",
+   "cr_authors": [
+    {
+     "given": "Paulius",
+     "family": "Kavaliauskas"
+    },
+    {
+     "given": "Daumantas",
+     "family": "\u017didanavi\u010dius"
+    },
+    {
+     "given": "Andrius",
+     "family": "Jurelionis"
+    }
+   ],
+   "cr_doi": "10.3390/ijgi10060399",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0319": {
+   "query_title": "Comparative Assessment of Vegetation Removal for DTM Generation and Earthwork Volume Estimation Using RTK-UAV Photogrammetry and LiDAR Mapping",
+   "query_doi": "10.3390/drones10010030",
+   "crossref_url": "https://api.crossref.org/works/10.3390/drones10010030",
+   "cr_title": "Comparative Assessment of Vegetation Removal for DTM Generation and Earthwork Volume Estimation Using RTK-UAV Photogrammetry and LiDAR Mapping",
+   "cr_container": "Drones",
+   "cr_year": 2026,
+   "cr_volume": "10",
+   "cr_issue": "1",
+   "cr_page": "30",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MDPI AG",
+   "cr_authors": [
+    {
+     "given": "Hyeongseok",
+     "family": "Kang"
+    },
+    {
+     "given": "Kourosh",
+     "family": "Khoshelham"
+    },
+    {
+     "given": "Hyeongil",
+     "family": "Shin"
+    },
+    {
+     "given": "Kirim",
+     "family": "Lee"
+    },
+    {
+     "given": "Wonhee",
+     "family": "Lee"
+    }
+   ],
+   "cr_doi": "10.3390/drones10010030",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R3207": {
+   "query_title": "Exploratory Study of Potential Applications of Unmanned Aerial Systems for Construction Management Tasks",
+   "query_doi": "10.1061/(asce)me.1943-5479.0000422",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29me.1943-5479.0000422",
+   "cr_title": "Exploratory Study of Potential Applications of Unmanned Aerial Systems for Construction Management Tasks",
+   "cr_container": "Journal of Management in Engineering",
+   "cr_year": 2016,
+   "cr_volume": "32",
+   "cr_issue": "3",
+   "cr_page": null,
+   "cr_article_number": "05016001",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Javier",
+     "family": "Irizarry"
+    },
+    {
+     "given": "Dayana Bastos",
+     "family": "Costa"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)me.1943-5479.0000422",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R3149": {
+   "query_title": "Applications of multirotor drone technologies in construction management",
+   "query_doi": "10.1080/15623599.2018.1452101",
+   "crossref_url": "https://api.crossref.org/works/10.1080/15623599.2018.1452101",
+   "cr_title": "Applications of multirotor drone technologies in construction management",
+   "cr_container": "International Journal of Construction Management",
+   "cr_year": 2018,
+   "cr_volume": "19",
+   "cr_issue": "5",
+   "cr_page": "401-412",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Informa UK Limited",
+   "cr_authors": [
+    {
+     "given": "Yan",
+     "family": "Li"
+    },
+    {
+     "given": "Chunlu",
+     "family": "Liu"
+    }
+   ],
+   "cr_doi": "10.1080/15623599.2018.1452101",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0017": {
+   "query_title": "Comparative Analysis of Photogrammetry Tools for Monitoring Trench and Pipeline Progress Towards Sustainable Construction",
+   "query_doi": "10.5614/j.eng.technol.sci.2026.58.3.9",
+   "crossref_url": "https://api.crossref.org/works/10.5614/j.eng.technol.sci.2026.58.3.9",
+   "cr_title": "Comparative Analysis of Photogrammetry Tools for Monitoring Trench and Pipeline Progress Towards Sustainable Construction",
+   "cr_container": "Journal of Engineering and Technological Sciences",
+   "cr_year": 2026,
+   "cr_volume": "58",
+   "cr_issue": "3",
+   "cr_page": "442-460",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "The Institute for Research and Community Services (LPPM) ITB",
+   "cr_authors": [
+    {
+     "given": "Muhammad Hassaan Farooq",
+     "family": "Khan"
+    },
+    {
+     "given": "Wesam Salah",
+     "family": "Alaloul"
+    },
+    {
+     "given": "Muhammad Ali",
+     "family": "Musarat"
+    },
+    {
+     "given": "Abdul Mateen",
+     "family": "Khan"
+    },
+    {
+     "given": "Socheatra",
+     "family": "Soeung"
+    }
+   ],
+   "cr_doi": "10.5614/j.eng.technol.sci.2026.58.3.9",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0100": {
+   "query_title": "A Comparison of Remote Sensing Techniques for Centreline and Weld Mapping in Place of Manual Survey in Hazardous Environments",
+   "query_doi": "10.1115/ipc2020-9730",
+   "crossref_url": "https://api.crossref.org/works/10.1115/ipc2020-9730",
+   "cr_title": "A Comparison of Remote Sensing Techniques for Centreline and Weld Mapping in Place of Manual Survey in Hazardous Environments",
+   "cr_container": "Volume 2: Pipeline Safety Management Systems; Project Management, Design, Construction, and Environmental Issues; Strain Based Design; Risk and Reliability; Northern, Offshore, and Production Pipelines",
+   "cr_year": 2020,
+   "cr_volume": null,
+   "cr_issue": null,
+   "cr_page": null,
+   "cr_article_number": "V002T02A003",
+   "cr_type": "proceedings-article",
+   "cr_publisher": "American Society of Mechanical Engineers",
+   "cr_authors": [
+    {
+     "given": "Joseph",
+     "family": "Hlady"
+    },
+    {
+     "given": "Dana",
+     "family": "Sands"
+    },
+    {
+     "given": "Lance",
+     "family": "Fugate"
+    }
+   ],
+   "cr_doi": "10.1115/ipc2020-9730",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2159": {
+   "query_title": "ECF-YOLO: Real-Time Excavator Detector for UAV Surveillance in Natural Gas Pipeline Construction",
+   "query_doi": "10.1109/jsen.2026.3690070",
+   "crossref_url": "https://api.crossref.org/works/10.1109/jsen.2026.3690070",
+   "cr_title": "ECF-YOLO: Real-Time Excavator Detector for UAV Surveillance in Natural Gas Pipeline Construction",
+   "cr_container": "IEEE Sensors Journal",
+   "cr_year": 2026,
+   "cr_volume": "26",
+   "cr_issue": "12",
+   "cr_page": "18757-18768",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "cr_authors": [
+    {
+     "given": "Yicheng",
+     "family": "Yu"
+    },
+    {
+     "given": "Ping",
+     "family": "Wu"
+    },
+    {
+     "given": "Xin",
+     "family": "Fan"
+    },
+    {
+     "given": "Guojun",
+     "family": "He"
+    },
+    {
+     "given": "Hongping",
+     "family": "Yan"
+    },
+    {
+     "given": "Jinfeng",
+     "family": "Gao"
+    }
+   ],
+   "cr_doi": "10.1109/jsen.2026.3690070",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0083": {
+   "query_title": "An automated workflow based on UAV imagery and Deep Learning methods for monitoring excavation area work",
+   "query_doi": "10.1177/10692509251340464",
+   "crossref_url": "https://api.crossref.org/works/10.1177/10692509251340464",
+   "cr_title": "An automated workflow based on UAV imagery and Deep Learning methods for monitoring excavation area work",
+   "cr_container": "Integrated Computer-Aided Engineering",
+   "cr_year": 2025,
+   "cr_volume": "32",
+   "cr_issue": "3",
+   "cr_page": "272-291",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "SAGE Publications",
+   "cr_authors": [
+    {
+     "given": "Riccardo",
+     "family": "Rosati"
+    },
+    {
+     "given": "Matteo",
+     "family": "Fabiani"
+    },
+    {
+     "given": "Roberto",
+     "family": "Pierdicca"
+    },
+    {
+     "given": "Adriano",
+     "family": "Mancini"
+    }
+   ],
+   "cr_doi": "10.1177/10692509251340464",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R3119": {
+   "query_title": "Mobile 3D mapping for surveying earthwork projects using an Unmanned Aerial Vehicle (UAV) system",
+   "query_doi": "10.1016/j.autcon.2014.01.004",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2014.01.004",
+   "cr_title": "Mobile 3D mapping for surveying earthwork projects using an Unmanned Aerial Vehicle (UAV) system",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2014,
+   "cr_volume": "41",
+   "cr_issue": null,
+   "cr_page": "1-14",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Sebastian",
+     "family": "Siebert"
+    },
+    {
+     "given": "Jochen",
+     "family": "Teizer"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2014.01.004",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2086": {
+   "query_title": "UAVs in pipeline design and rehabilitation of construction corridors",
+   "query_doi": null,
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=UAVs+in+pipeline+design+and+rehabilitation+of+construction+corridors&rows=3",
+   "verified_doi": "N",
+   "method": "query.bibliographic",
+   "best_candidate": [
+    "Pipeline Rehabilitation Construction Organization Design",
+    "10.1007/978-981-33-4984-1_4",
+    0.677
+   ],
+   "note": "no reliable Crossref match"
+  },
+  "R0532": {
+   "query_title": "3D Point Cloud to BIM: Semi-Automated Framework to Define IFC Alignment Entities from MLS-Acquired LiDAR Data of Highway Roads",
+   "query_doi": "10.3390/rs12142301",
+   "crossref_url": "https://api.crossref.org/works/10.3390/rs12142301",
+   "cr_title": "3D Point Cloud to BIM: Semi-Automated Framework to Define IFC Alignment Entities from MLS-Acquired LiDAR Data of Highway Roads",
+   "cr_container": "Remote Sensing",
+   "cr_year": 2020,
+   "cr_volume": "12",
+   "cr_issue": "14",
+   "cr_page": "2301",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MDPI AG",
+   "cr_authors": [
+    {
+     "given": "Mario",
+     "family": "Soil\u00e1n"
+    },
+    {
+     "given": "Andr\u00e9s",
+     "family": "Justo"
+    },
+    {
+     "given": "Ana",
+     "family": "S\u00e1nchez-Rodr\u00edguez"
+    },
+    {
+     "given": "Bel\u00e9n",
+     "family": "Riveiro"
+    }
+   ],
+   "cr_doi": "10.3390/rs12142301",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0605": {
+   "query_title": "IFCALIGNMENT FOR RASTER-TO-VECTOR GIS RAILWAY CENTRELINE: A CASE STUDY IN THE SOUTH OF ITALY",
+   "query_doi": "10.5194/isprs-archives-xliii-b4-2022-39-2022",
+   "crossref_url": "https://api.crossref.org/works/10.5194/isprs-archives-xliii-b4-2022-39-2022",
+   "cr_title": "<i>IFCALIGNMENT</i>\n                    FOR RASTER-TO-VECTOR GIS RAILWAY CENTRELINE: A CASE STUDY IN THE SOUTH OF ITALY",
+   "cr_container": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+   "cr_year": 2022,
+   "cr_volume": "XLIII-B4-2022",
+   "cr_issue": null,
+   "cr_page": "39-45",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Copernicus GmbH",
+   "cr_authors": [
+    {
+     "given": "M.",
+     "family": "Garramone"
+    },
+    {
+     "given": "M.",
+     "family": "Scaioni"
+    }
+   ],
+   "cr_doi": "10.5194/isprs-archives-xliii-b4-2022-39-2022",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2525": {
+   "query_title": "Georeferencing Methods for IFC",
+   "query_doi": "10.1109/bgc-geomatics.2018.00045",
+   "crossref_url": "https://api.crossref.org/works/10.1109/bgc-geomatics.2018.00045",
+   "cr_title": "Georeferencing Methods for IFC",
+   "cr_container": "2018 Baltic Geodetic Congress (BGC Geomatics)",
+   "cr_year": 2018,
+   "cr_volume": null,
+   "cr_issue": null,
+   "cr_page": "207-211",
+   "cr_article_number": null,
+   "cr_type": "proceedings-article",
+   "cr_publisher": "IEEE",
+   "cr_authors": [
+    {
+     "given": "Gustaf",
+     "family": "Uggla"
+    },
+    {
+     "given": "Milan",
+     "family": "Horemuz"
+    }
+   ],
+   "cr_doi": "10.1109/bgc-geomatics.2018.00045",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0535": {
+   "query_title": "Deployment of GIS + BIM in the construction of Pan Borneo Highway Sarawak, Malaysia",
+   "query_doi": "10.1088/1757-899x/512/1/012037",
+   "crossref_url": "https://api.crossref.org/works/10.1088/1757-899x/512/1/012037",
+   "cr_title": "Deployment of GIS + BIM in the construction of Pan Borneo Highway Sarawak, Malaysia",
+   "cr_container": "IOP Conference Series: Materials Science and Engineering",
+   "cr_year": 2019,
+   "cr_volume": "512",
+   "cr_issue": null,
+   "cr_page": "012037",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "IOP Publishing",
+   "cr_authors": [
+    {
+     "given": "Zohari",
+     "family": "Akob"
+    },
+    {
+     "given": "Mohd Zaidee",
+     "family": "Abang Hipni"
+    },
+    {
+     "given": "Awang Abdullah Awang",
+     "family": "Abd Razak"
+    }
+   ],
+   "cr_doi": "10.1088/1757-899x/512/1/012037",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0513": {
+   "query_title": "Highway Alignment Optimization: An Integrated BIM and GIS Approach",
+   "query_doi": "10.3390/ijgi8040172",
+   "crossref_url": "https://api.crossref.org/works/10.3390/ijgi8040172",
+   "cr_title": "Highway Alignment Optimization: An Integrated BIM and GIS Approach",
+   "cr_container": "ISPRS International Journal of Geo-Information",
+   "cr_year": 2019,
+   "cr_volume": "8",
+   "cr_issue": "4",
+   "cr_page": "172",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MDPI AG",
+   "cr_authors": [
+    {
+     "given": "Linlin",
+     "family": "Zhao"
+    },
+    {
+     "given": "Zhansheng",
+     "family": "Liu"
+    },
+    {
+     "given": "Jasper",
+     "family": "Mbachu"
+    }
+   ],
+   "cr_doi": "10.3390/ijgi8040172",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0574": {
+   "query_title": "Bridging Geo-Data and Natural Gas Pipeline Design Standards: A Systematic Review of BIM-GIS Integration for Natural Gas Pipeline Asset Management",
+   "query_doi": "10.3390/en17102306",
+   "crossref_url": "https://api.crossref.org/works/10.3390/en17102306",
+   "cr_title": "Bridging Geo-Data and Natural Gas Pipeline Design Standards: A Systematic Review of BIM-GIS Integration for Natural Gas Pipeline Asset Management",
+   "cr_container": "Energies",
+   "cr_year": 2024,
+   "cr_volume": "17",
+   "cr_issue": "10",
+   "cr_page": "2306",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MDPI AG",
+   "cr_authors": [
+    {
+     "given": "Selcuk",
+     "family": "Demir"
+    },
+    {
+     "given": "Tahsin",
+     "family": "Yomralioglu"
+    }
+   ],
+   "cr_doi": "10.3390/en17102306",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2191": {
+   "query_title": "Use of GIS for Quantification of Variations in Production Rates along Pipeline Length",
+   "query_doi": "10.1061/jpsea2.pseng-1969",
+   "crossref_url": "https://api.crossref.org/works/10.1061/jpsea2.pseng-1969",
+   "cr_title": "Use of GIS for Quantification of Variations in Production Rates along Pipeline Length",
+   "cr_container": "Journal of Pipeline Systems Engineering and Practice",
+   "cr_year": 2026,
+   "cr_volume": "17",
+   "cr_issue": "3",
+   "cr_page": null,
+   "cr_article_number": "04026024",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Aman",
+     "family": "Chauhan"
+    },
+    {
+     "given": "V. K.",
+     "family": "Bansal"
+    }
+   ],
+   "cr_doi": "10.1061/jpsea2.pseng-1969",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2048": {
+   "query_title": "Geospatial mapping for optimizing Right-Of-Way (ROW) acquisition in gas pipeline construction",
+   "query_doi": "10.4314/swj.v20i2.13",
+   "crossref_url": "https://api.crossref.org/works/10.4314/swj.v20i2.13",
+   "cr_title": "Geospatial mapping for optimizing Right-Of-Way (ROW) acquisition in gas pipeline construction",
+   "cr_container": "Science World Journal",
+   "cr_year": 2025,
+   "cr_volume": "20",
+   "cr_issue": "2",
+   "cr_page": "532-543",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "African Journals Online (AJOL)",
+   "cr_authors": [
+    {
+     "given": "Barnabas O.",
+     "family": "Morakinyo"
+    },
+    {
+     "given": "Kehinde A.",
+     "family": "Sunmonu"
+    }
+   ],
+   "cr_doi": "10.4314/swj.v20i2.13",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2110": {
+   "query_title": "Application of ArcGIS Pipeline Data Model and GIS in Digital Oil and Gas Pipeline",
+   "query_doi": "10.1109/geoinformatics.2010.5567619",
+   "crossref_url": "https://api.crossref.org/works/10.1109/geoinformatics.2010.5567619",
+   "cr_title": "Application of ArcGIS Pipeline Data Model and GIS in Digital Oil and Gas Pipeline",
+   "cr_container": "2010 18th International Conference on Geoinformatics",
+   "cr_year": 2010,
+   "cr_volume": null,
+   "cr_issue": null,
+   "cr_page": "1-5",
+   "cr_article_number": null,
+   "cr_type": "proceedings-article",
+   "cr_publisher": "IEEE",
+   "cr_authors": [
+    {
+     "given": "Zhenpei",
+     "family": "Li"
+    },
+    {
+     "given": "Ping",
+     "family": "Li"
+    },
+    {
+     "given": "Ming",
+     "family": "Wu"
+    },
+    {
+     "given": "Weiqiang",
+     "family": "Wang"
+    }
+   ],
+   "cr_doi": "10.1109/geoinformatics.2010.5567619",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R3376": {
+   "query_title": "Data acquisition technologies for construction progress tracking",
+   "query_doi": "10.1016/j.autcon.2016.06.016",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2016.06.016",
+   "cr_title": "Data acquisition technologies for construction progress tracking",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2016,
+   "cr_volume": "70",
+   "cr_issue": null,
+   "cr_page": "143-155",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Tarek",
+     "family": "Omar"
+    },
+    {
+     "given": "Moncef L.",
+     "family": "Nehdi"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2016.06.016",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R3262": {
+   "query_title": "Construction equipment activity recognition for simulation input modeling using mobile sensors and machine learning classifiers",
+   "query_doi": "10.1016/j.aei.2015.03.001",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.aei.2015.03.001",
+   "cr_title": "Construction equipment activity recognition for simulation input modeling using mobile sensors and machine learning classifiers",
+   "cr_container": "Advanced Engineering Informatics",
+   "cr_year": 2015,
+   "cr_volume": "29",
+   "cr_issue": "4",
+   "cr_page": "867-877",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Reza",
+     "family": "Akhavian"
+    },
+    {
+     "given": "Amir H.",
+     "family": "Behzadan"
+    }
+   ],
+   "cr_doi": "10.1016/j.aei.2015.03.001",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R3263": {
+   "query_title": "Status quo and open challenges in vision-based sensing and tracking of temporary resources on infrastructure construction sites",
+   "query_doi": "10.1016/j.aei.2015.03.006",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.aei.2015.03.006",
+   "cr_title": "Status quo and open challenges in vision-based sensing and tracking of temporary resources on infrastructure construction sites",
+   "cr_container": "Advanced Engineering Informatics",
+   "cr_year": 2015,
+   "cr_volume": "29",
+   "cr_issue": "2",
+   "cr_page": "225-238",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Jochen",
+     "family": "Teizer"
+    }
+   ],
+   "cr_doi": "10.1016/j.aei.2015.03.006",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0716": {
+   "query_title": "Automatic spatio-temporal analysis of construction site equipment operations using GPS data",
+   "query_doi": "10.1016/j.autcon.2012.09.004",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2012.09.004",
+   "cr_title": "Automatic spatio-temporal analysis of construction site equipment operations using GPS data",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2013,
+   "cr_volume": "29",
+   "cr_issue": null,
+   "cr_page": "107-122",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Nipesh",
+     "family": "Pradhananga"
+    },
+    {
+     "given": "Jochen",
+     "family": "Teizer"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2012.09.004",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0702": {
+   "query_title": "Automated Methods for Activity Recognition of Construction Workers and Equipment: State-of-the-Art Review",
+   "query_doi": "10.1061/(asce)co.1943-7862.0001843",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29co.1943-7862.0001843",
+   "cr_title": "Automated Methods for Activity Recognition of Construction Workers and Equipment: State-of-the-Art Review",
+   "cr_container": "Journal of Construction Engineering and Management",
+   "cr_year": 2020,
+   "cr_volume": "146",
+   "cr_issue": "6",
+   "cr_page": null,
+   "cr_article_number": "03120002",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Behnam",
+     "family": "Sherafat"
+    },
+    {
+     "given": "Changbum R.",
+     "family": "Ahn"
+    },
+    {
+     "given": "Reza",
+     "family": "Akhavian"
+    },
+    {
+     "given": "Amir H.",
+     "family": "Behzadan"
+    },
+    {
+     "given": "Mani",
+     "family": "Golparvar-Fard"
+    },
+    {
+     "given": "Hyunsoo",
+     "family": "Kim"
+    },
+    {
+     "given": "Yong-Cheol",
+     "family": "Lee"
+    },
+    {
+     "given": "Abbas",
+     "family": "Rashidi"
+    },
+    {
+     "given": "Ehsan Rezazadeh",
+     "family": "Azar"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)co.1943-7862.0001843",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0704": {
+   "query_title": "Automated excavators activity recognition and productivity analysis from construction site surveillance videos",
+   "query_doi": "10.1016/j.autcon.2019.103045",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2019.103045",
+   "cr_title": "Automated excavators activity recognition and productivity analysis from construction site surveillance videos",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2020,
+   "cr_volume": "110",
+   "cr_issue": null,
+   "cr_page": "103045",
+   "cr_article_number": "103045",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Chen",
+     "family": "Chen"
+    },
+    {
+     "given": "Zhenhua",
+     "family": "Zhu"
+    },
+    {
+     "given": "Amin",
+     "family": "Hammad"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2019.103045",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0832": {
+   "query_title": "Times-series data augmentation and deep learning for construction equipment activity recognition",
+   "query_doi": "10.1016/j.aei.2019.100944",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.aei.2019.100944",
+   "cr_title": "Times-series data augmentation and deep learning for construction equipment activity recognition",
+   "cr_container": "Advanced Engineering Informatics",
+   "cr_year": 2019,
+   "cr_volume": "42",
+   "cr_issue": null,
+   "cr_page": "100944",
+   "cr_article_number": "100944",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Khandakar M.",
+     "family": "Rashid"
+    },
+    {
+     "given": "Joseph",
+     "family": "Louis"
+    }
+   ],
+   "cr_doi": "10.1016/j.aei.2019.100944",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0815": {
+   "query_title": "Differential received signal strength based RFID positioning for construction equipment tracking",
+   "query_doi": "10.1016/j.aei.2019.100960",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.aei.2019.100960",
+   "cr_title": "Differential received signal strength based RFID positioning for construction equipment tracking",
+   "cr_container": "Advanced Engineering Informatics",
+   "cr_year": 2019,
+   "cr_volume": "42",
+   "cr_issue": null,
+   "cr_page": "100960",
+   "cr_article_number": "100960",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Changzhi",
+     "family": "Wu"
+    },
+    {
+     "given": "Xiangyu",
+     "family": "Wang"
+    },
+    {
+     "given": "Mengcheng",
+     "family": "Chen"
+    },
+    {
+     "given": "Mi Jeong",
+     "family": "Kim"
+    }
+   ],
+   "cr_doi": "10.1016/j.aei.2019.100960",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2562": {
+   "query_title": "Application of WiFi-based indoor positioning system for labor tracking at construction sites: A case study in Guangzhou MTR",
+   "query_doi": "10.1016/j.autcon.2010.07.009",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2010.07.009",
+   "cr_title": "Application of WiFi-based indoor positioning system for labor tracking at construction sites: A case study in Guangzhou MTR",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2011,
+   "cr_volume": "20",
+   "cr_issue": "1",
+   "cr_page": "3-13",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Sunkyu",
+     "family": "Woo"
+    },
+    {
+     "given": "Seongsu",
+     "family": "Jeong"
+    },
+    {
+     "given": "Esmond",
+     "family": "Mok"
+    },
+    {
+     "given": "Linyuan",
+     "family": "Xia"
+    },
+    {
+     "given": "Changsu",
+     "family": "Choi"
+    },
+    {
+     "given": "Muwook",
+     "family": "Pyeon"
+    },
+    {
+     "given": "Joon",
+     "family": "Heo"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2010.07.009",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0859": {
+   "query_title": "RFID and BIM-enabled worker location tracking to support real-time building protocol and data visualization",
+   "query_doi": null,
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=RFID+and+BIM-enabled+worker+location+tracking+to+support+real-time+building+protocol+and+data+visualization&rows=3",
+   "verified_doi": "N",
+   "method": "query.bibliographic",
+   "best_candidate": [
+    "Real-Time Resource Location Tracking in Building Information Models (BIM)",
+    "10.1007/978-3-642-32609-7_5",
+    0.483
+   ],
+   "note": "no reliable Crossref match"
+  },
+  "R0817": {
+   "query_title": "Field validation of beacon-based indoor tracking and localization system for construction workers",
+   "query_doi": "10.1016/j.kscej.2024.100017",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.kscej.2024.100017",
+   "cr_title": "Field validation of beacon-based indoor tracking and localization system for construction workers",
+   "cr_container": "KSCE Journal of Civil Engineering",
+   "cr_year": 2025,
+   "cr_volume": "29",
+   "cr_issue": "2",
+   "cr_page": "100017",
+   "cr_article_number": "100017",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Yue",
+     "family": "Gong"
+    },
+    {
+     "given": "JoonOh",
+     "family": "Seo"
+    },
+    {
+     "given": "Tae Wan",
+     "family": "Kim"
+    },
+    {
+     "given": "Seungjun",
+     "family": "Ahn"
+    },
+    {
+     "given": "Yanfang",
+     "family": "Luo"
+    }
+   ],
+   "cr_doi": "10.1016/j.kscej.2024.100017",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2670": {
+   "query_title": "Integrated detection and tracking of workforce and equipment from construction jobsite videos",
+   "query_doi": "10.1016/j.autcon.2017.05.005",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2017.05.005",
+   "cr_title": "Integrated detection and tracking of workforce and equipment from construction jobsite videos",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2017,
+   "cr_volume": "81",
+   "cr_issue": null,
+   "cr_page": "161-171",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Zhenhua",
+     "family": "Zhu"
+    },
+    {
+     "given": "Xiaoning",
+     "family": "Ren"
+    },
+    {
+     "given": "Zhi",
+     "family": "Chen"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2017.05.005",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0807": {
+   "query_title": "Utilization analysis methodology for fleet telematics of heavy earthwork equipment",
+   "query_doi": "10.1016/j.autcon.2018.02.035",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2018.02.035",
+   "cr_title": "Utilization analysis methodology for fleet telematics of heavy earthwork equipment",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2018,
+   "cr_volume": "92",
+   "cr_issue": null,
+   "cr_page": "59-67",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Seung Soo",
+     "family": "Lee"
+    },
+    {
+     "given": "Sang-il",
+     "family": "Park"
+    },
+    {
+     "given": "Jongwon",
+     "family": "Seo"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2018.02.035",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0736": {
+   "query_title": "What drives construction workers' acceptance of wearable technologies in the workplace?: Indoor localization and wearable health devices for occupational safety and health",
+   "query_doi": "10.1016/j.autcon.2017.08.005",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2017.08.005",
+   "cr_title": "What drives construction workers' acceptance of wearable technologies in the workplace?: Indoor localization and wearable health devices for occupational safety and health",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2017,
+   "cr_volume": "84",
+   "cr_issue": null,
+   "cr_page": "31-41",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Byungjoo",
+     "family": "Choi"
+    },
+    {
+     "given": "Sungjoo",
+     "family": "Hwang"
+    },
+    {
+     "given": "SangHyun",
+     "family": "Lee"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2017.08.005",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0773": {
+   "query_title": "Quantitative analysis of construction labor acceptance of wearable sensing devices to enhance workers' safety",
+   "query_doi": "10.1016/j.rineng.2022.100841",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.rineng.2022.100841",
+   "cr_title": "Quantitative analysis of construction labor acceptance of wearable sensing devices to enhance workers' safety",
+   "cr_container": "Results in Engineering",
+   "cr_year": 2023,
+   "cr_volume": "17",
+   "cr_issue": null,
+   "cr_page": "100841",
+   "cr_article_number": "100841",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Harrison",
+     "family": "Fugate"
+    },
+    {
+     "given": "Hani",
+     "family": "Alzraiee"
+    }
+   ],
+   "cr_doi": "10.1016/j.rineng.2022.100841",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0996": {
+   "query_title": "Real-time Employee Monitoring Technologies in the Construction Sector \u2013 Effect, Readiness and Theoretical Perspectives: The case of New Zealand",
+   "query_doi": "10.1088/1755-1315/1101/8/082010",
+   "crossref_url": "https://api.crossref.org/works/10.1088/1755-1315/1101/8/082010",
+   "cr_title": "Real-time Employee Monitoring Technologies in the Construction Sector \u2013 Effect, Readiness and Theoretical Perspectives: The case of New Zealand",
+   "cr_container": "IOP Conference Series: Earth and Environmental Science",
+   "cr_year": 2022,
+   "cr_volume": "1101",
+   "cr_issue": "8",
+   "cr_page": "082010",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "IOP Publishing",
+   "cr_authors": [
+    {
+     "given": "R W",
+     "family": "Wu"
+    },
+    {
+     "given": "T W",
+     "family": "Yiu"
+    },
+    {
+     "given": "M B",
+     "family": "Jelodar"
+    }
+   ],
+   "cr_doi": "10.1088/1755-1315/1101/8/082010",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0699": {
+   "query_title": "IoT-based safety monitoring from the perspective of construction site workers",
+   "query_doi": "10.24840/2184-0954_004.001_0001",
+   "crossref_url": "https://api.crossref.org/works/10.24840/2184-0954_004.001_0001",
+   "cr_title": "IoT-based safety monitoring from the perspective of construction site workers",
+   "cr_container": "International Journal of Occupational and Environmental Safety",
+   "cr_year": 2020,
+   "cr_volume": "4",
+   "cr_issue": "1",
+   "cr_page": "1-14",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "University of Porto",
+   "cr_authors": [
+    {
+     "given": "Juha",
+     "family": "H\u00e4iki\u00f6"
+    },
+    {
+     "given": "Johanna",
+     "family": "Kallio"
+    },
+    {
+     "given": "Satu-Marja",
+     "family": "M\u00e4kel\u00e4"
+    },
+    {
+     "given": "Janne",
+     "family": "Ker\u00e4nen"
+    }
+   ],
+   "cr_doi": "10.24840/2184-0954_004.001_0001",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2969": {
+   "query_title": "Corporate digital responsibility (CDR) in construction engineering\u2014ethical guidelines for the application of digital transformation and artificial intelligence (AI) in user practice",
+   "query_doi": "10.1007/s42452-021-04776-1",
+   "crossref_url": "https://api.crossref.org/works/10.1007/s42452-021-04776-1",
+   "cr_title": "Corporate digital responsibility (CDR) in construction engineering\u2014ethical guidelines for the application of digital transformation and artificial intelligence (AI) in user practice",
+   "cr_container": "SN Applied Sciences",
+   "cr_year": 2021,
+   "cr_volume": "3",
+   "cr_issue": "10",
+   "cr_page": null,
+   "cr_article_number": "801",
+   "cr_type": "journal-article",
+   "cr_publisher": "Springer Science and Business Media LLC",
+   "cr_authors": [
+    {
+     "given": "Bianca",
+     "family": "Weber-Lewerenz"
+    }
+   ],
+   "cr_doi": "10.1007/s42452-021-04776-1",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0904": {
+   "query_title": "Are you Ready to be Monitored at Construction Sites? A State-of-the-Art Review of Real-Time Employee Monitoring Technologies Adoption from Legal, Ethical and Behavioural Perspectives",
+   "query_doi": "10.15866/irea.v11i6.23881",
+   "crossref_url": "https://api.crossref.org/works/10.15866/irea.v11i6.23881",
+   "cr_title": "Are you Ready to be Monitored at Construction Sites? A State-of-the-Art Review of Real-Time Employee Monitoring Technologies Adoption from Legal, Ethical and Behavioural Perspectives",
+   "cr_container": "International Journal on Engineering Applications (IREA)",
+   "cr_year": 2023,
+   "cr_volume": "11",
+   "cr_issue": "6",
+   "cr_page": "425",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Praise Worthy Prize",
+   "cr_authors": [
+    {
+     "given": "Raymond",
+     "family": "Wu"
+    },
+    {
+     "given": "Tak Wing",
+     "family": "Yiu"
+    },
+    {
+     "given": "Mostafa Babaeian",
+     "family": "Jelodar"
+    }
+   ],
+   "cr_doi": "10.15866/irea.v11i6.23881",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0921": {
+   "query_title": "Evaluation of Construction Worker Perceptions of Wearable Proximity Sensors during the COVID-19 Pandemic",
+   "query_doi": "10.1061/jcemd4.coeng-15350",
+   "crossref_url": "https://api.crossref.org/works/10.1061/jcemd4.coeng-15350",
+   "cr_title": "Evaluation of Construction Worker Perceptions of Wearable Proximity Sensors during the COVID-19 Pandemic",
+   "cr_container": "Journal of Construction Engineering and Management",
+   "cr_year": 2025,
+   "cr_volume": "151",
+   "cr_issue": "3",
+   "cr_page": null,
+   "cr_article_number": "04024217",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Xiaoying",
+     "family": "Yang"
+    },
+    {
+     "given": "William",
+     "family": "Jefferson"
+    },
+    {
+     "given": "Tanyel",
+     "family": "Bulbul"
+    }
+   ],
+   "cr_doi": "10.1061/jcemd4.coeng-15350",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1216": {
+   "query_title": "Multi-camera vision-based productivity monitoring of earthmoving operations",
+   "query_doi": "10.1016/j.autcon.2020.103121",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2020.103121",
+   "cr_title": "Multi-camera vision-based productivity monitoring of earthmoving operations",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2020,
+   "cr_volume": "112",
+   "cr_issue": null,
+   "cr_page": "103121",
+   "cr_article_number": "103121",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Jinwoo",
+     "family": "Kim"
+    },
+    {
+     "given": "Seokho",
+     "family": "Chi"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2020.103121",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1086": {
+   "query_title": "Critical Review and Road Map of Automated Methods for Earthmoving Equipment Productivity Monitoring",
+   "query_doi": "10.1061/(asce)cp.1943-5487.0001017",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29cp.1943-5487.0001017",
+   "cr_title": "Critical Review and Road Map of Automated Methods for Earthmoving Equipment Productivity Monitoring",
+   "cr_container": "Journal of Computing in Civil Engineering",
+   "cr_year": 2022,
+   "cr_volume": "36",
+   "cr_issue": "3",
+   "cr_page": null,
+   "cr_article_number": "03122001",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Chen",
+     "family": "Chen"
+    },
+    {
+     "given": "Zhenhua",
+     "family": "Zhu"
+    },
+    {
+     "given": "Amin",
+     "family": "Hammad"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)cp.1943-5487.0001017",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1082": {
+   "query_title": "Highway Construction Productivity Measurement with a Wireless Real-Time Productivity Measurement System",
+   "query_doi": "10.3141/2228-04",
+   "crossref_url": "https://api.crossref.org/works/10.3141/2228-04",
+   "cr_title": "Highway Construction Productivity Measurement with a Wireless Real-Time Productivity Measurement System",
+   "cr_container": "Transportation Research Record: Journal of the Transportation Research Board",
+   "cr_year": 2011,
+   "cr_volume": "2228",
+   "cr_issue": "1",
+   "cr_page": "26-33",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "SAGE Publications",
+   "cr_authors": [
+    {
+     "given": "Seonghoon",
+     "family": "Kim"
+    },
+    {
+     "given": "Yong",
+     "family": "Bai"
+    },
+    {
+     "given": "Yang-Ki",
+     "family": "Jung"
+    },
+    {
+     "given": "Dukgeun",
+     "family": "Yun"
+    }
+   ],
+   "cr_doi": "10.3141/2228-04",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1197": {
+   "query_title": "Automated Productivity Measurement Model of Two-dimensional Earthmoving-equipment Operations",
+   "query_doi": "10.7492/ijaec.2012.018",
+   "crossref_url": "https://api.crossref.org/works/10.7492/ijaec.2012.018",
+   "cr_title": "Automated Productivity Measurement Model of Two-dimensional Earthmoving-equipment Operations",
+   "cr_container": "International Journal of Architecture, Engineering and Construction",
+   "cr_year": 2012,
+   "cr_volume": "1",
+   "cr_issue": "3",
+   "cr_page": "163-173",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "International Association for Sustainable Development and Management",
+   "cr_authors": [
+    {
+     "given": "Ronie",
+     "family": "Navon"
+    },
+    {
+     "given": "Simon",
+     "family": "Khoury"
+    },
+    {
+     "given": "Yerach",
+     "family": "Doytsher"
+    }
+   ],
+   "cr_doi": "10.7492/ijaec.2012.018",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1104": {
+   "query_title": "Toward Automated Earned Value Tracking Using 3D Imaging Tools",
+   "query_doi": "10.1061/(asce)co.1943-7862.0000629",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29co.1943-7862.0000629",
+   "cr_title": "Toward Automated Earned Value Tracking Using 3D Imaging Tools",
+   "cr_container": "Journal of Construction Engineering and Management",
+   "cr_year": 2013,
+   "cr_volume": "139",
+   "cr_issue": "4",
+   "cr_page": "423-433",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Yelda",
+     "family": "Turkan"
+    },
+    {
+     "given": "Fr\u00e9d\u00e9ric",
+     "family": "Bosch\u00e9"
+    },
+    {
+     "given": "Carl T.",
+     "family": "Haas"
+    },
+    {
+     "given": "Ralph",
+     "family": "Haas"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)co.1943-7862.0000629",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1240": {
+   "query_title": "Data Fusion Process Management for Automated Construction Progress Estimation",
+   "query_doi": "10.1061/(asce)cp.1943-5487.0000436",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29cp.1943-5487.0000436",
+   "cr_title": "Data Fusion Process Management for Automated Construction Progress Estimation",
+   "cr_container": "Journal of Computing in Civil Engineering",
+   "cr_year": 2015,
+   "cr_volume": "29",
+   "cr_issue": "6",
+   "cr_page": null,
+   "cr_article_number": "04014098",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Arash",
+     "family": "Shahi"
+    },
+    {
+     "given": "Mahdi",
+     "family": "Safa"
+    },
+    {
+     "given": "Carl T.",
+     "family": "Haas"
+    },
+    {
+     "given": "Jeffrey S.",
+     "family": "West"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)cp.1943-5487.0000436",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1084": {
+   "query_title": "Productivity monitoring in building construction projects: a systematic review",
+   "query_doi": "10.1108/ecam-03-2021-0211",
+   "crossref_url": "https://api.crossref.org/works/10.1108/ecam-03-2021-0211",
+   "cr_title": "Productivity monitoring in building construction projects: a systematic review",
+   "cr_container": "Engineering, Construction and Architectural Management",
+   "cr_year": 2021,
+   "cr_volume": "29",
+   "cr_issue": "7",
+   "cr_page": "2760-2785",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Emerald",
+   "cr_authors": [
+    {
+     "given": "Wesam Salah",
+     "family": "Alaloul"
+    },
+    {
+     "given": "Khalid M.",
+     "family": "Alzubi"
+    },
+    {
+     "given": "Ahmad B.",
+     "family": "Malkawi"
+    },
+    {
+     "given": "Marsail",
+     "family": "Al Salaheen"
+    },
+    {
+     "given": "Muhammad Ali",
+     "family": "Musarat"
+    }
+   ],
+   "cr_doi": "10.1108/ecam-03-2021-0211",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1111": {
+   "query_title": "Automating excavator productivity measurement using deep learning",
+   "query_doi": "10.1680/jsmic.21.00031",
+   "crossref_url": "https://api.crossref.org/works/10.1680/jsmic.21.00031",
+   "cr_title": "Automating excavator productivity measurement using deep learning",
+   "cr_container": "Proceedings of the Institution of Civil Engineers - Smart Infrastructure and Construction",
+   "cr_year": 2021,
+   "cr_volume": "174",
+   "cr_issue": "4",
+   "cr_page": "121-133",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Emerald",
+   "cr_authors": [
+    {
+     "given": "Elham",
+     "family": "Mahamedi"
+    },
+    {
+     "given": "Kay",
+     "family": "Rogage"
+    },
+    {
+     "given": "Omar",
+     "family": "Doukari"
+    },
+    {
+     "given": "Mohamad",
+     "family": "Kassem"
+    }
+   ],
+   "cr_doi": "10.1680/jsmic.21.00031",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1139": {
+   "query_title": "Implication of a Construction Labour Tracking System for Measuring Labour Productivity",
+   "query_doi": "10.1142/9789813272491_0001",
+   "crossref_url": "https://api.crossref.org/works/10.1142/9789813272491_0001",
+   "cr_title": "Implication of a Construction Labour Tracking System for Measuring Labour Productivity",
+   "cr_container": "Innovative Production and Construction",
+   "cr_year": 2019,
+   "cr_volume": null,
+   "cr_issue": null,
+   "cr_page": "1-15",
+   "cr_article_number": null,
+   "cr_type": "book-chapter",
+   "cr_publisher": "WORLD SCIENTIFIC",
+   "cr_authors": [
+    {
+     "given": "Sara",
+     "family": "Shirowzhan"
+    },
+    {
+     "given": "Samad M. E.",
+     "family": "Sepasgozar"
+    },
+    {
+     "given": "Fahim",
+     "family": "Ullah"
+    },
+    {
+     "given": "Pavneet Singh",
+     "family": "Minhas"
+    }
+   ],
+   "cr_doi": "10.1142/9789813272491_0001",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2136": {
+   "query_title": "Productivity Improvement in Construction of Onshore Oil & Gas Pipeline Tie in Joints Execution",
+   "query_doi": "10.22260/isarc2011/0196",
+   "crossref_url": "https://api.crossref.org/works/10.22260/isarc2011/0196",
+   "cr_title": "Productivity Improvement in Construction of Onshore Oil &amp; Gas Pipeline Tie in Joints Execution",
+   "cr_container": "Proceedings of the International Symposium on Automation and Robotics in Construction (IAARC)",
+   "cr_year": 2011,
+   "cr_volume": null,
+   "cr_issue": null,
+   "cr_page": null,
+   "cr_article_number": null,
+   "cr_type": "proceedings-article",
+   "cr_publisher": "International Association for Automation and Robotics in Construction (IAARC)",
+   "cr_authors": [
+    {
+     "given": "Ananthanarayanan",
+     "family": "Kuppusamy"
+    },
+    {
+     "given": "Saravanan",
+     "family": "Ramar"
+    }
+   ],
+   "cr_doi": "10.22260/isarc2011/0196",
+   "title_similarity": 0.979,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2170": {
+   "query_title": "Learning curve modelling of gas pipeline construction in Egypt",
+   "query_doi": "10.1080/15623599.2015.1067346",
+   "crossref_url": "https://api.crossref.org/works/10.1080/15623599.2015.1067346",
+   "cr_title": "Learning curve modelling of gas pipeline construction in Egypt",
+   "cr_container": "International Journal of Construction Management",
+   "cr_year": 2015,
+   "cr_volume": "15",
+   "cr_issue": "3",
+   "cr_page": "229-238",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Informa UK Limited",
+   "cr_authors": [
+    {
+     "given": "Mohammad A.",
+     "family": "Ammar"
+    },
+    {
+     "given": "Mohammad",
+     "family": "Samy"
+    }
+   ],
+   "cr_doi": "10.1080/15623599.2015.1067346",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1081": {
+   "query_title": "Real-Time tracking and analysis in construction projects: A RealCONs framework",
+   "query_doi": "10.1016/j.aei.2025.103511",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.aei.2025.103511",
+   "cr_title": "Real-Time tracking and analysis in construction projects: A RealCONs framework",
+   "cr_container": "Advanced Engineering Informatics",
+   "cr_year": 2025,
+   "cr_volume": "67",
+   "cr_issue": null,
+   "cr_page": "103511",
+   "cr_article_number": "103511",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Kambiz",
+     "family": "Radman"
+    },
+    {
+     "given": "Mostafa Babaeian",
+     "family": "Jelodar"
+    },
+    {
+     "given": "Ruggiero",
+     "family": "Lovreglio"
+    },
+    {
+     "given": "Eghbal",
+     "family": "Ghazizadeh"
+    },
+    {
+     "given": "Suzanne",
+     "family": "Wilkinson"
+    }
+   ],
+   "cr_doi": "10.1016/j.aei.2025.103511",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R3375": {
+   "query_title": "Automated Progress Monitoring Using Unordered Daily Construction Photographs and IFC-Based Building Information Models",
+   "query_doi": "10.1061/(asce)cp.1943-5487.0000205",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29cp.1943-5487.0000205",
+   "cr_title": "Automated Progress Monitoring Using Unordered Daily Construction Photographs and IFC-Based Building Information Models",
+   "cr_container": "Journal of Computing in Civil Engineering",
+   "cr_year": 2015,
+   "cr_volume": "29",
+   "cr_issue": "1",
+   "cr_page": null,
+   "cr_article_number": "04014025",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Mani",
+     "family": "Golparvar-Fard"
+    },
+    {
+     "given": "Feniosky",
+     "family": "Pe\u00f1a-Mora"
+    },
+    {
+     "given": "Silvio",
+     "family": "Savarese"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)cp.1943-5487.0000205",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1303": {
+   "query_title": "Automated construction progress measurement using a 4D building information model and 3D data",
+   "query_doi": "10.1016/j.autcon.2012.11.041",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2012.11.041",
+   "cr_title": "Automated construction progress measurement using a 4D building information model and 3D data",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2013,
+   "cr_volume": "31",
+   "cr_issue": null,
+   "cr_page": "75-82",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Changmin",
+     "family": "Kim"
+    },
+    {
+     "given": "Hyojoo",
+     "family": "Son"
+    },
+    {
+     "given": "Changwan",
+     "family": "Kim"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2012.11.041",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1715": {
+   "query_title": "Point cloud quality requirements for Scan-vs-BIM based automated construction progress monitoring",
+   "query_doi": "10.1016/j.autcon.2017.09.021",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2017.09.021",
+   "cr_title": "Point cloud quality requirements for Scan-vs-BIM based automated construction progress monitoring",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2017,
+   "cr_volume": "84",
+   "cr_issue": null,
+   "cr_page": "323-334",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Danijel",
+     "family": "Rebolj"
+    },
+    {
+     "given": "Zoran",
+     "family": "Pu\u010dko"
+    },
+    {
+     "given": "Nenad \u010cu\u0161",
+     "family": "Babi\u010d"
+    },
+    {
+     "given": "Marko",
+     "family": "Bizjak"
+    },
+    {
+     "given": "Domen",
+     "family": "Mongus"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2017.09.021",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0012": {
+   "query_title": "Computer vision-based construction progress monitoring",
+   "query_doi": "10.1016/j.autcon.2022.104245",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2022.104245",
+   "cr_title": "Computer vision-based construction progress monitoring",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2022,
+   "cr_volume": "138",
+   "cr_issue": null,
+   "cr_page": "104245",
+   "cr_article_number": "104245",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Varun Kumar",
+     "family": "Reja"
+    },
+    {
+     "given": "Koshy",
+     "family": "Varghese"
+    },
+    {
+     "given": "Quang Phuc",
+     "family": "Ha"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2022.104245",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R3389": {
+   "query_title": "A concept for automated construction progress monitoring using BIM-based geometric constraints and photogrammetric point clouds",
+   "query_doi": null,
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=A+concept+for+automated+construction+progress+monitoring+using+BIM-based+geometric+constraints+and+photogrammetric+point+clouds&rows=3",
+   "verified_doi": "N",
+   "method": "query.bibliographic",
+   "best_candidate": [
+    "Automated Construction Progress Monitoring for Prefabricated Bridges Using Bim and 3d Point Clouds",
+    "10.2139/ssrn.5390770",
+    0.622
+   ],
+   "note": "no reliable Crossref match"
+  },
+  "R0021": {
+   "query_title": "Monitoring road base course construction progress by photogrammetry-based 3D reconstruction",
+   "query_doi": "10.1080/15623599.2022.2040078",
+   "crossref_url": "https://api.crossref.org/works/10.1080/15623599.2022.2040078",
+   "cr_title": "Monitoring road base course construction progress by photogrammetry-based 3D reconstruction",
+   "cr_container": "International Journal of Construction Management",
+   "cr_year": 2022,
+   "cr_volume": "23",
+   "cr_issue": "12",
+   "cr_page": "2087-2101",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Informa UK Limited",
+   "cr_authors": [
+    {
+     "given": "Ying",
+     "family": "Lo"
+    },
+    {
+     "given": "Cheng",
+     "family": "Zhang"
+    },
+    {
+     "given": "Zehao",
+     "family": "Ye"
+    },
+    {
+     "given": "Chunyi",
+     "family": "Cui"
+    }
+   ],
+   "cr_doi": "10.1080/15623599.2022.2040078",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0005": {
+   "query_title": "Road Design Layer Detection in Point Cloud Data for Construction Progress Monitoring",
+   "query_doi": "10.1061/(asce)cp.1943-5487.0000772",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29cp.1943-5487.0000772",
+   "cr_title": "Road Design Layer Detection in Point Cloud Data for Construction Progress Monitoring",
+   "cr_container": "Journal of Computing in Civil Engineering",
+   "cr_year": 2018,
+   "cr_volume": "32",
+   "cr_issue": "5",
+   "cr_page": null,
+   "cr_article_number": "04018029",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Steven",
+     "family": "Vick"
+    },
+    {
+     "given": "Ioannis",
+     "family": "Brilakis"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)cp.1943-5487.0000772",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0028": {
+   "query_title": "Unmanned ground vehicle (UGV) based automated construction progress measurement of road using LSTM",
+   "query_doi": "10.1108/ecam-01-2024-0020",
+   "crossref_url": "https://api.crossref.org/works/10.1108/ecam-01-2024-0020",
+   "cr_title": "Unmanned ground vehicle (UGV) based automated construction progress measurement of road using LSTM",
+   "cr_container": "Engineering, Construction and Architectural Management",
+   "cr_year": 2024,
+   "cr_volume": "32",
+   "cr_issue": "9",
+   "cr_page": "5764-5791",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Emerald",
+   "cr_authors": [
+    {
+     "given": "Tirth",
+     "family": "Patel"
+    },
+    {
+     "given": "Brian H.W.",
+     "family": "Guo"
+    },
+    {
+     "given": "Jacobus Daniel",
+     "family": "van der Walt"
+    },
+    {
+     "given": "Yang",
+     "family": "Zou"
+    }
+   ],
+   "cr_doi": "10.1108/ecam-01-2024-0020",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2100": {
+   "query_title": "Method for Construction Progress Measurement for EPC Oil and Gas Pipeline Projects",
+   "query_doi": "10.12677/jogt.2019.416110",
+   "crossref_url": "https://api.crossref.org/works/10.12677/jogt.2019.416110",
+   "cr_title": "Method for Construction Progress Measurement for EPC Oil and Gas Pipeline Projects",
+   "cr_container": "Journal of Oil and Gas Technology",
+   "cr_year": 2019,
+   "cr_volume": "41",
+   "cr_issue": "06",
+   "cr_page": "130-132",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Hans Publishers",
+   "cr_authors": [
+    {
+     "given": "\u715c",
+     "family": "\u5f20"
+    }
+   ],
+   "cr_doi": "10.12677/jogt.2019.416110",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2104": {
+   "query_title": "Automated progress monitoring in pipeline construction: a systematic review",
+   "query_doi": "10.3846/jcem.2025.24800",
+   "crossref_url": "https://api.crossref.org/works/10.3846/jcem.2025.24800",
+   "cr_title": "Automated progress monitoring in pipeline construction: a systematic review",
+   "cr_container": "Journal of Civil Engineering and Management",
+   "cr_year": 2026,
+   "cr_volume": "32",
+   "cr_issue": "4",
+   "cr_page": "489-512",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Vilnius Gediminas Technical University",
+   "cr_authors": [
+    {
+     "given": "Muhammad Hassaan Farooq",
+     "family": "Khan"
+    },
+    {
+     "given": "Wesam Salah",
+     "family": "Alaloul"
+    },
+    {
+     "given": "Muhammad Ali",
+     "family": "Musarat"
+    },
+    {
+     "given": "Abdul Hannan",
+     "family": "Qureshi"
+    }
+   ],
+   "cr_doi": "10.3846/jcem.2025.24800",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2049": {
+   "query_title": "Development of Detailed Right of Way Quantities and Footprint for Pipelines",
+   "query_doi": "10.1115/ipg2017-2520",
+   "crossref_url": "https://api.crossref.org/works/10.1115/ipg2017-2520",
+   "cr_title": "Development of Detailed Right of Way Quantities and Footprint for Pipelines",
+   "cr_container": "ASME 2017 International Pipeline Geotechnical Conference",
+   "cr_year": 2017,
+   "cr_volume": null,
+   "cr_issue": null,
+   "cr_page": null,
+   "cr_article_number": "V001T01A001",
+   "cr_type": "proceedings-article",
+   "cr_publisher": "American Society of Mechanical Engineers",
+   "cr_authors": [
+    {
+     "given": "Sherif",
+     "family": "Soliman"
+    },
+    {
+     "given": "Grenan",
+     "family": "Mongroo"
+    },
+    {
+     "given": "Carlos",
+     "family": "Penate"
+    },
+    {
+     "given": "Bahar",
+     "family": "Farhadi"
+    }
+   ],
+   "cr_doi": "10.1115/ipg2017-2520",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2226": {
+   "query_title": "Role of Blockchain-Enabled Smart Contracts in Automating Construction Progress Payments",
+   "query_doi": "10.1061/(asce)la.1943-4170.0000442",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29la.1943-4170.0000442",
+   "cr_title": "Role of Blockchain-Enabled Smart Contracts in Automating Construction Progress Payments",
+   "cr_container": "Journal of Legal Affairs and Dispute Resolution in Engineering and Construction",
+   "cr_year": 2021,
+   "cr_volume": "13",
+   "cr_issue": "1",
+   "cr_page": null,
+   "cr_article_number": "04520038",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Hesam",
+     "family": "Hamledari"
+    },
+    {
+     "given": "Martin",
+     "family": "Fischer"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)la.1943-4170.0000442",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2225": {
+   "query_title": "Construction payment automation using blockchain-enabled smart contracts and robotic reality capture technologies",
+   "query_doi": "10.1016/j.autcon.2021.103926",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2021.103926",
+   "cr_title": "Construction payment automation using blockchain-enabled smart contracts and robotic reality capture technologies",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2021,
+   "cr_volume": "132",
+   "cr_issue": null,
+   "cr_page": "103926",
+   "cr_article_number": "103926",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Hesam",
+     "family": "Hamledari"
+    },
+    {
+     "given": "Martin",
+     "family": "Fischer"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2021.103926",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1395": {
+   "query_title": "Securing interim payments in construction projects through a blockchain-based framework",
+   "query_doi": "10.1016/j.autcon.2020.103284",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2020.103284",
+   "cr_title": "Securing interim payments in construction projects through a blockchain-based framework",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2020,
+   "cr_volume": "118",
+   "cr_issue": null,
+   "cr_page": "103284",
+   "cr_article_number": "103284",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Moumita",
+     "family": "Das"
+    },
+    {
+     "given": "Han",
+     "family": "Luo"
+    },
+    {
+     "given": "Jack C.P.",
+     "family": "Cheng"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2020.103284",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R3377": {
+   "query_title": "A smart contract system for security of payment of construction contracts",
+   "query_doi": "10.1016/j.autcon.2020.103401",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2020.103401",
+   "cr_title": "A smart contract system for security of payment of construction contracts",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2020,
+   "cr_volume": "120",
+   "cr_issue": null,
+   "cr_page": "103401",
+   "cr_article_number": "103401",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Salar",
+     "family": "Ahmadisheykhsarmast"
+    },
+    {
+     "given": "Rifat",
+     "family": "Sonmez"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2020.103401",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2227": {
+   "query_title": "Construction Payment Automation Through Scan-to-BIM and Blockchain-Enabled Smart Contract",
+   "query_doi": "10.3390/buildings15020213",
+   "crossref_url": "https://api.crossref.org/works/10.3390/buildings15020213",
+   "cr_title": "Construction Payment Automation Through Scan-to-BIM and Blockchain-Enabled Smart Contract",
+   "cr_container": "Buildings",
+   "cr_year": 2025,
+   "cr_volume": "15",
+   "cr_issue": "2",
+   "cr_page": "213",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MDPI AG",
+   "cr_authors": [
+    {
+     "given": "Hamdy",
+     "family": "Elsharkawi"
+    },
+    {
+     "given": "Emad",
+     "family": "Elbeltagi"
+    },
+    {
+     "given": "Mohamed S.",
+     "family": "Eid"
+    },
+    {
+     "given": "Wael",
+     "family": "Alattyih"
+    },
+    {
+     "given": "Hossam",
+     "family": "Wefki"
+    }
+   ],
+   "cr_doi": "10.3390/buildings15020213",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2294": {
+   "query_title": "Using reality capture technology for efficient cost valuation and work verification of construction projects",
+   "query_doi": "10.1108/ci-08-2024-0223",
+   "crossref_url": "https://api.crossref.org/works/10.1108/ci-08-2024-0223",
+   "cr_title": "Using reality capture technology for efficient cost valuation and work verification of construction projects",
+   "cr_container": "Construction Innovation",
+   "cr_year": 2025,
+   "cr_volume": "25",
+   "cr_issue": "7",
+   "cr_page": "50-75",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Emerald",
+   "cr_authors": [
+    {
+     "given": "Godfred",
+     "family": "Fobiri"
+    },
+    {
+     "given": "Innocent",
+     "family": "Musonda"
+    },
+    {
+     "given": "Franco",
+     "family": "Muleya"
+    }
+   ],
+   "cr_doi": "10.1108/ci-08-2024-0223",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2296": {
+   "query_title": "Integrating BIM and Photogrammetry for Accurate As-Built Quantity Verification and Construction Cost Control",
+   "query_doi": "10.5281/zenodo.19946887",
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=Integrating+BIM+and+Photogrammetry+for+Accurate+As-Built+Quantity+Verification+and+Construction+Cost+Control&rows=3",
+   "note": "DOI not found in Crossref; no reliable Crossref match",
+   "verified_doi": "N",
+   "method": "query.bibliographic",
+   "best_candidate": [
+    "INTEGRATING BIM AND COST ESTIMATION FOR CONSTRUCTION \n&lt;br&gt;\n PROJECTS",
+    "10.2139/ssrn.5296338",
+    0.573
+   ]
+  },
+  "R1272": {
+   "query_title": "BIM integrated smart contract for construction project progress payment administration",
+   "query_doi": "10.1016/j.autcon.2022.104294",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2022.104294",
+   "cr_title": "BIM integrated smart contract for construction project progress payment administration",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2022,
+   "cr_volume": "139",
+   "cr_issue": null,
+   "cr_page": "104294",
+   "cr_article_number": "104294",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Rifat",
+     "family": "Sonmez"
+    },
+    {
+     "given": "Salar",
+     "family": "Ahmadisheykhsarmast"
+    },
+    {
+     "given": "Asl\u0131 Ak\u00e7amete",
+     "family": "G\u00fcng\u00f6r"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2022.104294",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2307": {
+   "query_title": "Late Payment to Subcontractors in the Construction Industry",
+   "query_doi": "10.1061/(asce)la.1943-4170.0000552",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29la.1943-4170.0000552",
+   "cr_title": "Late Payment to Subcontractors in the Construction Industry",
+   "cr_container": "Journal of Legal Affairs and Dispute Resolution in Engineering and Construction",
+   "cr_year": 2022,
+   "cr_volume": "14",
+   "cr_issue": "4",
+   "cr_page": null,
+   "cr_article_number": "04522018",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Sam",
+     "family": "Bolton"
+    },
+    {
+     "given": "Gayan",
+     "family": "Wedawatta"
+    },
+    {
+     "given": "Nadeeshani",
+     "family": "Wanigarathna"
+    },
+    {
+     "given": "Chamindi",
+     "family": "Malalgoda"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)la.1943-4170.0000552",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1347": {
+   "query_title": "Testing AI Accuracy in Quantity Takeoff: A Methodological Case Study in Commercial Construction",
+   "query_doi": "10.29007/g686",
+   "crossref_url": "https://api.crossref.org/works/10.29007/g686",
+   "cr_title": "Testing AI Accuracy in Quantity Takeoff: A Methodological Case Study in Commercial Construction",
+   "cr_container": "EPiC Series in Built Environment",
+   "cr_year": null,
+   "cr_volume": "7",
+   "cr_issue": null,
+   "cr_page": "753-742",
+   "cr_article_number": null,
+   "cr_type": "proceedings-article",
+   "cr_publisher": "EasyChair",
+   "cr_authors": [
+    {
+     "given": "Hooman",
+     "family": "Sadeh"
+    },
+    {
+     "given": "Dominick",
+     "family": "Geloso"
+    },
+    {
+     "given": "Dimitar",
+     "family": "Todorov"
+    }
+   ],
+   "cr_doi": "10.29007/g686",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1308": {
+   "query_title": "Blockchain-Enhanced Construction Records: Transforming Evidentiary Standards and Dispute Resolution in International Arbitration",
+   "query_doi": "10.1061/jladah.ladr-1467",
+   "crossref_url": "https://api.crossref.org/works/10.1061/jladah.ladr-1467",
+   "cr_title": "Blockchain-Enhanced Construction Records: Transforming Evidentiary Standards and Dispute Resolution in International Arbitration",
+   "cr_container": "Journal of Legal Affairs and Dispute Resolution in Engineering and Construction",
+   "cr_year": 2026,
+   "cr_volume": "18",
+   "cr_issue": "2",
+   "cr_page": null,
+   "cr_article_number": "04526011",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Tariq K.",
+     "family": "Alhasan"
+    }
+   ],
+   "cr_doi": "10.1061/jladah.ladr-1467",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2346": {
+   "query_title": "Enriching BIM with Unmanned Aerial Systems Data for Enhancing Construction Management Operations",
+   "query_doi": "10.3390/su141811362",
+   "crossref_url": "https://api.crossref.org/works/10.3390/su141811362",
+   "cr_title": "Enriching BIM with Unmanned Aerial Systems Data for Enhancing Construction Management Operations",
+   "cr_container": "Sustainability",
+   "cr_year": 2022,
+   "cr_volume": "14",
+   "cr_issue": "18",
+   "cr_page": "11362",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MDPI AG",
+   "cr_authors": [
+    {
+     "given": "Payam",
+     "family": "Rahnamayiezekavat"
+    },
+    {
+     "given": "Mohamed",
+     "family": "Mourad"
+    },
+    {
+     "given": "Sherif",
+     "family": "Mostafa"
+    },
+    {
+     "given": "Sungkon",
+     "family": "Moon"
+    },
+    {
+     "given": "Sepani",
+     "family": "Senaratne"
+    }
+   ],
+   "cr_doi": "10.3390/su141811362",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2292": {
+   "query_title": "A Simultaneous Approach to Improve Progress Payments System Using a Common Data Environment",
+   "query_doi": "10.1155/adce/7503048",
+   "crossref_url": "https://api.crossref.org/works/10.1155/adce/7503048",
+   "cr_title": "A Simultaneous Approach to Improve Progress Payments System Using a Common Data Environment",
+   "cr_container": "Advances in Civil Engineering",
+   "cr_year": 2025,
+   "cr_volume": "2025",
+   "cr_issue": "1",
+   "cr_page": null,
+   "cr_article_number": "7503048",
+   "cr_type": "journal-article",
+   "cr_publisher": "Wiley",
+   "cr_authors": [
+    {
+     "given": "Reneiloe",
+     "family": "Malomane"
+    },
+    {
+     "given": "Innocent",
+     "family": "Musonda"
+    }
+   ],
+   "cr_doi": "10.1155/adce/7503048",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2238": {
+   "query_title": "Digital twin-enabled BIM-blockchain integration for automated and transparent construction progress payments",
+   "query_doi": "10.1016/j.dibe.2025.100781",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.dibe.2025.100781",
+   "cr_title": "Digital twin-enabled BIM-blockchain integration for automated and transparent construction progress payments",
+   "cr_container": "Developments in the Built Environment",
+   "cr_year": 2025,
+   "cr_volume": "24",
+   "cr_issue": null,
+   "cr_page": "100781",
+   "cr_article_number": "100781",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Yuxing",
+     "family": "Wu"
+    },
+    {
+     "given": "Zhou",
+     "family": "Li"
+    }
+   ],
+   "cr_doi": "10.1016/j.dibe.2025.100781",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1633": {
+   "query_title": "EXPRESS to OWL for construction industry: Towards a recommendable and usable ifcOWL ontology",
+   "query_doi": "10.1016/j.autcon.2015.12.003",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2015.12.003",
+   "cr_title": "EXPRESS to OWL for construction industry: Towards a recommendable and usable ifcOWL ontology",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2016,
+   "cr_volume": "63",
+   "cr_issue": null,
+   "cr_page": "100-133",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Pieter",
+     "family": "Pauwels"
+    },
+    {
+     "given": "Walter",
+     "family": "Terkaj"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2015.12.003",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2779": {
+   "query_title": "THE IFC STANDARD - A REVIEW OF HISTORY, DEVELOPMENT, AND STANDARDIZATION",
+   "query_doi": null,
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=THE+IFC+STANDARD+-+A+REVIEW+OF+HISTORY%2C+DEVELOPMENT%2C+AND+STANDARDIZATION&rows=3",
+   "verified_doi": "N",
+   "method": "query.bibliographic",
+   "best_candidate": [
+    "Rethinking Standard Languages: On the Dynamics of Informal Standardization and Regionalization",
+    "10.55245/energeia.2024.001",
+    0.509
+   ],
+   "note": "no reliable Crossref match"
+  },
+  "R1551": {
+   "query_title": "Rules and validation processes for interoperable BIM data exchange",
+   "query_doi": "10.1093/jcde/qwaa064",
+   "crossref_url": "https://api.crossref.org/works/10.1093/jcde/qwaa064",
+   "cr_title": "Rules and validation processes for interoperable BIM data exchange",
+   "cr_container": "Journal of Computational Design and Engineering",
+   "cr_year": 2020,
+   "cr_volume": "8",
+   "cr_issue": "1",
+   "cr_page": "97-114",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Oxford University Press (OUP)",
+   "cr_authors": [
+    {
+     "given": "Yong-Cheol",
+     "family": "Lee"
+    },
+    {
+     "given": "Charles M",
+     "family": "Eastman"
+    },
+    {
+     "given": "Wawan",
+     "family": "Solihin"
+    }
+   ],
+   "cr_doi": "10.1093/jcde/qwaa064",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1683": {
+   "query_title": "Integrated digital twin and blockchain framework to support accountable information sharing in construction projects",
+   "query_doi": "10.1016/j.autcon.2021.103688",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2021.103688",
+   "cr_title": "Integrated digital twin and blockchain framework to support accountable information sharing in construction projects",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2021,
+   "cr_volume": "127",
+   "cr_issue": null,
+   "cr_page": "103688",
+   "cr_article_number": "103688",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Dongmin",
+     "family": "Lee"
+    },
+    {
+     "given": "Sang Hyun",
+     "family": "Lee"
+    },
+    {
+     "given": "Neda",
+     "family": "Masoud"
+    },
+    {
+     "given": "M.S.",
+     "family": "Krishnan"
+    },
+    {
+     "given": "Victor C.",
+     "family": "Li"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2021.103688",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1728": {
+   "query_title": "Blockchain supported BIM data provenance for construction projects",
+   "query_doi": "10.1016/j.compind.2022.103768",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.compind.2022.103768",
+   "cr_title": "Blockchain supported BIM data provenance for construction projects",
+   "cr_container": "Computers in Industry",
+   "cr_year": 2023,
+   "cr_volume": "144",
+   "cr_issue": null,
+   "cr_page": "103768",
+   "cr_article_number": "103768",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Yasin",
+     "family": "Celik"
+    },
+    {
+     "given": "Ioan",
+     "family": "Petri"
+    },
+    {
+     "given": "Masoud",
+     "family": "Barati"
+    }
+   ],
+   "cr_doi": "10.1016/j.compind.2022.103768",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1854": {
+   "query_title": "Rapid data quality oriented laser scan planning for dynamic construction environments",
+   "query_doi": "10.1016/j.aei.2016.03.004",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.aei.2016.03.004",
+   "cr_title": "Rapid data quality oriented laser scan planning for dynamic construction environments",
+   "cr_container": "Advanced Engineering Informatics",
+   "cr_year": 2016,
+   "cr_volume": "30",
+   "cr_issue": "2",
+   "cr_page": "218-232",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Cheng",
+     "family": "Zhang"
+    },
+    {
+     "given": "Vamsi Sai",
+     "family": "Kalasapudi"
+    },
+    {
+     "given": "Pingbo",
+     "family": "Tang"
+    }
+   ],
+   "cr_doi": "10.1016/j.aei.2016.03.004",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R3407": {
+   "query_title": "Blockchain Technology for Governmental Supervision of Construction Work: Learning from Digital Currency Electronic Payment Systems",
+   "query_doi": "10.1061/(asce)co.1943-7862.0002148",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29co.1943-7862.0002148",
+   "cr_title": "Blockchain Technology for Governmental Supervision of Construction Work: Learning from Digital Currency Electronic Payment Systems",
+   "cr_container": "Journal of Construction Engineering and Management",
+   "cr_year": 2021,
+   "cr_volume": "147",
+   "cr_issue": "10",
+   "cr_page": null,
+   "cr_article_number": "04021122",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Weisheng",
+     "family": "Lu"
+    },
+    {
+     "given": "Liupengfei",
+     "family": "Wu"
+    },
+    {
+     "given": "Rui",
+     "family": "Zhao"
+    },
+    {
+     "given": "Xiao",
+     "family": "Li"
+    },
+    {
+     "given": "Fan",
+     "family": "Xue"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)co.1943-7862.0002148",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1697": {
+   "query_title": "Synchronizing BIM cost models and bills of quantities for lifecycle audit trail cost management",
+   "query_doi": "10.1108/ecam-04-2024-0440",
+   "crossref_url": "https://api.crossref.org/works/10.1108/ecam-04-2024-0440",
+   "cr_title": "Synchronizing BIM cost models and bills of quantities for lifecycle audit trail cost management",
+   "cr_container": "Engineering, Construction and Architectural Management",
+   "cr_year": 2024,
+   "cr_volume": "32",
+   "cr_issue": "10",
+   "cr_page": "6566-6592",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Emerald",
+   "cr_authors": [
+    {
+     "given": "Heap-Yih",
+     "family": "Chong"
+    },
+    {
+     "given": "Yufan",
+     "family": "Zhang"
+    },
+    {
+     "given": "Cen Ying",
+     "family": "Lee"
+    },
+    {
+     "given": "Fei",
+     "family": "Wang"
+    },
+    {
+     "given": "Yubin",
+     "family": "Zhang"
+    }
+   ],
+   "cr_doi": "10.1108/ecam-04-2024-0440",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1782": {
+   "query_title": "Integrating the Digital Twin into Elastic Cost Optimization for Legally Defensible Construction Schedule Management",
+   "query_doi": "10.1061/jladah.ladr-1568",
+   "crossref_url": "https://api.crossref.org/works/10.1061/jladah.ladr-1568",
+   "cr_title": "Integrating the Digital Twin into Elastic Cost Optimization for Legally Defensible Construction Schedule Management",
+   "cr_container": "Journal of Legal Affairs and Dispute Resolution in Engineering and Construction",
+   "cr_year": 2026,
+   "cr_volume": "18",
+   "cr_issue": "4",
+   "cr_page": null,
+   "cr_article_number": "04526040",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Hicham",
+     "family": "Sadok"
+    },
+    {
+     "given": "Adil",
+     "family": "Bentaleb"
+    },
+    {
+     "given": "Mohammed El Hadi",
+     "family": "El Maknouzi"
+    },
+    {
+     "given": "Enas Mohammed",
+     "family": "AlQodsi"
+    },
+    {
+     "given": "Mohamed",
+     "family": "Lazaar"
+    },
+    {
+     "given": "Iyad Mohammad",
+     "family": "Jadalhaq"
+    }
+   ],
+   "cr_doi": "10.1061/jladah.ladr-1568",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2954": {
+   "query_title": "BIM Acceptance Model in Construction Organizations",
+   "query_doi": "10.1061/(asce)me.1943-5479.0000252",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29me.1943-5479.0000252",
+   "cr_title": "BIM Acceptance Model in Construction Organizations",
+   "cr_container": "Journal of Management in Engineering",
+   "cr_year": 2015,
+   "cr_volume": "31",
+   "cr_issue": "3",
+   "cr_page": null,
+   "cr_article_number": "04014048",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Seulki",
+     "family": "Lee"
+    },
+    {
+     "given": "Jungho",
+     "family": "Yu"
+    },
+    {
+     "given": "David",
+     "family": "Jeong"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)me.1943-5479.0000252",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1889": {
+   "query_title": "USING A TAM-TOE MODEL TO EXPLORE FACTORS OF BUILDING INFORMATION MODELLING (BIM) ADOPTION IN THE CONSTRUCTION INDUSTRY",
+   "query_doi": "10.3846/jcem.2020.12176",
+   "crossref_url": "https://api.crossref.org/works/10.3846/jcem.2020.12176",
+   "cr_title": "USING A TAM-TOE MODEL TO EXPLORE FACTORS OF BUILDING INFORMATION MODELLING (BIM) ADOPTION IN THE CONSTRUCTION INDUSTRY",
+   "cr_container": "JOURNAL OF CIVIL ENGINEERING AND MANAGEMENT",
+   "cr_year": 2020,
+   "cr_volume": "26",
+   "cr_issue": "3",
+   "cr_page": "259-277",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Vilnius Gediminas Technical University",
+   "cr_authors": [
+    {
+     "given": "Xuan",
+     "family": "Qin"
+    },
+    {
+     "given": "Ye",
+     "family": "Shi"
+    },
+    {
+     "given": "Kuncan",
+     "family": "Lyu"
+    },
+    {
+     "given": "Yiyi",
+     "family": "Mo"
+    }
+   ],
+   "cr_doi": "10.3846/jcem.2020.12176",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1883": {
+   "query_title": "Modifying the Unified Theory of Acceptance and Use of Technology (UTAUT) Model for the Digital Transformation of the Construction Industry from the User Perspective",
+   "query_doi": "10.3390/informatics8040081",
+   "crossref_url": "https://api.crossref.org/works/10.3390/informatics8040081",
+   "cr_title": "Modifying the Unified Theory of Acceptance and Use of Technology (UTAUT) Model for the Digital Transformation of the Construction Industry from the User Perspective",
+   "cr_container": "Informatics",
+   "cr_year": 2021,
+   "cr_volume": "8",
+   "cr_issue": "4",
+   "cr_page": "81",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MDPI AG",
+   "cr_authors": [
+    {
+     "given": "Thathsarani",
+     "family": "Hewavitharana"
+    },
+    {
+     "given": "Samudaya",
+     "family": "Nanayakkara"
+    },
+    {
+     "given": "Asoka",
+     "family": "Perera"
+    },
+    {
+     "given": "Prasad",
+     "family": "Perera"
+    }
+   ],
+   "cr_doi": "10.3390/informatics8040081",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2963": {
+   "query_title": "Challenges and Strategies for the Adoption of Smart Technologies in the Construction Industry: The Case of Singapore",
+   "query_doi": "10.1061/(asce)me.1943-5479.0000986",
+   "crossref_url": "https://api.crossref.org/works/10.1061/%28asce%29me.1943-5479.0000986",
+   "cr_title": "Challenges and Strategies for the Adoption of Smart Technologies in the Construction Industry: The Case of Singapore",
+   "cr_container": "Journal of Management in Engineering",
+   "cr_year": 2022,
+   "cr_volume": "38",
+   "cr_issue": "1",
+   "cr_page": null,
+   "cr_article_number": "05021014",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Bon-Gang",
+     "family": "Hwang"
+    },
+    {
+     "given": "Jasmine",
+     "family": "Ngo"
+    },
+    {
+     "given": "Jeremy Zhen Kang",
+     "family": "Teo"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)me.1943-5479.0000986",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2386": {
+   "query_title": "Utilizing Industry 4.0 on the Construction Site: Challenges and Opportunities",
+   "query_doi": "10.1109/tii.2020.3002197",
+   "crossref_url": "https://api.crossref.org/works/10.1109/tii.2020.3002197",
+   "cr_title": "Utilizing Industry 4.0 on the Construction Site: Challenges and Opportunities",
+   "cr_container": "IEEE Transactions on Industrial Informatics",
+   "cr_year": 2021,
+   "cr_volume": "17",
+   "cr_issue": "2",
+   "cr_page": "746-756",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "cr_authors": [
+    {
+     "given": "Christopher J.",
+     "family": "Turner"
+    },
+    {
+     "given": "John",
+     "family": "Oyekan"
+    },
+    {
+     "given": "Lampros",
+     "family": "Stergioulas"
+    },
+    {
+     "given": "David",
+     "family": "Griffin"
+    }
+   ],
+   "cr_doi": "10.1109/tii.2020.3002197",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1955": {
+   "query_title": "Exploring the barriers to digital twin adoption in the Nigerian construction industry: a structural equation modelling approach",
+   "query_doi": "10.1108/jedt-01-2024-0012",
+   "crossref_url": "https://api.crossref.org/works/10.1108/jedt-01-2024-0012",
+   "cr_title": "Exploring the barriers to digital twin adoption in the Nigerian construction industry: a structural equation modelling approach",
+   "cr_container": "Journal of Engineering, Design and Technology",
+   "cr_year": 2024,
+   "cr_volume": "23",
+   "cr_issue": "5",
+   "cr_page": "1541-1572",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Emerald",
+   "cr_authors": [
+    {
+     "given": "Abdulkabir Opeyemi",
+     "family": "Bello"
+    },
+    {
+     "given": "Oludolapo Ibrahim",
+     "family": "Olanrewaju"
+    },
+    {
+     "given": "Precious Oluwatofunmi",
+     "family": "Gbenga"
+    },
+    {
+     "given": "Ayaz Ahmad",
+     "family": "Khan"
+    },
+    {
+     "given": "Rasheed Babatunde",
+     "family": "Isa"
+    }
+   ],
+   "cr_doi": "10.1108/jedt-01-2024-0012",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R3095": {
+   "query_title": "Driving Factors for the Adoption of Digital Twin Technology Implementation for Construction Project Performance in Nigeria",
+   "query_doi": "10.1061/jcemd4.coeng-13659",
+   "crossref_url": "https://api.crossref.org/works/10.1061/jcemd4.coeng-13659",
+   "cr_title": "Driving Factors for the Adoption of Digital Twin Technology Implementation for Construction Project Performance in Nigeria",
+   "cr_container": "Journal of Construction Engineering and Management",
+   "cr_year": 2024,
+   "cr_volume": "150",
+   "cr_issue": "1",
+   "cr_page": null,
+   "cr_article_number": "05023014",
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Victor Adetunji",
+     "family": "Arowoiya"
+    },
+    {
+     "given": "Ayodeji Emmanuel",
+     "family": "Oke"
+    },
+    {
+     "given": "Lekan Damilola",
+     "family": "Ojo"
+    },
+    {
+     "given": "Ayomide Oluwafemi",
+     "family": "Adelusi"
+    }
+   ],
+   "cr_doi": "10.1061/jcemd4.coeng-13659",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2004": {
+   "query_title": "Adoption of drone technology in the Indian construction industry",
+   "query_doi": "10.1007/s44430-025-00008-y",
+   "crossref_url": "https://api.crossref.org/works/10.1007/s44430-025-00008-y",
+   "cr_title": "Adoption of drone technology in the Indian construction industry",
+   "cr_container": "Discover Robotics",
+   "cr_year": 2025,
+   "cr_volume": "1",
+   "cr_issue": "1",
+   "cr_page": null,
+   "cr_article_number": "9",
+   "cr_type": "journal-article",
+   "cr_publisher": "Springer Science and Business Media LLC",
+   "cr_authors": [
+    {
+     "given": "P.",
+     "family": "Sivaraman"
+    },
+    {
+     "given": "Luke",
+     "family": "Judson"
+    },
+    {
+     "given": "Virendra Kumar",
+     "family": "Paul"
+    }
+   ],
+   "cr_doi": "10.1007/s44430-025-00008-y",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2003": {
+   "query_title": "Digital Twins in the Construction Industry: A Perspective of Practitioners and Building Authority",
+   "query_doi": "10.3389/fbuil.2022.834671",
+   "crossref_url": "https://api.crossref.org/works/10.3389/fbuil.2022.834671",
+   "cr_title": "Digital Twins in the Construction Industry: A Perspective of Practitioners and Building Authority",
+   "cr_container": "Frontiers in Built Environment",
+   "cr_year": 2022,
+   "cr_volume": "8",
+   "cr_issue": null,
+   "cr_page": null,
+   "cr_article_number": "834671",
+   "cr_type": "journal-article",
+   "cr_publisher": "Frontiers Media SA",
+   "cr_authors": [
+    {
+     "given": "Ashtarout",
+     "family": "Ammar"
+    },
+    {
+     "given": "Hala",
+     "family": "Nassereddine"
+    },
+    {
+     "given": "Nadine",
+     "family": "AbdulBaky"
+    },
+    {
+     "given": "Anwar",
+     "family": "AbouKansour"
+    },
+    {
+     "given": "Juliano",
+     "family": "Tannoury"
+    },
+    {
+     "given": "Harald",
+     "family": "Urban"
+    },
+    {
+     "given": "Christian",
+     "family": "Schranz"
+    }
+   ],
+   "cr_doi": "10.3389/fbuil.2022.834671",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R0024": {
+   "query_title": "Auditing Road Maintenance Work Using Unmanned Aerial Vehicle",
+   "query_doi": "10.17576/jkukm-2018-si1(5)-04",
+   "crossref_url": "https://api.crossref.org/works/10.17576/jkukm-2018-si1%285%29-04",
+   "cr_title": "Auditing Road Maintenance Work Using Unmanned Aerial Vehicle",
+   "cr_container": "Jurnal Kejuruteraan",
+   "cr_year": 2018,
+   "cr_volume": "si1",
+   "cr_issue": "5",
+   "cr_page": "23-27",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Penerbit Universiti Kebangsaan Malaysia (UKM Press)",
+   "cr_authors": [
+    {
+     "given": "",
+     "family": "Civil Engineering Programme,Faculty of Engineering and Built Environment, Universiti Kebangsaan Malaysia, Bangi, Malaysia"
+    },
+    {
+     "given": "Aimi Nadira",
+     "family": "Mohd Safie"
+    },
+    {
+     "given": "Khairul Nizam",
+     "family": "Abdul Maulud"
+    },
+    {
+     "given": "",
+     "family": "Smart and Sustainable Township Research Centre,  Faculty of Engineering and Built Environment, Universiti Kebangsaan Malaysia, Bangi, Malaysia"
+    },
+    {
+     "given": "Othman",
+     "family": "Jaafar"
+    },
+    {
+     "given": "",
+     "family": "Smart and Sustainable Township Research Centre,  Faculty of Engineering and Built Environment, Universiti Kebangsaan Malaysia, Bangi, Malaysia"
+    },
+    {
+     "given": "Wan Shafrina",
+     "family": "Wan Mohd Jaafar"
+    },
+    {
+     "given": "",
+     "family": "Earth Observation Centre, Institute of Climate Change, Universiti Kebangsaan Malaysia, Bangi, Malaysia"
+    },
+    {
+     "given": "Abdul Aziz",
+     "family": "Ab Rahman"
+    },
+    {
+     "given": "",
+     "family": "Earth Observation Centre, Institute of Climate Change, Universiti Kebangsaan Malaysia, Bangi, Malaysia"
+    },
+    {
+     "given": "Faiz",
+     "family": "Arif"
+    },
+    {
+     "given": "",
+     "family": "Earth Observation Centre, Institute of Climate Change, Universiti Kebangsaan Malaysia, Bangi, Malaysia"
+    },
+    {
+     "given": "Muhammad",
+     "family": "Mukhlisin"
+    },
+    {
+     "given": "",
+     "family": "Department of Civil Engineering, Politeknik Negeri Semarang, JI. Prof. Sudarto, SH. Tembalang,  Semarang, Central Java, Indonesia"
+    }
+   ],
+   "cr_doi": "10.17576/jkukm-2018-si1(5)-04",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1289": {
+   "query_title": "Automated quantity take-off in a Norwegian road project",
+   "query_doi": "10.1038/s41598-023-50486-6",
+   "crossref_url": "https://api.crossref.org/works/10.1038/s41598-023-50486-6",
+   "cr_title": "Automated quantity take-off in a Norwegian road project",
+   "cr_container": "Scientific Reports",
+   "cr_year": 2024,
+   "cr_volume": "14",
+   "cr_issue": "1",
+   "cr_page": null,
+   "cr_article_number": "458",
+   "cr_type": "journal-article",
+   "cr_publisher": "Springer Science and Business Media LLC",
+   "cr_authors": [
+    {
+     "given": "David",
+     "family": "F\u00fcrstenberg"
+    },
+    {
+     "given": "Eilif",
+     "family": "Hjelseth"
+    },
+    {
+     "given": "Ole Jonny",
+     "family": "Klakegg"
+    },
+    {
+     "given": "Jardar",
+     "family": "Lohne"
+    },
+    {
+     "given": "Ola",
+     "family": "L\u00e6dre"
+    }
+   ],
+   "cr_doi": "10.1038/s41598-023-50486-6",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1341": {
+   "query_title": "IFC-Based Standardization Methods of Quantity Take-Off Properties for Road Construction Cost Estimating",
+   "query_doi": "10.7840/kics.2019.44.12.2239",
+   "crossref_url": "https://api.crossref.org/works/10.7840/kics.2019.44.12.2239",
+   "cr_title": "IFC-Based Standardization Methods of Quantity Take-Off Properties for Road Construction Cost Estimating",
+   "cr_container": "The Journal of Korean Institute of Communications and Information Sciences",
+   "cr_year": 2019,
+   "cr_volume": "44",
+   "cr_issue": "12",
+   "cr_page": "2239-2251",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Korea Information and Communications Society",
+   "cr_authors": [
+    {
+     "given": "Jisun",
+     "family": "Won"
+    },
+    {
+     "given": "Jaeyoung",
+     "family": "Shin"
+    },
+    {
+     "given": "Hyoun-Seok",
+     "family": "Moon"
+    },
+    {
+     "given": "Ki-Beom",
+     "family": "Ju"
+    }
+   ],
+   "cr_doi": "10.7840/kics.2019.44.12.2239",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R1493": {
+   "query_title": "A Comprehensive Data Schema for Digital Twin Construction",
+   "query_doi": "10.7146/aul.455.c194",
+   "crossref_url": "https://api.crossref.org/works/10.7146/aul.455.c194",
+   "cr_title": "A Comprehensive Data Schema for Digital Twin Construction",
+   "cr_container": "Proceedings of the 29th EG-ICE International Workshop on Intelligent Computing in Engineering",
+   "cr_year": 2022,
+   "cr_volume": null,
+   "cr_issue": null,
+   "cr_page": "34-44",
+   "cr_article_number": null,
+   "cr_type": "proceedings-article",
+   "cr_publisher": "EG-ICE",
+   "cr_authors": [
+    {
+     "given": "J.",
+     "family": "Schlenger"
+    },
+    {
+     "given": "T.",
+     "family": "Yeung"
+    },
+    {
+     "given": "S.",
+     "family": "Vilgertshofer"
+    },
+    {
+     "given": "J.",
+     "family": "Martinez"
+    },
+    {
+     "given": "R.",
+     "family": "Sacks"
+    },
+    {
+     "given": "A.",
+     "family": "Borrmann"
+    }
+   ],
+   "cr_doi": "10.7146/aul.455.c194",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  },
+  "R2276": {
+   "query_title": "Optimizing construction supply chain efficiency: a blockchain and digital twins approach to automating cost management and contract administration",
+   "query_doi": "10.1108/ecam-06-2025-1025",
+   "crossref_url": "https://api.crossref.org/works/10.1108/ecam-06-2025-1025",
+   "cr_title": "Optimizing construction supply chain efficiency: a blockchain and digital twins approach to automating cost\u00a0management and contract administration",
+   "cr_container": "Engineering, Construction and Architectural Management",
+   "cr_year": 2025,
+   "cr_volume": "33",
+   "cr_issue": "13",
+   "cr_page": "10352-10384",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Emerald",
+   "cr_authors": [
+    {
+     "given": "Ali",
+     "family": "Shehadeh"
+    }
+   ],
+   "cr_doi": "10.1108/ecam-06-2025-1025",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}"
+  }
+ }
+}

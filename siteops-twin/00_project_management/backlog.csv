@@ -46,3 +46,5 @@ T-512,D2b,Review/quarantine screen S10,ux-designer;full-stack-developer,T-511,pr
 T-513,D2b,Rules AL-21 AL-17 AL-18 AL-19 then AL-23,data-scientist;commercial-analyst,D-086,prototype/siteops/engine.py,Seeded synthetic cases detected,Must,To do
 T-514,D2b,Claim evidence model (claim_line to evidence rows; per-component pass/fail) + AL-26 and AL-03 on evidence rows,data-engineer;commercial-analyst,D-088,prototype/siteops/,RPT-N-type sample reconciled in demo with synthetic data,Must,To do
 T-515,D2b,Daywork sheet model + AL-28/AL-29 (VOB/B §15 checks),commercial-analyst;data-engineer,Q-083,prototype/siteops/,Daywork synthetic cases detected,Should,To do
+T-209,P2,Student validation of SLR: 20% double screening (kappa); full-text stage on core set; backward/forward snowballing; author-order checks,student;literature-reviewer,D-098,02_literature_review/,kappa >= 0.6; PRISMA updated,Must,To do
+T-210,P2,Theoretical framework chapter (thesis Ch. 2/3) from synthesis + gap analysis + market scan,academic-writer;research-lead,T-209,08_thesis/,Supervisor-ready draft,Must,To do

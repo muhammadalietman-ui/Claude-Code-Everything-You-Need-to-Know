@@ -1,0 +1,771 @@
+{
+ "run_date": "2026-11-23",
+ "results": {
+  "S01": {
+   "query_title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+   "query_doi": "10.1136/bmj.n71",
+   "crossref_url": "https://api.crossref.org/works/10.1136/bmj.n71",
+   "cr_title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+   "cr_container": "BMJ",
+   "cr_year": 2021,
+   "cr_volume": null,
+   "cr_issue": null,
+   "cr_page": "n71",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "BMJ",
+   "cr_authors": [
+    {
+     "given": "Matthew J",
+     "family": "Page"
+    },
+    {
+     "given": "Joanne E",
+     "family": "McKenzie"
+    },
+    {
+     "given": "Patrick M",
+     "family": "Bossuyt"
+    },
+    {
+     "given": "Isabelle",
+     "family": "Boutron"
+    },
+    {
+     "given": "Tammy C",
+     "family": "Hoffmann"
+    },
+    {
+     "given": "Cynthia D",
+     "family": "Mulrow"
+    },
+    {
+     "given": "Larissa",
+     "family": "Shamseer"
+    },
+    {
+     "given": "Jennifer M",
+     "family": "Tetzlaff"
+    },
+    {
+     "given": "Elie A",
+     "family": "Akl"
+    },
+    {
+     "given": "Sue E",
+     "family": "Brennan"
+    },
+    {
+     "given": "Roger",
+     "family": "Chou"
+    },
+    {
+     "given": "Julie",
+     "family": "Glanville"
+    },
+    {
+     "given": "Jeremy M",
+     "family": "Grimshaw"
+    },
+    {
+     "given": "Asbj\u00f8rn",
+     "family": "Hr\u00f3bjartsson"
+    },
+    {
+     "given": "Manoj M",
+     "family": "Lalu"
+    },
+    {
+     "given": "Tianjing",
+     "family": "Li"
+    },
+    {
+     "given": "Elizabeth W",
+     "family": "Loder"
+    },
+    {
+     "given": "Evan",
+     "family": "Mayo-Wilson"
+    },
+    {
+     "given": "Steve",
+     "family": "McDonald"
+    },
+    {
+     "given": "Luke A",
+     "family": "McGuinness"
+    },
+    {
+     "given": "Lesley A",
+     "family": "Stewart"
+    },
+    {
+     "given": "James",
+     "family": "Thomas"
+    },
+    {
+     "given": "Andrea C",
+     "family": "Tricco"
+    },
+    {
+     "given": "Vivian A",
+     "family": "Welch"
+    },
+    {
+     "given": "Penny",
+     "family": "Whiting"
+    },
+    {
+     "given": "David",
+     "family": "Moher"
+    }
+   ],
+   "cr_doi": "10.1136/bmj.n71",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}",
+   "seed": {
+    "id": "S01",
+    "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+    "doi": "10.1136/bmj.n71",
+    "year": 2021
+   }
+  },
+  "S02": {
+   "query_title": "Guidelines for performing systematic literature reviews in software engineering",
+   "query_doi": null,
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=Guidelines+for+performing+systematic+literature+reviews+in+software+engineering&rows=3",
+   "cr_title": "Performing systematic literature reviews in software engineering",
+   "cr_container": "Proceedings of the 28th international conference on Software engineering",
+   "cr_year": 2006,
+   "cr_volume": null,
+   "cr_issue": null,
+   "cr_page": "1051-1052",
+   "cr_article_number": null,
+   "cr_type": "proceedings-article",
+   "cr_publisher": "ACM",
+   "cr_authors": [
+    {
+     "given": "David",
+     "family": "Budgen"
+    },
+    {
+     "given": "Pearl",
+     "family": "Brereton"
+    }
+   ],
+   "cr_doi": "10.1145/1134285.1134500",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "query.bibliographic",
+   "note": "DOI found via title search",
+   "seed": {
+    "id": "S02",
+    "title": "Guidelines for performing systematic literature reviews in software engineering",
+    "doi": null,
+    "year": 2007
+   }
+  },
+  "S03": {
+   "query_title": "Analyzing the past to prepare for the future: Writing a literature review",
+   "query_doi": null,
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=Analyzing+the+past+to+prepare+for+the+future%3A+Writing+a+literature+review&rows=3",
+   "cr_title": "Analyzing the Past to Prepare for the Future: Writing a Literature Review",
+   "cr_container": "MIS Quarterly",
+   "cr_year": 2002,
+   "cr_volume": "26",
+   "cr_issue": "2",
+   "cr_page": "xiii-xxiii",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MIS Quarterly",
+   "cr_authors": [
+    {
+     "given": "Jane",
+     "family": "Webster"
+    },
+    {
+     "given": "Richard T.",
+     "family": "Watson"
+    }
+   ],
+   "cr_doi": "10.2307/4132319",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "query.bibliographic",
+   "note": "DOI found via title search",
+   "seed": {
+    "id": "S03",
+    "title": "Analyzing the past to prepare for the future: Writing a literature review",
+    "doi": null,
+    "year": 2002
+   }
+  },
+  "S04": {
+   "query_title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering",
+   "query_doi": null,
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=Guidelines+for+snowballing+in+systematic+literature+studies+and+a+replication+in+software+engineering&rows=3",
+   "cr_title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering",
+   "cr_container": "Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering",
+   "cr_year": 2014,
+   "cr_volume": null,
+   "cr_issue": null,
+   "cr_page": "1-10",
+   "cr_article_number": null,
+   "cr_type": "proceedings-article",
+   "cr_publisher": "ACM",
+   "cr_authors": [
+    {
+     "given": "Claes",
+     "family": "Wohlin"
+    }
+   ],
+   "cr_doi": "10.1145/2601248.2601268",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "query.bibliographic",
+   "note": "DOI found via title search",
+   "seed": {
+    "id": "S04",
+    "title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering",
+    "doi": null,
+    "year": 2014
+   }
+  },
+  "S05": {
+   "query_title": "Design science in information systems research",
+   "query_doi": "10.2307/25148625",
+   "crossref_url": "https://api.crossref.org/works/10.2307/25148625",
+   "cr_title": "Design Science in Information Systems Research1",
+   "cr_container": "MIS Quarterly",
+   "cr_year": 2004,
+   "cr_volume": "28",
+   "cr_issue": "1",
+   "cr_page": "75-106",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MIS Quarterly",
+   "cr_authors": [
+    {
+     "given": "Alan R.",
+     "family": "Hevner"
+    },
+    {
+     "given": "Salvatore T.",
+     "family": "March"
+    },
+    {
+     "given": "Jinsoo",
+     "family": "Park"
+    },
+    {
+     "given": "Sudha",
+     "family": "Ram"
+    }
+   ],
+   "cr_doi": "10.2307/25148625",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}",
+   "seed": {
+    "id": "S05",
+    "title": "Design science in information systems research",
+    "doi": "10.2307/25148625",
+    "year": 2004
+   }
+  },
+  "S06": {
+   "query_title": "A design science research methodology for information systems research",
+   "query_doi": "10.2753/MIS0742-1222240302",
+   "crossref_url": "https://api.crossref.org/works/10.2753/MIS0742-1222240302",
+   "cr_title": "A Design Science Research Methodology for Information Systems Research",
+   "cr_container": "Journal of Management Information Systems",
+   "cr_year": 2007,
+   "cr_volume": "24",
+   "cr_issue": "3",
+   "cr_page": "45-77",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Informa UK Limited",
+   "cr_authors": [
+    {
+     "given": "Ken",
+     "family": "Peffers"
+    },
+    {
+     "given": "Tuure",
+     "family": "Tuunanen"
+    },
+    {
+     "given": "Marcus A.",
+     "family": "Rothenberger"
+    },
+    {
+     "given": "Samir",
+     "family": "Chatterjee"
+    }
+   ],
+   "cr_doi": "10.2753/mis0742-1222240302",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}",
+   "seed": {
+    "id": "S06",
+    "title": "A design science research methodology for information systems research",
+    "doi": "10.2753/MIS0742-1222240302",
+    "year": 2007
+   }
+  },
+  "S07": {
+   "query_title": "Digital twin: Mitigating unpredictable, undesirable emergent behavior in complex systems",
+   "query_doi": null,
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=Digital+twin%3A+Mitigating+unpredictable%2C+undesirable+emergent+behavior+in+complex+systems&rows=3",
+   "cr_title": "Digital Twin: Mitigating Unpredictable, Undesirable Emergent Behavior in Complex Systems",
+   "cr_container": "Transdisciplinary Perspectives on Complex Systems",
+   "cr_year": 2016,
+   "cr_volume": null,
+   "cr_issue": null,
+   "cr_page": "85-113",
+   "cr_article_number": null,
+   "cr_type": "book-chapter",
+   "cr_publisher": "Springer International Publishing",
+   "cr_authors": [
+    {
+     "given": "Michael",
+     "family": "Grieves"
+    },
+    {
+     "given": "John",
+     "family": "Vickers"
+    }
+   ],
+   "cr_doi": "10.1007/978-3-319-38756-7_4",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "query.bibliographic",
+   "note": "DOI found via title search",
+   "seed": {
+    "id": "S07",
+    "title": "Digital twin: Mitigating unpredictable, undesirable emergent behavior in complex systems",
+    "doi": null,
+    "year": 2017
+   }
+  },
+  "S08": {
+   "query_title": "Construction with digital twin information systems",
+   "query_doi": "10.1017/dce.2020.16",
+   "crossref_url": "https://api.crossref.org/works/10.1017/dce.2020.16",
+   "cr_title": "Construction with digital twin information systems",
+   "cr_container": "Data-Centric Engineering",
+   "cr_year": 2020,
+   "cr_volume": "1",
+   "cr_issue": null,
+   "cr_page": null,
+   "cr_article_number": "e14",
+   "cr_type": "journal-article",
+   "cr_publisher": "Cambridge University Press (CUP)",
+   "cr_authors": [
+    {
+     "given": "Rafael",
+     "family": "Sacks"
+    },
+    {
+     "given": "Ioannis",
+     "family": "Brilakis"
+    },
+    {
+     "given": "Ergo",
+     "family": "Pikas"
+    },
+    {
+     "given": "Haiyan Sally",
+     "family": "Xie"
+    },
+    {
+     "given": "Mark",
+     "family": "Girolami"
+    }
+   ],
+   "cr_doi": "10.1017/dce.2020.16",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}",
+   "seed": {
+    "id": "S08",
+    "title": "Construction with digital twin information systems",
+    "doi": "10.1017/dce.2020.16",
+    "year": 2020
+   }
+  },
+  "S09": {
+   "query_title": "Towards a semantic Construction Digital Twin: Directions for future research",
+   "query_doi": "10.1016/j.autcon.2020.103179",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2020.103179",
+   "cr_title": "Towards a semantic Construction Digital Twin: Directions for future research",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2020,
+   "cr_volume": "114",
+   "cr_issue": null,
+   "cr_page": "103179",
+   "cr_article_number": "103179",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Calin",
+     "family": "Boje"
+    },
+    {
+     "given": "Annie",
+     "family": "Guerriero"
+    },
+    {
+     "given": "Sylvain",
+     "family": "Kubicki"
+    },
+    {
+     "given": "Yacine",
+     "family": "Rezgui"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2020.103179",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}",
+   "seed": {
+    "id": "S09",
+    "title": "Towards a semantic Construction Digital Twin: Directions for future research",
+    "doi": "10.1016/j.autcon.2020.103179",
+    "year": 2020
+   }
+  },
+  "S10": {
+   "query_title": "Digital twin application in the construction industry: A literature review",
+   "query_doi": "10.1016/j.jobe.2021.102726",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.jobe.2021.102726",
+   "cr_title": "Digital twin application in the construction industry: A literature review",
+   "cr_container": "Journal of Building Engineering",
+   "cr_year": 2021,
+   "cr_volume": "40",
+   "cr_issue": null,
+   "cr_page": "102726",
+   "cr_article_number": "102726",
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "De-Graft Joe",
+     "family": "Opoku"
+    },
+    {
+     "given": "Srinath",
+     "family": "Perera"
+    },
+    {
+     "given": "Robert",
+     "family": "Osei-Kyei"
+    },
+    {
+     "given": "Maria",
+     "family": "Rashidi"
+    }
+   ],
+   "cr_doi": "10.1016/j.jobe.2021.102726",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}",
+   "seed": {
+    "id": "S10",
+    "title": "Digital twin application in the construction industry: A literature review",
+    "doi": "10.1016/j.jobe.2021.102726",
+    "year": 2021
+   }
+  },
+  "S11": {
+   "query_title": "Mobile 3D mapping for surveying earthwork projects using an Unmanned Aerial Vehicle (UAV) system",
+   "query_doi": "10.1016/j.autcon.2014.01.004",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2014.01.004",
+   "cr_title": "Mobile 3D mapping for surveying earthwork projects using an Unmanned Aerial Vehicle (UAV) system",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2014,
+   "cr_volume": "41",
+   "cr_issue": null,
+   "cr_page": "1-14",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Sebastian",
+     "family": "Siebert"
+    },
+    {
+     "given": "Jochen",
+     "family": "Teizer"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2014.01.004",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}",
+   "seed": {
+    "id": "S11",
+    "title": "Mobile 3D mapping for surveying earthwork projects using an Unmanned Aerial Vehicle (UAV) system",
+    "doi": "10.1016/j.autcon.2014.01.004",
+    "year": 2014
+   }
+  },
+  "S12a": {
+   "query_title": "Visualization of construction progress monitoring with 4D simulation model overlaid on time-lapsed photographs",
+   "query_doi": null,
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=Visualization+of+construction+progress+monitoring+with+4D+simulation+model+overlaid+on+time-lapsed+photographs&rows=3",
+   "cr_title": "Visualization of Construction Progress Monitoring with 4D Simulation Model Overlaid on Time-Lapsed Photographs",
+   "cr_container": "Journal of Computing in Civil Engineering",
+   "cr_year": 2009,
+   "cr_volume": "23",
+   "cr_issue": "6",
+   "cr_page": "391-404",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "American Society of Civil Engineers (ASCE)",
+   "cr_authors": [
+    {
+     "given": "Mani",
+     "family": "Golparvar-Fard"
+    },
+    {
+     "given": "Feniosky",
+     "family": "Pe\u00f1a-Mora"
+    },
+    {
+     "given": "Carlos A.",
+     "family": "Arboleda"
+    },
+    {
+     "given": "SangHyun",
+     "family": "Lee"
+    }
+   ],
+   "cr_doi": "10.1061/(asce)0887-3801(2009)23:6(391)",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "query.bibliographic",
+   "note": "DOI found via title search",
+   "seed": {
+    "id": "S12a",
+    "title": "Visualization of construction progress monitoring with 4D simulation model overlaid on time-lapsed photographs",
+    "doi": null,
+    "year": 2009
+   }
+  },
+  "S12b": {
+   "query_title": "D4AR - a 4-dimensional augmented reality model for automating construction progress monitoring data collection, processing and communication",
+   "query_doi": null,
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=D4AR+-+a+4-dimensional+augmented+reality+model+for+automating+construction+progress+monitoring+data+collection%2C+processing+and+communication&rows=3",
+   "verified_doi": "N",
+   "method": "query.bibliographic",
+   "best_candidate": [
+    "BIM-Integrated Augmented Reality for Construction Progress Monitoring: Schedule, Economic, and Sustainability Implications",
+    "10.3390/su18189353",
+    0.609
+   ],
+   "note": "no reliable Crossref match",
+   "seed": {
+    "id": "S12b",
+    "title": "D4AR - a 4-dimensional augmented reality model for automating construction progress monitoring data collection, processing and communication",
+    "doi": null,
+    "year": 2009
+   }
+  },
+  "S13": {
+   "query_title": "Data acquisition technologies for construction progress tracking",
+   "query_doi": "10.1016/j.autcon.2016.06.016",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.autcon.2016.06.016",
+   "cr_title": "Data acquisition technologies for construction progress tracking",
+   "cr_container": "Automation in Construction",
+   "cr_year": 2016,
+   "cr_volume": "70",
+   "cr_issue": null,
+   "cr_page": "143-155",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Tarek",
+     "family": "Omar"
+    },
+    {
+     "given": "Moncef L.",
+     "family": "Nehdi"
+    }
+   ],
+   "cr_doi": "10.1016/j.autcon.2016.06.016",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}",
+   "seed": {
+    "id": "S13",
+    "title": "Data acquisition technologies for construction progress tracking",
+    "doi": "10.1016/j.autcon.2016.06.016",
+    "year": 2016
+   }
+  },
+  "S14": {
+   "query_title": "Construction equipment activity recognition for simulation input modeling using mobile sensors and machine learning classifiers",
+   "query_doi": "10.1016/j.aei.2015.03.001",
+   "crossref_url": "https://api.crossref.org/works/10.1016/j.aei.2015.03.001",
+   "cr_title": "Construction equipment activity recognition for simulation input modeling using mobile sensors and machine learning classifiers",
+   "cr_container": "Advanced Engineering Informatics",
+   "cr_year": 2015,
+   "cr_volume": "29",
+   "cr_issue": "4",
+   "cr_page": "867-877",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Reza",
+     "family": "Akhavian"
+    },
+    {
+     "given": "Amir H.",
+     "family": "Behzadan"
+    }
+   ],
+   "cr_doi": "10.1016/j.aei.2015.03.001",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}",
+   "seed": {
+    "id": "S14",
+    "title": "Construction equipment activity recognition for simulation input modeling using mobile sensors and machine learning classifiers",
+    "doi": "10.1016/j.aei.2015.03.001",
+    "year": 2015
+   }
+  },
+  "S15": {
+   "query_title": "Status quo and open challenges in vision-based sensing and tracking of temporary resources on infrastructure construction sites",
+   "query_doi": null,
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=Status+quo+and+open+challenges+in+vision-based+sensing+and+tracking+of+temporary+resources+on+infrastructure+construction+sites&rows=3",
+   "cr_title": "Status quo and open challenges in vision-based sensing and tracking of temporary resources on infrastructure construction sites",
+   "cr_container": "Advanced Engineering Informatics",
+   "cr_year": 2015,
+   "cr_volume": "29",
+   "cr_issue": "2",
+   "cr_page": "225-238",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "Elsevier BV",
+   "cr_authors": [
+    {
+     "given": "Jochen",
+     "family": "Teizer"
+    }
+   ],
+   "cr_doi": "10.1016/j.aei.2015.03.006",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "query.bibliographic",
+   "note": "DOI found via title search",
+   "seed": {
+    "id": "S15",
+    "title": "Status quo and open challenges in vision-based sensing and tracking of temporary resources on infrastructure construction sites",
+    "doi": null,
+    "year": 2015
+   }
+  },
+  "S16": {
+   "query_title": "Earned value project management",
+   "query_doi": null,
+   "crossref_url": "https://api.crossref.org/works?query.bibliographic=Earned+value+project+management&rows=3",
+   "verified_doi": "N",
+   "method": "query.bibliographic",
+   "best_candidate": [
+    "Earned value management in project and programme management",
+    "10.3403/30334561",
+    0.689
+   ],
+   "note": "no reliable Crossref match",
+   "seed": {
+    "id": "S16",
+    "title": "Earned value project management",
+    "doi": null,
+    "year": 2010
+   }
+  },
+  "S17": {
+   "query_title": "Perceived usefulness, perceived ease of use, and user acceptance of information technology",
+   "query_doi": "10.2307/249008",
+   "crossref_url": "https://api.crossref.org/works/10.2307/249008",
+   "cr_title": "Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology",
+   "cr_container": "MIS Quarterly",
+   "cr_year": 1989,
+   "cr_volume": "13",
+   "cr_issue": "3",
+   "cr_page": "319-340",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MIS Quarterly",
+   "cr_authors": [
+    {
+     "given": "Fred D.",
+     "family": "Davis"
+    }
+   ],
+   "cr_doi": "10.2307/249008",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}",
+   "seed": {
+    "id": "S17",
+    "title": "Perceived usefulness, perceived ease of use, and user acceptance of information technology",
+    "doi": "10.2307/249008",
+    "year": 1989
+   }
+  },
+  "S18": {
+   "query_title": "User acceptance of information technology: Toward a unified view",
+   "query_doi": "10.2307/30036540",
+   "crossref_url": "https://api.crossref.org/works/10.2307/30036540",
+   "cr_title": "User Acceptance of Information Technology: Toward A Unified View1",
+   "cr_container": "MIS Quarterly",
+   "cr_year": 2003,
+   "cr_volume": "27",
+   "cr_issue": "3",
+   "cr_page": "425-478",
+   "cr_article_number": null,
+   "cr_type": "journal-article",
+   "cr_publisher": "MIS Quarterly",
+   "cr_authors": [
+    {
+     "given": "Viswanath",
+     "family": "Venkatesh"
+    },
+    {
+     "given": "Michael G.",
+     "family": "Morris"
+    },
+    {
+     "given": "Gordon B.",
+     "family": "Davis"
+    },
+    {
+     "given": "Fred D.",
+     "family": "Davis"
+    }
+   ],
+   "cr_doi": "10.2307/30036540",
+   "title_similarity": 1.0,
+   "verified_doi": "Y",
+   "method": "works/{doi}",
+   "seed": {
+    "id": "S18",
+    "title": "User acceptance of information technology: Toward a unified view",
+    "doi": "10.2307/30036540",
+    "year": 2003
+   }
+  }
+ }
+}

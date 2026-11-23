@@ -1,0 +1,21 @@
+[
+{"id":"S01","title":"The PRISMA 2020 statement: an updated guideline for reporting systematic reviews","doi":"10.1136/bmj.n71","year":2021},
+{"id":"S02","title":"Guidelines for performing systematic literature reviews in software engineering","doi":null,"year":2007},
+{"id":"S03","title":"Analyzing the past to prepare for the future: Writing a literature review","doi":null,"year":2002},
+{"id":"S04","title":"Guidelines for snowballing in systematic literature studies and a replication in software engineering","doi":null,"year":2014},
+{"id":"S05","title":"Design science in information systems research","doi":"10.2307/25148625","year":2004},
+{"id":"S06","title":"A design science research methodology for information systems research","doi":"10.2753/MIS0742-1222240302","year":2007},
+{"id":"S07","title":"Digital twin: Mitigating unpredictable, undesirable emergent behavior in complex systems","doi":null,"year":2017},
+{"id":"S08","title":"Construction with digital twin information systems","doi":"10.1017/dce.2020.16","year":2020},
+{"id":"S09","title":"Towards a semantic Construction Digital Twin: Directions for future research","doi":"10.1016/j.autcon.2020.103179","year":2020},
+{"id":"S10","title":"Digital twin application in the construction industry: A literature review","doi":"10.1016/j.jobe.2021.102726","year":2021},
+{"id":"S11","title":"Mobile 3D mapping for surveying earthwork projects using an Unmanned Aerial Vehicle (UAV) system","doi":"10.1016/j.autcon.2014.01.004","year":2014},
+{"id":"S12a","title":"Visualization of construction progress monitoring with 4D simulation model overlaid on time-lapsed photographs","doi":null,"year":2009},
+{"id":"S12b","title":"D4AR - a 4-dimensional augmented reality model for automating construction progress monitoring data collection, processing and communication","doi":null,"year":2009},
+{"id":"S13","title":"Data acquisition technologies for construction progress tracking","doi":"10.1016/j.autcon.2016.06.016","year":2016},
+{"id":"S14","title":"Construction equipment activity recognition for simulation input modeling using mobile sensors and machine learning classifiers","doi":"10.1016/j.aei.2015.03.001","year":2015},
+{"id":"S15","title":"Status quo and open challenges in vision-based sensing and tracking of temporary resources on infrastructure construction sites","doi":null,"year":2015},
+{"id":"S16","title":"Earned value project management","doi":null,"year":2010},
+{"id":"S17","title":"Perceived usefulness, perceived ease of use, and user acceptance of information technology","doi":"10.2307/249008","year":1989},
+{"id":"S18","title":"User acceptance of information technology: Toward a unified view","doi":"10.2307/30036540","year":2003}
+]
