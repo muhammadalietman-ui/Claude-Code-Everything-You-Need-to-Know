@@ -1,0 +1,25 @@
+task_id,phase,task,owner_agent,depends_on,deliverable_path,acceptance_check,priority,status
+T-000,P0,Create repository structure,project-manager,-,README.md,All folders exist with purpose,Must,Done
+T-001,P0,Master plan (MD+CSV),project-manager,T-000,00_project_management/master_plan.*,Plan and CSV consistent,Must,Done
+T-002,P0,Research framing,research-lead,T-000,05_methodology/research_framing.md,Each H has metric and decision rule,Must,Done
+T-003,P0,SLR protocol and search strings,literature-reviewer,T-002,02_literature_review/,Strings for 4 sources; criteria defined,Must,Done
+T-004,P0,As-is process map and DFD (hypothetical),process-analyst,T-002,03_as_is_analysis/,Every step has lane/input/output/system,Must,Done
+T-005,P0,Conceptual architecture and MVP scope,solution-architect,T-004,04_to_be_architecture/,Components trace to objectives 1-9,Must,Done
+T-006,P0,Quantity measurability matrix,gis-engineer,T-005,04_to_be_architecture/geospatial/,All main activities classified,Must,Done
+T-007,P0,Synthetic dataset specification,data-engineer,T-005,04_to_be_architecture/data_model/synthetic_dataset_spec.md,Entities/fields/generators/seeded anomalies defined,Must,Done
+T-008,P0,MVP backlog with user stories and AC,ux-designer;commercial-analyst,T-005,04_to_be_architecture/ux/mvp_backlog.md,INVEST stories; Gherkin AC,Must,Done
+T-009,P0,Dashboard wireframe description,ux-designer,T-008,04_to_be_architecture/ux/dashboard_wireframes.md,Every screen maps to stories,Must,Done
+T-010,P0,Phase 0 quality review,quality-reviewer,T-003;T-004;T-005;T-006;T-007;T-008;T-009,qa/phase_0_quality_review.md,Checklist complete,Must,Done
+T-011,P0,Executive brief,academic-writer,T-010,docs/executive_brief.md,One A4 page; no confidential data,Must,Done
+T-012,P0,Phase 0 close-out and status,project-manager,T-011,phase_reports/phase_0_closeout.md,Contains 5 required sections,Must,Done
+T-101,P1,Project charter,project-manager,M0,01_governance/project_charter.md,Sponsor sign-off,Must,To do
+T-102,P1,Stakeholder map and RACI,project-manager,M0,01_governance/stakeholders_raci.md,11 stakeholder groups covered,Must,To do
+T-103,P1,Data-governance/privacy/cyber/ethics plan incl. DPIA screening,research-lead,M0,01_governance/data_governance_ethics.md,Jurisdiction-specific labour/privacy rules identified,Must,To do
+T-104,P1,Pilot-site selection criteria and scoring,field-operations-specialist,M0,01_governance/pilot_site_criteria.md,Weighted criteria; candidate scored,Must,To do
+T-201,P2,Run searches and log hits,literature-reviewer,T-003,02_literature_review/search_log.csv,Dated hit counts,Must,To do
+T-202,P2,Screening (2 stages) and PRISMA flow,literature-reviewer,T-201,02_literature_review/prisma_flow.md,Counts reconcile,Must,To do
+T-203,P2,Reference matrix and synthesis,literature-reviewer,T-202,02_literature_review/reference_matrix.csv,All included papers coded,Must,To do
+T-204,P2,Gap analysis and conceptual framework,literature-reviewer;research-lead,T-203,02_literature_review/gap_analysis.md,Gaps mapped to RQs,Must,To do
+T-301,P3,Practitioner interviews (6-10),process-analyst,M1,03_as_is_analysis/interviews/,Anonymised notes; consent recorded,Must,To do
+T-302,P3,Validate as-is BPMN and pain points,process-analyst;field-operations-specialist,T-301,03_as_is_analysis/,2 validations,Must,To do
+T-303,P3,Root-cause analysis and KPI baseline template,process-analyst;commercial-analyst,T-302,03_as_is_analysis/kpi_baseline_template.csv,KPIs operationally defined,Must,To do
