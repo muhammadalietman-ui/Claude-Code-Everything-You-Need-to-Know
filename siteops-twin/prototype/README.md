@@ -2,6 +2,9 @@
 
 A working MVP of the SiteOps Twin, built on the synthetic spread `SYN-SPREAD-01` (25 km, 25 sections, 60 working days, 4 subcontractors, 9 crews). **All data is synthetic.** The demo contains no real company, person, coordinate or contract value.
 
+## No Python? Use the stand-alone files
+`siteops-twin/dist/` holds the **dashboard as a single HTML file** (double-click, opens in Edge or Chrome), the **field app** as an HTML file, and an **Excel workbook** with live status and cap formulas. See [`../dist/README.md`](../dist/README.md).
+
 ## Run it (one command after setup)
 ```bash
 cd siteops-twin/prototype

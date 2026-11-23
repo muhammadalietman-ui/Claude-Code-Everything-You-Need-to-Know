@@ -149,7 +149,9 @@ def reconcile(data: Data, date: str, with_alerts: dict | None = None) -> list[di
         pending = claimed - claimed_at_m
         u = C.U_K * m["sigma"] if m else 0.0
         tol = max(C.TOL_ABS[unit], C.TOL_PCT[unit] * measured) if m else 0.0
-        status = classify(claimed_at_m if m else claimed, measured, u, tol)
+        # Classify on the displayed precision so every status is reproducible from the published figures (audit)
+        status = classify(round(claimed_at_m if m else claimed, 1), None if measured is None else round(measured, 1),
+                          round(u, 2), round(tol, 2))
         cap = (measured + u + tol) if m else 0.0
         key = f"{sid}|{code}|{sub}"
         unverified_since = min((d for d, _ in claims if not m_date or d > m_date), default=None)
