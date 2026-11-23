@@ -252,17 +252,17 @@ function recoTable(rows, { certify = true } = {}) {
   if (!rows.length) return empty('No reconciliation rows match the filters.');
   const canCert = certify && ['QS', 'CM'].includes(state.role);
   return `<div class="tablewrap"><table>
-    <thead><tr><th>Section</th><th>Activity</th><th>Subcontractor</th><th>Unit</th><th class="num">Planned</th><th class="num">Reported</th>
+    <thead><tr><th>Section / plan sheets</th><th>Activity</th><th>Subcontractor</th><th>Unit</th><th class="num">Planned</th><th class="num">Reported</th>
     <th class="num">Measured ± U</th><th class="num">Claimed</th><th class="num">Certified</th><th class="num">Invoiced</th>
     <th class="num">Cap (M+U+T)</th><th class="num">Diff</th><th>Status</th><th>Source</th><th>Alerts</th>${canCert ? '<th>Action</th>' : ''}</tr></thead><tbody>
     ${rows.map((r) => `<tr>
-      <td><a href="#section/${encodeURIComponent(r.section_id)}">${esc(r.section_id)}</a></td><td>${esc(r.activity_code)}</td><td>${esc(r.subcontractor_id)}</td><td>${esc(r.unit)}</td>
+      <td><a href="#section/${encodeURIComponent(r.section_id)}">${esc(r.section_id)}</a>${r.plan_sheets ? `<br><span class="muted">${esc(r.plan_sheets)}</span>` : ''}</td><td>${esc(r.activity_code)}</td><td>${esc(r.subcontractor_id)}</td><td>${esc(r.unit)}</td>
       <td class="num">${num(r.planned, 1)}</td><td class="num">${num(r.reported, 1)}</td>
       <td class="num">${r.measured == null ? '–' : `${num(r.measured, 1)} ± ${num(r.u, 1)}`}</td>
-      <td class="num">${num(r.claimed, 1)}</td><td class="num">${num(r.certified, 1)}</td><td class="num">${num(r.invoiced, 1)}</td>
+      <td class="num">${num(r.claimed, 1)}${r.pending > 0 ? `<br><span class="muted">${num(r.pending, 1)} pending</span>` : ''}</td><td class="num">${num(r.certified, 1)}${r.over_certified > 0 ? `<br><span class="neg">${num(r.over_certified, 1)} over cap</span>` : ''}</td><td class="num">${num(r.invoiced, 1)}</td>
       <td class="num">${num(r.cap, 1)}</td>
       <td class="num ${r.status === 'DISCREPANCY' ? 'neg' : ''}">${num(r.diff, 1)}${r.diff_pct != null ? ` (${pct(r.diff_pct)})` : ''}</td>
-      <td>${statusChip(r.status)}</td><td>${esc(r.verification_source || '')}${r.last_flight ? `<br><span class="muted">flight ${esc(r.last_flight)}</span>` : ''}</td>
+      <td>${statusChip(r.status)}</td><td>${esc(r.verification_source || '')}${r.last_flight ? `<br><span class="muted">${r.verification_source === 'UAV' ? 'flight' : 'measured'} ${esc(r.last_flight)}</span>` : ''}</td>
       <td>${(r.alerts || []).map(esc).join(', ') || '–'}</td>
       ${canCert ? `<td><button data-key="${esc(r.key)}" class="certBtn">Certify</button></td>` : ''}</tr>`).join('')}
     </tbody></table></div>`;
