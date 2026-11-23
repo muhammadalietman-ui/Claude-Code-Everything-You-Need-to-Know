@@ -49,3 +49,6 @@
 | Q-076 | Which plan-sheet numbering and sheet-to-KP table does the project use? Can an anonymised index be shared? | User / Survey | D2 | | Open |
 | Q-077 | Are subcontractor man-hours in the client report taken from subcontractor timesheets or from JV attendance records? | User | D2 | | Open |
 | Q-078 | Lump-sum items (valve stations): what are the stage weights, and who certifies the %? | Commercial | D3 | | Open |
+| Q-079 | Which suppliers and form versions should get adapters first (by commercial value or volume)? | User | D2b | | Open |
+| Q-080 | Can master data be shared (anonymised): plan-sheet index, crossing list with KP, pipe tally, weld log, hydrotest test sections, HDD rod lengths? | User | D2b | | Open |
+| Q-081 | Is the "no countersigned daily report, not payable" rule acceptable for future subcontracts (D-087)? | User / Legal | D3 | | Open |

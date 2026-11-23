@@ -40,3 +40,7 @@ T-506,D5a,Works agreement template + DPIA for sensing tiers,research-lead,D-074,
 T-507,D3,Milestone/percentage measurement type for lump-sum items (stage weights + evidence),commercial-analyst;data-engineer,Q-078,prototype/,Valve-station stages reconciled,Should,To do
 T-508,D3,Crossing entity with component progress; HDD/drilling logs as evidence,gis-engineer;data-engineer,supplier report analysis,prototype/,Crossings reconciled object-wise,Should,To do
 T-509,D2,Supplier report ingestion adapters (one mapping per supplier format),data-engineer,supplier report analysis,prototype/siteops/,Each sample report maps to canonical fields,Must,To do
+T-510,D2b,Schema delta + location-resolution service (sheet/crossing/pipe/weld/test section to KP),data-engineer;gis-engineer,D-085,prototype/siteops/,All 10 sample formats representable,Must,To do
+T-511,D2b,Adapter framework + Excel diary and HDD datalogger reference adapters (tested on private extracts),data-engineer,T-510,prototype/siteops/ingest/,Extracted values match manual extract,Must,To do
+T-512,D2b,Review/quarantine screen S10,ux-designer;full-stack-developer,T-511,prototype/web/,Confirm/correct actions audited,Must,To do
+T-513,D2b,Rules AL-21 AL-17 AL-18 AL-19 then AL-23,data-scientist;commercial-analyst,D-086,prototype/siteops/engine.py,Seeded synthetic cases detected,Must,To do

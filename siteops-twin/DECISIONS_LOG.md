@@ -55,3 +55,7 @@ Status values: **Made** (taken within agent authority), **Proposed** (needs the 
 | D-081 | 2026-11-23 | Adopt construction-plan sheets as a second location key (`plan_sheet` ↔ KP) | RPT-0 practice (F1) | gis-engineer | Made |
 | D-082 | 2026-11-23 | Add rule AL-14 (daily-report text vs quantities) and the S9 client daily report generated from the model with independent check columns | RPT-0 findings F4, F9 | commercial-analyst | Made |
 | D-083 | 2026-11-23 | Model man-hours (reported vs sensed) and equipment hours (calculated vs measured) explicitly | RPT-0 findings F2, F3 | data-engineer | Made |
+| D-084 | 2026-11-23 | Supplier-report ingestion pipeline: classify → extract (incl. OCR) → normalise → resolve location → validate → quarantine/review → load | 10 real supplier reports: no KP, mixed formats, scans | data-engineer | Proposed |
+| D-085 | 2026-11-23 | Canonical model delta: nullable KP + location reference, activity class, hours basis for labour and equipment, sign-off fields, downtime/billing/HDD/material entities | Same evidence | data-engineer | Proposed |
+| D-086 | 2026-11-23 | Proposed rules AL-15…AL-24. Recommended first: AL-21, AL-17, AL-18, AL-19, AL-23 | Same evidence | commercial-analyst | **Proposed (user to prioritise)** |
+| D-087 | 2026-11-23 | Recommend a mandatory standard subcontractor daily report + "no countersigned report, not payable" clause in future subcontracts | 9/10 supplier reports not countersigned | commercial-analyst | **Proposed (user)** |
