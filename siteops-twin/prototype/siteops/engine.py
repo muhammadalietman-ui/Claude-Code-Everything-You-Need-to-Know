@@ -17,14 +17,14 @@ from . import config as C
 
 SEVERITY = {"AL-01": "HIGH", "AL-02": "MED", "AL-03": "HIGH", "AL-04": "MED", "AL-05": "MED", "AL-06": "MED",
             "AL-07": "MED", "AL-08": "HIGH", "AL-09": "HIGH", "AL-10": "HIGH", "AL-11": "HIGH", "AL-12": "HIGH",
-            "AL-13": "MED"}
+            "AL-13": "MED", "AL-14": "LOW"}
 TITLES = {"AL-01": "Claimed above measured (beyond tolerance)", "AL-02": "Missing field daily report",
           "AL-03": "Duplicate / overlapping KP claim", "AL-04": "Cumulative claim exceeds BoQ quantity",
           "AL-05": "Productivity drop vs 5-day median", "AL-06": "Claimed with no measurement or evidence",
           "AL-07": "Equipment reported working, telematics idle", "AL-08": "Out-of-sequence progress",
           "AL-09": "Claimed headcount above sensed", "AL-10": "Impossible presence (two fronts)",
           "AL-11": "Equipment hours not supported by telematics", "AL-12": "Front reported active, no presence signal",
-          "AL-13": "Weather standby not supported"}
+          "AL-13": "Weather standby not supported", "AL-14": "Daily-report text and quantities disagree"}
 
 
 def rows(conn, sql, args=()):
@@ -67,6 +67,10 @@ class Data:
         self.certs = q("certification_line")
         self.invoices = q("invoice_line")
         self.alert_state = {a["alert_id"]: a for a in q("alert_state")}
+        self.sheets = q("plan_sheet")
+        self.manpower = q("manpower_daily")
+        self.eq_calc = q("equipment_calc_daily")
+        self.summary = q("daily_summary_item")
         # derived: claim line subcontractor
         for cl in self.claim_lines:
             cl["subcontractor_id"] = self.boq.get(cl["boq_item_id"], {}).get("subcontractor_id") or \
@@ -91,6 +95,11 @@ def section_shares(data, kf, kt, section_id=None):
         if ov > 0:
             out.append((s["section_id"], ov / (kt - kf)))
     return out
+
+
+def sheets_for(data, kf, kt):
+    ids = [s["sheet_id"] for s in data.sheets if s["kp_from_m"] < kt and s["kp_to_m"] > kf]
+    return None if not ids else (ids[0] if len(ids) == 1 else f"{ids[0]}–{ids[-1]}")
 
 
 def to_metres(data, code, qty):
@@ -170,6 +179,7 @@ def reconcile(data: Data, date: str, with_alerts: dict | None = None) -> list[di
             "unverified_since": unverified_since, "rate": rate, "alerts": [],
         }
         row["certifiable"] = round(min(claimed_at_m, cap) if m else 0.0, 1)
+        row["plan_sheets"] = sheets_for(data, data.sec_by_id[sid]["kp_from_m"], data.sec_by_id[sid]["kp_to_m"]) if sid in data.sec_by_id else None
         # Certified earlier against an older measurement but now above the cap -> recover in next certificate
         row["over_certified"] = round(max(row["certified"] - cap, 0.0), 1) if m else 0.0
         out.append(row)
@@ -373,6 +383,17 @@ def alerts(data: Data, date: str, rec_rows: list[dict] | None = None) -> dict[st
                 f"Weather standby {sb['hours']} h claimed; site weather wind {w['wind_ms']} m/s, rain {w['precip_mm']} mm "
                 f"(limits {C.WEATHER_WIND_LIMIT_MS} m/s / {C.WEATHER_PRECIP_LIMIT_MM} mm)", crew_id=sb["crew_id"],
                 subcontractor_id=sb["subcontractor_id"])
+    # AL-14 daily-report narrative says work was completed, but no quantity was reported for that activity/day
+    qty_day = defaultdict(float)
+    for ln in data.report_lines:
+        if ln["report_date"] and ln["report_date"] <= date:
+            qty_day[(ln["report_date"], ln["activity_code"])] += ln["qty"] or 0
+    for it in data.summary:
+        if it["kind"] == "COMPLETED" and it["activity_code"] and it["work_date"] <= date \
+                and qty_day.get((it["work_date"], it["activity_code"]), 0) <= 0:
+            add("AL-14", "daily_summary", f"{it['activity_code']}|{it['work_date']}", it["work_date"],
+                f"Report text: '{it['text']}', but the quantity table shows 0 for {it['activity_code']} on {it['work_date']}",
+                activity_code=it["activity_code"], subcontractor_id=data.sub_of_act.get(it["activity_code"]))
     return out
 
 

@@ -1,0 +1,752 @@
+# SYNTHETIC DATA - SiteOps Twin demo - not a real project - seed 20270104
+work_date,kind,activity_code,sheets,text
+2027-01-04,COMPLETED,CLR,BP101–BP103,Oberbodenabtrag & Trassenfreimachung 972 m im Bereich BP101–BP103
+2027-01-04,PLANNED,CLR,BP103,Oberbodenabtrag & Trassenfreimachung ab BP103
+2027-01-04,HSE,,,Keine besonderen Vorkommnisse
+2027-01-05,COMPLETED,CLR,BP103–BP106,Oberbodenabtrag & Trassenfreimachung 903 m im Bereich BP103–BP106
+2027-01-05,PLANNED,CLR,BP106,Oberbodenabtrag & Trassenfreimachung ab BP106
+2027-01-05,HSE,,,Keine besonderen Vorkommnisse
+2027-01-06,COMPLETED,CLR,BP106–BP108,Oberbodenabtrag & Trassenfreimachung 874 m im Bereich BP106–BP108
+2027-01-06,PLANNED,CLR,BP108,Oberbodenabtrag & Trassenfreimachung ab BP108
+2027-01-06,PLANNED,GRD,BP101,Planieren des Arbeitsstreifens ab BP101
+2027-01-06,HSE,,,Keine besonderen Vorkommnisse
+2027-01-07,COMPLETED,CLR,BP108–BP111,"Oberbodenabtrag & Trassenfreimachung 1,063 m im Bereich BP108–BP111"
+2027-01-07,COMPLETED,GRD,BP101–BP103,Planieren des Arbeitsstreifens 933 m im Bereich BP101–BP103
+2027-01-07,PLANNED,CLR,BP111,Oberbodenabtrag & Trassenfreimachung ab BP111
+2027-01-07,PLANNED,GRD,BP103,Planieren des Arbeitsstreifens ab BP103
+2027-01-07,HSE,,,Keine besonderen Vorkommnisse
+2027-01-08,COMPLETED,CLR,BP111–BP114,Oberbodenabtrag & Trassenfreimachung 841 m im Bereich BP111–BP114
+2027-01-08,COMPLETED,GRD,BP103–BP106,Planieren des Arbeitsstreifens 937 m im Bereich BP103–BP106
+2027-01-08,PLANNED,CLR,BP114,Oberbodenabtrag & Trassenfreimachung ab BP114
+2027-01-08,PLANNED,GRD,BP106,Planieren des Arbeitsstreifens ab BP106
+2027-01-08,HSE,,,Keine besonderen Vorkommnisse
+2027-01-09,COMPLETED,CLR,BP114–BP115,Oberbodenabtrag & Trassenfreimachung 448 m im Bereich BP114–BP115
+2027-01-09,COMPLETED,GRD,BP106–BP107,Planieren des Arbeitsstreifens 508 m im Bereich BP106–BP107
+2027-01-09,PLANNED,CLR,BP115,Oberbodenabtrag & Trassenfreimachung ab BP115
+2027-01-09,PLANNED,GRD,BP107,Planieren des Arbeitsstreifens ab BP107
+2027-01-09,PLANNED,STR,BP101,Auslegen ab BP101
+2027-01-09,HSE,,,Keine besonderen Vorkommnisse
+2027-01-11,COMPLETED,CLR,BP115–BP118,Oberbodenabtrag & Trassenfreimachung 933 m im Bereich BP115–BP118
+2027-01-11,COMPLETED,GRD,BP107–BP110,Planieren des Arbeitsstreifens 803 m im Bereich BP107–BP110
+2027-01-11,COMPLETED,STR,BP101–BP103,Auslegen 805 m im Bereich BP101–BP103
+2027-01-11,PLANNED,CLR,BP118,Oberbodenabtrag & Trassenfreimachung ab BP118
+2027-01-11,PLANNED,GRD,BP110,Planieren des Arbeitsstreifens ab BP110
+2027-01-11,PLANNED,STR,BP103,Auslegen ab BP103
+2027-01-11,HSE,,,Keine besonderen Vorkommnisse
+2027-01-12,COMPLETED,CLR,BP118–BP120,Oberbodenabtrag & Trassenfreimachung 898 m im Bereich BP118–BP120
+2027-01-12,COMPLETED,GRD,BP110–BP112,Planieren des Arbeitsstreifens 919 m im Bereich BP110–BP112
+2027-01-12,COMPLETED,STR,BP103–BP105,Auslegen 642 m im Bereich BP103–BP105
+2027-01-12,PLANNED,CLR,BP120,Oberbodenabtrag & Trassenfreimachung ab BP120
+2027-01-12,PLANNED,GRD,BP112,Planieren des Arbeitsstreifens ab BP112
+2027-01-12,PLANNED,STR,BP105,Auslegen ab BP105
+2027-01-12,HSE,,,Keine besonderen Vorkommnisse
+2027-01-13,COMPLETED,CLR,BP120–BP123,Oberbodenabtrag & Trassenfreimachung 890 m im Bereich BP120–BP123
+2027-01-13,COMPLETED,GRD,BP112–BP114,Planieren des Arbeitsstreifens 711 m im Bereich BP112–BP114
+2027-01-13,COMPLETED,STR,BP105–BP107,Auslegen 931 m im Bereich BP105–BP107
+2027-01-13,PLANNED,CLR,BP123,Oberbodenabtrag & Trassenfreimachung ab BP123
+2027-01-13,PLANNED,GRD,BP114,Planieren des Arbeitsstreifens ab BP114
+2027-01-13,PLANNED,STR,BP107,Auslegen ab BP107
+2027-01-13,PLANNED,WLD,BP101,Rohrschweißen & ZfP ab BP101
+2027-01-13,HSE,,,Keine besonderen Vorkommnisse
+2027-01-14,COMPLETED,CLR,BP123–BP126,Oberbodenabtrag & Trassenfreimachung 980 m im Bereich BP123–BP126
+2027-01-14,COMPLETED,GRD,BP114–BP117,Planieren des Arbeitsstreifens 795 m im Bereich BP114–BP117
+2027-01-14,COMPLETED,STR,BP107–BP110,Auslegen 872 m im Bereich BP107–BP110
+2027-01-14,COMPLETED,WLD,BP101–BP102,Rohrschweißen & ZfP 40 nr im Bereich BP101–BP102
+2027-01-14,HSE,,,Keine besonderen Vorkommnisse
+2027-01-15,PLANNED,CLR,BP126,Oberbodenabtrag & Trassenfreimachung ab BP126
+2027-01-15,PLANNED,GRD,BP117,Planieren des Arbeitsstreifens ab BP117
+2027-01-15,PLANNED,STR,BP110,Auslegen ab BP110
+2027-01-15,PLANNED,WLD,BP102,Rohrschweißen & ZfP ab BP102
+2027-01-15,HSE,,,Keine besonderen Vorkommnisse
+2027-01-16,COMPLETED,CLR,BP126–BP127,Oberbodenabtrag & Trassenfreimachung 411 m im Bereich BP126–BP127
+2027-01-16,COMPLETED,GRD,BP117–BP118,Planieren des Arbeitsstreifens 422 m im Bereich BP117–BP118
+2027-01-16,COMPLETED,STR,BP110–BP111,Auslegen 410 m im Bereich BP110–BP111
+2027-01-16,COMPLETED,WLD,BP102–BP103,Rohrschweißen & ZfP 23 nr im Bereich BP102–BP103
+2027-01-16,PLANNED,CLR,BP127,Oberbodenabtrag & Trassenfreimachung ab BP127
+2027-01-16,PLANNED,GRD,BP118,Planieren des Arbeitsstreifens ab BP118
+2027-01-16,PLANNED,STR,BP111,Auslegen ab BP111
+2027-01-16,PLANNED,WLD,BP103,Rohrschweißen & ZfP ab BP103
+2027-01-16,PLANNED,FJC,BP101,Nachbeschichtung ab BP101
+2027-01-16,PLANNED,TRN,BP101,Grabenarbeiten ab BP101
+2027-01-16,HSE,,,Keine besonderen Vorkommnisse
+2027-01-18,COMPLETED,CLR,BP127–BP129,Oberbodenabtrag & Trassenfreimachung 835 m im Bereich BP127–BP129
+2027-01-18,COMPLETED,GRD,BP118–BP120,Planieren des Arbeitsstreifens 817 m im Bereich BP118–BP120
+2027-01-18,COMPLETED,STR,BP111–BP113,Auslegen 738 m im Bereich BP111–BP113
+2027-01-18,COMPLETED,WLD,BP103–BP104,Rohrschweißen & ZfP 43 nr im Bereich BP103–BP104
+2027-01-18,COMPLETED,FJC,BP101–BP102,Nachbeschichtung 38 nr im Bereich BP101–BP102
+2027-01-18,COMPLETED,TRN,BP101–BP102,Grabenarbeiten 557 m im Bereich BP101–BP102
+2027-01-18,PLANNED,CLR,BP129,Oberbodenabtrag & Trassenfreimachung ab BP129
+2027-01-18,PLANNED,GRD,BP120,Planieren des Arbeitsstreifens ab BP120
+2027-01-18,PLANNED,STR,BP113,Auslegen ab BP113
+2027-01-18,PLANNED,WLD,BP104,Rohrschweißen & ZfP ab BP104
+2027-01-18,PLANNED,FJC,BP102,Nachbeschichtung ab BP102
+2027-01-18,PLANNED,TRN,BP102,Grabenarbeiten ab BP102
+2027-01-18,HSE,,,Keine besonderen Vorkommnisse
+2027-01-19,COMPLETED,CLR,BP129–BP131,Oberbodenabtrag & Trassenfreimachung 784 m im Bereich BP129–BP131
+2027-01-19,COMPLETED,GRD,BP120–BP122,Planieren des Arbeitsstreifens 769 m im Bereich BP120–BP122
+2027-01-19,COMPLETED,STR,BP113–BP116,Auslegen 887 m im Bereich BP113–BP116
+2027-01-19,COMPLETED,WLD,BP104–BP106,Rohrschweißen & ZfP 43 nr im Bereich BP104–BP106
+2027-01-19,COMPLETED,FJC,BP102–BP103,Nachbeschichtung 46 nr im Bereich BP102–BP103
+2027-01-19,COMPLETED,TRN,BP102–BP104,Grabenarbeiten 553 m im Bereich BP102–BP104
+2027-01-19,PLANNED,CLR,BP131,Oberbodenabtrag & Trassenfreimachung ab BP131
+2027-01-19,PLANNED,GRD,BP122,Planieren des Arbeitsstreifens ab BP122
+2027-01-19,PLANNED,STR,BP116,Auslegen ab BP116
+2027-01-19,PLANNED,WLD,BP106,Rohrschweißen & ZfP ab BP106
+2027-01-19,PLANNED,FJC,BP103,Nachbeschichtung ab BP103
+2027-01-19,PLANNED,TRN,BP104,Grabenarbeiten ab BP104
+2027-01-19,HSE,,,Keine besonderen Vorkommnisse
+2027-01-20,COMPLETED,CLR,BP131–BP134,Oberbodenabtrag & Trassenfreimachung 954 m im Bereich BP131–BP134
+2027-01-20,COMPLETED,GRD,BP122–BP125,Planieren des Arbeitsstreifens 855 m im Bereich BP122–BP125
+2027-01-20,COMPLETED,STR,BP116–BP118,Auslegen 809 m im Bereich BP116–BP118
+2027-01-20,COMPLETED,WLD,BP106–BP107,Rohrschweißen & ZfP 43 nr im Bereich BP106–BP107
+2027-01-20,COMPLETED,FJC,BP103–BP105,Nachbeschichtung 45 nr im Bereich BP103–BP105
+2027-01-20,COMPLETED,TRN,BP104–BP106,Grabenarbeiten 667 m im Bereich BP104–BP106
+2027-01-20,PLANNED,CLR,BP134,Oberbodenabtrag & Trassenfreimachung ab BP134
+2027-01-20,PLANNED,GRD,BP125,Planieren des Arbeitsstreifens ab BP125
+2027-01-20,PLANNED,STR,BP118,Auslegen ab BP118
+2027-01-20,PLANNED,WLD,BP107,Rohrschweißen & ZfP ab BP107
+2027-01-20,PLANNED,FJC,BP105,Nachbeschichtung ab BP105
+2027-01-20,PLANNED,TRN,BP106,Grabenarbeiten ab BP106
+2027-01-20,HSE,,,Keine besonderen Vorkommnisse
+2027-01-21,COMPLETED,CLR,BP134–BP137,Oberbodenabtrag & Trassenfreimachung 889 m im Bereich BP134–BP137
+2027-01-21,COMPLETED,GRD,BP125–BP127,Planieren des Arbeitsstreifens 812 m im Bereich BP125–BP127
+2027-01-21,COMPLETED,STR,BP118–BP120,Auslegen 832 m im Bereich BP118–BP120
+2027-01-21,COMPLETED,WLD,BP107–BP109,Rohrschweißen & ZfP 47 nr im Bereich BP107–BP109
+2027-01-21,COMPLETED,FJC,BP105–BP106,Nachbeschichtung 40 nr im Bereich BP105–BP106
+2027-01-21,COMPLETED,TRN,BP106–BP107,Grabenarbeiten 501 m im Bereich BP106–BP107
+2027-01-21,PLANNED,CLR,BP137,Oberbodenabtrag & Trassenfreimachung ab BP137
+2027-01-21,PLANNED,GRD,BP127,Planieren des Arbeitsstreifens ab BP127
+2027-01-21,PLANNED,STR,BP120,Auslegen ab BP120
+2027-01-21,PLANNED,WLD,BP109,Rohrschweißen & ZfP ab BP109
+2027-01-21,PLANNED,FJC,BP106,Nachbeschichtung ab BP106
+2027-01-21,PLANNED,TRN,BP107,Grabenarbeiten ab BP107
+2027-01-21,PLANNED,LOW,BP101,Absenken ab BP101
+2027-01-21,HSE,,,Keine besonderen Vorkommnisse
+2027-01-22,COMPLETED,CLR,BP137–BP139,Oberbodenabtrag & Trassenfreimachung 924 m im Bereich BP137–BP139
+2027-01-22,COMPLETED,GRD,BP127–BP129,Planieren des Arbeitsstreifens 819 m im Bereich BP127–BP129
+2027-01-22,COMPLETED,STR,BP120–BP123,Auslegen 781 m im Bereich BP120–BP123
+2027-01-22,COMPLETED,WLD,BP109–BP110,Rohrschweißen & ZfP 49 nr im Bereich BP109–BP110
+2027-01-22,COMPLETED,FJC,BP106–BP108,Nachbeschichtung 40 nr im Bereich BP106–BP108
+2027-01-22,COMPLETED,TRN,BP107–BP108,Grabenarbeiten 466 m im Bereich BP107–BP108
+2027-01-22,COMPLETED,LOW,BP101–BP102,Absenken 545 m im Bereich BP101–BP102
+2027-01-22,HSE,,,Keine besonderen Vorkommnisse
+2027-01-23,PLANNED,CLR,BP139,Oberbodenabtrag & Trassenfreimachung ab BP139
+2027-01-23,PLANNED,GRD,BP129,Planieren des Arbeitsstreifens ab BP129
+2027-01-23,PLANNED,STR,BP123,Auslegen ab BP123
+2027-01-23,PLANNED,WLD,BP110,Rohrschweißen & ZfP ab BP110
+2027-01-23,PLANNED,FJC,BP108,Nachbeschichtung ab BP108
+2027-01-23,PLANNED,TRN,BP108,Grabenarbeiten ab BP108
+2027-01-23,PLANNED,LOW,BP102,Absenken ab BP102
+2027-01-23,HSE,,,Keine besonderen Vorkommnisse
+2027-01-25,COMPLETED,CLR,BP139–BP141,Oberbodenabtrag & Trassenfreimachung 468 m im Bereich BP139–BP141
+2027-01-25,COMPLETED,GRD,BP129–BP131,Planieren des Arbeitsstreifens 493 m im Bereich BP129–BP131
+2027-01-25,COMPLETED,STR,BP123–BP124,Auslegen 445 m im Bereich BP123–BP124
+2027-01-25,COMPLETED,WLD,BP110–BP111,Rohrschweißen & ZfP 21 nr im Bereich BP110–BP111
+2027-01-25,COMPLETED,FJC,BP108,Nachbeschichtung 23 nr im Bereich BP108
+2027-01-25,COMPLETED,TRN,BP108–BP109,Grabenarbeiten 237 m im Bereich BP108–BP109
+2027-01-25,COMPLETED,LOW,BP102–BP103,Absenken 244 m im Bereich BP102–BP103
+2027-01-25,PLANNED,CLR,BP141,Oberbodenabtrag & Trassenfreimachung ab BP141
+2027-01-25,PLANNED,GRD,BP131,Planieren des Arbeitsstreifens ab BP131
+2027-01-25,PLANNED,STR,BP124,Auslegen ab BP124
+2027-01-25,PLANNED,WLD,BP111,Rohrschweißen & ZfP ab BP111
+2027-01-25,PLANNED,FJC,BP108,Nachbeschichtung ab BP108
+2027-01-25,PLANNED,TRN,BP109,Grabenarbeiten ab BP109
+2027-01-25,PLANNED,LOW,BP103,Absenken ab BP103
+2027-01-25,PLANNED,BKF,BP101,Bettung & Rückverfüllung ab BP101
+2027-01-25,HSE,,,Keine besonderen Vorkommnisse
+2027-01-26,COMPLETED,CLR,BP141–BP143,Oberbodenabtrag & Trassenfreimachung 925 m im Bereich BP141–BP143
+2027-01-26,COMPLETED,GRD,BP131–BP133,Planieren des Arbeitsstreifens 908 m im Bereich BP131–BP133
+2027-01-26,COMPLETED,STR,BP124–BP126,Auslegen 854 m im Bereich BP124–BP126
+2027-01-26,COMPLETED,WLD,BP111–BP113,Rohrschweißen & ZfP 45 nr im Bereich BP111–BP113
+2027-01-26,COMPLETED,FJC,BP108–BP110,Nachbeschichtung 48 nr im Bereich BP108–BP110
+2027-01-26,COMPLETED,TRN,BP109–BP111,Grabenarbeiten 556 m im Bereich BP109–BP111
+2027-01-26,COMPLETED,LOW,BP103–BP104,Absenken 535 m im Bereich BP103–BP104
+2027-01-26,COMPLETED,BKF,BP101–BP102,Bettung & Rückverfüllung 442 m im Bereich BP101–BP102
+2027-01-26,PLANNED,CLR,BP143,Oberbodenabtrag & Trassenfreimachung ab BP143
+2027-01-26,PLANNED,GRD,BP133,Planieren des Arbeitsstreifens ab BP133
+2027-01-26,PLANNED,STR,BP126,Auslegen ab BP126
+2027-01-26,PLANNED,WLD,BP113,Rohrschweißen & ZfP ab BP113
+2027-01-26,PLANNED,FJC,BP110,Nachbeschichtung ab BP110
+2027-01-26,PLANNED,TRN,BP111,Grabenarbeiten ab BP111
+2027-01-26,PLANNED,LOW,BP104,Absenken ab BP104
+2027-01-26,PLANNED,BKF,BP102,Bettung & Rückverfüllung ab BP102
+2027-01-26,HSE,,,Keine besonderen Vorkommnisse
+2027-01-27,COMPLETED,CLR,BP143–BP146,Oberbodenabtrag & Trassenfreimachung 832 m im Bereich BP143–BP146
+2027-01-27,COMPLETED,GRD,BP133–BP136,Planieren des Arbeitsstreifens 793 m im Bereich BP133–BP136
+2027-01-27,COMPLETED,STR,BP126–BP129,Auslegen 891 m im Bereich BP126–BP129
+2027-01-27,COMPLETED,WLD,BP113–BP114,Rohrschweißen & ZfP 41 nr im Bereich BP113–BP114
+2027-01-27,COMPLETED,FJC,BP110–BP112,Nachbeschichtung 44 nr im Bereich BP110–BP112
+2027-01-27,COMPLETED,TRN,BP111–BP112,Grabenarbeiten 502 m im Bereich BP111–BP112
+2027-01-27,COMPLETED,LOW,BP104–BP106,Absenken 537 m im Bereich BP104–BP106
+2027-01-27,COMPLETED,BKF,BP102–BP103,Bettung & Rückverfüllung 519 m im Bereich BP102–BP103
+2027-01-27,PLANNED,CLR,BP146,Oberbodenabtrag & Trassenfreimachung ab BP146
+2027-01-27,PLANNED,GRD,BP136,Planieren des Arbeitsstreifens ab BP136
+2027-01-27,PLANNED,STR,BP129,Auslegen ab BP129
+2027-01-27,PLANNED,WLD,BP114,Rohrschweißen & ZfP ab BP114
+2027-01-27,PLANNED,FJC,BP112,Nachbeschichtung ab BP112
+2027-01-27,PLANNED,TRN,BP112,Grabenarbeiten ab BP112
+2027-01-27,PLANNED,LOW,BP106,Absenken ab BP106
+2027-01-27,PLANNED,BKF,BP103,Bettung & Rückverfüllung ab BP103
+2027-01-27,HSE,,,Keine besonderen Vorkommnisse
+2027-01-28,COMPLETED,CLR,BP146–BP149,Oberbodenabtrag & Trassenfreimachung 995 m im Bereich BP146–BP149
+2027-01-28,COMPLETED,GRD,BP136–BP138,Planieren des Arbeitsstreifens 841 m im Bereich BP136–BP138
+2027-01-28,COMPLETED,STR,BP129–BP131,Auslegen 922 m im Bereich BP129–BP131
+2027-01-28,COMPLETED,WLD,BP114–BP116,Rohrschweißen & ZfP 48 nr im Bereich BP114–BP116
+2027-01-28,COMPLETED,FJC,BP112–BP113,Nachbeschichtung 45 nr im Bereich BP112–BP113
+2027-01-28,COMPLETED,TRN,BP112–BP113,Grabenarbeiten 510 m im Bereich BP112–BP113
+2027-01-28,COMPLETED,LOW,BP106–BP107,Absenken 519 m im Bereich BP106–BP107
+2027-01-28,COMPLETED,BKF,BP103–BP105,Bettung & Rückverfüllung 520 m im Bereich BP103–BP105
+2027-01-28,PLANNED,CLR,BP149,Oberbodenabtrag & Trassenfreimachung ab BP149
+2027-01-28,PLANNED,GRD,BP138,Planieren des Arbeitsstreifens ab BP138
+2027-01-28,PLANNED,STR,BP131,Auslegen ab BP131
+2027-01-28,PLANNED,WLD,BP116,Rohrschweißen & ZfP ab BP116
+2027-01-28,PLANNED,FJC,BP113,Nachbeschichtung ab BP113
+2027-01-28,PLANNED,TRN,BP113,Grabenarbeiten ab BP113
+2027-01-28,PLANNED,LOW,BP107,Absenken ab BP107
+2027-01-28,PLANNED,BKF,BP105,Bettung & Rückverfüllung ab BP105
+2027-01-28,HSE,,,Keine besonderen Vorkommnisse
+2027-01-29,COMPLETED,CLR,BP149–BP151,"Oberbodenabtrag & Trassenfreimachung 1,007 m im Bereich BP149–BP151"
+2027-01-29,COMPLETED,GRD,BP138–BP141,Planieren des Arbeitsstreifens 891 m im Bereich BP138–BP141
+2027-01-29,COMPLETED,STR,BP131–BP133,Auslegen 727 m im Bereich BP131–BP133
+2027-01-29,COMPLETED,WLD,BP116–BP117,Rohrschweißen & ZfP 40 nr im Bereich BP116–BP117
+2027-01-29,COMPLETED,FJC,BP113–BP115,Nachbeschichtung 41 nr im Bereich BP113–BP115
+2027-01-29,COMPLETED,TRN,BP113–BP115,Grabenarbeiten 482 m im Bereich BP113–BP115
+2027-01-29,COMPLETED,LOW,BP107–BP109,Absenken 502 m im Bereich BP107–BP109
+2027-01-29,COMPLETED,BKF,BP105–BP106,Bettung & Rückverfüllung 522 m im Bereich BP105–BP106
+2027-01-29,PLANNED,CLR,BP151,Oberbodenabtrag & Trassenfreimachung ab BP151
+2027-01-29,PLANNED,GRD,BP141,Planieren des Arbeitsstreifens ab BP141
+2027-01-29,PLANNED,STR,BP133,Auslegen ab BP133
+2027-01-29,PLANNED,WLD,BP117,Rohrschweißen & ZfP ab BP117
+2027-01-29,PLANNED,FJC,BP115,Nachbeschichtung ab BP115
+2027-01-29,PLANNED,TRN,BP115,Grabenarbeiten ab BP115
+2027-01-29,PLANNED,LOW,BP109,Absenken ab BP109
+2027-01-29,PLANNED,BKF,BP106,Bettung & Rückverfüllung ab BP106
+2027-01-29,HSE,,,Keine besonderen Vorkommnisse
+2027-01-30,COMPLETED,CLR,BP151–BP154,Oberbodenabtrag & Trassenfreimachung 835 m im Bereich BP151–BP154
+2027-01-30,COMPLETED,GRD,BP141–BP143,Planieren des Arbeitsstreifens 821 m im Bereich BP141–BP143
+2027-01-30,COMPLETED,STR,BP133–BP136,Auslegen 749 m im Bereich BP133–BP136
+2027-01-30,COMPLETED,WLD,BP117–BP119,Rohrschweißen & ZfP 49 nr im Bereich BP117–BP119
+2027-01-30,COMPLETED,FJC,BP115–BP116,Nachbeschichtung 48 nr im Bereich BP115–BP116
+2027-01-30,COMPLETED,TRN,BP115–BP116,Grabenarbeiten 515 m im Bereich BP115–BP116
+2027-01-30,COMPLETED,LOW,BP109–BP110,Absenken 507 m im Bereich BP109–BP110
+2027-01-30,COMPLETED,BKF,BP106–BP108,Bettung & Rückverfüllung 466 m im Bereich BP106–BP108
+2027-01-30,PLANNED,CLR,BP154,Oberbodenabtrag & Trassenfreimachung ab BP154
+2027-01-30,PLANNED,GRD,BP143,Planieren des Arbeitsstreifens ab BP143
+2027-01-30,PLANNED,STR,BP136,Auslegen ab BP136
+2027-01-30,PLANNED,WLD,BP119,Rohrschweißen & ZfP ab BP119
+2027-01-30,PLANNED,FJC,BP116,Nachbeschichtung ab BP116
+2027-01-30,PLANNED,TRN,BP116,Grabenarbeiten ab BP116
+2027-01-30,PLANNED,LOW,BP110,Absenken ab BP110
+2027-01-30,PLANNED,BKF,BP108,Bettung & Rückverfüllung ab BP108
+2027-01-30,PLANNED,RST,BP101,Wiederherstellung & Reinigung ab BP101
+2027-01-30,HSE,,,Keine besonderen Vorkommnisse
+2027-02-01,COMPLETED,CLR,BP154–BP157,Oberbodenabtrag & Trassenfreimachung 954 m im Bereich BP154–BP157
+2027-02-01,COMPLETED,GRD,BP143–BP145,Planieren des Arbeitsstreifens 807 m im Bereich BP143–BP145
+2027-02-01,COMPLETED,STR,BP136–BP138,Auslegen 753 m im Bereich BP136–BP138
+2027-02-01,COMPLETED,WLD,BP119–BP120,Rohrschweißen & ZfP 43 nr im Bereich BP119–BP120
+2027-02-01,COMPLETED,FJC,BP116–BP118,Nachbeschichtung 42 nr im Bereich BP116–BP118
+2027-02-01,COMPLETED,TRN,BP116–BP118,Grabenarbeiten 537 m im Bereich BP116–BP118
+2027-02-01,COMPLETED,LOW,BP110–BP112,Absenken 492 m im Bereich BP110–BP112
+2027-02-01,COMPLETED,BKF,BP108–BP109,Bettung & Rückverfüllung 488 m im Bereich BP108–BP109
+2027-02-01,COMPLETED,RST,BP101–BP102,"Wiederherstellung & Reinigung 13,963 m2 im Bereich BP101–BP102"
+2027-02-01,PLANNED,CLR,BP157,Oberbodenabtrag & Trassenfreimachung ab BP157
+2027-02-01,PLANNED,GRD,BP145,Planieren des Arbeitsstreifens ab BP145
+2027-02-01,PLANNED,STR,BP138,Auslegen ab BP138
+2027-02-01,PLANNED,WLD,BP120,Rohrschweißen & ZfP ab BP120
+2027-02-01,PLANNED,FJC,BP118,Nachbeschichtung ab BP118
+2027-02-01,PLANNED,TRN,BP118,Grabenarbeiten ab BP118
+2027-02-01,PLANNED,LOW,BP112,Absenken ab BP112
+2027-02-01,PLANNED,BKF,BP109,Bettung & Rückverfüllung ab BP109
+2027-02-01,PLANNED,RST,BP102,Wiederherstellung & Reinigung ab BP102
+2027-02-01,HSE,,,Keine besonderen Vorkommnisse
+2027-02-02,COMPLETED,CLR,BP157–BP159,Oberbodenabtrag & Trassenfreimachung 914 m im Bereich BP157–BP159
+2027-02-02,COMPLETED,GRD,BP145–BP148,Planieren des Arbeitsstreifens 879 m im Bereich BP145–BP148
+2027-02-02,COMPLETED,STR,BP138–BP140,Auslegen 848 m im Bereich BP138–BP140
+2027-02-02,COMPLETED,WLD,BP120–BP122,Rohrschweißen & ZfP 48 nr im Bereich BP120–BP122
+2027-02-02,COMPLETED,FJC,BP118–BP119,Nachbeschichtung 42 nr im Bereich BP118–BP119
+2027-02-02,COMPLETED,TRN,BP118–BP119,Grabenarbeiten 487 m im Bereich BP118–BP119
+2027-02-02,COMPLETED,LOW,BP112–BP113,Absenken 577 m im Bereich BP112–BP113
+2027-02-02,COMPLETED,BKF,BP109–BP110,Bettung & Rückverfüllung 533 m im Bereich BP109–BP110
+2027-02-02,COMPLETED,RST,BP102–BP103,"Wiederherstellung & Reinigung 13,288 m2 im Bereich BP102–BP103"
+2027-02-02,PLANNED,CLR,BP159,Oberbodenabtrag & Trassenfreimachung ab BP159
+2027-02-02,PLANNED,GRD,BP148,Planieren des Arbeitsstreifens ab BP148
+2027-02-02,PLANNED,STR,BP140,Auslegen ab BP140
+2027-02-02,PLANNED,WLD,BP122,Rohrschweißen & ZfP ab BP122
+2027-02-02,PLANNED,FJC,BP119,Nachbeschichtung ab BP119
+2027-02-02,PLANNED,TRN,BP119,Grabenarbeiten ab BP119
+2027-02-02,PLANNED,LOW,BP113,Absenken ab BP113
+2027-02-02,PLANNED,BKF,BP110,Bettung & Rückverfüllung ab BP110
+2027-02-02,PLANNED,RST,BP103,Wiederherstellung & Reinigung ab BP103
+2027-02-02,HSE,,,Keine besonderen Vorkommnisse
+2027-02-03,COMPLETED,CLR,BP159–BP162,Oberbodenabtrag & Trassenfreimachung 952 m im Bereich BP159–BP162
+2027-02-03,COMPLETED,GRD,BP148–BP150,Planieren des Arbeitsstreifens 861 m im Bereich BP148–BP150
+2027-02-03,COMPLETED,STR,BP140–BP142,Auslegen 661 m im Bereich BP140–BP142
+2027-02-03,COMPLETED,WLD,BP122–BP123,Rohrschweißen & ZfP 41 nr im Bereich BP122–BP123
+2027-02-03,COMPLETED,FJC,BP119–BP121,Nachbeschichtung 43 nr im Bereich BP119–BP121
+2027-02-03,COMPLETED,TRN,BP119–BP121,Grabenarbeiten 574 m im Bereich BP119–BP121
+2027-02-03,COMPLETED,LOW,BP113–BP115,Absenken 468 m im Bereich BP113–BP115
+2027-02-03,COMPLETED,BKF,BP110–BP112,Bettung & Rückverfüllung 498 m im Bereich BP110–BP112
+2027-02-03,COMPLETED,RST,BP103–BP104,"Wiederherstellung & Reinigung 11,245 m2 im Bereich BP103–BP104"
+2027-02-03,PLANNED,CLR,BP162,Oberbodenabtrag & Trassenfreimachung ab BP162
+2027-02-03,PLANNED,GRD,BP150,Planieren des Arbeitsstreifens ab BP150
+2027-02-03,PLANNED,STR,BP142,Auslegen ab BP142
+2027-02-03,PLANNED,WLD,BP123,Rohrschweißen & ZfP ab BP123
+2027-02-03,PLANNED,FJC,BP121,Nachbeschichtung ab BP121
+2027-02-03,PLANNED,TRN,BP121,Grabenarbeiten ab BP121
+2027-02-03,PLANNED,LOW,BP115,Absenken ab BP115
+2027-02-03,PLANNED,BKF,BP112,Bettung & Rückverfüllung ab BP112
+2027-02-03,PLANNED,RST,BP104,Wiederherstellung & Reinigung ab BP104
+2027-02-03,HSE,,,Keine besonderen Vorkommnisse
+2027-02-04,COMPLETED,CLR,BP162–BP164,Oberbodenabtrag & Trassenfreimachung 877 m im Bereich BP162–BP164
+2027-02-04,COMPLETED,GRD,BP150–BP153,"Planieren des Arbeitsstreifens 1,027 m im Bereich BP150–BP153"
+2027-02-04,COMPLETED,STR,BP142–BP144,Auslegen 814 m im Bereich BP142–BP144
+2027-02-04,COMPLETED,WLD,BP123–BP125,Rohrschweißen & ZfP 41 nr im Bereich BP123–BP125
+2027-02-04,COMPLETED,FJC,BP121–BP122,Nachbeschichtung 48 nr im Bereich BP121–BP122
+2027-02-04,COMPLETED,TRN,BP121–BP122,Grabenarbeiten 548 m im Bereich BP121–BP122
+2027-02-04,COMPLETED,LOW,BP115–BP116,Absenken 565 m im Bereich BP115–BP116
+2027-02-04,COMPLETED,BKF,BP112–BP113,Bettung & Rückverfüllung 476 m im Bereich BP112–BP113
+2027-02-04,COMPLETED,RST,BP104–BP106,"Wiederherstellung & Reinigung 14,876 m2 im Bereich BP104–BP106"
+2027-02-04,PLANNED,CLR,BP164,Oberbodenabtrag & Trassenfreimachung ab BP164
+2027-02-04,PLANNED,GRD,BP153,Planieren des Arbeitsstreifens ab BP153
+2027-02-04,PLANNED,STR,BP144,Auslegen ab BP144
+2027-02-04,PLANNED,WLD,BP125,Rohrschweißen & ZfP ab BP125
+2027-02-04,PLANNED,FJC,BP122,Nachbeschichtung ab BP122
+2027-02-04,PLANNED,TRN,BP122,Grabenarbeiten ab BP122
+2027-02-04,PLANNED,LOW,BP116,Absenken ab BP116
+2027-02-04,PLANNED,BKF,BP113,Bettung & Rückverfüllung ab BP113
+2027-02-04,PLANNED,RST,BP106,Wiederherstellung & Reinigung ab BP106
+2027-02-04,HSE,,,Keine besonderen Vorkommnisse
+2027-02-05,COMPLETED,CLR,BP164–BP167,Oberbodenabtrag & Trassenfreimachung 810 m im Bereich BP164–BP167
+2027-02-05,COMPLETED,GRD,BP153–BP156,Planieren des Arbeitsstreifens 871 m im Bereich BP153–BP156
+2027-02-05,COMPLETED,STR,BP144–BP147,Auslegen 754 m im Bereich BP144–BP147
+2027-02-05,COMPLETED,WLD,BP125–BP126,Rohrschweißen & ZfP 45 nr im Bereich BP125–BP126
+2027-02-05,COMPLETED,FJC,BP122–BP123,Nachbeschichtung 36 nr im Bereich BP122–BP123
+2027-02-05,COMPLETED,TRN,BP122–BP124,Grabenarbeiten 454 m im Bereich BP122–BP124
+2027-02-05,COMPLETED,LOW,BP116–BP118,Absenken 505 m im Bereich BP116–BP118
+2027-02-05,COMPLETED,BKF,BP113–BP115,Bettung & Rückverfüllung 455 m im Bereich BP113–BP115
+2027-02-05,COMPLETED,RST,BP106–BP107,"Wiederherstellung & Reinigung 11,584 m2 im Bereich BP106–BP107"
+2027-02-05,PLANNED,CLR,BP167,Oberbodenabtrag & Trassenfreimachung ab BP167
+2027-02-05,PLANNED,GRD,BP156,Planieren des Arbeitsstreifens ab BP156
+2027-02-05,PLANNED,STR,BP147,Auslegen ab BP147
+2027-02-05,PLANNED,WLD,BP126,Rohrschweißen & ZfP ab BP126
+2027-02-05,PLANNED,FJC,BP123,Nachbeschichtung ab BP123
+2027-02-05,PLANNED,TRN,BP124,Grabenarbeiten ab BP124
+2027-02-05,PLANNED,LOW,BP118,Absenken ab BP118
+2027-02-05,PLANNED,BKF,BP115,Bettung & Rückverfüllung ab BP115
+2027-02-05,PLANNED,RST,BP107,Wiederherstellung & Reinigung ab BP107
+2027-02-05,HSE,,,Keine besonderen Vorkommnisse
+2027-02-06,COMPLETED,CLR,BP167–BP169,Oberbodenabtrag & Trassenfreimachung 816 m im Bereich BP167–BP169
+2027-02-06,COMPLETED,GRD,BP156–BP158,Planieren des Arbeitsstreifens 906 m im Bereich BP156–BP158
+2027-02-06,COMPLETED,STR,BP147–BP149,Auslegen 753 m im Bereich BP147–BP149
+2027-02-06,COMPLETED,WLD,BP126–BP128,Rohrschweißen & ZfP 45 nr im Bereich BP126–BP128
+2027-02-06,COMPLETED,FJC,BP123–BP125,Nachbeschichtung 46 nr im Bereich BP123–BP125
+2027-02-06,COMPLETED,TRN,BP124–BP125,Grabenarbeiten 575 m im Bereich BP124–BP125
+2027-02-06,COMPLETED,LOW,BP118–BP119,Absenken 524 m im Bereich BP118–BP119
+2027-02-06,COMPLETED,BKF,BP115–BP116,Bettung & Rückverfüllung 477 m im Bereich BP115–BP116
+2027-02-06,COMPLETED,RST,BP107–BP108,"Wiederherstellung & Reinigung 14,512 m2 im Bereich BP107–BP108"
+2027-02-06,PLANNED,CLR,BP169,Oberbodenabtrag & Trassenfreimachung ab BP169
+2027-02-06,PLANNED,GRD,BP158,Planieren des Arbeitsstreifens ab BP158
+2027-02-06,PLANNED,STR,BP149,Auslegen ab BP149
+2027-02-06,PLANNED,WLD,BP128,Rohrschweißen & ZfP ab BP128
+2027-02-06,PLANNED,FJC,BP125,Nachbeschichtung ab BP125
+2027-02-06,PLANNED,TRN,BP125,Grabenarbeiten ab BP125
+2027-02-06,PLANNED,LOW,BP119,Absenken ab BP119
+2027-02-06,PLANNED,BKF,BP116,Bettung & Rückverfüllung ab BP116
+2027-02-06,PLANNED,RST,BP108,Wiederherstellung & Reinigung ab BP108
+2027-02-06,HSE,,,Keine besonderen Vorkommnisse
+2027-02-08,COMPLETED,CLR,BP169–BP172,Oberbodenabtrag & Trassenfreimachung 895 m im Bereich BP169–BP172
+2027-02-08,COMPLETED,GRD,BP158–BP161,Planieren des Arbeitsstreifens 831 m im Bereich BP158–BP161
+2027-02-08,COMPLETED,STR,BP149–BP151,Auslegen 810 m im Bereich BP149–BP151
+2027-02-08,COMPLETED,WLD,BP128–BP129,Rohrschweißen & ZfP 24 nr im Bereich BP128–BP129
+2027-02-08,COMPLETED,FJC,BP125–BP126,Nachbeschichtung 38 nr im Bereich BP125–BP126
+2027-02-08,COMPLETED,TRN,BP125–BP127,Grabenarbeiten 475 m im Bereich BP125–BP127
+2027-02-08,COMPLETED,LOW,BP119–BP121,Absenken 535 m im Bereich BP119–BP121
+2027-02-08,COMPLETED,BKF,BP116–BP117,Bettung & Rückverfüllung 463 m im Bereich BP116–BP117
+2027-02-08,COMPLETED,RST,BP108–BP109,"Wiederherstellung & Reinigung 14,545 m2 im Bereich BP108–BP109"
+2027-02-08,PLANNED,CLR,BP172,Oberbodenabtrag & Trassenfreimachung ab BP172
+2027-02-08,PLANNED,GRD,BP161,Planieren des Arbeitsstreifens ab BP161
+2027-02-08,PLANNED,STR,BP151,Auslegen ab BP151
+2027-02-08,PLANNED,WLD,BP129,Rohrschweißen & ZfP ab BP129
+2027-02-08,PLANNED,FJC,BP126,Nachbeschichtung ab BP126
+2027-02-08,PLANNED,TRN,BP127,Grabenarbeiten ab BP127
+2027-02-08,PLANNED,LOW,BP121,Absenken ab BP121
+2027-02-08,PLANNED,BKF,BP117,Bettung & Rückverfüllung ab BP117
+2027-02-08,PLANNED,RST,BP109,Wiederherstellung & Reinigung ab BP109
+2027-02-08,HSE,,,Keine besonderen Vorkommnisse
+2027-02-09,COMPLETED,CLR,BP172,Oberbodenabtrag & Trassenfreimachung 121 m im Bereich BP172
+2027-02-09,COMPLETED,GRD,BP161–BP163,Planieren des Arbeitsstreifens 876 m im Bereich BP161–BP163
+2027-02-09,COMPLETED,STR,BP151–BP153,Auslegen 779 m im Bereich BP151–BP153
+2027-02-09,COMPLETED,WLD,BP129–BP130,Rohrschweißen & ZfP 30 nr im Bereich BP129–BP130
+2027-02-09,COMPLETED,FJC,BP126–BP128,Nachbeschichtung 47 nr im Bereich BP126–BP128
+2027-02-09,COMPLETED,TRN,BP127–BP128,Grabenarbeiten 510 m im Bereich BP127–BP128
+2027-02-09,COMPLETED,LOW,BP121–BP122,Absenken 416 m im Bereich BP121–BP122
+2027-02-09,COMPLETED,BKF,BP117–BP119,Bettung & Rückverfüllung 514 m im Bereich BP117–BP119
+2027-02-09,COMPLETED,RST,BP109–BP111,"Wiederherstellung & Reinigung 14,541 m2 im Bereich BP109–BP111"
+2027-02-09,PLANNED,GRD,BP163,Planieren des Arbeitsstreifens ab BP163
+2027-02-09,PLANNED,STR,BP153,Auslegen ab BP153
+2027-02-09,PLANNED,WLD,BP130,Rohrschweißen & ZfP ab BP130
+2027-02-09,PLANNED,FJC,BP128,Nachbeschichtung ab BP128
+2027-02-09,PLANNED,TRN,BP128,Grabenarbeiten ab BP128
+2027-02-09,PLANNED,LOW,BP122,Absenken ab BP122
+2027-02-09,PLANNED,BKF,BP119,Bettung & Rückverfüllung ab BP119
+2027-02-09,PLANNED,RST,BP111,Wiederherstellung & Reinigung ab BP111
+2027-02-09,HSE,,,Keine besonderen Vorkommnisse
+2027-02-10,COMPLETED,GRD,BP163–BP165,Planieren des Arbeitsstreifens 844 m im Bereich BP163–BP165
+2027-02-10,COMPLETED,STR,BP153–BP156,Auslegen 811 m im Bereich BP153–BP156
+2027-02-10,COMPLETED,WLD,BP130–BP131,Rohrschweißen & ZfP 49 nr im Bereich BP130–BP131
+2027-02-10,COMPLETED,FJC,BP128–BP129,Nachbeschichtung 43 nr im Bereich BP128–BP129
+2027-02-10,COMPLETED,TRN,BP128–BP130,Grabenarbeiten 573 m im Bereich BP128–BP130
+2027-02-10,COMPLETED,LOW,BP122–BP123,Absenken 422 m im Bereich BP122–BP123
+2027-02-10,COMPLETED,BKF,BP119–BP120,Bettung & Rückverfüllung 507 m im Bereich BP119–BP120
+2027-02-10,COMPLETED,RST,BP111–BP112,"Wiederherstellung & Reinigung 14,012 m2 im Bereich BP111–BP112"
+2027-02-10,PLANNED,GRD,BP165,Planieren des Arbeitsstreifens ab BP165
+2027-02-10,PLANNED,STR,BP156,Auslegen ab BP156
+2027-02-10,PLANNED,WLD,BP131,Rohrschweißen & ZfP ab BP131
+2027-02-10,PLANNED,FJC,BP129,Nachbeschichtung ab BP129
+2027-02-10,PLANNED,TRN,BP130,Grabenarbeiten ab BP130
+2027-02-10,PLANNED,LOW,BP123,Absenken ab BP123
+2027-02-10,PLANNED,BKF,BP120,Bettung & Rückverfüllung ab BP120
+2027-02-10,PLANNED,RST,BP112,Wiederherstellung & Reinigung ab BP112
+2027-02-10,HSE,,,Keine besonderen Vorkommnisse
+2027-02-11,COMPLETED,GRD,BP165–BP168,"Planieren des Arbeitsstreifens 1,014 m im Bereich BP165–BP168"
+2027-02-11,COMPLETED,STR,BP156–BP158,Auslegen 796 m im Bereich BP156–BP158
+2027-02-11,COMPLETED,WLD,BP131–BP133,Rohrschweißen & ZfP 46 nr im Bereich BP131–BP133
+2027-02-11,COMPLETED,FJC,BP129–BP131,Nachbeschichtung 39 nr im Bereich BP129–BP131
+2027-02-11,COMPLETED,TRN,BP130–BP131,Grabenarbeiten 476 m im Bereich BP130–BP131
+2027-02-11,COMPLETED,LOW,BP123–BP124,Absenken 462 m im Bereich BP123–BP124
+2027-02-11,COMPLETED,BKF,BP120–BP122,Bettung & Rückverfüllung 490 m im Bereich BP120–BP122
+2027-02-11,COMPLETED,RST,BP112–BP113,"Wiederherstellung & Reinigung 13,704 m2 im Bereich BP112–BP113"
+2027-02-11,PLANNED,GRD,BP168,Planieren des Arbeitsstreifens ab BP168
+2027-02-11,PLANNED,STR,BP158,Auslegen ab BP158
+2027-02-11,PLANNED,WLD,BP133,Rohrschweißen & ZfP ab BP133
+2027-02-11,PLANNED,FJC,BP131,Nachbeschichtung ab BP131
+2027-02-11,PLANNED,TRN,BP131,Grabenarbeiten ab BP131
+2027-02-11,PLANNED,LOW,BP124,Absenken ab BP124
+2027-02-11,PLANNED,BKF,BP122,Bettung & Rückverfüllung ab BP122
+2027-02-11,PLANNED,RST,BP113,Wiederherstellung & Reinigung ab BP113
+2027-02-11,HSE,,,Keine besonderen Vorkommnisse
+2027-02-12,COMPLETED,GRD,BP168–BP172,"Planieren des Arbeitsstreifens 1,105 m im Bereich BP168–BP172"
+2027-02-12,COMPLETED,STR,BP158–BP160,Auslegen 747 m im Bereich BP158–BP160
+2027-02-12,COMPLETED,WLD,BP133–BP135,Rohrschweißen & ZfP 47 nr im Bereich BP133–BP135
+2027-02-12,COMPLETED,FJC,BP131–BP132,Nachbeschichtung 38 nr im Bereich BP131–BP132
+2027-02-12,COMPLETED,TRN,BP131–BP133,Grabenarbeiten 573 m im Bereich BP131–BP133
+2027-02-12,COMPLETED,LOW,BP124–BP126,Absenken 557 m im Bereich BP124–BP126
+2027-02-12,COMPLETED,BKF,BP122–BP123,Bettung & Rückverfüllung 462 m im Bereich BP122–BP123
+2027-02-12,COMPLETED,RST,BP113–BP115,"Wiederherstellung & Reinigung 15,286 m2 im Bereich BP113–BP115"
+2027-02-12,PLANNED,GRD,BP172,Planieren des Arbeitsstreifens ab BP172
+2027-02-12,PLANNED,STR,BP160,Auslegen ab BP160
+2027-02-12,PLANNED,WLD,BP135,Rohrschweißen & ZfP ab BP135
+2027-02-12,PLANNED,FJC,BP132,Nachbeschichtung ab BP132
+2027-02-12,PLANNED,TRN,BP133,Grabenarbeiten ab BP133
+2027-02-12,PLANNED,LOW,BP126,Absenken ab BP126
+2027-02-12,PLANNED,BKF,BP123,Bettung & Rückverfüllung ab BP123
+2027-02-12,PLANNED,RST,BP115,Wiederherstellung & Reinigung ab BP115
+2027-02-12,HSE,,,Keine besonderen Vorkommnisse
+2027-02-13,COMPLETED,GRD,BP172,Planieren des Arbeitsstreifens 131 m im Bereich BP172
+2027-02-13,COMPLETED,STR,BP160–BP162,Auslegen 789 m im Bereich BP160–BP162
+2027-02-13,COMPLETED,WLD,BP135–BP136,Rohrschweißen & ZfP 53 nr im Bereich BP135–BP136
+2027-02-13,COMPLETED,FJC,BP132–BP134,Nachbeschichtung 45 nr im Bereich BP132–BP134
+2027-02-13,COMPLETED,TRN,BP133–BP134,Grabenarbeiten 476 m im Bereich BP133–BP134
+2027-02-13,COMPLETED,LOW,BP126–BP127,Absenken 539 m im Bereich BP126–BP127
+2027-02-13,COMPLETED,BKF,BP123–BP124,Bettung & Rückverfüllung 420 m im Bereich BP123–BP124
+2027-02-13,COMPLETED,RST,BP115–BP116,"Wiederherstellung & Reinigung 15,510 m2 im Bereich BP115–BP116"
+2027-02-13,PLANNED,STR,BP162,Auslegen ab BP162
+2027-02-13,PLANNED,WLD,BP136,Rohrschweißen & ZfP ab BP136
+2027-02-13,PLANNED,FJC,BP134,Nachbeschichtung ab BP134
+2027-02-13,PLANNED,TRN,BP134,Grabenarbeiten ab BP134
+2027-02-13,PLANNED,LOW,BP127,Absenken ab BP127
+2027-02-13,PLANNED,BKF,BP124,Bettung & Rückverfüllung ab BP124
+2027-02-13,PLANNED,RST,BP116,Wiederherstellung & Reinigung ab BP116
+2027-02-13,HSE,,,Keine besonderen Vorkommnisse
+2027-02-15,COMPLETED,STR,BP162–BP165,Auslegen 810 m im Bereich BP162–BP165
+2027-02-15,COMPLETED,WLD,BP136–BP138,Rohrschweißen & ZfP 47 nr im Bereich BP136–BP138
+2027-02-15,COMPLETED,FJC,BP134–BP135,Nachbeschichtung 49 nr im Bereich BP134–BP135
+2027-02-15,COMPLETED,TRN,BP134–BP136,Grabenarbeiten 578 m im Bereich BP134–BP136
+2027-02-15,COMPLETED,LOW,BP127–BP129,Absenken 471 m im Bereich BP127–BP129
+2027-02-15,COMPLETED,BKF,BP124–BP125,Bettung & Rückverfüllung 497 m im Bereich BP124–BP125
+2027-02-15,COMPLETED,RST,BP116–BP118,"Wiederherstellung & Reinigung 15,584 m2 im Bereich BP116–BP118"
+2027-02-15,PLANNED,STR,BP165,Auslegen ab BP165
+2027-02-15,PLANNED,WLD,BP138,Rohrschweißen & ZfP ab BP138
+2027-02-15,PLANNED,FJC,BP135,Nachbeschichtung ab BP135
+2027-02-15,PLANNED,TRN,BP136,Grabenarbeiten ab BP136
+2027-02-15,PLANNED,LOW,BP129,Absenken ab BP129
+2027-02-15,PLANNED,BKF,BP125,Bettung & Rückverfüllung ab BP125
+2027-02-15,PLANNED,RST,BP118,Wiederherstellung & Reinigung ab BP118
+2027-02-15,HSE,,,Keine besonderen Vorkommnisse
+2027-02-16,COMPLETED,STR,BP165–BP167,Auslegen 743 m im Bereich BP165–BP167
+2027-02-16,COMPLETED,WLD,BP138–BP140,Rohrschweißen & ZfP 50 nr im Bereich BP138–BP140
+2027-02-16,COMPLETED,FJC,BP135–BP137,Nachbeschichtung 46 nr im Bereich BP135–BP137
+2027-02-16,COMPLETED,TRN,BP136–BP137,Grabenarbeiten 549 m im Bereich BP136–BP137
+2027-02-16,COMPLETED,LOW,BP129–BP130,Absenken 479 m im Bereich BP129–BP130
+2027-02-16,COMPLETED,BKF,BP125–BP127,Bettung & Rückverfüllung 483 m im Bereich BP125–BP127
+2027-02-16,COMPLETED,RST,BP118–BP119,"Wiederherstellung & Reinigung 13,120 m2 im Bereich BP118–BP119"
+2027-02-16,PLANNED,STR,BP167,Auslegen ab BP167
+2027-02-16,PLANNED,WLD,BP140,Rohrschweißen & ZfP ab BP140
+2027-02-16,PLANNED,FJC,BP137,Nachbeschichtung ab BP137
+2027-02-16,PLANNED,TRN,BP137,Grabenarbeiten ab BP137
+2027-02-16,PLANNED,LOW,BP130,Absenken ab BP130
+2027-02-16,PLANNED,BKF,BP127,Bettung & Rückverfüllung ab BP127
+2027-02-16,PLANNED,RST,BP119,Wiederherstellung & Reinigung ab BP119
+2027-02-16,HSE,,,Keine besonderen Vorkommnisse
+2027-02-17,COMPLETED,STR,BP167–BP169,Auslegen 852 m im Bereich BP167–BP169
+2027-02-17,COMPLETED,WLD,BP140–BP141,Rohrschweißen & ZfP 45 nr im Bereich BP140–BP141
+2027-02-17,COMPLETED,FJC,BP137–BP138,Nachbeschichtung 47 nr im Bereich BP137–BP138
+2027-02-17,COMPLETED,TRN,BP137–BP139,Grabenarbeiten 457 m im Bereich BP137–BP139
+2027-02-17,COMPLETED,LOW,BP130–BP132,Absenken 466 m im Bereich BP130–BP132
+2027-02-17,COMPLETED,BKF,BP127–BP128,Bettung & Rückverfüllung 469 m im Bereich BP127–BP128
+2027-02-17,COMPLETED,RST,BP119–BP120,"Wiederherstellung & Reinigung 12,551 m2 im Bereich BP119–BP120"
+2027-02-17,HSE,,,Keine besonderen Vorkommnisse
+2027-02-18,PLANNED,STR,BP169,Auslegen ab BP169
+2027-02-18,PLANNED,WLD,BP141,Rohrschweißen & ZfP ab BP141
+2027-02-18,PLANNED,FJC,BP138,Nachbeschichtung ab BP138
+2027-02-18,PLANNED,TRN,BP139,Grabenarbeiten ab BP139
+2027-02-18,PLANNED,LOW,BP132,Absenken ab BP132
+2027-02-18,PLANNED,BKF,BP128,Bettung & Rückverfüllung ab BP128
+2027-02-18,PLANNED,RST,BP120,Wiederherstellung & Reinigung ab BP120
+2027-02-18,HSE,,,Keine besonderen Vorkommnisse
+2027-02-19,COMPLETED,STR,BP169–BP172,Auslegen 910 m im Bereich BP169–BP172
+2027-02-19,COMPLETED,WLD,BP141–BP143,Rohrschweißen & ZfP 39 nr im Bereich BP141–BP143
+2027-02-19,COMPLETED,FJC,BP138–BP140,Nachbeschichtung 44 nr im Bereich BP138–BP140
+2027-02-19,COMPLETED,TRN,BP139–BP141,Grabenarbeiten 638 m im Bereich BP139–BP141
+2027-02-19,COMPLETED,LOW,BP132–BP133,Absenken 480 m im Bereich BP132–BP133
+2027-02-19,COMPLETED,BKF,BP128–BP129,Bettung & Rückverfüllung 441 m im Bereich BP128–BP129
+2027-02-19,COMPLETED,RST,BP120–BP122,"Wiederherstellung & Reinigung 12,532 m2 im Bereich BP120–BP122"
+2027-02-19,PLANNED,STR,BP172,Auslegen ab BP172
+2027-02-19,PLANNED,WLD,BP143,Rohrschweißen & ZfP ab BP143
+2027-02-19,PLANNED,FJC,BP140,Nachbeschichtung ab BP140
+2027-02-19,PLANNED,TRN,BP141,Grabenarbeiten ab BP141
+2027-02-19,PLANNED,LOW,BP133,Absenken ab BP133
+2027-02-19,PLANNED,BKF,BP129,Bettung & Rückverfüllung ab BP129
+2027-02-19,PLANNED,RST,BP122,Wiederherstellung & Reinigung ab BP122
+2027-02-19,HSE,,,Keine besonderen Vorkommnisse
+2027-02-20,COMPLETED,STR,BP172,Auslegen 74 m im Bereich BP172
+2027-02-20,COMPLETED,WLD,BP143–BP144,Rohrschweißen & ZfP 44 nr im Bereich BP143–BP144
+2027-02-20,COMPLETED,FJC,BP140–BP141,Nachbeschichtung 43 nr im Bereich BP140–BP141
+2027-02-20,COMPLETED,TRN,BP141,Grabenarbeiten 244 m im Bereich BP141
+2027-02-20,COMPLETED,LOW,BP133–BP134,Absenken 430 m im Bereich BP133–BP134
+2027-02-20,COMPLETED,BKF,BP129–BP131,Bettung & Rückverfüllung 457 m im Bereich BP129–BP131
+2027-02-20,COMPLETED,RST,BP122–BP123,"Wiederherstellung & Reinigung 13,285 m2 im Bereich BP122–BP123"
+2027-02-20,PLANNED,WLD,BP144,Rohrschweißen & ZfP ab BP144
+2027-02-20,PLANNED,FJC,BP141,Nachbeschichtung ab BP141
+2027-02-20,PLANNED,TRN,BP141,Grabenarbeiten ab BP141
+2027-02-20,PLANNED,LOW,BP134,Absenken ab BP134
+2027-02-20,PLANNED,BKF,BP131,Bettung & Rückverfüllung ab BP131
+2027-02-20,PLANNED,RST,BP123,Wiederherstellung & Reinigung ab BP123
+2027-02-20,HSE,,,Keine besonderen Vorkommnisse
+2027-02-22,COMPLETED,WLD,BP144–BP146,Rohrschweißen & ZfP 45 nr im Bereich BP144–BP146
+2027-02-22,COMPLETED,FJC,BP141–BP143,Nachbeschichtung 49 nr im Bereich BP141–BP143
+2027-02-22,COMPLETED,TRN,BP141–BP143,Grabenarbeiten 517 m im Bereich BP141–BP143
+2027-02-22,COMPLETED,LOW,BP134–BP136,Absenken 547 m im Bereich BP134–BP136
+2027-02-22,COMPLETED,BKF,BP131–BP132,Bettung & Rückverfüllung 425 m im Bereich BP131–BP132
+2027-02-22,COMPLETED,RST,BP123–BP124,"Wiederherstellung & Reinigung 12,860 m2 im Bereich BP123–BP124"
+2027-02-22,PLANNED,WLD,BP146,Rohrschweißen & ZfP ab BP146
+2027-02-22,PLANNED,FJC,BP143,Nachbeschichtung ab BP143
+2027-02-22,PLANNED,TRN,BP143,Grabenarbeiten ab BP143
+2027-02-22,PLANNED,LOW,BP136,Absenken ab BP136
+2027-02-22,PLANNED,BKF,BP132,Bettung & Rückverfüllung ab BP132
+2027-02-22,PLANNED,RST,BP124,Wiederherstellung & Reinigung ab BP124
+2027-02-22,HSE,,,Keine besonderen Vorkommnisse
+2027-02-23,COMPLETED,WLD,BP146–BP147,Rohrschweißen & ZfP 45 nr im Bereich BP146–BP147
+2027-02-23,COMPLETED,FJC,BP143–BP144,Nachbeschichtung 38 nr im Bereich BP143–BP144
+2027-02-23,COMPLETED,TRN,BP143–BP144,Grabenarbeiten 523 m im Bereich BP143–BP144
+2027-02-23,COMPLETED,LOW,BP136–BP137,Absenken 497 m im Bereich BP136–BP137
+2027-02-23,COMPLETED,BKF,BP132–BP134,Bettung & Rückverfüllung 597 m im Bereich BP132–BP134
+2027-02-23,COMPLETED,RST,BP124–BP125,"Wiederherstellung & Reinigung 14,109 m2 im Bereich BP124–BP125"
+2027-02-23,PLANNED,WLD,BP147,Rohrschweißen & ZfP ab BP147
+2027-02-23,PLANNED,FJC,BP144,Nachbeschichtung ab BP144
+2027-02-23,PLANNED,TRN,BP144,Grabenarbeiten ab BP144
+2027-02-23,PLANNED,LOW,BP137,Absenken ab BP137
+2027-02-23,PLANNED,BKF,BP134,Bettung & Rückverfüllung ab BP134
+2027-02-23,PLANNED,RST,BP125,Wiederherstellung & Reinigung ab BP125
+2027-02-23,HSE,,,Keine besonderen Vorkommnisse
+2027-02-24,COMPLETED,WLD,BP147–BP149,Rohrschweißen & ZfP 46 nr im Bereich BP147–BP149
+2027-02-24,COMPLETED,FJC,BP144–BP146,Nachbeschichtung 42 nr im Bereich BP144–BP146
+2027-02-24,COMPLETED,TRN,BP144–BP146,Grabenarbeiten 516 m im Bereich BP144–BP146
+2027-02-24,COMPLETED,LOW,BP137–BP139,Absenken 483 m im Bereich BP137–BP139
+2027-02-24,COMPLETED,BKF,BP134–BP135,Bettung & Rückverfüllung 525 m im Bereich BP134–BP135
+2027-02-24,COMPLETED,RST,BP125–BP127,"Wiederherstellung & Reinigung 13,089 m2 im Bereich BP125–BP127"
+2027-02-24,PLANNED,WLD,BP149,Rohrschweißen & ZfP ab BP149
+2027-02-24,PLANNED,FJC,BP146,Nachbeschichtung ab BP146
+2027-02-24,PLANNED,TRN,BP146,Grabenarbeiten ab BP146
+2027-02-24,PLANNED,LOW,BP139,Absenken ab BP139
+2027-02-24,PLANNED,BKF,BP135,Bettung & Rückverfüllung ab BP135
+2027-02-24,PLANNED,RST,BP127,Wiederherstellung & Reinigung ab BP127
+2027-02-24,HSE,,,Keine besonderen Vorkommnisse
+2027-02-25,COMPLETED,WLD,BP149–BP151,Rohrschweißen & ZfP 52 nr im Bereich BP149–BP151
+2027-02-25,COMPLETED,FJC,BP146–BP147,Nachbeschichtung 43 nr im Bereich BP146–BP147
+2027-02-25,COMPLETED,TRN,BP146–BP147,Grabenarbeiten 493 m im Bereich BP146–BP147
+2027-02-25,COMPLETED,LOW,BP139–BP140,Absenken 525 m im Bereich BP139–BP140
+2027-02-25,COMPLETED,BKF,BP135–BP136,Bettung & Rückverfüllung 424 m im Bereich BP135–BP136
+2027-02-25,COMPLETED,RST,BP127–BP128,"Wiederherstellung & Reinigung 12,010 m2 im Bereich BP127–BP128"
+2027-02-25,PLANNED,WLD,BP151,Rohrschweißen & ZfP ab BP151
+2027-02-25,PLANNED,FJC,BP147,Nachbeschichtung ab BP147
+2027-02-25,PLANNED,TRN,BP147,Grabenarbeiten ab BP147
+2027-02-25,PLANNED,LOW,BP140,Absenken ab BP140
+2027-02-25,PLANNED,BKF,BP136,Bettung & Rückverfüllung ab BP136
+2027-02-25,PLANNED,RST,BP128,Wiederherstellung & Reinigung ab BP128
+2027-02-25,HSE,,,Keine besonderen Vorkommnisse
+2027-02-26,COMPLETED,WLD,BP151–BP152,Rohrschweißen & ZfP 38 nr im Bereich BP151–BP152
+2027-02-26,COMPLETED,FJC,BP147–BP149,Nachbeschichtung 43 nr im Bereich BP147–BP149
+2027-02-26,COMPLETED,TRN,BP147–BP148,Grabenarbeiten 480 m im Bereich BP147–BP148
+2027-02-26,COMPLETED,LOW,BP140–BP141,Absenken 476 m im Bereich BP140–BP141
+2027-02-26,COMPLETED,BKF,BP136–BP138,Bettung & Rückverfüllung 506 m im Bereich BP136–BP138
+2027-02-26,COMPLETED,RST,BP128–BP129,"Wiederherstellung & Reinigung 15,212 m2 im Bereich BP128–BP129"
+2027-02-26,PLANNED,WLD,BP152,Rohrschweißen & ZfP ab BP152
+2027-02-26,PLANNED,FJC,BP149,Nachbeschichtung ab BP149
+2027-02-26,PLANNED,TRN,BP148,Grabenarbeiten ab BP148
+2027-02-26,PLANNED,LOW,BP141,Absenken ab BP141
+2027-02-26,PLANNED,BKF,BP138,Bettung & Rückverfüllung ab BP138
+2027-02-26,PLANNED,RST,BP129,Wiederherstellung & Reinigung ab BP129
+2027-02-26,HSE,,,Keine besonderen Vorkommnisse
+2027-02-27,COMPLETED,WLD,BP152–BP153,Rohrschweißen & ZfP 43 nr im Bereich BP152–BP153
+2027-02-27,COMPLETED,FJC,BP149–BP150,Nachbeschichtung 44 nr im Bereich BP149–BP150
+2027-02-27,COMPLETED,TRN,BP148–BP150,Grabenarbeiten 529 m im Bereich BP148–BP150
+2027-02-27,COMPLETED,LOW,BP141–BP143,Absenken 492 m im Bereich BP141–BP143
+2027-02-27,COMPLETED,BKF,BP138–BP139,Bettung & Rückverfüllung 472 m im Bereich BP138–BP139
+2027-02-27,COMPLETED,RST,BP129–BP130,"Wiederherstellung & Reinigung 13,186 m2 im Bereich BP129–BP130"
+2027-02-27,PLANNED,WLD,BP153,Rohrschweißen & ZfP ab BP153
+2027-02-27,PLANNED,FJC,BP150,Nachbeschichtung ab BP150
+2027-02-27,PLANNED,TRN,BP150,Grabenarbeiten ab BP150
+2027-02-27,PLANNED,LOW,BP143,Absenken ab BP143
+2027-02-27,PLANNED,BKF,BP139,Bettung & Rückverfüllung ab BP139
+2027-02-27,PLANNED,RST,BP130,Wiederherstellung & Reinigung ab BP130
+2027-02-27,HSE,,,Keine besonderen Vorkommnisse
+2027-03-01,COMPLETED,WLD,BP153–BP155,Rohrschweißen & ZfP 45 nr im Bereich BP153–BP155
+2027-03-01,COMPLETED,FJC,BP150–BP152,Nachbeschichtung 41 nr im Bereich BP150–BP152
+2027-03-01,COMPLETED,TRN,BP150–BP152,Grabenarbeiten 546 m im Bereich BP150–BP152
+2027-03-01,COMPLETED,LOW,BP143–BP144,Absenken 453 m im Bereich BP143–BP144
+2027-03-01,COMPLETED,BKF,BP139–BP141,Bettung & Rückverfüllung 465 m im Bereich BP139–BP141
+2027-03-01,COMPLETED,RST,BP130–BP132,"Wiederherstellung & Reinigung 14,990 m2 im Bereich BP130–BP132"
+2027-03-01,PLANNED,WLD,BP155,Rohrschweißen & ZfP ab BP155
+2027-03-01,PLANNED,FJC,BP152,Nachbeschichtung ab BP152
+2027-03-01,PLANNED,TRN,BP152,Grabenarbeiten ab BP152
+2027-03-01,PLANNED,LOW,BP144,Absenken ab BP144
+2027-03-01,PLANNED,BKF,BP141,Bettung & Rückverfüllung ab BP141
+2027-03-01,PLANNED,RST,BP132,Wiederherstellung & Reinigung ab BP132
+2027-03-01,HSE,,,Keine besonderen Vorkommnisse
+2027-03-02,COMPLETED,WLD,BP155–BP156,Rohrschweißen & ZfP 44 nr im Bereich BP155–BP156
+2027-03-02,COMPLETED,FJC,BP152–BP153,Nachbeschichtung 42 nr im Bereich BP152–BP153
+2027-03-02,COMPLETED,TRN,BP152–BP153,Grabenarbeiten 529 m im Bereich BP152–BP153
+2027-03-02,COMPLETED,LOW,BP144–BP145,Absenken 466 m im Bereich BP144–BP145
+2027-03-02,COMPLETED,BKF,BP141–BP142,Bettung & Rückverfüllung 508 m im Bereich BP141–BP142
+2027-03-02,COMPLETED,RST,BP132–BP133,"Wiederherstellung & Reinigung 14,119 m2 im Bereich BP132–BP133"
+2027-03-02,PLANNED,WLD,BP156,Rohrschweißen & ZfP ab BP156
+2027-03-02,PLANNED,FJC,BP153,Nachbeschichtung ab BP153
+2027-03-02,PLANNED,TRN,BP153,Grabenarbeiten ab BP153
+2027-03-02,PLANNED,LOW,BP145,Absenken ab BP145
+2027-03-02,PLANNED,BKF,BP142,Bettung & Rückverfüllung ab BP142
+2027-03-02,PLANNED,RST,BP133,Wiederherstellung & Reinigung ab BP133
+2027-03-02,HSE,,,Keine besonderen Vorkommnisse
+2027-03-03,COMPLETED,WLD,BP156–BP157,Rohrschweißen & ZfP 24 nr im Bereich BP156–BP157
+2027-03-03,COMPLETED,FJC,BP153–BP154,Nachbeschichtung 21 nr im Bereich BP153–BP154
+2027-03-03,COMPLETED,TRN,BP153–BP154,Grabenarbeiten 289 m im Bereich BP153–BP154
+2027-03-03,COMPLETED,LOW,BP145–BP146,Absenken 301 m im Bereich BP145–BP146
+2027-03-03,COMPLETED,BKF,BP142–BP143,Bettung & Rückverfüllung 203 m im Bereich BP142–BP143
+2027-03-03,COMPLETED,RST,BP133–BP134,"Wiederherstellung & Reinigung 5,908 m2 im Bereich BP133–BP134"
+2027-03-03,HSE,,,Keine besonderen Vorkommnisse
+2027-03-04,PLANNED,WLD,BP157,Rohrschweißen & ZfP ab BP157
+2027-03-04,PLANNED,FJC,BP154,Nachbeschichtung ab BP154
+2027-03-04,PLANNED,TRN,BP154,Grabenarbeiten ab BP154
+2027-03-04,PLANNED,LOW,BP146,Absenken ab BP146
+2027-03-04,PLANNED,BKF,BP143,Bettung & Rückverfüllung ab BP143
+2027-03-04,PLANNED,RST,BP134,Wiederherstellung & Reinigung ab BP134
+2027-03-04,HSE,,,Keine besonderen Vorkommnisse
+2027-03-05,COMPLETED,WLD,BP157–BP158,Rohrschweißen & ZfP 27 nr im Bereich BP157–BP158
+2027-03-05,COMPLETED,FJC,BP154–BP155,Nachbeschichtung 21 nr im Bereich BP154–BP155
+2027-03-05,COMPLETED,TRN,BP154–BP155,Grabenarbeiten 252 m im Bereich BP154–BP155
+2027-03-05,COMPLETED,LOW,BP146–BP147,Absenken 240 m im Bereich BP146–BP147
+2027-03-05,COMPLETED,BKF,BP143,Bettung & Rückverfüllung 199 m im Bereich BP143
+2027-03-05,COMPLETED,RST,BP134,"Wiederherstellung & Reinigung 6,861 m2 im Bereich BP134"
+2027-03-05,PLANNED,WLD,BP158,Rohrschweißen & ZfP ab BP158
+2027-03-05,PLANNED,FJC,BP155,Nachbeschichtung ab BP155
+2027-03-05,PLANNED,TRN,BP155,Grabenarbeiten ab BP155
+2027-03-05,PLANNED,LOW,BP147,Absenken ab BP147
+2027-03-05,PLANNED,BKF,BP143,Bettung & Rückverfüllung ab BP143
+2027-03-05,PLANNED,RST,BP134,Wiederherstellung & Reinigung ab BP134
+2027-03-05,HSE,,,Keine besonderen Vorkommnisse
+2027-03-06,COMPLETED,WLD,BP158–BP160,Rohrschweißen & ZfP 44 nr im Bereich BP158–BP160
+2027-03-06,COMPLETED,FJC,BP155–BP156,Nachbeschichtung 43 nr im Bereich BP155–BP156
+2027-03-06,COMPLETED,TRN,BP155–BP156,Grabenarbeiten 526 m im Bereich BP155–BP156
+2027-03-06,COMPLETED,LOW,BP147–BP148,Absenken 534 m im Bereich BP147–BP148
+2027-03-06,COMPLETED,BKF,BP143–BP145,Bettung & Rückverfüllung 492 m im Bereich BP143–BP145
+2027-03-06,COMPLETED,RST,BP134–BP136,"Wiederherstellung & Reinigung 14,128 m2 im Bereich BP134–BP136"
+2027-03-06,PLANNED,WLD,BP160,Rohrschweißen & ZfP ab BP160
+2027-03-06,PLANNED,FJC,BP156,Nachbeschichtung ab BP156
+2027-03-06,PLANNED,TRN,BP156,Grabenarbeiten ab BP156
+2027-03-06,PLANNED,LOW,BP148,Absenken ab BP148
+2027-03-06,PLANNED,BKF,BP145,Bettung & Rückverfüllung ab BP145
+2027-03-06,PLANNED,RST,BP136,Wiederherstellung & Reinigung ab BP136
+2027-03-06,HSE,,,Keine besonderen Vorkommnisse
+2027-03-08,COMPLETED,WLD,BP160–BP161,Rohrschweißen & ZfP 54 nr im Bereich BP160–BP161
+2027-03-08,COMPLETED,FJC,BP156–BP158,Nachbeschichtung 44 nr im Bereich BP156–BP158
+2027-03-08,COMPLETED,TRN,BP156–BP158,Grabenarbeiten 519 m im Bereich BP156–BP158
+2027-03-08,COMPLETED,LOW,BP148–BP150,Absenken 505 m im Bereich BP148–BP150
+2027-03-08,COMPLETED,BKF,BP145–BP146,Bettung & Rückverfüllung 533 m im Bereich BP145–BP146
+2027-03-08,COMPLETED,RST,BP136–BP137,"Wiederherstellung & Reinigung 13,870 m2 im Bereich BP136–BP137"
+2027-03-08,PLANNED,WLD,BP161,Rohrschweißen & ZfP ab BP161
+2027-03-08,PLANNED,FJC,BP158,Nachbeschichtung ab BP158
+2027-03-08,PLANNED,TRN,BP158,Grabenarbeiten ab BP158
+2027-03-08,PLANNED,LOW,BP150,Absenken ab BP150
+2027-03-08,PLANNED,BKF,BP146,Bettung & Rückverfüllung ab BP146
+2027-03-08,PLANNED,RST,BP137,Wiederherstellung & Reinigung ab BP137
+2027-03-08,HSE,,,Keine besonderen Vorkommnisse
+2027-03-09,COMPLETED,WLD,BP161–BP162,Rohrschweißen & ZfP 23 nr im Bereich BP161–BP162
+2027-03-09,COMPLETED,FJC,BP158,Nachbeschichtung 23 nr im Bereich BP158
+2027-03-09,COMPLETED,TRN,BP158,Grabenarbeiten 244 m im Bereich BP158
+2027-03-09,COMPLETED,LOW,BP150–BP151,Absenken 245 m im Bereich BP150–BP151
+2027-03-09,COMPLETED,BKF,BP146–BP147,Bettung & Rückverfüllung 222 m im Bereich BP146–BP147
+2027-03-09,COMPLETED,RST,BP137–BP138,"Wiederherstellung & Reinigung 6,636 m2 im Bereich BP137–BP138"
+2027-03-09,PLANNED,WLD,BP162,Rohrschweißen & ZfP ab BP162
+2027-03-09,PLANNED,FJC,BP158,Nachbeschichtung ab BP158
+2027-03-09,PLANNED,TRN,BP158,Grabenarbeiten ab BP158
+2027-03-09,PLANNED,LOW,BP151,Absenken ab BP151
+2027-03-09,PLANNED,BKF,BP147,Bettung & Rückverfüllung ab BP147
+2027-03-09,PLANNED,RST,BP138,Wiederherstellung & Reinigung ab BP138
+2027-03-09,HSE,,,Keine besonderen Vorkommnisse
+2027-03-10,COMPLETED,WLD,BP162–BP164,Rohrschweißen & ZfP 41 nr im Bereich BP162–BP164
+2027-03-10,COMPLETED,FJC,BP158–BP159,Nachbeschichtung 34 nr im Bereich BP158–BP159
+2027-03-10,COMPLETED,TRN,BP158–BP160,Grabenarbeiten 489 m im Bereich BP158–BP160
+2027-03-10,COMPLETED,LOW,BP151–BP152,Absenken 514 m im Bereich BP151–BP152
+2027-03-10,COMPLETED,BKF,BP147–BP148,Bettung & Rückverfüllung 542 m im Bereich BP147–BP148
+2027-03-10,COMPLETED,RST,BP138–BP139,"Wiederherstellung & Reinigung 11,028 m2 im Bereich BP138–BP139"
+2027-03-10,PLANNED,WLD,BP164,Rohrschweißen & ZfP ab BP164
+2027-03-10,PLANNED,FJC,BP159,Nachbeschichtung ab BP159
+2027-03-10,PLANNED,TRN,BP160,Grabenarbeiten ab BP160
+2027-03-10,PLANNED,LOW,BP152,Absenken ab BP152
+2027-03-10,PLANNED,BKF,BP148,Bettung & Rückverfüllung ab BP148
+2027-03-10,PLANNED,RST,BP139,Wiederherstellung & Reinigung ab BP139
+2027-03-10,HSE,,,Keine besonderen Vorkommnisse
+2027-03-11,COMPLETED,WLD,BP164–BP165,Rohrschweißen & ZfP 41 nr im Bereich BP164–BP165
+2027-03-11,COMPLETED,FJC,BP159–BP161,Nachbeschichtung 40 nr im Bereich BP159–BP161
+2027-03-11,COMPLETED,TRN,BP160–BP161,Grabenarbeiten 454 m im Bereich BP160–BP161
+2027-03-11,COMPLETED,LOW,BP152–BP154,Absenken 603 m im Bereich BP152–BP154
+2027-03-11,COMPLETED,BKF,BP148–BP150,Bettung & Rückverfüllung 516 m im Bereich BP148–BP150
+2027-03-11,COMPLETED,RST,BP139–BP140,"Wiederherstellung & Reinigung 14,159 m2 im Bereich BP139–BP140"
+2027-03-11,PLANNED,WLD,BP165,Rohrschweißen & ZfP ab BP165
+2027-03-11,PLANNED,FJC,BP161,Nachbeschichtung ab BP161
+2027-03-11,PLANNED,TRN,BP161,Grabenarbeiten ab BP161
+2027-03-11,PLANNED,LOW,BP154,Absenken ab BP154
+2027-03-11,PLANNED,BKF,BP150,Bettung & Rückverfüllung ab BP150
+2027-03-11,PLANNED,RST,BP140,Wiederherstellung & Reinigung ab BP140
+2027-03-11,HSE,,,Keine besonderen Vorkommnisse
+2027-03-12,COMPLETED,WLD,BP165–BP167,Rohrschweißen & ZfP 49 nr im Bereich BP165–BP167
+2027-03-12,COMPLETED,FJC,BP161–BP162,Nachbeschichtung 42 nr im Bereich BP161–BP162
+2027-03-12,COMPLETED,TRN,BP161–BP162,Grabenarbeiten 509 m im Bereich BP161–BP162
+2027-03-12,COMPLETED,LOW,BP154–BP155,Absenken 501 m im Bereich BP154–BP155
+2027-03-12,COMPLETED,BKF,BP150–BP151,Bettung & Rückverfüllung 463 m im Bereich BP150–BP151
+2027-03-12,COMPLETED,RST,BP140–BP141,"Wiederherstellung & Reinigung 13,735 m2 im Bereich BP140–BP141"
+2027-03-12,PLANNED,WLD,BP167,Rohrschweißen & ZfP ab BP167
+2027-03-12,PLANNED,FJC,BP162,Nachbeschichtung ab BP162
+2027-03-12,PLANNED,TRN,BP162,Grabenarbeiten ab BP162
+2027-03-12,PLANNED,LOW,BP155,Absenken ab BP155
+2027-03-12,PLANNED,BKF,BP151,Bettung & Rückverfüllung ab BP151
+2027-03-12,PLANNED,RST,BP141,Wiederherstellung & Reinigung ab BP141
+2027-03-12,HSE,,,Keine besonderen Vorkommnisse
+2027-03-13,COMPLETED,WLD,BP167–BP168,Rohrschweißen & ZfP 47 nr im Bereich BP167–BP168
+2027-03-13,COMPLETED,FJC,BP162–BP164,Nachbeschichtung 38 nr im Bereich BP162–BP164
+2027-03-13,COMPLETED,TRN,BP162–BP164,Grabenarbeiten 514 m im Bereich BP162–BP164
+2027-03-13,COMPLETED,LOW,BP155–BP157,Absenken 570 m im Bereich BP155–BP157
+2027-03-13,COMPLETED,BKF,BP151–BP153,Bettung & Rückverfüllung 576 m im Bereich BP151–BP153
+2027-03-13,COMPLETED,RST,BP141–BP143,"Wiederherstellung & Reinigung 12,475 m2 im Bereich BP141–BP143"
+2027-03-13,HSE,,,Keine besonderen Vorkommnisse
+2027-01-23,COMPLETED,FJC,BP140,Nachbeschichtung von 2 Schweißnähten im Bereich BP140

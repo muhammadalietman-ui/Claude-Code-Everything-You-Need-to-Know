@@ -8,7 +8,7 @@ SCHEMA = """
 CREATE TABLE IF NOT EXISTS spread(spread_id TEXT PRIMARY KEY, name TEXT, site_tz TEXT, crs_code TEXT,
   kp_start_m REAL, kp_end_m REAL, is_synthetic INTEGER);
 CREATE TABLE IF NOT EXISTS section(section_id TEXT PRIMARY KEY, spread_id TEXT, kp_from_m REAL, kp_to_m REAL);
-CREATE TABLE IF NOT EXISTS activity_type(activity_code TEXT PRIMARY KEY, name TEXT, unit TEXT, sequence_no INTEGER,
+CREATE TABLE IF NOT EXISTS activity_type(activity_code TEXT PRIMARY KEY, name TEXT, name_de TEXT, unit TEXT, sequence_no INTEGER,
   uav_observability TEXT, verification_source TEXT);
 CREATE TABLE IF NOT EXISTS subcontractor(subcontractor_id TEXT PRIMARY KEY, scope TEXT);
 CREATE TABLE IF NOT EXISTS crew(crew_id TEXT PRIMARY KEY, subcontractor_id TEXT, activity_code TEXT, nominal_size INTEGER);
@@ -53,6 +53,12 @@ CREATE TABLE IF NOT EXISTS invoice_line(invoice_line_id TEXT PRIMARY KEY, rec_ke
 CREATE TABLE IF NOT EXISTS alert_state(alert_id TEXT PRIMARY KEY, status TEXT, comment TEXT, updated_at TEXT, actor_role TEXT);
 CREATE TABLE IF NOT EXISTS audit_event(event_id INTEGER PRIMARY KEY AUTOINCREMENT, ts TEXT, actor_role TEXT, entity TEXT,
   entity_id TEXT, action TEXT, detail TEXT, before_hash TEXT, after_hash TEXT);
+CREATE TABLE IF NOT EXISTS plan_sheet(sheet_id TEXT PRIMARY KEY, kp_from_m REAL, kp_to_m REAL);
+CREATE TABLE IF NOT EXISTS manpower_daily(work_date TEXT, company_type TEXT, subcontractor_id TEXT, origin TEXT,
+  manhours_reported REAL, manhours_sensed REAL);
+CREATE TABLE IF NOT EXISTS equipment_calc_daily(work_date TEXT, equipment_id TEXT, calc_hours REAL, basis TEXT,
+  PRIMARY KEY(work_date, equipment_id));
+CREATE TABLE IF NOT EXISTS daily_summary_item(work_date TEXT, kind TEXT, activity_code TEXT, sheets TEXT, text TEXT);
 CREATE TABLE IF NOT EXISTS anomaly_ground_truth(anomaly_id TEXT PRIMARY KEY, rule_id TEXT, entity TEXT, entity_id TEXT,
   work_date TEXT, description TEXT);
 """

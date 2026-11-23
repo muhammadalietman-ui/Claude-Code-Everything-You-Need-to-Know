@@ -27,6 +27,10 @@ ACTIVITIES = [
 ]
 PRED = {"GRD": "CLR", "STR": "GRD", "WLD": "STR", "FJC": "WLD", "TRN": "GRD", "LOW": "FJC", "BKF": "LOW", "RST": "BKF"}
 EXTRA_PRED = {"LOW": "TRN"}
+NAME_DE = {"CLR": "Oberbodenabtrag & Trassenfreimachung", "GRD": "Planieren des Arbeitsstreifens", "STR": "Auslegen",
+           "WLD": "Rohrschweißen & ZfP", "FJC": "Nachbeschichtung", "TRN": "Grabenarbeiten", "LOW": "Absenken",
+           "BKF": "Bettung & Rückverfüllung", "RST": "Wiederherstellung & Reinigung"}
+SHEET_LEN_M = 350.0  # construction-plan (Bauplan) sheet length; progress is referenced by sheet number in practice
 RATES = {"CLR": 2.0, "GRD": 3.0, "STR": 1.5, "WLD": 180.0, "FJC": 60.0, "TRN": 25.0, "LOW": 15.0, "BKF": 12.0, "RST": 0.8}
 SUBS = {
     "SYN-SUB-A": "Clearing, grading, reinstatement",
@@ -92,7 +96,8 @@ def generate(seed: int = C.SEED) -> dict[str, list[dict]]:
         "spread", "section", "activity_type", "subcontractor", "crew", "equipment", "boq_item", "planned_quantity",
         "work_front", "field_report", "field_report_line", "subcontractor_claim", "subcontractor_claim_line",
         "resource_claim", "equipment_claim", "standby_claim", "drone_flight", "measurement", "telematics_daily",
-        "presence_daily", "badge_event", "vehicle_trip", "weather_obs", "anomaly_ground_truth"]}
+        "presence_daily", "badge_event", "vehicle_trip", "weather_obs", "anomaly_ground_truth", "plan_sheet",
+        "manpower_daily", "equipment_calc_daily", "daily_summary_item"]}
     gt = T["anomaly_ground_truth"]
 
     def truth(rule, entity, entity_id, date, desc):
@@ -113,7 +118,7 @@ def generate(seed: int = C.SEED) -> dict[str, list[dict]]:
     eq_n = 0
     crew_members: dict[str, list[str]] = {}
     for code, name, unit, seq, obs, ver, sub, crew, rate, size, lag in ACTIVITIES:
-        T["activity_type"].append({"activity_code": code, "name": name, "unit": unit, "sequence_no": seq,
+        T["activity_type"].append({"activity_code": code, "name": name, "name_de": NAME_DE[code], "unit": unit, "sequence_no": seq,
                                    "uav_observability": obs, "verification_source": ver})
         T["crew"].append({"crew_id": crew, "subcontractor_id": sub, "activity_code": code, "nominal_size": size})
         crew_members[crew] = [f"B-{1000 + seq * 100 + k}" for k in range(size)]  # pseudonymised badge IDs
@@ -374,6 +379,7 @@ def generate(seed: int = C.SEED) -> dict[str, list[dict]]:
     T["standby_claim"].append({"sb_id": f"SB-{sb_n:04d}", "subcontractor_id": "SYN-SUB-B", "crew_id": "SYN-CRW-08",
                                "work_date": workable[5], "reason": "WEATHER", "hours": 10})
     truth("AL-13", "standby_claim", f"SB-{sb_n:04d}", workable[5], "Seeded weather standby on a workable day")
+    enrich_reporting(T, rng, days, daily_true, stop_days, eq_by_crew, truth)
     return T
 
 
@@ -404,3 +410,81 @@ def week_periods(days: list[str]):
     if cur:
         out.append((cur[0], cur[-1]))
     return out
+
+
+def sheet_of(kp: float) -> str:
+    return f"BP{101 + int(min(kp, C.KP_END_M - 0.01) // SHEET_LEN_M)}"
+
+
+def sheet_range(kf: float, kt: float) -> str:
+    a, b = sheet_of(kf), sheet_of(max(kf, kt - 0.01))
+    return a if a == b else f"{a}–{b}"
+
+
+def enrich_reporting(T, rng, days, daily_true, stop_days, eq_by_crew, truth):
+    """Client daily-report (Bautagesbericht) inputs, modelled on a real contractor report (structure only):
+    plan sheets, man-hours by company type and origin, calculated equipment hours, and the narrative."""
+    n_sheets = int(np.ceil(C.KP_END_M / SHEET_LEN_M))
+    for i in range(n_sheets):
+        T["plan_sheet"].append({"sheet_id": f"BP{101 + i}", "kp_from_m": i * SHEET_LEN_M,
+                                "kp_to_m": min((i + 1) * SHEET_LEN_M, C.KP_END_M)})
+    stop = {days[i] for i in stop_days}
+    # Man-hours: JV own staff (direct/indirect) and subcontractors (reported = timesheet, sensed = check-in x hours)
+    rc_by_date = {}
+    for rc in T["resource_claim"]:
+        rc_by_date.setdefault(rc["work_date"], []).append(rc)
+    pres = {(p["crew_id"], p["work_date"]): p for p in T["presence_daily"]}
+    for d in days:
+        if d in stop:
+            continue
+        for ctype, n, local_share in (("JV_DIRECT", 38, 0.1), ("JV_INDIRECT", 12, 0.45)):
+            heads = int(n + rng.integers(-3, 4))
+            for origin, share in (("LOCAL", local_share), ("EXTERNAL", 1 - local_share)):
+                T["manpower_daily"].append({"work_date": d, "company_type": ctype, "subcontractor_id": None, "origin": origin,
+                                            "manhours_reported": round(heads * share * 10, 0), "manhours_sensed": None})
+        for rc in rc_by_date.get(d, []):
+            p = pres.get((rc["crew_id"], d))
+            sensed = p["checkin_count"] * rc["hours_claimed"] if p else None
+            for origin, share in (("LOCAL", 0.15), ("EXTERNAL", 0.85)):
+                T["manpower_daily"].append({
+                    "work_date": d, "company_type": "SUB", "subcontractor_id": rc["subcontractor_id"], "origin": origin,
+                    "manhours_reported": round(rc["headcount_claimed"] * rc["hours_claimed"] * share, 0),
+                    "manhours_sensed": None if sensed is None else round(sensed * share, 0)})
+    # Equipment hours as reported to the client: calculated from days assigned (x 10 h), incl. weather-stop days
+    first, last = {}, {}
+    for w in daily_true:
+        first.setdefault(w["crew"], w["date"])
+        last[w["crew"]] = w["date"]
+    for crew, eqs in eq_by_crew.items():
+        if crew not in first:
+            continue
+        for d in days:
+            if first[crew] <= d <= last[crew]:
+                for e in eqs:
+                    T["equipment_calc_daily"].append({"work_date": d, "equipment_id": e["equipment_id"], "calc_hours": 10.0,
+                                                      "basis": "DAYS_ASSIGNED"})
+    # Narrative: completed today / planned next days / HSE (structured, so it can be checked against quantities)
+    by_day = {}
+    for w in daily_true:
+        by_day.setdefault(w["date"], []).append(w)
+    unit = {a[0]: a[2] for a in ACTIVITIES}
+    for i, d in enumerate(days):
+        for w in by_day.get(d, []):
+            qty = m_to_qty(w["code"], w["kp_to"] - w["kp_from"])
+            T["daily_summary_item"].append({
+                "work_date": d, "kind": "COMPLETED", "activity_code": w["code"],
+                "sheets": sheet_range(w["kp_from"], w["kp_to"]),
+                "text": f"{NAME_DE[w['code']]} {qty:,.0f} {unit[w['code']]} im Bereich {sheet_range(w['kp_from'], w['kp_to'])}"})
+        if i + 1 < len(days):
+            for w in by_day.get(days[i + 1], []):
+                T["daily_summary_item"].append({"work_date": d, "kind": "PLANNED", "activity_code": w["code"],
+                                                "sheets": sheet_of(w["kp_from"]),
+                                                "text": f"{NAME_DE[w['code']]} ab {sheet_of(w['kp_from'])}"})
+        T["daily_summary_item"].append({"work_date": d, "kind": "HSE", "activity_code": None, "sheets": None,
+                                        "text": "Keine besonderen Vorkommnisse"})
+    # Seeded AL-14: narrative reports coating of 2 welds on a day with no coating quantity reported
+    fjc_days = {w["date"] for w in daily_true if w["code"] == "FJC"}
+    d14 = next(days[i] for i in sorted(stop_days) if days[i] > min(fjc_days))
+    T["daily_summary_item"].append({"work_date": d14, "kind": "COMPLETED", "activity_code": "FJC", "sheets": "BP140",
+                                    "text": "Nachbeschichtung von 2 Schweißnähten im Bereich BP140"})
+    truth("AL-14", "daily_summary", f"FJC|{d14}", d14, "Seeded narrative/quantity mismatch (text reports work, no quantity)")

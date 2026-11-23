@@ -83,3 +83,24 @@ def test_certificate_csv(client):
 def test_static_dashboard_served(client):
     assert client.get("/").status_code == 200
     assert client.get("/field.html").status_code == 200
+
+
+def test_daily_report_structure_and_arithmetic(client):
+    r = client.get("/api/daily-report").json()
+    assert r["report_no"] > 0 and r["detail"] and r["personnel"] and r["equipment"]
+    for x in r["detail"]:
+        assert abs(x["cum"] - (x["cum_prev"] + x["this_period"])) < 0.2
+    for x in r["personnel"]:
+        assert x["today_total"] == x["today_local"] + x["today_external"]
+    assert client.get("/api/daily-report", headers={"X-Role": "SC", "X-Subcontractor": "SYN-SUB-A"}).status_code == 403
+
+
+def test_calculated_equipment_hours_exceed_measured_on_stop_days(client):
+    """Practice: client reports calculate equipment hours from days assigned, so weather-stop days still accrue hours."""
+    from siteops.engine import Data
+    st = client.app.state.siteops
+    d = st.data()
+    stop = [w for w, v in d.weather.items() if v["condition"] == "STOPPED"]
+    calc_on_stop = sum(r["calc_hours"] for r in d.eq_calc if r["work_date"] in stop)
+    measured_on_stop = sum(t["engine_h"] for (e, w), t in d.telematics.items() if w in stop)
+    assert calc_on_stop > 0 and measured_on_stop == 0

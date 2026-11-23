@@ -46,3 +46,6 @@
 | Q-073 | Is there a works council at the company, and has a works agreement on telematics or vehicle GPS already been signed? | User / HR | Before live data | | Open |
 | Q-074 | Do the subcontracts use VOB/B and VOB/C (ATV) measurement rules, or bespoke rules? Are quantities exchanged in GAEB format? | Commercial | Reference project step 1 | | Open |
 | Q-075 | Does the reference project have 3D machine-control logs or welding-machine data exports (T8/T9)? | Survey / QA | Reference project step 4 | | Open |
+| Q-076 | Which plan-sheet numbering and sheet-to-KP table does the project use? Can an anonymised index be shared? | User / Survey | D2 | | Open |
+| Q-077 | Are subcontractor man-hours in the client report taken from subcontractor timesheets or from JV attendance records? | User | D2 | | Open |
+| Q-078 | Lump-sum items (valve stations): what are the stage weights, and who certifies the %? | Commercial | D3 | | Open |

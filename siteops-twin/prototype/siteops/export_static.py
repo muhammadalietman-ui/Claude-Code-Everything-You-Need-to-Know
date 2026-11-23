@@ -36,7 +36,8 @@ def capture(db_path=None) -> dict:
         snap = {"overview": g("/api/overview", date=d), "reconciliation": g("/api/reconciliation", date=d)["rows"],
                 "production": g("/api/production", date=d), "alerts": g("/api/alerts", date=d)["alerts"],
                 "scorecard": g("/api/scorecard", date=d), "presence": g("/api/presence", date=d),
-                "certificate": {s: g(f"/api/certificate/{s}", date=d) for s in subs}, "sections": {}}
+                "certificate": {s: g(f"/api/certificate/{s}", date=d) for s in subs}, "sections": {},
+                "daily_report": g("/api/daily-report", date=d)}
         for s in meta["sections"]:
             sd = g(f"/api/sections/{s['section_id']}", date=d)
             # rows and alerts are rebuilt from the date snapshot in the browser; keep only the extra parts
@@ -109,6 +110,7 @@ window.__SITEOPS_READY__ = (async () => {
       if (p === '/api/presence') return json({ ...S.presence, fronts: scope(S.presence.fronts, role, sc), equipment: scope(S.presence.equipment, role, sc) });
       if (p === '/api/audit') return role === 'SC' ? json({ detail: 'audit log not available to subcontractors' }, 403) : json({ events: audit.filter((e) => (!q.entity || e.entity === q.entity) && (!q.entity_id || e.entity_id === q.entity_id)) });
       if (p === '/api/field-reports') return json({ reports });
+      if (p === '/api/daily-report') return role === 'SC' ? json({ detail: 'the client daily report is an internal/client document' }, 403) : json(S.daily_report);
       let m = p.match(/^\/api\/sections\/([^/]+)$/);
       if (m) {
         const sid = decodeURIComponent(m[1]); const x = S.sections[sid];

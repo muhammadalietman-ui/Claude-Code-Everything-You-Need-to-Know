@@ -24,3 +24,4 @@ GT-021,AL-12,front,FR-08,2027-02-19,Seeded work reported/claimed at a front with
 GT-022,AL-07,equipment,SYN-EQ-017,2027-02-24,"Seeded equipment reported working, telematics idle"
 GT-023,AL-10,badge,B-1400,2027-02-04,Seeded impossible presence at two fronts 14 km apart within 5 minutes
 GT-024,AL-13,standby_claim,SB-0005,2027-02-03,Seeded weather standby on a workable day
+GT-025,AL-14,daily_summary,FJC|2027-01-23,2027-01-23,"Seeded narrative/quantity mismatch (text reports work, no quantity)"

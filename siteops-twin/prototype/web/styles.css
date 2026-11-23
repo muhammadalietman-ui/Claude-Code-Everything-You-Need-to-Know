@@ -135,3 +135,6 @@ body.field { font-size: 17px; }
 .field .err { color: var(--status-bad); font-weight: 600; font-size: 15px; }
 .field .stepper { display: grid; grid-template-columns: 64px 1fr 64px; gap: 8px; align-items: center; }
 .field .stepper output { text-align: center; font-size: 28px; font-weight: 700; }
+
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px}@media (max-width:800px){.grid2{grid-template-columns:1fr}}
+@media print{header,nav.tabs,#printDR,.banner{display:none!important}.panel{break-inside:avoid;box-shadow:none}}

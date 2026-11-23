@@ -121,7 +121,7 @@ function route() {
   });
   if (state.chart) { state.chart.destroy(); state.chart = null; }
   if (state.map) { state.map.remove(); state.map = null; }
-  const pages = { overview, production, reconciliation, scorecard, alerts, section, certificate, presence };
+  const pages = { overview, production, reconciliation, scorecard, alerts, section, certificate, presence, dailyreport };
   (pages[page] || overview)(arg ? decodeURIComponent(arg) : undefined);
 }
 
@@ -529,6 +529,38 @@ async function presence() {
           <td class="num">${num(x.hours_claimed, 1)}</td><td class="num">${num(x.engine_h, 1)}</td><td class="num">${num(x.working_h, 1)}</td>
           <td>${esc(x.telematics)}</td><td>${statusChip(x.status)}</td></tr>`).join('')}</tbody></table></div>` : empty('No equipment claims for this date.')}</div>`;
   } catch (e) { view.innerHTML = `<h2>S8 Presence</h2>${errorBox(e)}`; }
+}
+
+// ---------- S9 Client daily report (Bautagesbericht), generated + independently checked ----------
+async function dailyreport() {
+  const title = `<h2>S9 Bautagesbericht / client daily report <span class="muted">· ${esc(state.date)}</span></h2>`;
+  view.innerHTML = title + loading();
+  try {
+    const r = await api(`/api/daily-report${qs({ date: state.date })}`);
+    const wt = (w) => w ? `${esc(w.condition)} · wind ${num(w.wind_ms, 1)} m/s · rain ${num(w.precip_mm, 1)} mm` : '–';
+    const lst = (a) => a && a.length ? `<ul>${a.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>` : '<p class="muted">–</p>';
+    const grp = { JV_DIRECT: 'ARGE direkt / JV direct', JV_INDIRECT: 'ARGE indirekt / JV indirect' };
+    const p = r.personnel || [];
+    const tot = (k) => p.reduce((t, x) => t + (x[k] || 0), 0);
+    view.innerHTML = `${title}
+      <p class="note">Generated from the SiteOps data model in the client's daily-report structure. Columns marked <strong>✓ check</strong> are the independent verification a manual report cannot show. <button type="button" id="printDR">Print / save as PDF</button></p>
+      <div class="panel"><h3>Bericht Nr. ${num(r.report_no)} · ${esc(r.date)}</h3>
+        <p><strong>1. Wetter / weather</strong>: today ${wt(r.weather.today)}; next working day (${esc(r.next_working_day || '–')}) ${wt(r.weather.next)}</p></div>
+      <div class="panel"><h3>2. Personalübersicht / man-hours</h3><div class="tablewrap"><table>
+        <thead><tr><th>Group</th><th class="num">Cum. previous</th><th class="num">Today local</th><th class="num">Today external</th><th class="num">Today total</th><th class="num">Cum. + today</th><th class="num">✓ check: sensed today</th><th class="num">✓ unverified h</th></tr></thead>
+        <tbody>${p.map((x) => `<tr><td>${esc(grp[x.group] || 'NU / Sub ' + x.group)}</td><td class="num">${num(x.cum_prev)}</td><td class="num">${num(x.today_local)}</td><td class="num">${num(x.today_external)}</td><td class="num">${num(x.today_total)}</td><td class="num">${num(x.cum)}</td><td class="num">${x.sensed_today == null ? '–' : num(x.sensed_today)}</td><td class="num">${x.unverified_today ? `<strong>${num(x.unverified_today)}</strong>` : (x.unverified_today === 0 ? '0' : '–')}</td></tr>`).join('')}
+        <tr><td><strong>Gesamt / total</strong></td><td class="num"><strong>${num(tot('cum_prev'))}</strong></td><td class="num">${num(tot('today_local'))}</td><td class="num">${num(tot('today_external'))}</td><td class="num"><strong>${num(tot('today_total'))}</strong></td><td class="num"><strong>${num(tot('cum'))}</strong></td><td></td><td></td></tr></tbody></table></div></div>
+      <div class="panel"><h3>3. Geräte / equipment hours</h3><p class="note">${esc(r.notes[0])}</p><div class="tablewrap"><table>
+        <thead><tr><th>Owner</th><th class="num">Cum. previous (calc.)</th><th class="num">Today (calc.)</th><th class="num">Cum. + today</th><th class="num">✓ measured engine h</th><th class="num">✓ no telematics (h)</th><th class="num">✓ calc. − measured</th></tr></thead>
+        <tbody>${(r.equipment || []).map((x) => `<tr><td>${esc(x.owner)}</td><td class="num">${num(x.cum_prev)}</td><td class="num">${num(x.today_calc)}</td><td class="num">${num(x.cum)}</td><td class="num">${num(x.today_measured_engine_h, 1)}</td><td class="num">${num(x.today_without_telematics_h)}</td><td class="num">${x.calc_minus_measured_h > 0.5 ? `<strong>${num(x.calc_minus_measured_h, 1)}</strong>` : num(x.calc_minus_measured_h, 1)}</td></tr>`).join('')}</tbody></table></div></div>
+      <div class="panel grid2"><div><h3>4.1 Heute abgeschlossen / completed today</h3>${lst(r.completed)}</div><div><h3>4.2 Geplant / planned next</h3>${lst(r.planned)}</div></div>
+      <div class="panel"><h3>5. Besondere Vorkommnisse / HSE, QA/QC</h3>${lst(r.hse)}
+        ${(r.consistency_alerts || []).length ? `<p class="note"><strong>✓ check:</strong> ${r.consistency_alerts.map((a) => esc(a.explanation)).join('<br>')}</p>` : ''}</div>
+      <div class="panel"><h3>6. Detaillierter Tätigkeitsbericht / detailed progress</h3><div class="tablewrap"><table>
+        <thead><tr><th>Tätigkeit / activity</th><th>Unit</th><th class="num">Total</th><th>Plan sheets today</th><th class="num">Cum. previous</th><th class="num">This period</th><th class="num">Cumulative</th><th class="num">%</th><th class="num">✓ measured cum.</th><th class="num">✓ claimed cum.</th><th>✓ source</th><th>✓ worst status</th><th>✓ alerts</th></tr></thead>
+        <tbody>${(r.detail || []).map((x) => `<tr><td>${esc(x.name_de)}<br><span class="muted">${esc(x.name)}</span></td><td>${esc(x.unit)}</td><td class="num">${num(x.total)}</td><td>${esc(x.sheets_today || '–')}</td><td class="num">${num(x.cum_prev)}</td><td class="num">${num(x.this_period)}</td><td class="num">${num(x.cum)}</td><td class="num">${pct(x.pct)}</td><td class="num">${num(x.measured_cum)}</td><td class="num">${num(x.claimed_cum)}</td><td>${esc(x.verification_source)}</td><td>${x.worst_status ? statusChip(x.worst_status) : '–'}</td><td>${esc((x.open_alerts || []).join(', ') || '–')}</td></tr>`).join('')}</tbody></table></div></div>`;
+    $('#printDR').addEventListener('click', () => window.print());
+  } catch (e) { view.innerHTML = title + errorBox(e); }
 }
 
 init();

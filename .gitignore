@@ -24,3 +24,6 @@ siteops-twin/prototype/.venv/
 siteops-twin/prototype/*.db
 __pycache__/
 .pytest_cache/
+
+# Real project material: never commit (confidential)
+siteops-twin/data/private/

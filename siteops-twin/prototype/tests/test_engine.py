@@ -3,7 +3,7 @@ import pytest
 
 from siteops.engine import classify
 
-RULES = [f"AL-{i:02d}" for i in range(1, 14)]
+RULES = [f"AL-{i:02d}" for i in range(1, 15)]
 
 
 @pytest.mark.parametrize("claimed,expected", [(1020, "MATCHED"), (1050, "WITHIN_TOLERANCE"), (1100, "DISCREPANCY")])
@@ -27,7 +27,7 @@ def _match(a, g):
     eid = g["entity_id"]
     if g["rule_id"] == "AL-03":
         return eid in (a["entity_id"], a.get("related"))
-    if g["work_date"] and g["rule_id"] not in ("AL-08", "AL-06", "AL-01", "AL-04", "AL-13"):
+    if g["work_date"] and g["rule_id"] not in ("AL-08", "AL-06", "AL-01", "AL-04", "AL-13", "AL-14"):
         return a["entity_id"] == f"{eid}|{g['work_date']}"
     return a["entity_id"] == eid
 

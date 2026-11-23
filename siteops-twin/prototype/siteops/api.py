@@ -22,6 +22,7 @@ from . import config as C
 from .db import DEFAULT_DB, connect
 from .engine import Data, alerts, reconcile, section_shares, to_metres
 from .generate import centreline
+from .reporting import daily_report
 
 WEB = Path(__file__).resolve().parent.parent / "web"
 ROLES = ["CM", "QS", "SM", "FM", "SV", "SC", "ADM", "AUD"]
@@ -102,13 +103,14 @@ def create_app(db_path=None) -> FastAPI:
                            "site_tz": sp["site_tz"], "synthetic": bool(sp["is_synthetic"])},
                 "date_min": d.dates[0], "date_max": d.dates[-1], "default_date": d.dates[-1],
                 "sections": [{k: s[k] for k in ("section_id", "kp_from_m", "kp_to_m")} for s in d.sections],
-                "activities": [{"activity_code": a["activity_code"], "name": a["name"], "unit": a["unit"],
+                "activities": [{"activity_code": a["activity_code"], "name": a["name"], "name_de": a.get("name_de"), "unit": a["unit"],
                                 "sequence_no": a["sequence_no"], "verification_source": a["verification_source"]}
                                for a in sorted(d.acts.values(), key=lambda a: a["sequence_no"])],
                 "subcontractors": [dict(r) for r in st.conn.execute("SELECT * FROM subcontractor")],
                 "crews": list(d.crews.values()),
                 "equipment": [{k: e[k] for k in ("equipment_id", "type", "owner", "crew_id")} for e in d.equipment.values()],
                 "fronts": list(d.fronts.values()),
+                "plan_sheets": d.sheets,
                 "config": {"tol_pct": C.TOL_PCT, "tol_abs": C.TOL_ABS, "al05_drop": C.AL05_DROP, "tol_head": C.TOL_HEAD,
                            "tol_eq_h": C.TOL_EQ_H, "currency": C.CURRENCY},
                 "roles": ROLES}
@@ -515,6 +517,15 @@ def create_app(db_path=None) -> FastAPI:
         if entity_id:
             q, a = q + " AND entity_id=?", a + [entity_id]
         return {"events": [dict(r) for r in st.conn.execute(q + " ORDER BY event_id DESC LIMIT 500", a)]}
+
+    @app.get("/api/daily-report")
+    def get_daily_report(date: str | None = None, x_role: str | None = Header(None), x_subcontractor: str | None = Header(None)):
+        role, _ = ctx(x_role, x_subcontractor)
+        if role == "SC":
+            raise HTTPException(403, "the client daily report is an internal/client document")
+        date = pick_date(date)
+        rec, al = st.computed(date)
+        return daily_report(st.data(), date, rec, al)
 
     @app.get("/api/health")
     def health():

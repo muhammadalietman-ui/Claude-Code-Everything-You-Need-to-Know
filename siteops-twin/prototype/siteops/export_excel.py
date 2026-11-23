@@ -128,6 +128,31 @@ def build(out=DIST / "SiteOps_Twin_Demo.xlsx", db_path=None):
                    l["prev_certified"], l["this_period"], l["rate"], l["amount"]] for l in cert["lines"]]
     table(ws, ["Subcontractor", "BoQ item", "Activity", "Section", "Unit", "Cum. certified", "Previous", "This period", "Rate", "Amount"], lines)
 
+    dr = g("/api/daily-report", date=last)
+    ws = wb.create_sheet("Bautagesbericht")
+    table(ws, ["Tätigkeit", "Activity", "Unit", "Total", "Plan sheets today", "Cum. previous", "This period", "Cumulative", "%",
+               "CHECK measured cum.", "CHECK claimed cum.", "CHECK source", "CHECK worst status", "CHECK alerts"],
+          [[x["name_de"], x["name"], x["unit"], x["total"], x["sheets_today"], x["cum_prev"], x["this_period"], x["cum"], x["pct"],
+            x["measured_cum"], x["claimed_cum"], x["verification_source"], x["worst_status"], ", ".join(x["open_alerts"])]
+           for x in dr["detail"]], {"Tätigkeit": 34})
+    for cell in ws["I"][1:]:
+        cell.number_format = "0.0%"
+    colour_col(ws, "M", ["MATCHED", "WITHIN_TOLERANCE", "DISCREPANCY", "UNVERIFIABLE"])
+    r0 = ws.max_row + 2
+    ws.cell(r0, 1, "Man-hours today (reported vs sensed)").font = Font(bold=True)
+    for j, h in enumerate(["Group", "Cum. previous", "Today total", "Cumulative", "CHECK sensed today", "CHECK unverified h"], 1):
+        ws.cell(r0 + 1, j, h).font = Font(bold=True)
+    for i, x in enumerate(dr["personnel"], r0 + 2):
+        for j, v in enumerate([x["group"], x["cum_prev"], x["today_total"], x["cum"], x["sensed_today"], x["unverified_today"]], 1):
+            ws.cell(i, j, v)
+    r1 = ws.max_row + 2
+    ws.cell(r1, 1, "Equipment hours today: calculated (days assigned) vs measured (telematics)").font = Font(bold=True)
+    for j, h in enumerate(["Owner", "Today calc.", "CHECK measured engine h", "CHECK no telematics h", "CHECK calc − measured"], 1):
+        ws.cell(r1 + 1, j, h).font = Font(bold=True)
+    for i, x in enumerate(dr["equipment"], r1 + 2):
+        for j, v in enumerate([x["owner"], x["today_calc"], x["today_measured_engine_h"], x["today_without_telematics_h"], x["calc_minus_measured_h"]], 1):
+            ws.cell(i, j, v)
+
     ws = wb.create_sheet("Rules")
     table(ws, ["Item", "Rule"], [
         ["Status (D-063)", "|C − M| ≤ U → MATCHED; ≤ U + T → WITHIN_TOLERANCE; above → DISCREPANCY; no measurement → UNVERIFIABLE"],

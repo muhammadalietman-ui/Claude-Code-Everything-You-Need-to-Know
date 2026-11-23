@@ -51,3 +51,7 @@ Status values: **Made** (taken within agent authority), **Proposed** (needs the 
 | D-077 | 2026-11-23 | Ship stand-alone demo files (single-file HTML dashboard and field app with embedded snapshots; Excel with live formulas), because the company PC has no Python | User constraint | full-stack-developer | Made |
 | D-078 | 2026-11-23 | The status is classified on the displayed precision, so it is reproducible in Excel from the published figures (0/199 mismatches) | Auditability | data-engineer | Made |
 | D-079 | 2026-11-23 | Agents never use personal credentials for literature databases. The student runs the Scopus searches and exports CSV; agents process the exports | Account security and database terms of use | literature-reviewer | Made |
+| D-080 | 2026-11-23 | Real project documents are kept in the git-ignored `data/private/`. Only anonymised structure and findings are committed | Confidentiality (R-07) | quality-reviewer | Made |
+| D-081 | 2026-11-23 | Adopt construction-plan sheets as a second location key (`plan_sheet` ↔ KP) | RPT-0 practice (F1) | gis-engineer | Made |
+| D-082 | 2026-11-23 | Add rule AL-14 (daily-report text vs quantities) and the S9 client daily report generated from the model with independent check columns | RPT-0 findings F4, F9 | commercial-analyst | Made |
+| D-083 | 2026-11-23 | Model man-hours (reported vs sensed) and equipment hours (calculated vs measured) explicitly | RPT-0 findings F2, F3 | data-engineer | Made |

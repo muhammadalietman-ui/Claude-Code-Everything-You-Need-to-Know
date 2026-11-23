@@ -37,3 +37,6 @@ T-503,D3,GAEB/Aufmass export (VOB/B §14),commercial-analyst;full-stack-develope
 T-504,D3,German UI (i18n de/en),ux-designer;full-stack-developer,D1,prototype/web/,All labels translated,Should,To do
 T-505,D3,T8 machine-control as-built import,gis-engineer;data-engineer,Q-075,prototype/siteops/,TRN verified from machine logs,Could,To do
 T-506,D5a,Works agreement template + DPIA for sensing tiers,research-lead,D-074,01_governance/,DPO + works council review,Must,To do
+T-507,D3,Milestone/percentage measurement type for lump-sum items (stage weights + evidence),commercial-analyst;data-engineer,Q-078,prototype/,Valve-station stages reconciled,Should,To do
+T-508,D3,Crossing entity with component progress; HDD/drilling logs as evidence,gis-engineer;data-engineer,supplier report analysis,prototype/,Crossings reconciled object-wise,Should,To do
+T-509,D2,Supplier report ingestion adapters (one mapping per supplier format),data-engineer,supplier report analysis,prototype/siteops/,Each sample report maps to canonical fields,Must,To do
