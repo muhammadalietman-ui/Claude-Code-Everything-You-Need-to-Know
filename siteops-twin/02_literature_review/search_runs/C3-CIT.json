@@ -1,0 +1,1777 @@
+{
+ "query_id": "C3-CIT",
+ "run_date": "2026-11-23",
+ "query_url": "https://api.openalex.org/works?filter=title_and_abstract.search%3A%28BIM+OR+%22building+information+modeling%22+OR+%22building+information+modelling%22+OR+%22infrastructure+information+model%22%29+AND+%28GIS+OR+%22geographic+information%22+OR+geospatial%29+AND+%28%22linear+infrastructure%22+OR+pipeline+OR+highway+OR+road+OR+railway+OR+corridor+OR+%22linear+referencing%22+OR+chainage+OR+stationing+OR+alignment%29%2Cfrom_publication_date%3A2010-01-01%2Ctype%3Aarticle%7Creview%7Cbook-chapter%7Cconference-paper%2Clanguage%3Aen&sort=cited_by_count%3Adesc&per-page=100&select=id%2Cdoi%2Ctitle%2Cdisplay_name%2Cpublication_year%2Cprimary_location%2Ctype%2Ccited_by_count%2Cauthorships%2Cabstract_inverted_index%2Crelevance_score",
+ "hits_total": 412,
+ "retrieved": 100,
+ "records": [
+  {
+   "id": "https://openalex.org/W3117942735",
+   "doi": "10.1016/j.autcon.2020.103490",
+   "title": "Risk assessment and management of excavation system based on fuzzy set theory and machine learning methods",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 303,
+   "relevance_score": null,
+   "authors": [
+    "Song-Shun Lin",
+    "Shui\u2010Long Shen",
+    "Annan Zhou",
+    "Ye\u2010Shuang Xu"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2531288489",
+   "doi": "10.3390/w8100447",
+   "title": "Analysis and GIS Mapping of Flooding Hazards on 10 May 2016, Guangzhou, China",
+   "publication_year": 2016,
+   "source": "Water",
+   "type": "article",
+   "cited_by_count": 129,
+   "relevance_score": null,
+   "authors": [
+    "Hai\u2010Min Lyu",
+    "Guofu Wang",
+    "Jack Shen",
+    "Linhai Lu",
+    "Guoquan Wang"
+   ],
+   "n_authors": 5,
+   "abstract": "On 10 May 2016, Guangdong Province, China, suffered a heavy rainstorm. This rainstorm flooded the whole city of Guangzhou. More than 100,000 people were affected by the flooding, in which eight people lost their lives. Subway stations, cars, and buses were submerged. In order to analyse the influential factors of this flooding, topographical characteristics were mapped using Digital Elevation Model (DEM) by the Geographical Information System (GIS) and meteorological conditions were statistically summarised at both the whole city level and the district level. To analyse the relationship between flood risk and urbanization, GIS was also adopted to map the effect of the subway system using the Multiple Buffer operator over the flooding distribution area. Based on the analyses, one of the significant influential factors of flooding was identified as the urbanization degree, e.g., construction of a subway system, which forms along flood-prone areas. The total economic loss due to flooding in city centers with high urbanization has become very serious. Based on the analyses, the traditional standard of severity of flooding hazards (rainfall intensity grade) was modified. Rainfall intensity for severity flooding was decreased from 50 mm to 30 mm in urbanized city centers. In order to protect cities from flooding, a \u201cSponge City\u201d planning approach is recommended to increase the temporary water storage capacity during heavy rainstorms. In addition, for future city management, the com"
+  },
+  {
+   "id": "https://openalex.org/W2803595125",
+   "doi": "10.1016/j.tust.2018.05.010",
+   "title": "An integrated system framework of building information modelling and geographical information system for utility tunnel maintenance management",
+   "publication_year": 2018,
+   "source": "Tunnelling and Underground Space Technology",
+   "type": "article",
+   "cited_by_count": 114,
+   "relevance_score": null,
+   "authors": [
+    "Pin\u2010Chan Lee",
+    "Yiheng Wang",
+    "Tzu\u2010Ping Lo",
+    "Danbing Long"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2912922586",
+   "doi": "10.3390/ijgi8040172",
+   "title": "Highway Alignment Optimization: An Integrated BIM and GIS Approach",
+   "publication_year": 2019,
+   "source": "ISPRS International Journal of Geo-Information",
+   "type": "article",
+   "cited_by_count": 106,
+   "relevance_score": null,
+   "authors": [
+    "Linlin Zhao",
+    "Zhansheng Liu",
+    "Jasper Mbachu"
+   ],
+   "n_authors": 3,
+   "abstract": "Highway infrastructure plays an important role in assuring the proper function of the nation\u2019s transportation. Highway alignment is an essential part of the highway planning and design phase, which has significant effects on the surroundings. Identifying optimal highway routes while using traditional methods requires significant time, cost, and effort, since it requires a comprehensive assessment of multiple factors, such as cost and environmental impacts. This study proposes an approach for managing highway alignment in the context of a larger landscape that integrates building information modelling (BIM) and geographic information system (GIS) capabilities. To support this integration, semantic web technologies are used to integrate data on a semantic level. Moreover, the approach also uses genetic algorithms (GAs) for optimizing highway alignments. A fully automated model is developed that enables data interoperability between BIM and GIS systems and also allows for data exchange between the integration model and the optimization algorithm. The model enables the full exploitation of features of the project and its surroundings for highway alignment planning. The proposed model is also applied to a real highway project to validate its effectiveness. The visualization model of the highway project and its surroundings provides a realistic three-dimensional image that produces a comprehensive virtual environment, where the project could be effectively planned and designed. Tha"
+  },
+  {
+   "id": "https://openalex.org/W2331491572",
+   "doi": "10.1061/9780784412343.0043",
+   "title": "3D Visualization of Sub-Surface Pipelines in Connection with the Building Utilities: Integrating GIS and BIM for Facility Management",
+   "publication_year": 2012,
+   "source": "ASCE International Conference on Computing in Civil Engineering (i3CE)",
+   "type": "conference-paper",
+   "cited_by_count": 106,
+   "relevance_score": null,
+   "authors": [
+    "R. Liu",
+    "Raja R. A. Issa"
+   ],
+   "n_authors": 2,
+   "abstract": "Buildings cannot be used for their intended purpose without utilities. Maintenance workflows require work to be performed from the inside and outside of the buildings. The inside information can be extracted from a fully built building information model, and the outside information can be extracted from a Geographical Information System (GIS) map. GIS is the platform that integrates maintenance workflows for mechanical, electrical and plumbing systems for facility infrastructure. In order to perform efficient maintenance work, it is necessary to get the related information of the pipe network in advance. The purpose of this paper is to investigate how to use GIS and BIM information to get the detailed information for facility operation and maintenance. Field workers, without strong GIS and CAD background, need to visualize and analyze the subsurface pipelines. This study proposes a method to use data from BIM and GIS for 3D visualization."
+  },
+  {
+   "id": "https://openalex.org/W3129543700",
+   "doi": "10.1016/j.autcon.2021.103626",
+   "title": "BIM-GIS-DCEs enabled vulnerability assessment of interdependent infrastructures \u2013 A case of stormwater drainage-building-road transport Nexus in urban flooding",
+   "publication_year": 2021,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 103,
+   "relevance_score": null,
+   "authors": [
+    "Yifan Yang",
+    "S. Thomas Ng",
+    "Jicao Dao",
+    "Shenghua Zhou",
+    "Frank J. Xu",
+    "Xin Jun Xu"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4400289778",
+   "doi": "10.1038/s41598-024-66232-5",
+   "title": "Innovative BIM technology application in the construction management of highway",
+   "publication_year": 2024,
+   "source": "Scientific Reports",
+   "type": "article",
+   "cited_by_count": 98,
+   "relevance_score": null,
+   "authors": [
+    "Dong Zhou",
+    "Bida Pei",
+    "Xueqin Li",
+    "Ding Jiang",
+    "Lin Wen"
+   ],
+   "n_authors": 5,
+   "abstract": "Within the global architecture, engineering, and construction industry, the use of Building Information Modeling (BIM) technology has significantly expanded. However, given the unique characteristics of road infrastructure, the application of BIM technology is still being explored. This article focuses on the Yuanchen Expressway, exploring innovative applications of BIM technology in comprehensive construction management. The project employs advanced technologies, including BIM, Geographic Information Systems (GIS), and the Internet of Things (IoT), to precisely identify critical nodes and breakthroughs. Supported by a detailed BIM model and a multi-level, diversified digital management platform, the project effectively addresses construction challenges in multiple tunnels, bridges, and complex interchanges, achieving intelligent construction innovation throughout the Yuanchen Expressway with BIM technology. By guiding construction through BIM models, utilizing a BIM+GIS-based management cloud platform system, and employing VR safety briefings, the project effectively reduces the difficulty of communication and coordination in project management, shortens the project measurement cycle, improves on-site work efficiency, and ensures comprehensive control and safety management. This article provides an exemplary case for the application of full-line construction management using BIM technology in the highway sector both in China and globally, offering new perspectives and strate"
+  },
+  {
+   "id": "https://openalex.org/W2889554275",
+   "doi": "10.3390/ijgi7090355",
+   "title": "Achieving Complete and Near-Lossless Conversion from IFC to CityGML",
+   "publication_year": 2018,
+   "source": "ISPRS International Journal of Geo-Information",
+   "type": "article",
+   "cited_by_count": 98,
+   "relevance_score": null,
+   "authors": [
+    "Rudi Maria Frans Anne Stouffs",
+    "Helga Tauscher",
+    "Filip Biljecki"
+   ],
+   "n_authors": 3,
+   "abstract": "The Singapore Government has embarked on a project to establish a three-dimensional city model and collaborative data platform for Singapore. The research herein contributes to this endeavour by developing a methodology and algorithms to automate the conversion of Building Information Models (BIM), in the Industry Foundation Classes (IFC) data format, into CityGML building models, capturing both geometric and semantic information as available in the BIM models, and including exterior as well as interior structures. We adopt a Triple Graph Grammar (TGG) to formally relate IFC and CityGML, both semantically and geometrically, and to transform a building information model, expressed as an IFC object graph, into a city model expressed as a CityGML object graph. The work pipeline includes extending the CityGML data model with an Application Domain Extension (ADE), which allows capturing information from IFC that is relevant in the geospatial context but at the same time not supported by CityGML in its standard form. In this paper, we elaborate on the triple graph grammar approach and the motivation and roadmap for the development of the ADE. While a fully complete and lossless conversion may never be achieved, this paper suggests that both a TGG and an ADE are natural choices for supporting the conversion between IFC and CityGML."
+  },
+  {
+   "id": "https://openalex.org/W2995585113",
+   "doi": "10.1016/j.compenvurbsys.2019.101453",
+   "title": "Automatic geo-referencing of BIM in GIS environments using building footprints",
+   "publication_year": 2019,
+   "source": "Computers Environment and Urban Systems",
+   "type": "article",
+   "cited_by_count": 90,
+   "relevance_score": null,
+   "authors": [
+    "Abdoulaye Diakit\u00e9",
+    "Sisi Zlatanova"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3038007669",
+   "doi": "10.1109/morgeo49228.2020.9121882",
+   "title": "Mobile Mapping, Machine Learning and Digital Twin for Road Infrastructure Monitoring and Maintenance: Case Study of Mohammed VI Bridge in Morocco",
+   "publication_year": 2020,
+   "source": "IEEE International Conference of Moroccan Geomatics (MORGEO)",
+   "type": "conference-paper",
+   "cited_by_count": 78,
+   "relevance_score": null,
+   "authors": [
+    "Sofia Hakdaoui",
+    "Anas Emran",
+    "Oumghar Faiz"
+   ],
+   "n_authors": 3,
+   "abstract": "The concepts of Digital Twin has been recently introduced, it refers to functional connections between a complex physical system and its high-fidelity digital replica. Digital Twin process workflow is proposed in case of Mohammed VI Bridge modeling in Morocco. The current maintenance of a road infrastructure is based on a manual inspection and a system based on traditional tools. Aging infrastructures require a new approach to maintenance in terms of inspection, bridge maintenance system, simulation and systematic evaluation. This system now exists and is called the Digital Twin. Digital Twin can be thought of as a virtual prototype in service that changes dynamically in near real time as its physical twin changes. An urban infrastructure digital twin is a virtual instance of his physical twin that is continuously updated with multisource, multisensor and multitemporal data that can be used for monitoring, simulating and forecasting any potential problem that may appear in the structure and proposing planning for repair and maintenance of health status throughout the life cycle of this infrastructure. This work presents a general vision and a justification for integrating DT technology with geospatial data. The paper examines the benefits of integrating 3D GIS data acquired by automated mobile mapping (MMS) workflows for modeling the reality of a major bridge infrastructure in Morocco. This allowed to study the future performance of this bridge structure on virtual twin struc"
+  },
+  {
+   "id": "https://openalex.org/W2144884669",
+   "doi": "10.1061/9780784413616.053",
+   "title": "Project Cost Estimation of National Road in Preliminary Feasibility Stage Using BIM/GIS Platform",
+   "publication_year": 2014,
+   "source": "International Conference on Computing in Civil and Building Engineering (ICCCBE)",
+   "type": "conference-paper",
+   "cited_by_count": 77,
+   "relevance_score": null,
+   "authors": [
+    "T. Park",
+    "Tae Wook Kang",
+    "Y. Lee",
+    "K. Seo"
+   ],
+   "n_authors": 4,
+   "abstract": "A preliminary feasibility study evaluates various aspects of a project, such as environmental assessment, field study, technological validity, and economic feasibility. Among them, economic feasibility is the most important factor to use in selecting a road route in Korea. A proper preliminary feasibility study considers all costs incurred in the life cycle of the project, including construction costs, land acquisition costs, collateral expenses, and operation and maintenance costs. However, only construction costs are traditionally considered in the assessment of the financial viability of national road projects. In addition, while 3D modeling techniques have brought improved designs and engineering processes to the construction industries, their application in preliminary feasibility studies remains rare. We have developed a system that employs building information modeling and geographic information systems for estimating the cost of building a national road that can be applied in the preliminary feasibility stage. The proposed system is composed of three modules that estimate construction costs, land acquisition costs, and O&M costs. Based on the road route, the proposed system analyzes cross-sections through the topography and subsequently determines the probable road, bridge, and tunnel sections, and their project costs. Overall, the proposed system could assist a reasonable decision making for best route selection and further facilitate improved project delivery."
+  },
+  {
+   "id": "https://openalex.org/W3043821922",
+   "doi": "10.3390/rs12142301",
+   "title": "3D Point Cloud to BIM: Semi-Automated Framework to Define IFC Alignment Entities from MLS-Acquired LiDAR Data of Highway Roads",
+   "publication_year": 2020,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 72,
+   "relevance_score": null,
+   "authors": [
+    "Mario Soil\u00e1n",
+    "Andr\u00e9s Justo",
+    "Ana S\u00e1nchez\u2010Rodr\u00edguez",
+    "Bel\u00e9n Riveiro"
+   ],
+   "n_authors": 4,
+   "abstract": "Building information modeling (BIM) is a process that has shown great potential in the building industry, but it has not reached the same level of maturity for transportation infrastructure. There is a standardization need for information exchange and management processes in the infrastructure that integrates BIM and Geographic Information Systems (GIS). Currently, the Industry Foundation Classes standard has harmonized different infrastructures under the Industry Foundation Classes (IFC) 4.3 release. Furthermore, the usage of remote sensing technologies such as laser scanning for infrastructure monitoring is becoming more common. This paper presents a semi-automated framework that takes as input a raw point cloud from a mobile mapping system, and outputs an IFC-compliant file that models the alignment and the centreline of each road lane in a highway road. The point cloud processing methodology is validated for two of its key steps, namely road marking processing and alignment and road line extraction, and a UML diagram is designed for the definition of the alignment entity from the point cloud data."
+  },
+  {
+   "id": "https://openalex.org/W2918914648",
+   "doi": "10.1109/isc2.2018.8656978",
+   "title": "BIM, GIS, IoT, and AR/VR Integration for Smart Maintenance and Management of Road Networks: a Review",
+   "publication_year": 2018,
+   "source": "IEEE International Smart Cities Conference (ISC2)",
+   "type": "conference-paper",
+   "cited_by_count": 72,
+   "relevance_score": null,
+   "authors": [
+    "Joel M\u00e1rcio Torres Carneiro",
+    "Rosaldo J. F. Rossetti",
+    "Daniel C. Silva",
+    "Eug\u00e9nio Oliveira"
+   ],
+   "n_authors": 4,
+   "abstract": "The management and maintenance of road infrastructures demand the use of a tremendous amount of data about their maintenance history and current status. One very characteristic of this information is its geographic nature, which suggests that Geographic Information Systems (GIS) are appropriate to facilitate the way we handle it. However, the access to such information nowadays is challenging because of numerous reasons: some data is still mainly stored on paper; databases are out of date; managing scarcely existing records and creating new ones is quite a laborious and time-consuming task; field inspections require human resources and are expensive; and so forth. Thus, we need to make smarter the way management and maintenance of road infrastructures are performed. Some promising technologies appeared in the last few years to overcome a number of the identified issues. This paper presents and discusses on the most prominent work efforts aiming at more intelligent management of the city infrastructures, specially focusing on transport networks. Several of such efforts use Geographic Information Systems, Building Information Modelling (BIM), Internet of Things (IoT), and Virtual/Augmented Reality (VR/AR) technologies. Thus, this study emphasizes on the GIS-BIM-IoT and GIS-BIM-VR/AR integrations showing the possibilities and potentials when these technologies work together."
+  },
+  {
+   "id": "https://openalex.org/W2992521949",
+   "doi": "10.1007/s42524-019-0073-9",
+   "title": "Intelligent construction technology of railway engineering in China",
+   "publication_year": 2019,
+   "source": "Frontiers of Engineering Management",
+   "type": "article",
+   "cited_by_count": 71,
+   "relevance_score": null,
+   "authors": [
+    "Chunfang Lu",
+    "Junfei Liu",
+    "Yanhong Liu",
+    "Yuming Liu"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3200558809",
+   "doi": "10.3390/app11188785",
+   "title": "Case Study of Solar Photovoltaic Power-Plant Site Selection for Infrastructure Planning Using a BIM-GIS-Based Approach",
+   "publication_year": 2021,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 69,
+   "relevance_score": null,
+   "authors": [
+    "Jae Chung Heo",
+    "Moon HyounSeok",
+    "Soowon Chang",
+    "SangUk Han",
+    "Dong\u2010Eun Lee"
+   ],
+   "n_authors": 5,
+   "abstract": "Evaluating the site-selection process for photovoltaic (PV) plants is essential for securing available areas for solar power plant installation in limited spaces. Although the vicinities of highway networks can be suitable for installing PV plants, in terms of economic feasibility, they have rarely been investigated because the impacts of various factors, including geographic or weather patterns, have not been analyzed. In this respect, this study conducts a case study on selecting the site for PV-panel installation in the vicinity of a highway (e.g., slopes) by integrating geographic information system (GIS) and building information model (BIM) techniques. Using location (e.g., highways, lakes, rivers), monthly solar power output, and orographic (e.g., slope) data, suitable regions are identified with the geo-spatial analysis; then, the amount of power that can be generated is evaluated in the regions. For the proposed sites, the surface conditions and potential PV systems are transformed and visualized in a BIM environment. In the results, the power output at optimal sites selected from the case area was computed at a total of 8227 MWh and was transformed into solar-panel families in three-dimensional environments. Thus, this study may help to identify optimal sites for PV plants in the unused areas near highways."
+  },
+  {
+   "id": "https://openalex.org/W2964983564",
+   "doi": "10.3390/ijgi8080331",
+   "title": "An Integrated BIM\u2013GIS Method for Planning of Water Distribution System",
+   "publication_year": 2019,
+   "source": "ISPRS International Journal of Geo-Information",
+   "type": "article",
+   "cited_by_count": 67,
+   "relevance_score": null,
+   "authors": [
+    "Linlin Zhao",
+    "Zhansheng Liu",
+    "Jasper Mbachu"
+   ],
+   "n_authors": 3,
+   "abstract": "An important function of a water distribution system (WDS) is to supply drinking water to each demand point using a pipe network that has minimal impact on the surroundings. To produce a reliable WDS, planning usually requires a significant amount of geo-spatial information. Current planning practices for pipeline systems, which gather geographic information based on maps, are time-consuming and cumbersome. With the rapid developments in computer and information technology, it is necessary to propose a new WDS planning method that enhances the current planning practices and facilitates the decision-making process. The proposed method allows project information in building information modeling (BIM) to be incorporated into a geographic information system (GIS) model, using semantic mapping to incorporate WDS project data and geo-spatial information to facilitate the WDS planning process. Moreover, a 3D visualization model of the proposed WDS project and its surroundings is provided. In addition, topological rules are set to identify any conflicts between the WDS project and its surroundings. A real WDS project was used to validate the method. The proposed method can help project participants better understand the WDS project and its surroundings and identify any errors in the planning process, thus improving sustainable development."
+  },
+  {
+   "id": "https://openalex.org/W4282037753",
+   "doi": "10.1016/j.autcon.2022.104398",
+   "title": "Construction quality evaluation of asphalt pavement based on BIM and GIS",
+   "publication_year": 2022,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 66,
+   "relevance_score": null,
+   "authors": [
+    "Chengjia Han",
+    "Fanlong Tang",
+    "Tao Ma",
+    "Linhao Gu",
+    "Tong Zheng"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2624736454",
+   "doi": "10.1061/9780784480823.017",
+   "title": "Linking BIM and GIS Models in Infrastructure by Example of IFC and CityGML",
+   "publication_year": 2017,
+   "source": "ASCE International Conference on Computing in Civil Engineering (i3CE)",
+   "type": "conference-paper",
+   "cited_by_count": 66,
+   "relevance_score": null,
+   "authors": [
+    "Simon Vilgertshofer",
+    "Julian Amann",
+    "Bruno Willenborg",
+    "Andr\u00e9 Borrmann",
+    "Thomas H. Kolbe"
+   ],
+   "n_authors": 5,
+   "abstract": "This paper demonstrates how linked data can be used to provide a semantically rich connection between the domains of building information modeling (BIM) and geographic information systems (GIS). Expertise from both domains is necessary for the planning of infrastructure projects such as roads, tunnels, bridges, and railways, as these projects usually require the consideration of widely diverging scales. As BIM and GIS rely on different types of data modeling standards, a conversion between the data models will inevitably result in data loss. To overcome this problem, we propose to utilize the concept of Linked Data which allows the original data to coexist and provide coherence by establishing references between the corresponding entities of both standards. The approach is illustrated using exemplary models of shield tunnels in both, the IFC and the CityGML format."
+  },
+  {
+   "id": "https://openalex.org/W2746191654",
+   "doi": "10.5194/isprs-archives-xlii-2-w5-7-2017",
+   "title": "ARCHITECTURAL HERITAGE VISUALIZATION USING INTERACTIVE TECHNOLOGIES",
+   "publication_year": 2017,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 60,
+   "relevance_score": null,
+   "authors": [
+    "Abdullah Taha Ahmed Albourae",
+    "Costas Armenakis",
+    "Matthew J. Kyan"
+   ],
+   "n_authors": 3,
+   "abstract": "With the increased exposure to tourists, historical monuments are at an ever-growing risk of disappearing. Building Information Modelling (BIM) offers a process of digitally documenting of all the features that are made or incorporated into the building over its life-span, thus affords unique opportunities for information preservation. BIM of historical buildings are called Historical Building Information Models (HBIM). This involves documenting a building in detail throughout its history. Geomatics professionals have the potential to play a major role in this area as they are often the first professionals involved on construction development sites for many Architectural, Engineering, and Construction (AEC) projects. In this work, we discuss how to establish an architectural database of a heritage site, digitally reconstruct, preserve and then interact with it through an immersive environment that leverages BIM for exploring historic buildings. The reconstructed heritage site under investigation was constructed in the early 15th century. In our proposed approach, the site selection was based on many factors such as architectural value, size, and accessibility. The 3D model is extracted from the original collected and integrated data (Image-based, range-based, CAD modelling, and land survey methods), after which the elements of the 3D objects are identified by creating a database using the BIM software platform (Autodesk Revit). The use of modern and widely accessible game eng"
+  },
+  {
+   "id": "https://openalex.org/W4221014689",
+   "doi": "10.1061/(asce)cf.1943-5509.0001722",
+   "title": "An Integrated Framework for Operation and Maintenance of Gas Utility Pipeline Using BIM, GIS, and AR",
+   "publication_year": 2022,
+   "source": "Journal of Performance of Constructed Facilities",
+   "type": "article",
+   "cited_by_count": 56,
+   "relevance_score": null,
+   "authors": [
+    "Amir Shekargoftar",
+    "Hosein Taghaddos",
+    "Amir Azodi",
+    "Ala Nekouvaght Tak",
+    "Khashayar Ghorab"
+   ],
+   "n_authors": 5,
+   "abstract": "To maintain underground utilities in a safe condition, the need for a comprehensive management and maintenance system is becoming more prominent. There are several problems with the current operation maintenance applications in underground utilities, including the lack of a digitalized 3D model with a comprehensive database for dynamically editing data on the site. This research proposes a pipeline operation and maintenance management system (POMMS) by employing building information modeling (BIM), geographic information system (GIS), and augmented reality (AR) and integrating various project information sources through application programming interface (API) and cloud database. This system can facilitate decision-making by more realistic 3D visualizations, enhanced integration of construction, geographic and inspection information, and efficient data retrieval. The proposed system is applied to an actual project to validate its efficiency. In this research, two scenarios and one survey were conducted to investigate the performance of POMMS. The case study and survey results indicates POMMS\u2019s efficiency in improving data collection, communication among stakeholders, and perception of as-built subsurface utility map while unfolding several crucial challenges and limitations of real-world implementation of the system."
+  },
+  {
+   "id": "https://openalex.org/W3039216802",
+   "doi": "10.3390/infrastructures5070055",
+   "title": "Roads Detection and Parametrization in Integrated BIM-GIS Using LiDAR",
+   "publication_year": 2020,
+   "source": "Infrastructures",
+   "type": "article",
+   "cited_by_count": 56,
+   "relevance_score": null,
+   "authors": [
+    "Luigi Barazzetti",
+    "Mattia Previtali",
+    "Marco Scaioni"
+   ],
+   "n_authors": 3,
+   "abstract": "Building Information Modeling (BIM) has a crucial role in smart road applications, not only limited to the design and construction stages, but also to traffic monitoring, autonomous vehicle navigation, road condition assessment, and real-time data delivery to drivers, among others. Point clouds collected through LiDAR are a powerful solution to capture as-built conditions, notwithstanding the lack of commercial tools able to automatically reconstruct road geometry in a BIM environment. This paper illustrates a two-step procedure in which roads are automatically detected and classified, providing GIS layers with basic road geometry that are turned into parametric BIM objects. The proposed system is an integrated BIM-GIS with a structure based on multiple proposals, in which a single project file can handle different versions of the model using a variable level of detail. The model is also refined by adding parametric elements for buildings and vegetation. Input data for the integrated BIM-GIS can also be existing cartographic layers or outputs generated with algorithms able to handle LiDAR data. This makes the generation of the BIM-GIS more flexible and not limited to the use of specific algorithms for point cloud processing."
+  },
+  {
+   "id": "https://openalex.org/W3154861376",
+   "doi": "10.1016/j.istruc.2021.03.111",
+   "title": "Employing non-contact sensing techniques for improving efficiency and automation in numerical modelling of existing masonry structures: A critical literature review",
+   "publication_year": 2021,
+   "source": "Structures",
+   "type": "article",
+   "cited_by_count": 54,
+   "relevance_score": null,
+   "authors": [
+    "Nicko Kassotakis",
+    "Vasilis Sarhosis"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2766861116",
+   "doi": null,
+   "title": "Integrating BIM and GIS in railway projects: A critical review",
+   "publication_year": 2017,
+   "source": "Loughborough University Institutional Repository (Loughborough University)",
+   "type": "conference-paper",
+   "cited_by_count": 51,
+   "relevance_score": null,
+   "authors": [
+    "Sahar Kurwi",
+    "Peter Demian",
+    "Tarek M. Hassan"
+   ],
+   "n_authors": 3,
+   "abstract": "The railway plays a significant role in human life by providing safe, reliable, costeffective\\nservices, which are environmental and drive economic growth. Significant decisions are taken at early stage of rail projects which need effective tools to avoid rework and save time, cost and increase work efficiency. Indeed, the continuous upgrading of this sector is needed to respond to technological advances, environmental change and increased customer demands. Integrating Building Information Modelling (BIM) and Geographic Information systems (GIS) is promising since the scope of BIM usually does not extend beyond the footprint of the \u201cbuilding\u201d; it does not provide\\ngeospatial data. Therefore, integrating BIM with GIS provides a complete picture of the\\nproject. However, this integration is challenging especially in rail projects as they are amongst the most complicated projects and numerous parties are involved in making\\nimportant decisions. This paper reviews the literature regarding integrating BIM with\\nGIS systematically, with the aim of analysing the need for this integration and its benefits.\\nThe paper highlights a lack of a clear guideline for collaboration in the railway project\\nlifecycle and indicates the need for research to focus on this issue as well as the possibility\\nof applying integrated BIM with GIS as a potential solution to improve collaboration for\\nbetter decision among project participants."
+  },
+  {
+   "id": "https://openalex.org/W2766677369",
+   "doi": "10.5194/isprs-annals-iv-4-w5-49-2017",
+   "title": "EXPLORING BIM FOR OPERATIONAL INTEGRATED ASSET MANAGEMENT \u2013 A PRELIMINARY STUDY UTILISING REAL-WORLD INFRASTRUCTURE DATA",
+   "publication_year": 2017,
+   "source": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 50,
+   "relevance_score": null,
+   "authors": [
+    "Gareth Boyes",
+    "Claire Ellul",
+    "D. Irwin"
+   ],
+   "n_authors": 3,
+   "abstract": "The use of 3D information models within collaborative working environments and the practice of Building Information Modelling (BIM) are becoming more commonplace within infrastructure projects. Currently used predominantly during the design and construction phase, the use of BIM is capable in theory of providing the information at handover that will satisfy the Asset Information Requirements (AIRs) of the future Infrastructure Manager (IM). One particular challenge is establishing a link between existing construction-centric information and the asset-centric information needed for future operations. Crossrail, a project to build a new high-frequency railway underneath London, is handling many such challenges as they prepare to handover their digital information to the future operator, in particular the need to provide a two-way link between a federated 3D CAD model and an object-relational Asset Information Management System (AIMS). This paper focusses on the potential for improved Asset Management (AM) by integrating BIM and GIS systems and practices, and makes a preliminary report on how 3D spatial queries can be used to establish a two-way relational link between two information systems (3D geometry and asset lists), as well as the challenges being overcome to transform the data to be suitable for AM."
+  },
+  {
+   "id": "https://openalex.org/W2325350344",
+   "doi": "10.1061/9780784479247.083",
+   "title": "An Integrated BIM-GIS Framework for Utility Information Management and Analyses",
+   "publication_year": 2015,
+   "source": "ASCE International Conference on Computing in Civil Engineering (i3CE)",
+   "type": "conference-paper",
+   "cited_by_count": 47,
+   "relevance_score": null,
+   "authors": [
+    "Jack C.P. Cheng",
+    "Yichuan Deng"
+   ],
+   "n_authors": 2,
+   "abstract": "Currently, utility information such as alignment and owner information is mostly managed in 2D CAD files or 2D geographical information system (GIS) models, which have limited capacity for analyses and are sometimes not updated. This paper presents an integrated 3D framework based on building information modeling (BIM) and GIS technologies for managing and analyzing utility information. In the framework, underground utility networks are modeled and represented in GIS software to facilitate visualization. Semantic information such as owner information and inspection records are also included in the 3D representations of utilities in GIS software. The GIS models are then integrated in a BIM environment based on ArcGIS using our developed BIM-GIS integration framework. The BIM-GIS framework supports various analyses such as clash detection. Clashes between existing utility networks and the designed pipelines can be identified and resolved virtually ahead of time. Changes of the utility models can also be updated conveniently in the integrated BIM-GIS framework. An example scenario that is used to test and evaluate the developed framework will be presented in this paper."
+  },
+  {
+   "id": "https://openalex.org/W4391971820",
+   "doi": "10.3390/buildings14030563",
+   "title": "Building Information Modeling Uses and Complementary Technologies in Road Projects: A Systematic Review",
+   "publication_year": 2024,
+   "source": "Buildings",
+   "type": "review",
+   "cited_by_count": 44,
+   "relevance_score": null,
+   "authors": [
+    "Karen Casta\u00f1eda",
+    "Omar S\u00e1nchez",
+    "Rodrigo Fernando Herrera",
+    "Adriana G\u00f3mez Cabrera",
+    "Guillermo Mej\u00eda"
+   ],
+   "n_authors": 5,
+   "abstract": "Building Information Modeling (BIM) has been widely adopted in the building sector. However, it is still an emerging topic in road infrastructure projects despite its enormous potential to solve ongoing issues. While there have been several recent studies on BIM implementation in road projects, there is a lack of research analyzing the actual BIM Uses in road projects as reported in academic and technical documents. Considering this gap, this paper presents a systematic review of BIM Uses and complementary technologies to BIM in road infrastructure projects. The research method consisted of a systematic review composed of five stages: (1) question formulation, (2) searching of relevant documents, (3) document selection, (4) evidence collection, analysis, and synthesis, and (5) results report. A total of 384 documents were collected, from which 134 documents reporting BIM Uses on roads were analyzed. This study has two main contributions. First, 39 BIM Uses were identified, which are classified into nine categories: road design, traffic analysis, soil aspects, road safety, environmental issues, other engineering analysis, construction planning and analysis, cost analysis, and construction monitoring and control. Second, a set of 26 technologies complementary to BIM adoption in roads were identified, among the most prevalent of which are geographic information systems (GISs) and laser scanning. The results serve as a basis for researchers to learn about the status and propose f"
+  },
+  {
+   "id": "https://openalex.org/W2803738593",
+   "doi": "10.1007/s12524-018-0755-5",
+   "title": "Utilities of Virtual 3D City Models Based on CityGML: Various Use Cases",
+   "publication_year": 2018,
+   "source": "Journal of the Indian Society of Remote Sensing",
+   "type": "article",
+   "cited_by_count": 44,
+   "relevance_score": null,
+   "authors": [
+    "Sameer Saran",
+    "Kapil Oberai",
+    "Parag Wate",
+    "Amol Konde",
+    "Arnab Dutta",
+    "Kavisha Kumar"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4281717095",
+   "doi": "10.3390/su14116945",
+   "title": "Research on the Realization Path of Railway Intelligent Construction Based on System Engineering",
+   "publication_year": 2022,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 39,
+   "relevance_score": null,
+   "authors": [
+    "You Wang",
+    "Ziwei Wang",
+    "Tingting Ma",
+    "Guowei Li",
+    "Huixia Tie"
+   ],
+   "n_authors": 5,
+   "abstract": "The implementation of railway intelligent construction is the need of national strategic development and the demand of society. Based on the idea of system engineering, this paper proposes a three-dimensional railway intelligent construction system architecture composed of a full life cycle, management level and technical support. Based on this architecture, a \u201cthree-step\u201d implementation path is proposed. Then, it analyzes the technology support framework required in the architecture based on Building Information Modeling (BIM), incorporating Global Positioning System (GPS) and Geographic Information System (GIS), algorithmic prediction and machine learning technology, Internet of Things (IoT) and artificial intelligence technology, big data and cloud computing technology, and the application of railway intelligent construction system architecture is analyzed by taking a railway tunnel project in Zhejiang Province of China as an example. Finally, it discusses the problems that may be encountered in the implementation of railway intelligent construction and puts forward relevant suggestions. The results show that railway intelligent construction is an essential way. At present, China\u2019s railway intelligent construction is still in the primary stage. The design organization should do a good job in the top-level design and accumulate sufficient data for the later stage. All parties in the middle stage of construction should do a good job in the induction and integration of inform"
+  },
+  {
+   "id": "https://openalex.org/W3149058281",
+   "doi": "10.3390/infrastructures6040052",
+   "title": "Collaboration through Integrated BIM and GIS for the Design Process in Rail Projects: Formalising the Requirements",
+   "publication_year": 2021,
+   "source": "Infrastructures",
+   "type": "article",
+   "cited_by_count": 39,
+   "relevance_score": null,
+   "authors": [
+    "Sahar Kurwi",
+    "Peter Demian",
+    "Karen Banahene Blay",
+    "Tarek M. Hassan"
+   ],
+   "n_authors": 4,
+   "abstract": "Many of the obstacles to effective delivery of rail projects (in terms of cost, time and quality) can be traced back to poor collaboration across complex design teams and supply chains. As in any infrastructure delivery process, it is important to make decisions collaboratively at an early design stage. Advanced systems such as Building Information Modelling (BIM) and Geographic Information Systems (GIS) can facilitate collaboration during the decision-making process and boost work efficiencies. Such potential benefits are not realised because the roles of BIM and GIS in facilitating collaboration are not clearly understood or articulated. This paper aims to identify and articulate collaboration requirements during the design stage of rail projects. To achieve this, a mixed-method approach was employed to examine the issues that hinder collaboration in rail projects. An online questionnaire was designed to assess the state-of-art in BIM and GIS, followed by fifteen follow-up face to face interviews with experts to identify collaboration issues and suggestions to overcome them. The research identified the main challenges to effective collaboration and provided suggestions to overcome them. The main challenges were managing information and a reluctance to use new collaboration technologies. The main solution which emerged from the data was to develop an original Collaborative Plan of Work (CPW). The developed CPW is tailored to rail projects and has been formulated by combining"
+  },
+  {
+   "id": "https://openalex.org/W4404720349",
+   "doi": "10.3390/app142310962",
+   "title": "Integrating BIM and GIS for an Existing Infrastructure",
+   "publication_year": 2024,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 38,
+   "relevance_score": null,
+   "authors": [
+    "Jorge Jerez Cepa",
+    "Marcos Garc\u00eda Alberti",
+    "Rub\u00e9n Mu\u00f1oz Pav\u00f3n",
+    "Juan A. Calvo"
+   ],
+   "n_authors": 4,
+   "abstract": "Data-driven digital transformation is becoming increasingly relevant. Building information modelling (BIM) and geographic information systems (GIS) are two technologies specific to the construction industry. The two approaches are different, but complementary. In this article, BIM\u2013GIS integration is approached from some of the most relevant aspects, such as standardization or level of detail, and a comparison between both approaches is presented with the aim of improving the operation and maintenance of urban infrastructure. By means of the Madrid Calle 30 ring road as a case study, the integration of the BIM model of the road in a GIS scenario using the IFC and SLPK formats is shown. The information is stored in an external database, which allows updates without modifying the 3D model and facilitates the inclusion of real-time data. The study highlights the challenges of interoperability between BIM and GIS, as well as the need for open standards and software tools that enable a wider implementation in the FM of this type of infrastructure."
+  },
+  {
+   "id": "https://openalex.org/W3083519695",
+   "doi": "10.5194/isprs-annals-vi-4-w1-2020-21-2020",
+   "title": "THE NEED FOR A DIFFERENTIATION BETWEEN HETEROGENEOUS INFORMATION INTEGRATION APPROACHES IN THE FIELD OF \u201cBIM-GIS INTEGRATION\u201d: A LITERATURE REVIEW",
+   "publication_year": 2020,
+   "source": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 38,
+   "relevance_score": null,
+   "authors": [
+    "Friederike Beck",
+    "Andr\u00e9 Borrmann",
+    "Thomas H. Kolbe"
+   ],
+   "n_authors": 3,
+   "abstract": "The heterogeneous character of information models results in communication barriers between subsystems in railway organizations dealing with Building Information Modeling (BIM) and Geographic information systems (GIS). The integration of information is a promising way to bridge the heterogeneity of information models and satisfy the need for a more efficient communication. Integration efforts exploited in expert literature are often referenced using umbrella terms like \u201cBIM-GIS Integration\u201d or \u201cGeoBIM\u201d, although dealing with different challenges and addressing different purposes. This paper highlights the need for a differentiation between integration efforts covered by the umbrella term \u201cBIM-GIS integration\u201d. For this, a new approach for the categorization of information integration efforts was developed based on a literature research. Afterwards, challenges concerning information integration efforts in the field of \u201cBIM-GIS Integration\u201d were exploited and assigned to the respective categories to illustrate the importance of differentiation between heterogeneous information integration efforts."
+  },
+  {
+   "id": "https://openalex.org/W2955960142",
+   "doi": "10.29173/mocs141",
+   "title": "Logistics Planning and Visualization of Modular Integrated Construction Projects Based on BIM-GIS Integration and Vehicle Routing Algorithm",
+   "publication_year": 2019,
+   "source": "Modular and Offsite Construction (MOC) Summit Proceedings",
+   "type": "article",
+   "cited_by_count": 38,
+   "relevance_score": null,
+   "authors": [
+    "Sanyuan Niu",
+    "Yi Yang",
+    "Wei Pan"
+   ],
+   "n_authors": 3,
+   "abstract": "Logistics planning is a critical part of developing supply chain for modular integrated construction (MiC) projects in Hong Kong where high-rise, high density and hilly landscape is the norm. It is important to minimize the total logistics and to guarantee timely delivery of modules, especially for several MiC projects being constructed during the same period. Nevertheless, there is a significant lack of studies on logistics planning, optimization and visualization for MiC projects. The aim of this paper is to establish an integrated MiC logistics planning and visualization platform, which is grounded on the integration of building information modeling (BIM), geographical information system (GIS) and vehicle routing problem (VRP) algorithm. The framework is then presented and evaluated using a case study to identify optimal logistics scenario of trailer routes to meet the installation time window of MiC projects in Hong Kong. The paper finds that the proposed platform has the ability to make optimized logistics scenario for MiC projects, and to visualize the logistics scenario in a 3-dimentional interactive environment. Future study will focus on adopting flexible control strategies and including more decision-making criteria of logistics planning in MiC projects such as road width limitation, travel speed and different module types"
+  },
+  {
+   "id": "https://openalex.org/W4414167319",
+   "doi": "10.1007/s12273-025-1332-9",
+   "title": "AI-empowered digital twin modeling for high-precision building defect management integrating UAV and GeoBIM",
+   "publication_year": 2025,
+   "source": "Building Simulation",
+   "type": "article",
+   "cited_by_count": 37,
+   "relevance_score": null,
+   "authors": [
+    "Jihan Zhang",
+    "Benyun Zhao",
+    "Guidong Yang",
+    "Xunkuai Zhou",
+    "Yijun Huang",
+    "Chuanxiang Gao"
+   ],
+   "n_authors": 8,
+   "abstract": "Recent advances in artificial intelligence (AI) and cyber-physical systems have fostered innovative approaches to performance assessment and management of existing building stock. This study presents an AI-assisted digital twin (DT) framework for the automated and high-precision detection of fa\u00e7ade defects in large-scale buildings. Leveraging unmanned aerial vehicles (UAVs) for visual data acquisition, the proposed framework integrates building information modeling (BIM) and geographic information systems (GIS) into a GeoBIM-assisted DT environment. An end-to-end pipeline is developed for defect localization and semantic registration, in which a virtual building model and camera geometry are constructed using geographic metadata. Synthetic views are generated to simulate real image capture conditions, enabling depth-based inference of each defect\u2019s spatial location. This facilitates the projection of defect data into georeferenced DT models. A dual-verification method combining image and geographic features is employed to eliminate duplicate detection across overlapping images, and structural context is retrieved via GeoBIM for semantic enrichment of defect information. The proposed system exemplifies the fusion of DT technologies with deep learning and cyber intelligence to enhance defect detection accuracy, resilience optimization, and timely building health monitoring. Experimental validation on a high-rise building in Hong Kong demonstrates the robustness and scalability "
+  },
+  {
+   "id": "https://openalex.org/W4388694844",
+   "doi": "10.3390/su152215962",
+   "title": "Digitalization and Sustainability in Linear Projects Trends: A Bibliometric Analysis",
+   "publication_year": 2023,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 36,
+   "relevance_score": null,
+   "authors": [
+    "Natalia E. Lozano\u2010Ram\u00edrez",
+    "Omar S\u00e1nchez",
+    "Daniela Carrasco-Beltr\u00e1n",
+    "Sof\u00eda Vidal-M\u00e9ndez",
+    "Karen Casta\u00f1eda"
+   ],
+   "n_authors": 5,
+   "abstract": "Linear infrastructure projects, including roads, tunnels, and railroads, are vital for the socioeconomic advancement of regions and nations. Given their large scale, these projects require significant resources, leading to substantial environmental impacts and demanding the collaboration of professionals from multiple disciplines. In this context, it is essential to adopt strategies that favor digitalization to enhance the sustainability of such projects by automating the analysis of various alternatives. Despite the proliferation of studies in this area, there needs to be more research synthesizing the main trends in digitalization and sustainability in linear projects. Given this knowledge gap, this study focuses on identifying and analyzing the main trends in digitalization and sustainability in the context of linear infrastructure projects. To this end, a comprehensive bibliometric analysis of a selected set of papers has been carried out. The research method follows five main steps: (1) scope definition, (2) selection of bibliometric analysis techniques, (3) data collection, (4) bibliometric analysis execution, and (5) evidence analysis and synthesis. An analysis of 419 documents was done, applying performance analysis and scientific mapping techniques. The results reveal that trends in digitalization and sustainability in linear projects can be categorized into five main clusters: road construction, road administration, life cycle analysis, digitalization of linear infr"
+  },
+  {
+   "id": "https://openalex.org/W4386601828",
+   "doi": "10.3846/jcem.2023.19514",
+   "title": "TOWARDS BIM-GIS INTEGRATION FOR ROAD INTELLIGENT MANAGEMENT SYSTEM",
+   "publication_year": 2023,
+   "source": "Journal of Civil Engineering and Management",
+   "type": "article",
+   "cited_by_count": 36,
+   "relevance_score": null,
+   "authors": [
+    "Jorge Jerez Cepa",
+    "Rub\u00e9n Mu\u00f1oz Pav\u00f3n",
+    "Marcos Garc\u00eda Alberti",
+    "Paloma Caram\u00e9s"
+   ],
+   "n_authors": 4,
+   "abstract": "Roads and highways are often managed by using Geographic Information Systems (GIS). However, these systems lack the level of detail that Building Information Modelling (BIM) can bring to an infrastructure management system. BMGIS integration allows the management of information from both infrastructure and environmental points of view. This provides an overview of the infrastructure, facilitating decision-making process throughout its complete life cycle. This article shows a semi-automated process to generate the hybrid BIM-GIS model of Madrid Calle30. The model together with an external database was uploaded to an intelligent management platform that allows visualising the available documentation, assisting management, and bringing the ring-road closer to a digital twin of the infrastructure."
+  },
+  {
+   "id": "https://openalex.org/W2756910679",
+   "doi": "10.5194/isprs-archives-xlii-4-w4-341-2017",
+   "title": "COLLABORATIVE MULTI-SCALE 3D CITY AND INFRASTRUCTURE MODELING AND SIMULATION",
+   "publication_year": 2017,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 35,
+   "relevance_score": null,
+   "authors": [
+    "Martin Breunig",
+    "Andr\u00e9 Borrmann",
+    "E. Rank",
+    "Stefan Hinz",
+    "Thomas H. Kolbe",
+    "Matth\u00e4us Schilcher"
+   ],
+   "n_authors": 22,
+   "abstract": "Computer-aided collaborative and multi-scale 3D planning are challenges for complex railway and subway track infrastructure projects in the built environment. Many legal, economic, environmental, and structural requirements have to be taken into account. The stringent use of 3D models in the different phases of the planning process facilitates communication and collaboration between the stake holders such as civil engineers, geological engineers, and decision makers. This paper presents concepts, developments, and experiences gained by an interdisciplinary research group coming from civil engineering informatics and geo-informatics banding together skills of both, the Building Information Modeling and the 3D GIS world. New approaches including the development of a collaborative platform and 3D multi-scale modelling are proposed for collaborative planning and simulation to improve the digital 3D planning of subway tracks and other infrastructures. Experiences during this research and lessons learned are presented as well as an outlook on future research focusing on Building Information Modeling and 3D GIS applications for cities of the future."
+  },
+  {
+   "id": "https://openalex.org/W2104319615",
+   "doi": "10.1061/9780784479247.058",
+   "title": "Integration of BIM and GIS: Highway Cut and Fill Earthwork Balancing",
+   "publication_year": 2015,
+   "source": "ASCE International Conference on Computing in Civil Engineering (i3CE)",
+   "type": "conference-paper",
+   "cited_by_count": 35,
+   "relevance_score": null,
+   "authors": [
+    "Hyunjoo Kim",
+    "Zhenhua Chen",
+    "Chung-Suk Cho",
+    "Moon HyounSeok",
+    "Ki-Bum Ju",
+    "Won-Sik Choi"
+   ],
+   "n_authors": 6,
+   "abstract": "The proposed paper intends to provide a technical review between BIM and GIS and measure the different strengths and weaknesses of each approach. Then, the proposed project aims to present a newly developed data integration approach in facilitating the continuous work processes of the two distinct environments. This research utilizes BIM based (IFC) system to store road components data in highway construction and then GIS system to import data such as land boundaries, and topographic data. In order to retrieve and integrate the two distinct types of data formats, this research uses the concept of semantic web in RDF format to provide semantic interoperability between BIM and GIS operations."
+  },
+  {
+   "id": "https://openalex.org/W2941285116",
+   "doi": "10.1080/09589236.2019.1601367",
+   "title": "Fieldwork protocol as a safety inventory tool in public places",
+   "publication_year": 2019,
+   "source": "Criminal Justice Studies",
+   "type": "article",
+   "cited_by_count": 34,
+   "relevance_score": null,
+   "authors": [
+    "Vania Aparecida Ceccato"
+   ],
+   "n_authors": 1,
+   "abstract": "This study reports on experiences using fieldwork protocols (FPs) in guiding the inventory of safety conditions in public places. Relying on theories of environmental criminology, situational crime prevention, and crime prevention through environmental design (CPTED), FPs are used to collect data on-site for three different types of public places: subway stations, shopping centers and parks. The fieldwork data are compared with other data sources and mapped using geographical information system (GIS) technology or building information modeling (BIM). Based on criteria of validity, reliability, and generalizability of evidence collected on-site, the study shows that FPs are better suited for environments that follow some uniform structure (subway stations) than other types of public places (urban parks). The article concludes with lessons for using FPs in guiding data collection for safety inventories and recommendations for future research."
+  },
+  {
+   "id": "https://openalex.org/W4304091445",
+   "doi": "10.1016/j.aei.2022.101728",
+   "title": "An approach for cross-data querying and spatial reasoning of tunnel alignments",
+   "publication_year": 2022,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 30,
+   "relevance_score": null,
+   "authors": [
+    "Marcel Stepien",
+    "Annika Jodehl",
+    "Andr\u00e9 Vonthron",
+    "Markus K\u00f6nig",
+    "Markus Thewes"
+   ],
+   "n_authors": 5,
+   "abstract": "In mechanized tunneling projects, finding a low-risk and cost-effective alignment is an important task. Several alignment variants are usually created and each one is intensely scrutinized. Variants often have individual advantages and disadvantages and can lead to different constructive designs of a tunnel. In order to find the best alignment possible the variants have to be analyzed and evaluated based on requirements and evaluation criteria, such as safety, cost, built environment and operational requirements. To perform this evaluation and to enable comprehensive decision making, a holistic planning environment is examined that includes documents and models of different domains. In general, these domain specific data differ schematically and semantically, which consequently makes it challenging to combine and compare such diverse data. For this purpose, information from different sources must be linked and evaluated in a structured way. In particular, spatial relationships have to be investigated. Therefore, in this paper, ontology databases are utilized to merge BIM and GIS at data level to create an integrated model of the entire tunneling project. Relevant information for decision-making can then be derived, such as the location of private and public buildings that are in a certain vicinity of the planned alignment. On the one hand, the implementation of queries is a popular and frequently used approach to check for semantic properties. On the other hand, using a query"
+  },
+  {
+   "id": "https://openalex.org/W3204902482",
+   "doi": "10.5194/isprs-annals-viii-4-w2-2021-83-2021",
+   "title": "LOSS OF INFORMATION DURING DESIGN & CONSTRUCTION FOR HIGHWAYS ASSET MANAGEMENT: A GEOBIM PERSPECTIVE",
+   "publication_year": 2021,
+   "source": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 29,
+   "relevance_score": null,
+   "authors": [
+    "G. S. Floros",
+    "Claire Ellul"
+   ],
+   "n_authors": 2,
+   "abstract": "Modern cities will have a catalytic role in regulating global economic growth and development, highlighting their role as centers of economic activity. With urbanisation being a consequence of that, the built environment is pressured to withstand the rapid increase in demand of buildings as well as safe, resilient and sustainable transportation infrastructure. Transportation Infrastructure has a unique characteristic: it is interconnected and thus, it is essential for the stakeholders to be able to capture, analyse and visualise these interlinked relationships efficiently and effectively. This requirement is addressed by an Asset Information Management System (AIMS) which enables the capture of such information from the early stages of a transport infrastructure construction project. Building Information Modelling (BIM) and Geographic Information Science/Systems (GIS) are two domains which facilitate the authoring, management and exchange of asset information by providing the location underpinning, both in the short term and through the very long lifespan of the infrastructure. These systems are not interoperable by nature, with extensive Extract/Transform/Load procedures required when developing an integrated location-based Asset Management system, with consequent loss of information. The purpose of this paper is to provide an insight regarding the information lifecycle during Design and Construction on a Highways Project, focusing on identifying the stages in which loss of "
+  },
+  {
+   "id": "https://openalex.org/W1759777828",
+   "doi": "10.1007/978-3-319-10831-5_20",
+   "title": "A Cooperative System of GIS and BIM for Traffic Planning: A High-Rise Building Case Study",
+   "publication_year": 2014,
+   "source": "Lecture notes in computer science",
+   "type": "conference-paper",
+   "cited_by_count": 29,
+   "relevance_score": null,
+   "authors": [
+    "Jun Wang",
+    "Lei Hou",
+    "Heap\u2010Yih Chong",
+    "Xin Liu",
+    "Xiangyu Wang",
+    "Jun Guo"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2886565867",
+   "doi": "10.3390/ijgi7080319",
+   "title": "BIM-GIS Integration as Dedicated and Independent Course for Geoinformatics Students: Merits, Challenges, and Ways Forward",
+   "publication_year": 2018,
+   "source": "ISPRS International Journal of Geo-Information",
+   "type": "article",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "Ihab Hamzi Hijazi",
+    "Andreas Donaubauer",
+    "Thomas H. Kolbe"
+   ],
+   "n_authors": 3,
+   "abstract": "Information mined from building information models as well as associated geographical data and Geographic Information System (GIS) analyses can increase the success of construction processes and asset management, including buildings, roads, and public facilities. The integration of information from both domains requires high expertise in both spheres. The existing B.Sc and M.Sc. programs linked to the built environment at the Technical University of Munich offer courses for the Building Information Model (BIM) and GIS that are distributed among study programs in Civil Engineering, Architecture, and Geomatics. Students graduating as professionals in one of these domains rarely know how to solve pre-defined technical problems associated with the integration of information from BIM and GIS. Students in such programs seldom practice skills needed for the integration of information from BIM and GIS at a level that is needed in working life. Conversely, the technologies in both domains create artificial boundaries that do not exist in reality\u2014for example, water and electricity would not be of use if the utilities terminated in front of buildings. To bring a change and bridge the gap between BIM and GIS, a change in the teaching methods of BIM/GIS needs to be considered. The Technical University of Munich (TUM) has developed a master\u2019s course (M.Sc. course) for students in Geoinformatics which focuses on competencies required to achieve BIM/GIS integration. This paper describes the "
+  },
+  {
+   "id": "https://openalex.org/W3209430229",
+   "doi": "10.1088/1742-6596/1972/1/012105",
+   "title": "System Architecture and Key Technologies for the Whole Life Cycle of Smart Road",
+   "publication_year": 2021,
+   "source": "Journal of Physics Conference Series",
+   "type": "conference-paper",
+   "cited_by_count": 26,
+   "relevance_score": null,
+   "authors": [
+    "Zhen Liu",
+    "Xingyu Gu",
+    "Yihan Chen",
+    "Yizheng Chen"
+   ],
+   "n_authors": 4,
+   "abstract": "Aimed at the \u201csmart individual\u201d of the road, the functional and performance requirements in the process of Planning, Construction, and Maintenance for the whole life cycle of Smart Road is analyzed. Next, BIM, GIS, IoT, Big Data and AI and other advanced information technologies are integrating these technologies into the life-cycle management of smart road in this paper. Therefore, the \u201cthree-layer\u201d logical architecture model is conducted. Then, according to the knowledge of Bionics, Smart Road is compared to a smart individual. The critical technologies needed for the SR life cycle system are analyzed based on the key elements required for the growth and development of intelligent individuals. Finally, the implementation scheme and process are analyzed in detail, which provides a reference for future SRs researchers."
+  },
+  {
+   "id": "https://openalex.org/W4393380878",
+   "doi": "10.1108/ecam-08-2023-0830",
+   "title": "Integrating GIS and BIM with MCDM for infrastructure planning: a comprehensive framework",
+   "publication_year": 2024,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 25,
+   "relevance_score": null,
+   "authors": [
+    "Pedro Henrique Amorim Moura dos Santos",
+    "Breno Cortez",
+    "Michele Tereza Marques Carvalho"
+   ],
+   "n_authors": 3,
+   "abstract": "Purpose Present study aimed to integrate Geographic Information Systems (GIS) and Building Information Modeling (BIM) in conjunction with multicriteria decision-making (MCDM) to enhance infrastructure investment planning. Design/methodology/approach This analysis combines GIS databases with BIM simulations for a novel highway project. Around 150 potential alternatives were simulated, narrowed to 25 more effective routes and 3 options underwent in-depth analysis using PROMETHEE method for decision-making, based on environmental, cost and safety criteria, allowing for comprehensive cross-perspective comparisons. Findings A comprehensive framework proposed was validated through a case study. Demonstrating its adaptability with customizable parameters. It aids decision-making, cost estimation, environmental impact analysis and outcome prediction. Considering these critical factors, this study holds the potential to advance new techniques for assessment and planning railways, power lines, gas and water. Research limitations/implications The study acknowledges limitations in GIS data quality, particularly in underdeveloped areas or regions with limited technology access. It also overlooks other pertinent variables, like social, economic, political and cultural issues. Thus, conclusions from these simulations may not entirely represent reality or diverse potential scenarios. Practical implications The proposed method automates decision-making, reducing subjectivity, aids in selectin"
+  },
+  {
+   "id": "https://openalex.org/W2011939563",
+   "doi": "10.5194/isprsarchives-xl-5-w2-31-2013",
+   "title": "A COMPARISON OF LASER SCANNING AND STRUCTURE FROM MOTION AS APPLIED TO THE GREAT BARN AT HARMONDSWORTH, UK",
+   "publication_year": 2013,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 25,
+   "relevance_score": null,
+   "authors": [
+    "D. P. Andrews",
+    "Jon Bedford",
+    "Paul G. Bryan"
+   ],
+   "n_authors": 3,
+   "abstract": "The great barn at Harmondsworth near London Heathrow airport, United Kingdom (UK), was built in 1426\u20137 for the Bishop of Winchester. At 58 metres long and 11.4 metres wide, it is one of the largest ever known to have been built in the UK, and the largest intact medieval timber-framed barn in England. The barn is built almost entirely of oak, although the walls rest on a low masonry sill-wall. Internally the space is divided into a central \"nave\" with a lower aisle to each side, and is divided along its length into 12 bays. There are three doorways on the east side. For an entirely timber-framed barn, the fabric is exceptionally well preserved. Even the external weatherboarding may be partly original. Following years of neglect, however, there are a number of on-going structural and conservation problems, so in 2011 the barn was bought by English Heritage in order to allow these needs to be addressed. English Heritage is the government agency responsible for the historic sites and buildings in the care of the state of England and is also the UK government's lead advisor on the built heritage. As one of the first steps in the conservation process the English Heritage Geospatial Imaging and Imaging & Visualisation teams undertook a four-day campaign of survey data collection. This took the form of laser scanning of the interior and exterior of the barn plus the acquisition of photography of the exterior elevations to be used with structure from motion (SFM) software. A compariso"
+  },
+  {
+   "id": "https://openalex.org/W4366090692",
+   "doi": "10.3390/app13084975",
+   "title": "A Methodological Framework for Bridge Surveillance",
+   "publication_year": 2023,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 24,
+   "relevance_score": null,
+   "authors": [
+    "Luigi Petti",
+    "Carmine Lupo",
+    "Constanza Maria De Gaetano"
+   ],
+   "n_authors": 3,
+   "abstract": "The Italian \u201cGuidelines for risk classification and management, security assessment and monitoring of existing bridges\u201d, published in 2020 after the collapse of the Polcevera viaduct in Northern Italy, present a multilevel methodology that involves on-site operators and universities/research centers carrying out and validating a management process from on-site survey to the bridges\u2019 condition assessment. The main goals of this process are to acquire appropriate knowledge of the current state and its evolution over time of the overall buildings that compose the infrastructures, with the aim to support the managing companies in a decision-making process and the purpose of guaranteeing service in full safety. In particular, the guidelines propose the use of engineered software platforms for data digitalization of the structures with the aim to create a Building Management System (BMS) in which the main historical and current state information is collected and can then be uploaded continually. In 2020, the CUGRI (Inter-University Research Center for the Prediction and Prevention of Major Hazards) and the SAM (Southern Highways Company) launched an innovative surveillance management model established on a multidisciplinary approach based on Geography Markup Language (GML), BIM tools, on-site interdisciplinary inspections, and multi-hazard analysis. The experimented methodology provides the on-site training of inspectors, the elaboration of suitable BIM models according to the abov"
+  },
+  {
+   "id": "https://openalex.org/W3200356225",
+   "doi": "10.1108/ecam-04-2021-0295",
+   "title": "Integrating road information modeling (RIM) and geographic information system (GIS) for effective utility relocations in infrastructure projects",
+   "publication_year": 2021,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 24,
+   "relevance_score": null,
+   "authors": [
+    "R. Rajadurai",
+    "Aneetha Vilventhan"
+   ],
+   "n_authors": 2,
+   "abstract": "Purpose Transportation infrastructure projects are inevitably delayed due to delays in the completion of underground utility relocation. Unfamiliar location, difficulty in utility identification and use of ineffective coordination practices hamper timely completion of utility relocation works. This paper aims to develop integrated road information modeling (RIM) and geographic information system (GIS) models to assist early identification of utilities and effective coordination during utility relocation in infrastructure projects. Design/methodology/approach An ethnographic action-based case study research methodology was adopted in this paper. Two ongoing infrastructure projects with significant utility relocation delays are chosen as case studies and integrated RIM-GIS models are developed to assist utility relocation. To verify the applications of developed RIM-GIS models, a focus group discussion was conducted with 10 field experts from the considered case studies. Findings The application of the developed RIM-GIS models enabled 3D visualization of existing underground utilities and enabled identification of utility conflicts before the start of the construction. They also enabled facilitating coordination and reduce utility relocation delays. The evaluation of the developed models shows that the RIM-GIS model approach enabled early planning and coordination and facilitates effective management of utility relocations. Practical implications The current practices of using "
+  },
+  {
+   "id": "https://openalex.org/W4401235397",
+   "doi": "10.1186/s43251-024-00132-6",
+   "title": "Integrating building information modelling (BIM) and extended reality (XR) in the transportation infrastructure industry",
+   "publication_year": 2024,
+   "source": "Advances in Bridge Engineering",
+   "type": "article",
+   "cited_by_count": 23,
+   "relevance_score": null,
+   "authors": [
+    "Ahmed M. Alhady",
+    "Mohamed Alanany",
+    "Yasser A. Khodair",
+    "Shady Salem",
+    "Yosra El Maghraby"
+   ],
+   "n_authors": 5,
+   "abstract": "Although building information modelling (BIM) has been widely used in the building industry, its usage in infrastructure projects such as bridges has been very challenging. Extended Reality (XR) that simulates a construction project is still considered a new technology in the Architecture, Engineering, and Construction (AEC) industry. This paper investigates the viability of integrating both BIM and XR technologies into transportation infrastructure projects. A fully integrated workflow for introducing different XR, Augmented Reality (AR), and Virtual Reality (VR), and BIM technologies using different software for a case study of El-Merghani bridge, a reinforced concrete girder type bridge, was developed. The models for the bridge included GIS integration and geometric road design according to AASHTO, documentation, shop drawings and quantification were developed for the bridge. A hypothetical time schedule was generated in Oracle Primavera P6 elevating the BIM model to 4-D and developing VR and AR virtual experiences with the capability to investigate, visualize, and present the model in a virtual environment, at a high level of immersion. Additionally, the associated risk reduction for the considered XR technology was assessed using Monte Carlo simulation. The workflow and the detailed 3D models developed for the bridge along with the highly immersive VR and AR experiences have provided an interactive platform for engineers and different stakeholders to monitor the project "
+  },
+  {
+   "id": "https://openalex.org/W4396858103",
+   "doi": "10.3390/en17102306",
+   "title": "Bridging Geo-Data and Natural Gas Pipeline Design Standards: A Systematic Review of BIM-GIS Integration for Natural Gas Pipeline Asset Management",
+   "publication_year": 2024,
+   "source": "Energies",
+   "type": "review",
+   "cited_by_count": 22,
+   "relevance_score": null,
+   "authors": [
+    "S.S. Demir",
+    "Tahsin Yomral\u0131o\u011flu"
+   ],
+   "n_authors": 2,
+   "abstract": "In today\u2019s world, effective management and the use of spatial data are of great importance in many sectors. Industries such as land management, asset management, and infrastructure management are areas where spatial data are heavily utilized. Advanced technologies such as Geographic Information Systems (GISs) and Building Information Modeling (BIM) are used in the processes of collecting, analyzing, and managing geographically enabled data (geo-data). These technologies enable the effective processing of large datasets, improve decision-making processes based on geographic information, and facilitate more efficient collaboration across sectors. This study conducts an in-depth examination of the existing literature on asset management, infrastructure management, and BIM-GIS integration using bibliometric analysis and systematic literature review methods. Bibliometric analysis is employed to determine statistical values such as current research trends, frequently cited authors, most used keywords, and country performances in the relevant field. This study\u2019s results highlight future research trends and significant gaps in the areas of asset management, infrastructure management, natural gas pipelines, and BIM-GIS integration. In particular, this study demonstrates the critical importance of asset management and BIM-GIS integration for sustainable infrastructure design, construction, and management. In this context, attention is drawn to the importance of data standardization, di"
+  },
+  {
+   "id": "https://openalex.org/W4392917187",
+   "doi": "10.3390/a17030124",
+   "title": "Exploring Virtual Environments to Assess the Quality of Public Spaces",
+   "publication_year": 2024,
+   "source": "Algorithms",
+   "type": "article",
+   "cited_by_count": 22,
+   "relevance_score": null,
+   "authors": [
+    "Rachid Belaroussi",
+    "Elie Issa",
+    "Leonardo Cameli",
+    "Claudio Lantieri",
+    "Sonia Adel\u00e9"
+   ],
+   "n_authors": 5,
+   "abstract": "Human impression plays a crucial role in effectively designing infrastructures that support active mobility such as walking and cycling. By involving users early in the design process, valuable insights can be gathered before physical environments are constructed. This proactive approach enhances the attractiveness and safety of designed spaces for users. This study conducts an experiment comparing real street observations with immersive virtual reality (VR) visits to evaluate user perceptions and assess the quality of public spaces. For this experiment, a high-resolution 3D city model of a large-scale neighborhood was created, utilizing Building Information Modeling (BIM) and Geographic Information System (GIS) data. The model incorporated dynamic elements representing various urban environments: a public area with a tramway station, a commercial street with a road, and a residential playground with green spaces. Participants were presented with identical views of existing urban scenes, both in reality and through reconstructed 3D scenes using a Head-Mounted Display (HMD). They were asked questions related to the quality of the streetscape, its walkability, and cyclability. From the questionnaire, algorithms for assessing public spaces were computed, namely Sustainable Mobility Indicators (SUMI) and Pedestrian Level of Service (PLOS). The study quantifies the relevance of these indicators in a VR setup and correlates them with critical factors influencing the experience of u"
+  },
+  {
+   "id": "https://openalex.org/W4367596521",
+   "doi": "10.3390/app13095591",
+   "title": "Case Study of Remodelling the As-Built Documentation of a Railway Construction into the BIM and GIS Environment",
+   "publication_year": 2023,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 22,
+   "relevance_score": null,
+   "authors": [
+    "Dalibor Barton\u011bk",
+    "Ji\u0159\u00ed Bure\u0161",
+    "Ond\u0159ej Vystav\u011bl",
+    "Radomir Havlicek"
+   ],
+   "n_authors": 4,
+   "abstract": "Building Information Modelling (BIM) is a modern approach to managing the process of preparation, realization and operation of building objects including their documentation throughout their life cycle, based on database agenda platform. The aim of our research is to analyze and innovate existing engineering procedures with the aim: 1. to remodel the existing CAD documentation into BIM for the purpose of public procurement, 2. to provide guaranteed data to the IS of the Digital Map of Public Administration and 3. to provide data for the design of new railway structures or their reconstruction. The aim of the case study was to evaluate the effectiveness of remodelling the existing as-built documentation of a railway construction into a common BIM data environment (CDE), in which further subsequent construction agenda should be managed for the remaining period of its life cycle. Using the documentation for construction realization of the railway station \u0160umice, this 3D documentation was remodeled into the BIM data environment CDE and alternatively also into the 2D GIS environment. The BIM data standard developed by the State Fund for Transport Infrastructure was analyzed during the documentation reworking. An important parameter of the documentation rework was the use of a geodetic reference system fully compatible with the cadastral system in the Czech Republic. It turned out that the general data standard is only partially applicable for railway structures containing many spe"
+  },
+  {
+   "id": "https://openalex.org/W2226963591",
+   "doi": "10.1007/978-3-319-24132-6_6",
+   "title": "Challenges of Big Data in the Age of Building Information Modeling: A High-Level Conceptual Pipeline",
+   "publication_year": 2015,
+   "source": "Lecture notes in computer science",
+   "type": "conference-paper",
+   "cited_by_count": 21,
+   "relevance_score": null,
+   "authors": [
+    "Conrad Boton",
+    "Gilles Halin",
+    "Sylvain Kubicki",
+    "Daniel Forgues"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4389565850",
+   "doi": "10.3390/su152416697",
+   "title": "Disaster Risk Assessment for Railways: Challenges and a Sustainable Promising Solution Based on BIM+GIS",
+   "publication_year": 2023,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 20,
+   "relevance_score": null,
+   "authors": [
+    "Yiming Cao",
+    "Hengxing Lan",
+    "Langping Li"
+   ],
+   "n_authors": 3,
+   "abstract": "Natural hazards constantly threaten the sustainable construction and operation of railway engineering facilities, making railway disaster risk assessment an essential approach to disaster prevention. Despite numerous studies that have focused on railway risk assessment, few have quantified specific damages, such as economic losses and human casualties. Meanwhile, the mechanism of impact damage from various disasters on railway facilities and the propagation of functional failure in railway systems have not been thoroughly summarized and addressed. Thus, it is essential to conduct effective quantitative risk assessments (QRAs) to facilitate the sustainable design, construction, and operation of rail infrastructure. This paper aimed to review and discuss the systematic development of risk assessment in railway engineering facilities. Firstly, we highlighted the importance of disaster QRA for railway facilities. Next, numerous limitations of QRA methods were concluded after conducting a comprehensive review of the risk assessment research applied to railway facilities, such as bridges, tunnels, and roadbeds. Furthermore, true QRA (TQRA) application in railway engineering has faced several significant challenges. Therefore, we proposed a promising TQRA strategy for railway engineering facilities based on the integration of building information modeling (BIM) and geographic information systems (GIS). The proposed BIM+GIS technology is expected to provide sustainable future directi"
+  },
+  {
+   "id": "https://openalex.org/W4322629580",
+   "doi": "10.3390/app13053044",
+   "title": "Designing a Large-Scale Immersive Visit in Architecture, Engineering, and Construction",
+   "publication_year": 2023,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 20,
+   "relevance_score": null,
+   "authors": [
+    "Rachid Belaroussi",
+    "Huiying Dai",
+    "Elena Mar\u00eda D\u00edaz Gonz\u00e1lez",
+    "Jorge Mart\u00edn\u2010Guti\u00e9rrez"
+   ],
+   "n_authors": 4,
+   "abstract": "Throughout history, tools for engineering in the building industry have evolved. Due to the arrival of Industry 4.0, Computer-Aided Design (CAD) and Building Information Modeling (BIM) software have replaced the usage of pens, pencils, and paper in the design process. This paper describes the work required to design a large-scale immersive visit of a district under construction in a suburban area of Greater Paris, France. As part of this real estate project, called LaVall\u00e9e, we have access to its city information model: all the BIMs of the works to be carried out including roads, terrain, street furniture, fountains, and landscaping. This paper describes all the technical operations necessary for the design of an immersive 3D model with a high level of detail of the neighborhood with its surroundings. The objective of this technical report was to provide practitioners with feedback on such an achievement based on industrial-level data. The development of the city model begins with the registration of all the BIMs from different firms in a common Geographic Information System: this gives the opportunity to confront the operational requirement of a construction phase and the actual current practice of architecture firms. A first prototype was developed using the archviz tool TwinMotion. In order to increase the realism of the model, we describe the creation of a pipeline in Unreal Engine with the automated tasks of material and mesh replacement and the lighting and landscape co"
+  },
+  {
+   "id": "https://openalex.org/W4210735638",
+   "doi": "10.5194/isprs-archives-xlvi-5-w1-2022-95-2022",
+   "title": "A MULTI-SCALE BIM/GIS FRAMEWORK FOR RAILWAYS ASSET MANAGEMENT",
+   "publication_year": 2022,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 20,
+   "relevance_score": null,
+   "authors": [
+    "Manuel Garramone",
+    "Eliana Paola Tonelli",
+    "Marco Scaioni"
+   ],
+   "n_authors": 3,
+   "abstract": "Climate change and urban transformations raise new challenges for decision-makers. The United Nations Sustainable Development Goals and The European Green Deal aim for a sustainable economy by reducing emissions of greenhouse gases. An essential task for reaching this result is to minimize transport emissions and their negative impacts on the environment and the human health. Rail is the future of sustainable transport system, and it can be part of the solution in achieving the decarbonisation target. In addition, even more people are using the train and the improvement of the service offered is an essential aspect to fulfil a greater demand for rail transport. More than five million people daily take the train in Italy, and this number is growing over time. It is demonstrated that more investment in rail infrastructure means a greater number of users, and this is even more true when considering the regional rail transport network. This ongoing research aims to test the potential of a Building Information Modelling (BIM) and Geographic Information Systems (GIS) integrated system employed to manage this type of existing infrastructure. A methodology was developed and partly tested on a case study. The purpose is the construction of a system that can be used across different phases of the process: linking the data resulting from BIM and GIS makes possible the development of a federated virtual model used as a single source of truth for project development and asset management."
+  },
+  {
+   "id": "https://openalex.org/W4413324035",
+   "doi": "10.1016/j.trgeo.2025.101677",
+   "title": "Circular economy applications in railway infrastructure: A comprehensive evidence-based review",
+   "publication_year": 2025,
+   "source": "Transportation Geotechnics",
+   "type": "article",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Juan Tan",
+    "Mehdi Koohmishi",
+    "Guoqing Jing",
+    "Sakdirat Kaewunruen",
+    "Yunlong Guo"
+   ],
+   "n_authors": 5,
+   "abstract": "Circular economy (CE) has emerged as a widely-recognized and vital paradigm across multiple sectors of the construction industry. Considering the complexity of ballasted and ballastless railway tracks, CE has remarkable potential to be employed throughout their whole lifecycle towards sustainability. This review paper examines the implementation of CE based on 10R principles\u2014refute, rethink, reduce, reuse, repair, refurbish, remanufacture, repurpose, recycle, and recover\u2014on all components of substructure and superstructure of ballasted and ballastless railway tracks, covering the potential applications from design and construction to maintenance and end-of-life stages. In this context, promotion of CE in railway infrastructure can be achieved not only by enhancing the use of recycled materials and byproducts during the construction and maintenance stages, but also by leveraging digital information technologies. Tools such as material passport, 3D printing, and virtual reality, will further facilitate the implementation of CE principles from the earlier stages of the design lifecycle. Moreover, the state-of-the-art inspection technologies based on the remote sensing and Internet of things (IoT) can be employed to extend the lifespan of track components and apply optimized preventive maintenance activities based on as-needed repairs. In this context, digital platforms like geographical information system (GIS), building information model (BIM), and digital twin, enable the empl"
+  },
+  {
+   "id": "https://openalex.org/W2991502905",
+   "doi": "10.1088/1755-1315/385/1/012033",
+   "title": "Approaching BIM-GIS Integration for 3D Evacuation Planning Requirement Using Multipatch Geometry Data Format",
+   "publication_year": 2019,
+   "source": "IOP Conference Series Earth and Environmental Science",
+   "type": "conference-paper",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Syed Ahmad Fadhli Syed Abdul Rahman",
+    "Khairul Nizam Abdul Maulud"
+   ],
+   "n_authors": 2,
+   "abstract": "Building Information Modelling (BIM) is known as a new technology that developed specifically to serve the architecture designing activities. It is used as a tool for researchers in Architecture, Engineering and Construction (AEC) fields to collaborate between different parties in order to manage the building information. Currently, there are plenty of researches that discussed on the concept of translating data between BIM into Geographical Information System (GIS) for various purposes. This trend leads this paper to focus on the method and findings of integrated 3D technologies between GIS and BIM. The implementation of integration between two different formats requires deep understanding about the core of both platforms such as differences and similarities between both formats. It is important to identify all related aspects of evacuation such as least risk paths, path simplicity, navigable network improvement, more detailed routes, and human behavior. To fulfil the paper research topic of Approaching BIM-GIS Integration for 3D Evacuation Planning Requirement Using Multipatch Geometry Data Format, four major concepts were the main focus namely; BIM-GIS Integration Method, Integration Data Level, Integrated Data Consideration and Requirement Analysis. Digital component involves was Revit Autodesk as BIM 3D development model software, the final integrated data format was 3D multipatch geometry and ArcGIS Pro v2.2 software used for 3D model visualization to conduct evacuation"
+  },
+  {
+   "id": "https://openalex.org/W4404504123",
+   "doi": "10.3390/su162210064",
+   "title": "Enhancing Construction Management Digital Twins Through Process Mining of Progress Logs",
+   "publication_year": 2024,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 18,
+   "relevance_score": null,
+   "authors": [
+    "Yongzhi Wang",
+    "Shaoming Liao",
+    "Zhiqun Gong",
+    "Fei Deng",
+    "Shiyou Yin"
+   ],
+   "n_authors": 5,
+   "abstract": "Large-scale infrastructure projects involve numerous complex processes, and even small construction management (CM) deficiencies can lead to significant resource waste. Digital twins (DTs) offer a potential solution to the management side of the problem. The current DT models focus on real-time physical space mapping, which causes the fragmentation of process data in servers and limits lifecycle algorithm implementation. In this paper, we propose a DT framework that integrates process twins to achieve process discovery through process mining and that serves as a supplement to DTs. The proposed framework was validated in a highway project. Based on BIM, GIS, and UAV physical entity twins, construction logs were collected, and process discovery was performed on them using process mining techniques, achieving process mapping and conformance checking for the process twins. The main conclusions are as follows: (1) the process twins accurately reflect the actual construction process, addressing the lack of process information in CM DTs; (2) process variants can be used to analyze abnormal changes in construction methods and identify potential construction risks in advance; (3) sudden changes in construction nodes during activities can affect resource allocation across multiple subsequent stages; (4) process twins can be used to visualize construction schedule risks, such as lead and lag times. The significance of this paper lies in the construction of process twins to complement th"
+  },
+  {
+   "id": "https://openalex.org/W2942006009",
+   "doi": "10.1088/1757-899x/512/1/012037",
+   "title": "Deployment of GIS + BIM in the construction of Pan Borneo Highway Sarawak, Malaysia",
+   "publication_year": 2019,
+   "source": "IOP Conference Series Materials Science and Engineering",
+   "type": "conference-paper",
+   "cited_by_count": 18,
+   "relevance_score": null,
+   "authors": [
+    "Zohari Akob",
+    "Mohd Zaidee Abang Hipni",
+    "Awang Abdullah Awang Abd Razak"
+   ],
+   "n_authors": 3,
+   "abstract": "Construction of the Pan Borneo Highway across 786km of the Malaysian state of Sarawak is leveraging on technology to achieve greater efficiency and productivity throughout the project's life-cycle. With a tight construction delivery timeline and budget to keep in check, the ability to design and plan efficiently, minimize errors and discrepancies during construction, manage risks, visually monitor and track progress at the site, and finally to establish accurate 3D as-built models for future asset management are among the challenges faced. To address such challenges of a linear construction, Project Delivery Partner, Lebuhraya Borneo Utara (LBU), has deployed the use of Malaysia's first-ever Highway Information Modelling (HIM) as an integral part of its Integrated Project Management System. HIM is a combination of Geographical Information Systems (GIS) and Building Information Modelling (BIM) which incorporates three dimensional (3D) parametric highway models and optimal utilization of accurate and precise Geospatial Datasets. This paper discusses the application of GIS in development of the Pan Borneo Highway Sarawak project and its role as a foundation for design, planning, monitoring of construction and operation and maintenance of the future highway asset by providing precise data in a timely and cost-efficient manner."
+  },
+  {
+   "id": "https://openalex.org/W2917253386",
+   "doi": "10.1088/1755-1315/225/1/012076",
+   "title": "Implementation of City Information Modeling (CIM) concepts in the process of management of the sewage system in Piumhi, Brazil",
+   "publication_year": 2019,
+   "source": "IOP Conference Series Earth and Environmental Science",
+   "type": "conference-paper",
+   "cited_by_count": 18,
+   "relevance_score": null,
+   "authors": [
+    "Humberto Coelho de Melo",
+    "Stella Maria Gomes Tom\u00e9",
+    "M H Silva",
+    "M M Gonzales",
+    "D B O Gomes"
+   ],
+   "n_authors": 5,
+   "abstract": "The municipality of Piumhi, Brazil, lives with sewage system problems. Currently the model used by the SAAE (local Water and Sewage Public Provider) only provides corrective actions. The combination of the concepts BIM and GIS will allow the movement towards the City Information Modeling, seen in a promising way for public management. The purpose of this research is to develop a management model for the sewage network that focus on preventive actions, allowing a decision-making process based on accurate information. Meetings were held with the municipal autarchy, enabling a diagnosis of the current situation and the determination of strategies for dices collect. 1731 wells were surveyed, with the following data collected: depths, geographic coordinates, diameter, pipe's material and flow direction in each section. The wells in the sewage network were 1291 visible, 316 unseen and 64 non-precision coordinates. The wells in the sewage interceptors were 56 visible and 4 unseen wells. Due to the high percentage of unseen wells (18,5%) many alignments of the sewage network were no determined, what is recommended to be done as maintenance occurs in the existing infrastructure. A web management tool for QGis and tutorials will be, allowing SAAE to carry out the preventive management of the sewage network. The development of a reliable database will allow the identification of problems and the comparison of the conditions and characteristics of the existing networks, allowing the SAAE"
+  },
+  {
+   "id": "https://openalex.org/W4400115159",
+   "doi": "10.5194/isprs-archives-xlviii-4-w11-2024-161-2024",
+   "title": "Integration of HGIS/HBIM to Reveal and Reconstruct the Vanished Metal Bridge Heritage of the Chinese Eastern Railway Main Line",
+   "publication_year": 2024,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Jianzhuo Xu",
+    "Manuel Garramone",
+    "Marco Scaioni"
+   ],
+   "n_authors": 3,
+   "abstract": "Integration of HGIS (Historical Geographic Information Systems) and HBIM (Heritage Building Information Modelling) constitutes a high-precision, efficient, and sustainable method for conserving cultural heritage (CH), particularly in instances characterized by large-scale distribution and spanning multiple historical periods, with extensive archival material. HBIM not only aids in the preservation of remaining structures but also facilitates the revelation and reconstruction of invisible elements. The Chinese Eastern Railway (CER), a key industrial and linear cultural heritage site in northeast China, has a variety of metal bridge heritage, many of which are documented and seen solely in historical archives until now. These bridges, designed and constructed by Russians at the outset of the 20th century, serve as crucial components of the CH along the CER while also showcasing the technological advancements and application developments in metal structures along the railway. We propose a method of integrating HGIS/HBIM to conserve the integrity of the heritage and this methodology has been validated through two case studies. A historical database was established for collection and exhibition archives in QGIS\u00ae. Concurrently, Autodesk\u00ae Revit was employed to reconstruct bridge models, incorporating material information and GPS coordinates based on the Industry Foundation Classes (IFC). Subsequently, we utilized FME\u00ae Workbench to bridge the gap between BIM and GIS. This approach pr"
+  },
+  {
+   "id": "https://openalex.org/W4391951349",
+   "doi": "10.1016/j.dibe.2024.100367",
+   "title": "Interlinking BIM and GIS data for a semantic pedestrian network and applications in high-density cities",
+   "publication_year": 2024,
+   "source": "Developments in the Built Environment",
+   "type": "article",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Jicao Dao",
+    "S. Thomas Ng",
+    "Chung Yee Kwok"
+   ],
+   "n_authors": 3,
+   "abstract": "In high-density cities, pedestrians frequently traverse many publicly accessible indoor spaces, such as metro stations and footbridges, which seamlessly connect with outdoor sidewalks, forming indoor-outdoor combined pedestrian networks. However, the information island phenomenon hinders these connections in the digital world because outdoor sidewalks and indoor spaces are modelled using Geographical Information Systems (GIS) and Building Information Modelling (BIM) technologies, respectively, which challenges obtaining integrated information for intelligent pedestrian services. This study presents an approach for interlinking BIM and GIS data for a semantic pedestrian network using semantic web technologies. The proposed approach automatically converts BIM and GIS data into linked data and establishes interlinkages between BIM and GIS data through semantic queries and inferences. The resulting semantic pedestrian network based on integrated linked data graphs forms a knowledge base, including topological and geometrical information and abundant semantic information from BIM and GIS datasets. The application potential of the semantic pedestrian network is demonstrated through information query and semantic route planning. This research contributes to establishing indoor-outdoor combined semantic pedestrian networks ensuring seamless data integration."
+  },
+  {
+   "id": "https://openalex.org/W4383336501",
+   "doi": "10.1016/j.compeleceng.2023.108850",
+   "title": "Low carbon urban rail transit station city integration based on building information modeling and sensor fusion",
+   "publication_year": 2023,
+   "source": "Computers & Electrical Engineering",
+   "type": "article",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Wenjie Zhang",
+    "Hongwei Ying"
+   ],
+   "n_authors": 2,
+   "abstract": "In order to better play the role of information technology in the construction management of rail transit projects, we analyze the application of geographic information system (GIS) + building information modeling (BIM) technology in the construction management of rail transit projects by combining the characteristics of GIS+BIM technology and aiming at the overall improvement of project management efficiency and technical management methods. This study is mainly conducted with the support of BIM technology and sensing technology. In the design stage, carbon emissions are classified according to the source activities of building carbon emissions, and the carbon emissions in the building life cycle are quickly calculated by using BIM technology, and the design is optimized according to the analysis of the budget results. The experimental results prove that the low-carbon building evaluation standard cloud model of all-electronic computer interlocking system for urban rail transit established in this study, combined with the comprehensive weighting results, calculates the low-carbon index cloud model and comprehensive cloud model, and derives the operational safety risk level of the all-electronic computer interlocking system, and the model optimization effect is good. Practice shows that GIS+BIM technology can realize the refinement and informatization of construction management, and has a broad development space in the field of urban rail transit and urban underground space c"
+  },
+  {
+   "id": "https://openalex.org/W4382403007",
+   "doi": "10.3390/s23135984",
+   "title": "Research on the Visualization of Railway Signal Operation and Maintenance Based on BIM + GIS",
+   "publication_year": 2023,
+   "source": "Sensors",
+   "type": "article",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Yanming Liu",
+    "Haixiang Lin",
+    "Zhengxiang Zhao",
+    "Wansheng Bai",
+    "Nana Hu"
+   ],
+   "n_authors": 5,
+   "abstract": "To adapt to the \"fine\" and \"extensive\" management characteristics of railway signal equipment operation and maintenance, achieving real-time and interactive monitoring of signal equipment operation status, and developing an integrated approach to equipment operation and maintenance, this paper takes a comprehensive management perspective. To create a lightweight BIM model, the Garland folding algorithm is utilized to simplify the IFC file format. Building on this approach, the data are divided based on building component division standards to obtain separate files containing geometric information and semantic attributes. The geometric information files are converted to a 3D Tiles format, combining BIM semantic attributes with semantic attribute files through an intermediate format. Dynamic data management is achieved by setting the octree space index structure in combination with a view-frustum culling algorithm. Then, the 3D Tiles target file is imported into the Cesium platform, and Node.js is used to achieve three-dimensional visualization of railway signal operation and maintenance. The proposed method is verified using an inbound signal as an example to assess its feasibility. The results demonstrate the potential of the proposed method to achieve stable integration between BIM equipment full lifecycle maintenance and GIS geographical space display. Railway signal equipment is endowed with comprehensive one-click information query functions for equipment positioning and "
+  },
+  {
+   "id": "https://openalex.org/W2979081597",
+   "doi": "10.5194/isprs-archives-xlii-4-w15-53-2019",
+   "title": "EUROSDR GEOBIM PROJECT A STUDY IN EUROPE ON HOW TO USE THE POTENTIALS OF BIM AND GEO DATA IN PRACTICE",
+   "publication_year": 2019,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Francesca Noardo",
+    "Claire Ellul",
+    "Lars Harrie",
+    "Emmanuel Devys",
+    "Ken Arroyo Ohori",
+    "P. Olsson"
+   ],
+   "n_authors": 7,
+   "abstract": "In both the Geo and BIM domains, it is widely acknowledged that the integration of geo-data and BIM-data is beneficial and a crucial step in facing the multi-disciplinary challenges of our built environment. The result of this integration \u2013 broadly termed as GeoBIM \u2013 has a range of potential uses from district study to road safety. However, from the data perspective, this integration raises the question of how to integrate very detailed design and construction data from the BIM domain with contextual geospatial data (both 2D and 3D) that model a very diverse range of aspects of the wider built and natural environment.This paper reports work carried out during the second phase of the EuroSDR GeoBIM project, which sets out to understand the general status of GeoBIM across Europe with particular focus from a National Mapping and Cadastral Agency perspective. The first phase of the project reviewed the current status of GeoBIM in participating countries and identified the need for specific detailed use cases to overcome both the lack of awareness and the lack of understanding of the potential of GeoBIM. We present both an update on the current status of GeoBIM, and additional details of one of the selected use cases relating to planning/development permits. For the latter, we have been able to develop a detailed workflow highlighting specific data exchange points within the process to issue a development permit, allowing a more in-depth identification of both the roles and data n"
+  },
+  {
+   "id": "https://openalex.org/W2761496021",
+   "doi": null,
+   "title": "Smart infrastructure, physical and information assets, Smart Cities, BIM, GIS, and IoT",
+   "publication_year": 2017,
+   "source": "International journal of open information technologies",
+   "type": "article",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Vasily Kupriyanovsky",
+    "Vyacheslav Alenkov",
+    "\u0418. \u0410. \u0421\u043e\u043a\u043e\u043b\u043e\u0432",
+    "Aleksandr Zazhigalkin",
+    "Al\u0435xander Klimov",
+    "Alexey Stepanenko"
+   ],
+   "n_authors": 8,
+   "abstract": "This article is devoted to the issues of standardization for infrastructures. Infrastructures (cities, roads, etc.) there are and will be the basis of the real economy. It is the content and development of infrastructures that make up the lion's share of budgets. In Smart cities, for example, we can see practically all the that people use. The term infrastructure refers to the result of combining physical with digital infrastructure, which allows providing more information for making management decisions. At the same time, both physical and digital infrastructures are assets for which economic efficiency can and should be considered. The issues of developing smart infrastructures and lessons for Russia are discussed in this article."
+  },
+  {
+   "id": "https://openalex.org/W4400245435",
+   "doi": "10.1007/s41062-024-01609-z",
+   "title": "Improving urban road infrastructure analysis and design using an integrated BIM-GIS and traffic microsimulation framework",
+   "publication_year": 2024,
+   "source": "Innovative Infrastructure Solutions",
+   "type": "article",
+   "cited_by_count": 16,
+   "relevance_score": null,
+   "authors": [
+    "Mohammad Sohaib",
+    "Aaqib Najeeb",
+    "Muhammad Umair",
+    "Muhammad Arsalan Khan",
+    "Muhammad Umer Zubair",
+    "Zulqarnain Jehan"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4220854271",
+   "doi": "10.1109/itoec53115.2022.9734553",
+   "title": "Research and Design of Infrastructure Monitoring Platform of Intelligent High Speed Railway",
+   "publication_year": 2022,
+   "source": "IEEE Information Technology and Mechatronics Engineering Conference (ITOEC)",
+   "type": "conference-paper",
+   "cited_by_count": 16,
+   "relevance_score": null,
+   "authors": [
+    "Ruofei Jiang",
+    "Wanqi Wang",
+    "Yalong Xie",
+    "Xunxiao Yin"
+   ],
+   "n_authors": 4,
+   "abstract": "With the improvement of technology and business management ability, especially the need of data governance, railway stakeholders have higher expectations and requirements for the level of railway infrastructure informatization. In order to support the development of railway infrastructure information, the monitoring platform will provide services for all the proposed projects, under construction projects, operation and maintenance projects of China Railway, which promotes the informationized and standardized management of infrastructure in the whole life cycle of railway construction, operation and maintenance. Monitoring platform adopts digital twin technology, integrates BIM+GIS model management, accesses to real-time Internet of things sensor data, establishes railway construction, operation and maintenance integrated monitoring big data center, realizes real-time monitoring of high-speed railway infrastructure. Through the virtual and reality mapping and interactive integration of all elements, all data, all models and all spaces, which realized the great transformation of high-speed railway management and operation from phenomenon driven to data driven, breaking through the key technologies of intelligent prediction and early warning of high-speed railway infrastructure, so as to better improve the service level and management efficiency of high-speed railway."
+  },
+  {
+   "id": "https://openalex.org/W4210315082",
+   "doi": "10.18494/sam3707",
+   "title": "Efficiency Analysis of Construction Automation Using 3D Geospatial Information",
+   "publication_year": 2022,
+   "source": "Sensors and Materials",
+   "type": "article",
+   "cited_by_count": 15,
+   "relevance_score": null,
+   "authors": [
+    "Joon Kyu Park",
+    "Keun Wang Lee"
+   ],
+   "n_authors": 2,
+   "abstract": "The size of the global construction market is expected to increase to about $14 trillion by 2025, with fierce competition expected in emerging markets.However, construction is the only industrial sector whose productivity has declined over the past 50 years.Over the past two decades, the world economy has grown by 2.8% and manufacturing productivity has grown by 3.6% annually, but labor productivity growth in the construction sector has averaged less than 1%.Recently, construction companies have made various attempts to increase productivity, for example, by implementing 'smart construction' based on 3D data at all stages such as investigation, measurement, design, and construction.Many construction sites are increasing the utilization of building information modeling (BIM), laser scanners, unmanned aerial vehicles (UAVs), and automated construction equipment.However, studies on applying and analyzing 3D geospatial information in the construction process have been insufficient.In this study, an experiment on using 3D geospatial information technology in road construction was performed and analysis was conducted.The Global Navigation Satellite System (GNSS), static light detection and ranging (LiDAR), UAV LiDAR, and so forth were used to effectively build 3D geospatial information of the study area, and 3D designs were generated using the acquired data.The accuracy of data constructed through static LiDAR and UAV LiDAR was found to be within 0.025 m in the X, Y, and Z directio"
+  },
+  {
+   "id": "https://openalex.org/W2749139569",
+   "doi": "10.22260/isarc2017/0060",
+   "title": "Automating the Generation of Indoor Space Topology for 3D Route Planning Using BIM and 3D-GIS Techniques",
+   "publication_year": 2017,
+   "source": "International Symposium on Automation and Robotics in Construction (ISARC)",
+   "type": "conference-paper",
+   "cited_by_count": 15,
+   "relevance_score": null,
+   "authors": [
+    "Will Y. Lin",
+    "Pao H. Lin",
+    "H. Ping Tserng"
+   ],
+   "n_authors": 3,
+   "abstract": "3D Indoor space topology, mainly referred as floor layouts and navigation routes, is the foundation of indoor Location-based Services (LBS), such as navigation in large shopping malls or interchange in large transport stations. Manually generating this topology is highly time-consuming, less cost effective, and prone to errors. This research adopts 3-D GIS technology and proposes a novel workflow to automatically generate the indoor space topology based on 3D building models in a format of Industry Foundation Classes (IFC). Floor layouts and paths including stairs will be identified and generated in the environment of ESRI ArcScene, a 3-D GIS software. Several categories of navigation routes are defined and constructed by a collective algorithm called i-GIT. This paper demonstrates the entire workflow and concepts to produce floor layouts and navigation routes using a 3-story commercial building model. More details related to i-GIT as well as their validation based on real buildings will be revealed in an upcoming article."
+  },
+  {
+   "id": "https://openalex.org/W7127109370",
+   "doi": "10.3390/s26030947",
+   "title": "A BIM-Based Digital Twin Framework for Urban Roads: Integrating MMS and Municipal Geospatial Data for AI-Ready Urban Infrastructure Management",
+   "publication_year": 2026,
+   "source": "Sensors",
+   "type": "article",
+   "cited_by_count": 13,
+   "relevance_score": null,
+   "authors": [
+    "Vittorio Scolamiero",
+    "Piero Boccardo"
+   ],
+   "n_authors": 2,
+   "abstract": "Digital twins (DTs) are increasingly adopted to enhance the monitoring, management, and planning of urban infrastructure. While DT development for buildings is well established, applications to urban road networks remain limited, particularly in integrating heterogeneous geospatial datasets into semantically rich, multi-scale representations. This study presents a methodology for developing a BIM-based DT of urban roads by integrating geospatial data from Mobile Mapping System (MMS) surveys with semantic information from municipal geodatabases. The approach follows a multi-modal (point clouds, imagery, vector data), multi-scale and multi-level framework, where 'multi-level' refers to modeling at different scopes-from a city-wide level, offering a generalized representation of the entire road network, to asset-level detail, capturing parametric BIM elements for individual road segments or specific components such as road sign and road marker, lamp posts and traffic light. MMS-derived LiDAR point clouds allow accurate 3D reconstruction of road surfaces, curbs, and ancillary infrastructure, while municipal geodatabases enrich the model with thematic layers including pavement condition, road classification, and street furniture. The resulting DT framework supports multi-scale visualization, asset management, and predictive maintenance. By combining geometric precision with semantic richness, the proposed methodology delivers an interoperable and scalable framework for sustainable"
+  },
+  {
+   "id": "https://openalex.org/W4312684133",
+   "doi": "10.29138/ijebd.v5i4.1914",
+   "title": "Implementation of Building Information Modelling for Road Rehabilitation and Reconstruction Project: Liquefaction Disaster of Palu Area",
+   "publication_year": 2022,
+   "source": "IJEBD (International Journal Of Entrepreneurship And Business Development)",
+   "type": "article",
+   "cited_by_count": 13,
+   "relevance_score": null,
+   "authors": [
+    "Andri Irfan Rifai",
+    "Hikmawati Thalib",
+    "Muhamad Isradi",
+    "Joewono Prasetijo"
+   ],
+   "n_authors": 4,
+   "abstract": "Purpose: Utilization of Building Information Modeling (BIM) is believed to improve planning accuracy, mitigate construction risks, and better plan the entire life cycle of infrastructure asset projects. The application of BIM technology in post-disaster management can combine GIS technology (Geographic Information System) with BIM technology itself, or commonly referred to as geospatial BIM. The purpose of this paper is to apply BIM technology, explain the stages of road planning and modeling with BIM, and identify the advantages of using BIM compared to conventional methods. The road planning location is the location of the Jono Oge liquefaction disaster, Palu, Indonesia. Design/methodology/approach: Data collection, data processing with Agisoft Metashape, DEM data input, and orthophoto image data processed by Agisoft Metashape to Autodesk\u00ae InfraWorks\u00ae, road planning with Autodesk\u00ae InfraWorks\u00ae, road planning model output and field data presentation. 3D models, IMX format files, FGDB format files, and animation videos. Findings: The application of BIM technology in planning and modeling road projects at liquefaction locations can be made using Agisoft Metashape software to process aerial photo data taken using drones and using Autodesk\u00ae InfraWorks\u00ae software for planning and modeling of the road. Research limitations/implications: Modeling Road design in the application of BIM and the use of Autodesk\u00ae InfraWorks\u00ae applications on the project. We are not modeling the pavement, j"
+  },
+  {
+   "id": "https://openalex.org/W4281949776",
+   "doi": "10.5194/isprs-archives-xliii-b4-2022-39-2022",
+   "title": "IFCALIGNMENT FOR RASTER-TO-VECTOR GIS RAILWAY CENTRELINE: A CASE STUDY IN THE SOUTH OF ITALY",
+   "publication_year": 2022,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 13,
+   "relevance_score": null,
+   "authors": [
+    "Manuel Garramone",
+    "Marco Scaioni"
+   ],
+   "n_authors": 2,
+   "abstract": "Built environment Asset Management (AM) is evolving and renewing itself through the development of new technologies. Building Information Modelling (BIM) is the main methodology for the digitisation process of existing data and information. Although BIM was originally intended for buildings, in the last few years Infrastructure Building Information Modelling (I-BIM) and Civil Information Modelling (CIM) are emerging to manage civil infrastructure. The interaction of infrastructure with the surrounding environment is a fundamental aspect and it requires data-sharing between different sources and systems. Geographic Information Systems (GIS) is used to store and elaborate Earth\u2019s surface information, and it is, therefore, necessary to achieve a complete BIM/GIS interoperability. This paper aims to test the popular BIM open-standard Industry Foundation Classes (IFC) capabilities and potentialities in storing GIS data. A case study of a disused railway in the south of Italy was used to test the methodology presented: rail-centreline (alignment) extraction from GIS raster data, and a conversion of the alignment to an IFCAlignment element. The possibility to export a rail alignment in IFC was confirmed."
+  },
+  {
+   "id": "https://openalex.org/W4210709490",
+   "doi": "10.3390/ijgi11020110",
+   "title": "Fire Scenario Zone Construction and Personnel Evacuation Planning Based on a Building Information Model and Geographical Information System",
+   "publication_year": 2022,
+   "source": "ISPRS International Journal of Geo-Information",
+   "type": "article",
+   "cited_by_count": 13,
+   "relevance_score": null,
+   "authors": [
+    "Qiang Yang",
+    "Xu Zhang",
+    "Zhongren Zhang",
+    "Longjiang He",
+    "Xiaojie Yan",
+    "Jiaming Na"
+   ],
+   "n_authors": 6,
+   "abstract": "The spatial\u2013temporal simulation of fire disasters and evacuation route planning are important research fields for urban emergency responses and are primary tasks that answer complex questions after fires break out. The increasing demand for refined building information models will sharply increase the calculated and analyzed quantity. This demand presents a challenge for fire emergency responses based on massive building information. In this paper, the principle of the realistic worst case (RWC) is introduced into fire simulation and evacuation route planning. Taking the library of the Nanjing Forestry University as the study object, the spatial\u2013temporal characteristics of the influential environmental factors of the fire are simulated, such as the meteorological elements, building structure, and building skin. The scenario zones that are relatively prone to fire are selected using an overlay analysis across the four seasons. Then, the risk threshold for evacuating personnel is analyzed in the fire zone according to international standards and firefighting criteria. Specific parameters are determined based on the analysis of the above. The growing trends for fires across the four seasons are simulated with scenario zones as the starting positions and incorporate factors such as temperature, carbon monoxide, and smoke. Lastly, a life safety assurance path (LSAP) for personnel evacuation is designed based on an indoor road network and path search algorithm. The evacuation plann"
+  },
+  {
+   "id": "https://openalex.org/W3203798707",
+   "doi": "10.5194/isprs-annals-viii-4-w2-2021-183-2021",
+   "title": "TOWARDS THE AUTOMATIC ONTOLOGY GENERATION AND ALIGNMENT OF BIM AND GIS DATA FORMATS",
+   "publication_year": 2021,
+   "source": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 13,
+   "relevance_score": null,
+   "authors": [
+    "A. U. Usmani",
+    "Mojgan Jadidi",
+    "Gunho Sohn"
+   ],
+   "n_authors": 3,
+   "abstract": "Establishing semantic interoperability between BIM and GIS is vital for geospatial information exchange. Semantic web have a natural ability to provide seamless semantic representation and integration among the heterogeneous domains like BIM and GIS through employing ontology. Ontology models can be defined (or generated) using domain-data representations and further aligned across other ontologies by the semantic similarity of their entities - introducing cross-domain ontologies to achieve interoperability of heterogeneous information. However, due to extensive semantic features and complex alignment (mapping) relations between BIM and GIS data formats, many approaches are far from generating semantically-rich ontologies and perform effective alignment to address geospatial interoperability. This study highlights the fundamental perspectives to be addressed for BIM and GIS interoperability and proposes a comprehensive conceptual framework for automatic ontology generation followed by ontology alignment of open-standards for BIM and GIS data formats. It presents an approach based on transformation patterns to automatically generate ontology models, and semantic-based and structure-based alignment techniques to form cross-domain ontology. Proposed two-phase framework provides ontology model generation for input XML schemas (i.e. of IFC and CityGML formats), and illustrates alignment technique to potentially develop a cross-domain ontology. The study concludes anticipated resul"
+  },
+  {
+   "id": "https://openalex.org/W2891280249",
+   "doi": "10.1109/bgc-geomatics.2018.00045",
+   "title": "Georeferencing Methods for IFC",
+   "publication_year": 2018,
+   "source": "Baltic Geodetic Congress (BGC Geomatics)",
+   "type": "conference-paper",
+   "cited_by_count": 13,
+   "relevance_score": null,
+   "authors": [
+    "Gustaf Uggla",
+    "Milan Horemu\u017e"
+   ],
+   "n_authors": 2,
+   "abstract": "Building Information Modelling (BIM) is becoming a standard tool for information management throughout the life cycle of a construction project. Elements in BIM are designed in a Cartesian coordinate system (Engineering system) with no direct relation to the project's geographic location. Accurate georeferencing of BIM data is required both for construction and integration with Geographic Information Systems (GIS), as improperly treated or neglected scale distortions can lead to costly delays in construction as problems requiring ad hoc solutions may arise on site Industry Foundation Classes (IFC) is an open BIM standard developed by buildingSMART, and the current version IFC 4 has recently been extended with IFC Alignment, which includes support for alignment geometries used for infrastructure design. This paper investigates the geographic capabilities of IFC 4 and its extension IFC Alignment. The study identifies a lack of support for non-uniform scale factors and object-specific map projections as the largest weaknesses."
+  },
+  {
+   "id": "https://openalex.org/W2105368952",
+   "doi": "10.1061/9780784479384.186",
+   "title": "GIS, GPS, and BIM-Based Risk Control of Subway Station Construction",
+   "publication_year": 2015,
+   "source": "Third International Conference on Transportation Engineering (ICTE)American Society of Civil EngineersChina Communications and Transportation Association",
+   "type": "conference-paper",
+   "cited_by_count": 13,
+   "relevance_score": null,
+   "authors": [
+    "Hualin Du",
+    "Jianhua Du",
+    "Shougang Huang"
+   ],
+   "n_authors": 3,
+   "abstract": "In the process of subway station construction, many large construction equipments are placed in a narrow area where the operations are highly dense and the equipments have to carry heavy load and move or rotate in a broader space. In addition, there are tall equipments carrying out aerial operation. Some construction equipments are placed in limited underground space. These special conditions bring extremely high risks to subway station construction. This paper probes into (1) the application of BIM in summarizing and dynamically managing all the information and data in the process of construction; and (2) the installation of GPS receiver OEM board on large, high-risk construction equipments, the utilization of GIS and GPS data in dynamic management of three-dimensional geographic spatial location information of machineries and the visualized management of all data and information. In addition, this paper analyzes the risks related to large construction equipments and neighboring buildings and controlling methods. In this paper, the author suggests to integrate GIS, GPS and BIM to develop construction early warning and risk management systems so as to dynamically monitor the conflict risks among cranes, drilling machines, excavators, loaders and dumpers, the risks of collision between equipments and neighboring buildings and the risks of deformation and structure damage of foundation pits and retaining walls. Lastly, this paper analyzes the functional needs of the early warni"
+  },
+  {
+   "id": "https://openalex.org/W4281686622",
+   "doi": "10.5194/isprs-archives-xliii-b4-2022-529-2022",
+   "title": "GEOBIM INFORMATION TO CHECK DIGITAL BUILDING PERMIT REGULATIONS",
+   "publication_year": 2022,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 12,
+   "relevance_score": null,
+   "authors": [
+    "Nadine Hobeika",
+    "Jordi van Liempt",
+    "Francesca Noardo",
+    "Ken Arroyo Ohori",
+    "Jantien Stoter"
+   ],
+   "n_authors": 5,
+   "abstract": "Municipalities invest a lot of time and person-hours into manual building permit checks. With the increase in computational power and the use of Building Information Models (BIM) in the building design life cycle, several municipalities are investing in automating these checks using BIM and geo-data sets. However, few examples exist of tools effectively using geo-information with BIM. In order to address this gap, a project was developed with the municipality of Rotterdam (NL). In a previous phase, a tool was implemented, able to analyse the BIM data to extract the needed information for a few representative regulations. In order to extend and improve the previously developed tool, a web-based interface is now implemented and geo-data sets are integrated to the process allowing more powerful GeoBIM analysis. Three checks using both BIM and GIS data were implemented and tested: (i) The parcel limit check evaluates if the building\u2019s footprint derived from BIM falls within the parcel limit provided from the municipalities\u2019 parcel data sets. (ii) The height check evaluates the maximum building\u2019s relative height to the road\u2019s height. Finally, (iii) the road overhang check detects neighbouring roads to the parcel and evaluates the admissible overhang over that road. This paper presents these developments, including the type of input data that is needed for the checks, the tools for the three new GeoBIM checks (parcel limit check, height check, road overhang check) and the implement"
+  },
+  {
+   "id": "https://openalex.org/W3202299935",
+   "doi": "10.23968/2500-0055-2021-6-3-19-28",
+   "title": "INFRA-BIM FOR BUSINESS PROCESSES\u2019 MANAGEMENT IN ROAD CONSTRUCTION AND OPERATION",
+   "publication_year": 2021,
+   "source": "Architecture and Engineering",
+   "type": "article",
+   "cited_by_count": 12,
+   "relevance_score": null,
+   "authors": [
+    "Victoria Victorovna Shamraeva",
+    "Evgeniy Savinov"
+   ],
+   "n_authors": 2,
+   "abstract": "Introduction: The article addresses the business processes of the construction and operation of linear road sections. In the course of the study, we analyzed the geographic information system (GIS) of Avtodor company (developer: Indor-Soft, Tomsk) and its use in the operation and maintenance of transport infrastructure facilities at such road sections. In particular, we studied the construction of the Far West Krasnodar Bypass (FWKB), which is part of the North-South transport corridor, and its implementation by means of InfraBIM modeling. Purpose of the study: We aimed to describe the structured GIS database of Avtodor company by connecting various InfraBIM tools for the purposes of data generation and road model update. Methods: Analyzing the GIS of Avtodor company when using an InfraBIM model of road infrastructure, we studied the following: use of GIS features at the facility; asynchronous editing and selection of data without access to the Internet; database update. Results: InfraBIM models of linear road sections, developed in the implementation of such projects as the FWKB, make it possible to optimize time and save money when planning and introducing measures during the operation of transport infrastructure facilities."
+  },
+  {
+   "id": "https://openalex.org/W4414314388",
+   "doi": "10.5194/isprs-annals-x-4-w6-2025-65-2025",
+   "title": "CityGML 3.0 as a Hub: Integrating BIM, GIS, and Point Cloud Data for 3D Streetspace Modeling Comprising Roads, Bridges and Tunnels",
+   "publication_year": 2025,
+   "source": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 11,
+   "relevance_score": null,
+   "authors": [
+    "Zihan Deng",
+    "Ihab Hamzi Hijazi",
+    "Thomas H. Kolbe"
+   ],
+   "n_authors": 3,
+   "abstract": "In recent years, semantic 3D city models have been increasingly used for large scale urban analysis in urban digital twins and smart cities. As a crucial component, semantic 3D streetspace models have gained attention due to the growing availability of road and transportation infrastructure data. However, these models exist in various data formats, such as point cloud data and BIM models, each designed for different use cases, making integration and management challenging when diverse models need to be utilized together for further applications. To address this, we develop a workflow to transform heterogeneous streetspace component representations into an integrated semantic 3D model based on the international standard CityGML 3.0, which serves as a hub for integrating different geometric and semantic features. A case study in Munich, Germany was conducted by integrating BIM, GIS, and point cloud data. The case study area features complex streetspace components, including roads, bridges, and tunnels. This study demonstrates the feasibility of harmonizing complex urban environments with multiple types of models for streetspace components. Challenges encountered in the transformation process are discussed, along with future research directions to further enhance the integration of semantic 3D streetspace models."
+  },
+  {
+   "id": "https://openalex.org/W4412692730",
+   "doi": "10.3390/s25154630",
+   "title": "High-Precision Optimization of BIM-3D GIS Models for Digital Twins: A Case Study of Santun River Basin",
+   "publication_year": 2025,
+   "source": "Sensors",
+   "type": "article",
+   "cited_by_count": 11,
+   "relevance_score": null,
+   "authors": [
+    "Zhengbing Yang",
+    "Mahemujiang Aihemaiti",
+    "Beilikezi Abudureheman",
+    "Hongfei Tao"
+   ],
+   "n_authors": 4,
+   "abstract": "The integration of Building Information Modeling (BIM) and 3D Geographic Information System (3D GIS) models provides high-precision spatial data for digital twin watersheds. To tackle the challenges of large data volumes and rendering latency in integrated models, this study proposes a three-step framework that uses Industry Foundation Classes (IFCs) as the base model and Open Scene Graph Binary (OSGB) as the target model: (1) geometric optimization through an angular weighting (AW)-controlled Quadric Error Metrics (QEM) algorithm; (2) Level of Detail (LOD) hierarchical mapping to establish associations between the IFC and OSGB models, and redesign scene paging logic; (3) coordinate registration by converting the IFC model's local coordinate system to the global coordinate system and achieving spatial alignment via the seven-parameter method. Applied to the Santun River Basin digital twin project, experiments with 10 water gate models show that the AW-QEM algorithm reduces average loading time by 15% compared to traditional QEM, while maintaining 97% geometric accuracy, demonstrating the method's efficiency in balancing precision and rendering performance."
+  },
+  {
+   "id": "https://openalex.org/W3203972802",
+   "doi": "10.5194/isprs-annals-viii-4-w2-2021-175-2021",
+   "title": "DESIGN AND EVALUATION OF A BIM-GIS INTEGRATED INFORMATION MODEL USING RDF GRAPH DATABASE",
+   "publication_year": 2021,
+   "source": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 11,
+   "relevance_score": null,
+   "authors": [
+    "A.-H. Hor",
+    "Gunho Sohn"
+   ],
+   "n_authors": 2,
+   "abstract": "The semantic integration modeling of BIM industry foundations classes and GIS City-geographic markup language are a milestone for many applications that involve both domains of knowledge. In this paper, we propose a system design architecture, and implementation of Extraction, Transformation and Loading (ETL) workflows of BIM and GIS model into RDF graph database model, these workflows were created from functional components and ontological frameworks supporting RDF SPARQL and graph databases Cypher query languages. This paper is about full understanding of whether RDF graph database is suitable for a BIM-GIS integrated information model, and it looks deeper into the assessment of translation workflows and evaluating performance metrics of a BIM-GIS integrated data model managed in an RDF graph database, the process requires designing and developing various pipelines of workflows with semantic tools in order to get the data and its structure into an appropriate format and demonstrate the potential of using RDF graph databases to integrate, manage and analyze information and relationships from both GIS and BIM models, the study also has introduced the concepts of Graph-Model occupancy indexes of nodes, attributes and relationships to measure queries outputs and giving insights on data richness and performance of the resulting BIM-GIS semantically integrated model."
+  },
+  {
+   "id": "https://openalex.org/W3116587241",
+   "doi": null,
+   "title": "Linking BIM and GIS Standard Ontologies with Linked Data",
+   "publication_year": 2020,
+   "source": "HAL",
+   "type": "conference-paper",
+   "cited_by_count": 11,
+   "relevance_score": null,
+   "authors": [
+    "Elio Hbeich",
+    "Ana Roxin"
+   ],
+   "n_authors": 2,
+   "abstract": "Following the analysis of existing BIM and GIS standards, formats, differences in the interpretations of the underlying concepts have been identified. Still, in each of the two considered domains several ontologies have been defined for these terms without seeking an alignment among their definitions. With this scope in mind, this article presents several mappings expressed by means of explicit semantic links between GIS concepts (as present in the related ontologies for the ISO 191XX standard family) and BIM concepts (as represented in the IFC standard ISO 16739:2018). Such semantic mappings are defined in order to ensure a knowledge continuum between both domains, thus enabling seamless reasoning in application contexts spanning over them e.g. urban contexts."
+  },
+  {
+   "id": "https://openalex.org/W2326154441",
+   "doi": "10.17265/2328-2142/2016.01.003",
+   "title": "Application of BIM (Building Information Modeling) and GIS (Geographic Information System) to Railway Maintenance Works in Taiwan",
+   "publication_year": 2016,
+   "source": "Journal of Traffic and Transportation Engineering",
+   "type": "article",
+   "cited_by_count": 11,
+   "relevance_score": null,
+   "authors": [
+    "Jin-Fang Shr",
+    "Li-Shih Liu"
+   ],
+   "n_authors": 2,
+   "abstract": "Based on real jobs, this study was carried out the railway maintenance works in Taiwan. It hopes to use GIS (geographic information system) and BIM (building information modeling) for changing the maintenance model from \u201cpost-damage repair\u201d to \u201cpreventive maintenance\u201d accordingly, this research will build a railway repairing database that installs all repair data. This database will also connect to GIS so that can be the source of analysis and statistic for repair paln. The main results of research are as follows: (1) all data stored on cloud space that raises the ability to manage and plan on repair; (2) simplify the file work and increase the quantity of case data to the manager who can get more reliable source; (3) the data offer objective judgment to avoid subjective argument. The GIS information can be added to improve the maintenance because of good analysis."
+  },
+  {
+   "id": "https://openalex.org/W4402960780",
+   "doi": "10.21014/actaimeko.v13i3.1779",
+   "title": "Geodatabase, metric reconstruction and a GIS platform of historical-archaeological sites in Aquino",
+   "publication_year": 2024,
+   "source": "ACTA IMEKO",
+   "type": "article",
+   "cited_by_count": 10,
+   "relevance_score": null,
+   "authors": [
+    "Maria Grazia D\u2019Urso",
+    "Joel Aldrighettoni"
+   ],
+   "n_authors": 2,
+   "abstract": "This paper presents the contents of a geodatabase developed from the outcomes of survey operations carried out, in several stages since 2015, within the archaeological context of the Roman city of Aquinum, in southern Lazio. The proposed geodatabase integrates traditional topographic surveying techniques with total station, GPS and GNSS geodetic receivers with photogrammetric surveys and terrestrial laser-scanner (TLS) measurements, including the realization of HBIM (Historical Building Information Modeling) models, to investigate some specific historical-archaeological evidence useful to understand the Roman and medieval urban structure of the city. The processing and management of the metric and information datasets were entrusted to a GIS platform, implemented in the opensource Quantum-GIS software, to optimize the flowchart of the acquisition/processing process and to realize an intra-site Web-GIS useful for the visualization and dissemination of the results. The methodological-operational approach applied in the research activities highlights the fundamental contribution that the technological innovations of geomatics can provide for the construction of elaborate knowledge concerning cultural heritage, also becoming the base for the elaboration of more complex and detailed analyses. In this case, for example, the HBIM digital model of the Church of Santa Maria of Libera was also used for an in-depth study in the field of structural engineering, as input to model the maso"
+  },
+  {
+   "id": "https://openalex.org/W4400128476",
+   "doi": "10.3390/buildings14071961",
+   "title": "Data Management Framework for Highways: An Unreal Engine-Based Digital Sandbox Platform",
+   "publication_year": 2024,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 10,
+   "relevance_score": null,
+   "authors": [
+    "Huabing Lv",
+    "Guoqiang Wu",
+    "Jianping Song",
+    "Chunhua Mo",
+    "Guowen Yao",
+    "Xuanbo He"
+   ],
+   "n_authors": 6,
+   "abstract": "The problems of information isolation, inefficiency, and paper-based data archiving in traditional highway survey and design methods are investigated in this paper. A novel digital sandbox platform framework was developed to promote the efficiency of route design, model data integration, and information sharing. Under the presented framework, an integrated application method for both the Building Information Modeling (BIM) and Geographic Information System (GIS) technologies was designed by using Unreal Engine technology. Firstly, a digital base model was established by integrating multi-disciplinary BIM model data and GIS three-dimensional (3D) multi-scale scene model data. On this basis, using Unreal Engine technology for visualization development, a digital sandbox platform with the data visualization, traffic organization simulation analysis, 3D spatial analysis, component information query, and scene switching functions was developed, which satisfies the 3D visualization and digitalization needs in the current highway planning and design. Additionally, the Analytic Hierarchy Process (AHP) was employed to analyze the impact of digital base model on the development and application of platform modules, including five crucial factors: data accuracy, data representation, multi-source data fusion, data management capability, and scene semantic representation. Finally, the research results indicate that the proposed digital sandbox platform framework provides users with a platf"
+  },
+  {
+   "id": "https://openalex.org/W4388141403",
+   "doi": "10.4018/jcit.332879",
+   "title": "Research on Intelligent Platform Construction and Pavement Management of Expressway Operation and Maintenance Based on BIM+GIS Technology",
+   "publication_year": 2023,
+   "source": "Journal of Cases on Information Technology",
+   "type": "article",
+   "cited_by_count": 10,
+   "relevance_score": null,
+   "authors": [
+    "Ping Zhang",
+    "Changrong Lv",
+    "Qingying Li",
+    "Bori Cong",
+    "Jian Liu"
+   ],
+   "n_authors": 5,
+   "abstract": "With the advent of the information age, the traditional pavement management technology of operating expressways can no longer meet the higher requirements for the improvement of engineering quality in the information age. This paper proposes a method of integrated analysis based on BIM (building information modeling) and GIS (geographic information system), builds an intelligent platform for highway operation and maintenance, and solves the problem of data islands in highway maintenance and management."
+  },
+  {
+   "id": "https://openalex.org/W4386163267",
+   "doi": "10.36680/j.itcon.2023.022",
+   "title": "Road modelling for infrastructure management \u2013 the efficient use of geographic information systems",
+   "publication_year": 2023,
+   "source": "Journal of Information Technology in Construction",
+   "type": "article",
+   "cited_by_count": 10,
+   "relevance_score": null,
+   "authors": [
+    "Antonin Pavard",
+    "Anne Dony",
+    "Patr\u00edcia Bordin"
+   ],
+   "n_authors": 3,
+   "abstract": "The construction sector is undergoing a digital transition. Local authorities have adopted geographic information systems (GISs) to plan their territories and structure their services, such as transport. Simultaneously, building information modelling (BIM) has demonstrated its advantages during the design and construction phases of structures. An infrastructure project can rely on these two technologies to plan its implementation (GIS), to complete its design and construction (BIM), or to manage associated services, such as mobility (GIS). However, road maintenance, an important part of the infrastructure\u2019s life cycle, is not yet covered by these technologies. Road maintenance necessitates a comprehensive view of the infrastructure and its interactions with other real-world objects (e.g. vegetation, technical networks, or vehicles). Moreover, road managers are the local authorities that already use GISs. For these reasons, a GIS is suitable for fulfilling road maintenance requirements. This study presents a spatial framework (GIS) developed for road management. Applying it to a specific case study provides insights on the organisation of the spatial road framework which can be adapted to the infrastructure\u2019s environment management. The spatial dimension must allow for the representation of the road and its components, including pavements and their dependencies. The structural dimension must be detailed to describe the layers, their formulations, and their thicknesses. The con"
+  },
+  {
+   "id": "https://openalex.org/W4366989298",
+   "doi": "10.1049/smc2.12054",
+   "title": "Using digital technologies to plan and manage the pipelines network in city",
+   "publication_year": 2023,
+   "source": "IET Smart Cities",
+   "type": "article",
+   "cited_by_count": 10,
+   "relevance_score": null,
+   "authors": [
+    "Yufang Huang",
+    "Hongtao Peng",
+    "Luxin Wen",
+    "Tingyan Xing"
+   ],
+   "n_authors": 4,
+   "abstract": "Promoting the intelligent level of urban pipelines network planning and management is an important way to improve the rational development and utilisation of urban underground space and ensure the safe operation of urban infrastructure systems. The research on using the rapid and visual expression technology of 3D pipelines network model data, which has the functions of techno\u2010economic indexes calculation and automatic comparison of underground pipeline construction projects, effectively avoids possible errors in manual calculation and comparison and improves the efficiency and accuracy of the digital declaration process for project planning. In the 3D Geographic Information Systems (GIS) platform environment, this research help to develop many analysis and approval functions based on the data of the underground pipelines network model and the integrated pipes gallery Building Information Modelling, such as evaluating the compliance, feasibility and scientific of the planning scheme of the underground pipeline construction project, comparing the completion data with the data approved by the administrative departments of the project, evaluating the consistency of them and judging the compliance of the project completion data. The application results of some actual projects cases show that this research can improve the efficiency of planning declaration and approval analysis."
+  },
+  {
+   "id": "https://openalex.org/W3125360092",
+   "doi": "10.1007/978-3-030-64217-4_16",
+   "title": "GIS-BIM Data Integration Towards a Smart Campus",
+   "publication_year": 2021,
+   "source": "Sustainable civil infrastructures",
+   "type": "conference-paper",
+   "cited_by_count": 10,
+   "relevance_score": null,
+   "authors": [
+    "Yousif Ward",
+    "Salem Morsy",
+    "Adel El-Shazly"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3036729543",
+   "doi": "10.18280/ijsdp.150408",
+   "title": "Visualization of Foundation Evaluation for Urban Rail Transit Based on CGB Technology Integration",
+   "publication_year": 2020,
+   "source": "International Journal of Sustainable Development and Planning",
+   "type": "article",
+   "cited_by_count": 10,
+   "relevance_score": null,
+   "authors": [
+    "Lili Dong",
+    "Jin Wu",
+    "Wei Wang",
+    "Yu Zhou"
+   ],
+   "n_authors": 4,
+   "abstract": "In urban rail transit projects, the traditional method of foundation evaluation faces problems like vague description, unclear process, and fuzzy evaluation system. To solve these problems, this paper sets up a scientific evaluation system based on CGB technology integration and analytic hierarchy process (AHP). The CGB technology integration refers to the integrated application of computer-aided design (CAD), geographic information system (GIS), and building information modeling (BIM). Taking Qingxihe Station, Line 6 of Chongqing Rail Transit (CRT) as the object, the authors constructed a 3D geological model of the construction site, created a novel three-layer system through data analysis, and evaluated and compared the suitability of each layer as the supporting layer of the foundation. Finally, effective suggestions were put forward on the selection of the supporting layer. Our research successfully visualizes the whole process of foundation evaluation, and enhances the accuracy of the evaluation results. The research findings provide a good reference for the selection of the supporting layer of foundations in urban rail transit projects."
+  },
+  {
+   "id": "https://openalex.org/W4281683011",
+   "doi": "10.3390/engproc2022017003",
+   "title": "A Digital Twin for Monitoring the Construction of a Wind Farm",
+   "publication_year": 2022,
+   "source": "International Online Conference on Infrastructures (IOCI)",
+   "type": "conference-paper",
+   "cited_by_count": 9,
+   "relevance_score": null,
+   "authors": [
+    "Alejandra Ospina-Boh\u00f3rquez",
+    "Jorge L\u00f3pez-Rebollo",
+    "Pedro Mu\u00f1oz-S\u00e1nchez",
+    "Diego Gonz\u00e1lez\u2010Aguilera"
+   ],
+   "n_authors": 4,
+   "abstract": "first_page settings Order Article Reprints Font Type: Arial Georgia Verdana Font Size: Aa Aa Aa Line Spacing: \uf034 \uf034 \uf034 Column Width: \uf035 \uf035 \uf035 Background: Open AccessAbstract A Digital Twin for Monitoring the Construction of a Wind Farm \u2020 by Alejandra Ospina-Boh\u00f3rquez 1,*, Jorge L\u00f3pez-Rebollo 2, Pedro Mu\u00f1oz-S\u00e1nchez 2 and Diego Gonz\u00e1lez-Aguilera 2 1 TIDOP Research Group, University of Salamanca, Hornos Caleros, 50, 05003 \u00c1vila, Spain 2 Department of Cartographic and Land Engineering, Higher Polytechnic School of \u00c1vila, University of Salamanca, Hornos Caleros, 50, 05003 \u00c1vila, Spain * Author to whom correspondence should be addressed. \u2020 Presented at the 1st International Online Conference on Infrastructures, 7\u20139 June 2022; Available online: https://ioci2022.sciforum.net/. Eng. Proc. 2022, 17(1), 3; https://doi.org/10.3390/engproc2022017003 Published: 2 May 2022 (This article belongs to the Proceedings of The 1st International Online Conference on Infrastructures) Download Download PDF Download PDF with Cover Download XML Download Epub Versions Notes Digital twins (DTs) represent an emerging technology that can allow interaction between physical assets and their virtual replicas. These virtual replicas enclose the geometry derived from complex modelling procedures and the dynamism derived from artificial intelligence. Nowadays, DT applications are found in almost every engineering area, DTs serve different purposes, e.g., they test how new devices behave under diverse conditions or whi"
+  },
+  {
+   "id": "https://openalex.org/W4221028872",
+   "doi": "10.1088/1742-6596/2237/1/012022",
+   "title": "Research on intelligent pumped storage power station based on digital twins technology",
+   "publication_year": 2022,
+   "source": "Journal of Physics Conference Series",
+   "type": "conference-paper",
+   "cited_by_count": 9,
+   "relevance_score": null,
+   "authors": [
+    "Jun Jie Yan",
+    "Jianzhong Zhou",
+    "Yuxin Li",
+    "Xu Cao",
+    "Yong Sun",
+    "Baonan Liu"
+   ],
+   "n_authors": 6,
+   "abstract": "In order to build a new power system and achieve the goal of carbon peak and carbon neutralization, intelligent power grid and large-scale intermittent new energy has developed rapidly, as a consequence, the situation of power grid is increasingly complicated. Pumped storage power station, as a key technology of energy storage, which can effectively coordinate the peak-valley contradiction of power grid, is gradually transforming to the direction of intelligence and digitalization. In this context, the development characteristics and difficulties of intelligent pumped storage power stations are explored. Based on BIM and GIS fusion technology, the hierarchical framework of digital twins of pumped storage power station is proposed, the construction of the digital twins of pumped storage power station is elaborated simultaneously. Two application cases of digital twins in pumped storage power stations are introduced combined with operation and maintenance, which provides technical support for intelligent construction of pumped storage power stations with high engineering practical significance."
+  },
+  {
+   "id": "https://openalex.org/W2998517727",
+   "doi": "10.15320/iconarp.2019.87",
+   "title": "Measuring Intensity - Describing and Analysing the \"Urban Buzz\"",
+   "publication_year": 2019,
+   "source": "Iconarp International J of Architecture and Planning",
+   "type": "article",
+   "cited_by_count": 9,
+   "relevance_score": null,
+   "authors": [
+    "Tim Stonor"
+   ],
+   "n_authors": 1,
+   "abstract": "Density or Intensity?There is much debate about how to measure density \u2013 dwellings per hectare, bedrooms per hectare or people per hectare; including or excluding major highways, parks and open spaces; the permanent population only or the transient one too?While this gives urban planners something to disagree about it risks missing the point: great urban places are not created by density; they are created by intensity.And the difference matters. When people describe the buzz of a marketplace they do not say, \u201cWow - it was so dense!\u201d. They are much more likely to say how intense it was. Density is a word used by planners. Intensity is a word that real people use, and perhaps because it describes the outcomes that people experience rather than the inputs that have gone in to creating them. It is the outcomes that are ultimately more important. But planning professionals like density. Even though density fails to capture the essence of what it feels like to be somewhere, the term appeals to professional instincts. It describes the raw ingredients that planners have to handle and, once you choose which version of the formula you are going to use, density is easy to measure. It involves a simple calculation of straightforward urban quantities such as the number of people, the number of houses or the number of bedrooms, all divided by the geographic area over which those ingredients occur. Easy.In contrast, intensity seems more difficult to pin down, not least because it appears to"
+  },
+  {
+   "id": "https://openalex.org/W4416291938",
+   "doi": "10.1038/s41598-025-23943-7",
+   "title": "Urban traffic digital twin system development in unity",
+   "publication_year": 2025,
+   "source": "Scientific Reports",
+   "type": "article",
+   "cited_by_count": 8,
+   "relevance_score": null,
+   "authors": [
+    "Li Gong",
+    "Menglong Ding"
+   ],
+   "n_authors": 2,
+   "abstract": "This paper addresses three critical challenges in urban traffic digital twin systems: (1) achieving high-fidelity multi-source data fusion, (2) overcoming computational bottlenecks in large-scale real-time traffic simulation, and (3) enabling intuitive dynamic interaction for enhanced decision-making. To this end, we propose and implement a novel Unity-based digital twin system with a three-layer architecture. This architecture comprises: (1) a System Construction Layer integrating Google Maps, BlenderGIS, and CityEngine via Building Information Modeling (BIM) and Geographic Information Systems (GIS) fusion to generate sub-meter accuracy 3D models (Root Mean Square Error (RMSE) \u2264 0.15m) with parametric Computer Generated Architecture (CGA) road editing; (2) a Data Acquisition Layer synchronizing Amap Application Programming Interface (API) traffic flow and OpenWeatherMap weather data to drive real-time environmental responses (e.g., rain particles = API intensity \u00d7 80); and (3) a Concept Generation Layer implementing an optimized 3-Degrees of Freedom (3-DoF) vehicle dynamics model with linear tire stiffness. Key innovations include Graphics Processing Unit (GPU)-accelerated collision detection (Unity Physics), an adaptive Level of Detail (LOD) strategy for 1,500-vehicle concurrent simulation at 60 Frames Per Second (FPS), and closed-loop decision feedback. Validated on an i7-13700H/RTX 4060 platform, the system reduces Central Processing Unit (CPU)/GPU utilization by 47%/48% "
+  },
+  {
+   "id": "https://openalex.org/W4414317399",
+   "doi": "10.5194/isprs-archives-xlviii-4-w15-2025-63-2025",
+   "title": "An Evaluation of IFC-CityGML Unidirectional Conversion for Road and Transportation Models",
+   "publication_year": 2025,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 8,
+   "relevance_score": null,
+   "authors": [
+    "Mohamed Sobih Aly El Mekawy",
+    "Hytham Mahmoud Mohammed Ismail"
+   ],
+   "n_authors": 2,
+   "abstract": "The integration of Building Information Modeling (BIM) and Geographic Information Systems (GIS) is increasingly critical for infrastructure planning, asset management, and smart city applications. While prior efforts have largely focused on buildings, the need for semantically rich, interoperable models for roads and transportation networks is becoming more prominent. This paper investigates the potential for unidirectional conversion between IFC 4.3-based road models and the Transportation model of CityGML 3.0. Through manual schema matching, the study classifies correspondences into full, partial, or no match categories and assesses the potential for semantic and geometric translation between the two domains. Findings reveal that while basic spatial and geometric entities can be mapped with partial fidelity, significant semantic details such as alignment geometry, layered road structures, and road furniture remain unmapped. The paper concludes by recommending the development of a unified road ontology or mediation layer to support lossless integration. These insights contribute to ongoing efforts in GeoBIM interoperability, such as those led by buildingSMART International and the OGC's CityGML working groups."
+  },
+  {
+   "id": "https://openalex.org/W4413061857",
+   "doi": "10.3390/buildings15142530",
+   "title": "Efficient Swell Risk Prediction for Building Design Using a Domain-Guided Machine Learning Model",
+   "publication_year": 2025,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 8,
+   "relevance_score": null,
+   "authors": [
+    "Hani S. Alharbi"
+   ],
+   "n_authors": 1,
+   "abstract": "Expansive clays damage the foundations, slabs, and utilities of low- and mid-rise buildings, threatening daily operations and incurring billions of dollars in costs globally. This study pioneers a domain-informed machine learning framework, coupled with a collinearity-aware feature selection strategy, to predict soil swell potential solely from routine index properties. Following hard-limit filtering and Unified Soil Classification System (USCS) screening, 291 valid samples were extracted from a public dataset of 395 cases. A random forest benchmark model was developed using five correlated features, and a multicollinearity analysis, as indicated by the variance inflation factor, revealed exact linear dependence among the Atterberg limits. A parsimonious two-variable model, based solely on plasticity index (PI) and clay fraction (C), was retained. On an 80:20 stratified hold-out set, this simplified model reduced root mean square error (RMSE) from 9.0% to 6.8% and maximum residuals from 42% to 16%. Bootstrap analysis confirmed a median RMSE of 7.5% with stable 95% prediction intervals. Shapley Additive Explanations (SHAP) analysis revealed that PI accounted for approximately 75% of the model\u2019s influence, highlighting the critical swell surge beyond PI \u2248 55%. This work introduces a rule-based cleaning pipeline and collinearity-aware feature selection to derive a robust, two-variable model balancing accuracy and interpretability, a lightweight, interpretable tool for foundation"
+  },
+  {
+   "id": "https://openalex.org/W4367394330",
+   "doi": "10.1049/smc2.12056",
+   "title": "A research on data integration and application technology of urban comprehensive pipe gallery based on three\u2010dimensional geographic information system platform",
+   "publication_year": 2023,
+   "source": "IET Smart Cities",
+   "type": "article",
+   "cited_by_count": 8,
+   "relevance_score": null,
+   "authors": [
+    "Yufang Huang",
+    "Hongtao Peng",
+    "Xiaoxiao Fang",
+    "Tingyan Xing"
+   ],
+   "n_authors": 4,
+   "abstract": "Three\u2010dimensional Geographic Information System (3D GIS) technology is often used in geology, mining, hydrology and other fields. It is also used in intelligent management of urban comprehensive pipe gallery projects, because the real environment with the sky, ground, and underground can be intuitively simulated in the virtual reality environment by 3D GIS platform. Through the research on data integration and application technology of urban comprehensive pipe gallery, the 3D model of comprehensive pipe gallery project data can be created based on Building Information Modelling and GIS technologies, and a comprehensive underground pipelines network management information system has been developed to realise the integration of various data, including 3D data of comprehensive pipe gallery model and underground pipe network model, 2D or 3D GIS data of the ground and underground etc. On this basis, the functions of intelligent planning and approval management, the safety analysis and disaster prevention planning and decision\u2010making of urban comprehensive pipe gallery projects can be further realised. The research results have been applied to the planning and construction process management of the comprehensive pipe gallery project in the sub\u2010centre of Beijing."
+  },
+  {
+   "id": "https://openalex.org/W2949879980",
+   "doi": null,
+   "title": "Asset information management using linked data for the life-cycle of roads",
+   "publication_year": 2019,
+   "source": "TNO Repository",
+   "type": "conference-paper",
+   "cited_by_count": 8,
+   "relevance_score": null,
+   "authors": [
+    "Bart Luiten",
+    "Michel B\u00f6hms",
+    "Daan Alsem",
+    "Aidan G. O\u2019Keeffe"
+   ],
+   "n_authors": 4,
+   "abstract": "From September 2016 to August 2018 a CEDR (Conference of European Directors of Roads) research has been conducted by the consortium INTERLINK into asset information management for European Roads life-cycle management using Linked Data. This research aims to improve interoperability between the European National Road Authorities (NRAs) and their stakeholders, mainly to explore the procurement of road asset information by NRAs for better operations, asset management and project management, to investigate suitable data structures for asset information, including BIM and GIS, to develop common principles for a European Road object type library (OTL) and to design and test a basic European Road OTL connected to open BIM/GIS standards. The CEDR INTERLINK project will design a managed European Road OTL as the basis of a common language to be used for developing high quality national Road OTLs for exchanging and sharing road asset data. This European Road OTL is supported by three pillars to optimize the success of subsequent implementation: 1. a quality open available standardized Technical Specification, 2. a suitable and sustainable Standardization Body, with a plan for development beyond this project and 3. acceptance in practice by the industry through engagement and dissemination. First the business and data needs have been investigated by INTERLINK through a literature review, interviews with stakeholders (NRAs, contractors, consultants, suppliers, academics, software develope"
+  },
+  {
+   "id": "https://openalex.org/W2890802378",
+   "doi": "10.5194/isprs-annals-iv-4-133-2018",
+   "title": "TOWARDS AN INTELLIGENT PLATFORM FOR BIG 3D GEOSPATIAL DATA MANAGEMENT",
+   "publication_year": 2018,
+   "source": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 8,
+   "relevance_score": null,
+   "authors": [
+    "N. Mazroob Semnani",
+    "Paul Vincent Kuper",
+    "Martin Breunig",
+    "Mulhim Al-Doori"
+   ],
+   "n_authors": 4,
+   "abstract": "The use of intelligent technologies within 3D geospatial data analysis and management will decidedly open the door towards efficiency, cost transparency, and on-time schedules in planning processes. Furthermore, the mission of smart cities as a future option of urban development can lead to an environment that provides high-quality life along stable structures. However, neither geospatial information systems nor building information modelling systems seem to be well prepared for this new development. After a review of current approaches and a discussion of their limitations we present our approach on the way to an intelligent platform for the management and analysis of big 3D geospatial data focusing on infrastructure projects such as metro or railway tracks planning. three challenges are presented focusing on the management of big geospatial data with existing geo-database management systems, the integration of heterogeneous data, and the 3D visualization for database query formulation and query results. The approach for the development of a platform for big geospatial data analysis is discussed. Finally, we give an outlook on our future research supporting intelligent 3D city applications in the United Arab Emirates."
+  }
+ ]
+}

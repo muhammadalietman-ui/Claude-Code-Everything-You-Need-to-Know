@@ -1,0 +1,1813 @@
+{
+ "query_id": "C4-CIT",
+ "run_date": "2026-11-23",
+ "query_url": "https://api.openalex.org/works?filter=title_and_abstract.search%3A%28RFID+OR+BLE+OR+%22bluetooth+low+energy%22+OR+UWB+OR+%22ultra-wideband%22+OR+GNSS+OR+GPS+OR+telematics+OR+IoT+OR+%22internet+of+things%22+OR+wearable+OR+%22computer+vision%22+OR+%22activity+recognition%22%29+AND+%28worker+OR+workers+OR+labor+OR+labour+OR+crew+OR+equipment+OR+machinery+OR+%22heavy+equipment%22+OR+fleet%29+AND+%28construction+OR+%22construction+site%22+OR+%22construction+project%22%29+AND+%28tracking+OR+localization+OR+localisation+OR+monitoring+OR+productivity+OR+%22idle+time%22%29%2Cfrom_publication_date%3A2010-01-01%2Ctype%3Aarticle%7Creview%7Cbook-chapter%7Cconference-paper%2Clanguage%3Aen&sort=cited_by_count%3Adesc&per-page=100&select=id%2Cdoi%2Ctitle%2Cdisplay_name%2Cpublication_year%2Cprimary_location%2Ctype%2Ccited_by_count%2Cauthorships%2Cabstract_inverted_index%2Crelevance_score",
+ "hits_total": 3223,
+ "retrieved": 100,
+ "records": [
+  {
+   "id": "https://openalex.org/W3203241482",
+   "doi": "10.1016/j.jobe.2021.103299",
+   "title": "Artificial intelligence in the construction industry: A review of present status, opportunities and future challenges",
+   "publication_year": 2021,
+   "source": "Journal of Building Engineering",
+   "type": "article",
+   "cited_by_count": 1573,
+   "relevance_score": null,
+   "authors": [
+    "Sofiat Abioye",
+    "Lukumon O. Oyedele",
+    "Lukman Akanbi",
+    "Anuoluwapo Ajayi",
+    "Juan Manuel D\u00e1vila Delgado",
+    "Muhammad Bilal"
+   ],
+   "n_authors": 8,
+   "abstract": "The growth of the construction industry is severely limited by the myriad complex challenges it faces such as cost and time overruns, health and safety, productivity and labour shortages. Also, construction industry is one the least digitized industries in the world, which has made it difficult for it to tackle the problems it currently faces. An advanced digital technology, Artificial Intelligence (AI), is currently revolutionising industries such as manufacturing, retail, and telecommunications. The subfields of AI such as machine learning, knowledge-based systems, computer vision, robotics and optimisation have successfully been applied in other industries to achieve increased profitability, efficiency, safety and security. While acknowledging the benefits of AI applications, numerous challenges which are relevant to AI still exist in the construction industry. This study aims to unravel AI applications, examine AI techniques being used and identify opportunites and challenges for AI applications in the construction industry. A critical review of available literature on AI applications in the construction industry such as activity monitoring, risk management, resource and waste optimisation was conducted. Furthermore, the opportunities and challenges of AI applications in construction were identified and presented in this study. This study provides insights into key AI applications as it applies to construction-specific challenges, as well as the pathway to realise the acr"
+  },
+  {
+   "id": "https://openalex.org/W2924663053",
+   "doi": "10.1002/etc.4371",
+   "title": "Rethinking microplastics as a diverse contaminant suite",
+   "publication_year": 2019,
+   "source": "Environmental Toxicology and Chemistry",
+   "type": "article",
+   "cited_by_count": 1483,
+   "relevance_score": null,
+   "authors": [
+    "Chelsea M. Rochman",
+    "Cole B. Brookson",
+    "Jacqueline Bikker",
+    "Natasha Djuric",
+    "Arielle Earn",
+    "Kennedy Bucci"
+   ],
+   "n_authors": 30,
+   "abstract": "Microplastics are not microplastics are not microplastics, just like pesticides are not pesticides are not pesticides. \"Microplastics,\" like other classes of chemical contaminants, is a catch-all term for a variety of unique chemical compounds. Yet, many scientific publications, policy reports, and media articles present microplastics as if they are simply a single compound or type of material. Such simple communications have consequences, leading to simplified studies and protocols that may be inadequate to inform us of the sources and fate of microplastics, as well as their biological and ecological implications. For example, studying the fate and effects of one plastic type with a specific shape and size does not tell us the fate and effects of microplastics in general. Moreover, not recognizing the diversity of materials in a microplastics sample may overlook the complexity necessary to inform robust quality analysis and quality control (QA/QC) needed in sampling and analytical measurement techniques. For instance, some methods are better at recovering specific sizes, shapes, or types of microplastics. Simplifying microplastics as a single compound has also led to confusion around the need for new policies and strategies to reduce future emissions of microplastics. For example, some policymakers and scientists are under the impression that banning microbeads from rinse-off personal care products has eliminated future releases of microplastics in general to the environment"
+  },
+  {
+   "id": "https://openalex.org/W1966941463",
+   "doi": "10.1016/j.aei.2015.02.001",
+   "title": "Computer vision techniques for construction safety and health monitoring",
+   "publication_year": 2015,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 650,
+   "relevance_score": null,
+   "authors": [
+    "JoonOh Seo",
+    "SangUk Han",
+    "Sang Hyun Lee",
+    "Hyoungkwan Kim"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3127641753",
+   "doi": "10.3390/ijerph18041559",
+   "title": "Early Impacts of the COVID-19 Pandemic on the United States Construction Industry",
+   "publication_year": 2021,
+   "source": "International Journal of Environmental Research and Public Health",
+   "type": "article",
+   "cited_by_count": 496,
+   "relevance_score": null,
+   "authors": [
+    "Abdullah F. Alsharef",
+    "Siddharth Banerjee",
+    "S M Jamil Uddin",
+    "Alex Albert",
+    "Edward J. Jaselskis"
+   ],
+   "n_authors": 5,
+   "abstract": "The COVID-19 pandemic has been the largest global health crisis in decades. Apart from the unprecedented number of deaths and hospitalizations, the pandemic has resulted in economic slowdowns, widespread business disruptions, and significant hardships. This study focused on investigating the early impacts of the COVID-19 pandemic on the U.S. construction industry since the declaration of the national emergency on 13 March 2020. The study objectives were achieved through 34 telephone interviews with project managers, engineers, designers, and superintendents that represented different states and distinct industry sectors in the United States (U.S.). The interviewees offered information on their experience with the pandemic, including the general and adverse effects experienced, new opportunities created, and risk management efforts being undertaken. The reported adverse effects included significant delays on projects, inability to secure materials on time, reduction in productivity rates, material price escalations, and others. The new opportunities that were created included projects involving the fast-track construction of medical facilities, construction of residential buildings, transportation-related work, and opportunities to recruit skilled workers. The risk management measures that were widely adopted included measures to enhance safety and reduce other project risks. The safety measures adopted included requiring employees to wear cloth face masks, adoption of social "
+  },
+  {
+   "id": "https://openalex.org/W2601591590",
+   "doi": "10.1016/j.autcon.2017.03.003",
+   "title": "Monitoring fatigue in construction workers using physiological measurements",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 473,
+   "relevance_score": null,
+   "authors": [
+    "Ashrant Aryal",
+    "Ali Ghahramani",
+    "Bur\u00e7in Becerik-Gerber"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2990784565",
+   "doi": "10.1016/j.autcon.2019.103012",
+   "title": "On-demand monitoring of construction projects through a game-like hybrid application of BIM and machine learning",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 415,
+   "relevance_score": null,
+   "authors": [
+    "Farzad Pour Rahimian",
+    "Saleh Seyedzadeh",
+    "Stephen Oliver",
+    "Sergio Rodr\u00edguez",
+    "Nashwan N. Dawood"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2803862859",
+   "doi": "10.1016/j.aei.2018.05.003",
+   "title": "Automated detection of workers and heavy equipment on construction sites: A convolutional neural network approach",
+   "publication_year": 2018,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 414,
+   "relevance_score": null,
+   "authors": [
+    "Weili Fang",
+    "Lieyun Ding",
+    "Botao Zhong",
+    "Peter E.D. Love",
+    "Hanbin Luo"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2610909953",
+   "doi": "10.1016/j.trc.2017.03.016",
+   "title": "Free-floating bike sharing: Solving real-life large-scale static rebalancing problems",
+   "publication_year": 2017,
+   "source": "Transportation Research Part C Emerging Technologies",
+   "type": "article",
+   "cited_by_count": 411,
+   "relevance_score": null,
+   "authors": [
+    "Aritra Pal",
+    "Yu Zhang"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2096510364",
+   "doi": "10.1111/j.1365-2133.2012.10955.x",
+   "title": "British Association of Dermatologists\u2019 guidelines for the management of alopecia areata 2012",
+   "publication_year": 2012,
+   "source": "British Journal of Dermatology",
+   "type": "article",
+   "cited_by_count": 411,
+   "relevance_score": null,
+   "authors": [
+    "Andrew Guy Messenger",
+    "Jaqueline McKillop",
+    "Paul Farrant",
+    "Andrew J. G. McDonagh",
+    "Michael J Sladden",
+    "J.R. Hughes"
+   ],
+   "n_authors": 18,
+   "abstract": "The guidelines have been revised and updated in accordance with a predetermined scope, based on that used in the 2003 guidelines. Recommendations in these guidelines supersede those in the 2003 guidelines. The objectives of the guidelines are to provide up\u2010to\u2010date recommendations for the management of alopecia areata in adults and children and a summary of the evidence base. This guidance has been written by dermatologists and a patient representative. The draft guideline was made available for consultation and review by the British Association of Dermatologists\u2019 (BAD) membership, the Primary Care Dermatological Society (PCDS), the British Dermatological Nursing Group (BDNG) and the board of Alopecia UK, a patient support organization. The final document was peer\u2010reviewed by the Clinical Standards Unit of the BAD (made up of the Therapy and Guidelines subcommittee) prior to publication. These guidelines have been developed using the BAD\u2019s recommendations1 and also with reference to the AGREE (Appraisal of Guidelines Research and Evaluation) instrument.2 PubMed, MEDLINE and EMBASE databases were searched from January 2002 to January 2012 and full relevant papers in the English language obtained. Additional, targeted searches were also carried out across these three databases, as well as a search on the Allied and Complementary Medicine Database (AMED); details of the search strategy are available as an Appendix online (see Supporting Information). The recommendations made are "
+  },
+  {
+   "id": "https://openalex.org/W2997179017",
+   "doi": "10.1016/j.mser.2019.100523",
+   "title": "Reviews of wearable healthcare systems: Materials, devices and system integration",
+   "publication_year": 2019,
+   "source": "Materials Science and Engineering R Reports",
+   "type": "article",
+   "cited_by_count": 407,
+   "relevance_score": null,
+   "authors": [
+    "Zheng Lou",
+    "Lili Wang",
+    "Kai Jiang",
+    "Zhongming Wei",
+    "Guozhen Shen"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2770866044",
+   "doi": "10.1109/icra.2018.8461224",
+   "title": "Robust and Precise Vehicle Localization Based on Multi-Sensor Fusion in Diverse City Scenes",
+   "publication_year": 2018,
+   "source": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings",
+   "type": "conference-paper",
+   "cited_by_count": 402,
+   "relevance_score": null,
+   "authors": [
+    "Guowei Wan",
+    "Xiaolong Yang",
+    "Renlan Cai",
+    "Hao Li",
+    "Yao Zhou",
+    "Hao Wang"
+   ],
+   "n_authors": 7,
+   "abstract": "We present a robust and precise localization system that achieves centimeter-level localization accuracy in disparate city scenes. Our system adaptively uses information from complementary sensors such as GNSS, LiDAR, and IMU to achieve high localization accuracy and resilience in challenging scenes, such as urban downtown, highways, and tunnels. Rather than relying only on LiDAR intensity or 3D geometry, we make innovative use of LiDAR intensity and altitude cues to significantly improve localization system accuracy and robustness. Our GNSS RTK module utilizes the help of the multi-sensor fusion framework and achieves a better ambiguity resolution success rate. An error-state Kalman filter is applied to fuse the localization measurements from different sources with novel uncertainty estimation. We validate, in detail, the effectiveness of our approaches, achieving 5-10cm RMS accuracy and outperforming previous state-of-the-art systems. Importantly, our system, while deployed in a large autonomous driving fleet, made our vehicles fully autonomous in crowded city streets despite road construction that occurred from time to time. A dataset including more than 60 km real traffic driving in various urban roads is used to comprehensively test our system."
+  },
+  {
+   "id": "https://openalex.org/W2807107191",
+   "doi": "10.1016/j.autcon.2018.05.027",
+   "title": "EEG-based workers' stress recognition at construction sites",
+   "publication_year": 2018,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 401,
+   "relevance_score": null,
+   "authors": [
+    "Houtan Jebelli",
+    "Sungjoo Hwang",
+    "Sang Hyun Lee"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2954350473",
+   "doi": "10.1016/j.aei.2019.100944",
+   "title": "Times-series data augmentation and deep learning for construction equipment activity recognition",
+   "publication_year": 2019,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 379,
+   "relevance_score": null,
+   "authors": [
+    "Khandakar M. Rashid",
+    "Joseph Louis"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2511538593",
+   "doi": "10.1061/(asce)co.1943-7862.0001223",
+   "title": "Framework of Automated Construction-Safety Monitoring Using Cloud-Enabled BIM and BLE Mobile Tracking Sensors",
+   "publication_year": 2016,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 360,
+   "relevance_score": null,
+   "authors": [
+    "JeeWoong Park",
+    "Kyungki Kim",
+    "Yong K. Cho"
+   ],
+   "n_authors": 3,
+   "abstract": "Construction sites need to be monitored continuously to detect unsafe conditions and protect workers from potential injuries and fatal accidents. In current practices, construction-safety monitoring relies heavily on manual observation, which is labor-intensive and error-prone. Due to the complex environment of construction sites, it is extremely challenging for safety inspectors to continuously monitor and manually identify all incidents that may expose workers to safety risks. There exist many research efforts applying sensing technologies to construction sites to reduce the manual efforts associated with construction-safety monitoring. However, several bottlenecks are identified in applying these technologies to the onsite safety monitoring process, including (1) recognition and registration of potential hazards, (2) real-time detection of unsafe incidents, and (3) reporting and sharing of the detected incidents with relevant participants in a timely manner. The objective of this study was to create and evaluate a low-cost automated safety monitoring system to assist in the construction-safety monitoring process. This paper presents a framework for this safety monitoring system as a cloud-based real time on-site application. The system integrates Bluetooth low-energy (BLE)-based location detection technology, building information model (BIM)-based hazard identification, and a cloud-based communication platform. Potential unsafe areas are defined automatically or manually i"
+  },
+  {
+   "id": "https://openalex.org/W2512256428",
+   "doi": "10.1016/j.aei.2015.01.011",
+   "title": "Construction performance monitoring via still images, time-lapse photos, and video streams: Now, tomorrow, and the future",
+   "publication_year": 2015,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 354,
+   "relevance_score": null,
+   "authors": [
+    "Jun Yang",
+    "Man-Woo Park",
+    "Patricio Antonio Vela",
+    "Mani Golparvar\u2010Fard"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2969950285",
+   "doi": "10.1061/(asce)co.1943-7862.0001708",
+   "title": "Wearable Sensing Technology Applications in Construction Safety and Health",
+   "publication_year": 2019,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 346,
+   "relevance_score": null,
+   "authors": [
+    "Changbum R. Ahn",
+    "Sang Hyun Lee",
+    "Cenfei Sun",
+    "Houtan Jebelli",
+    "Kanghyeok Yang",
+    "Byungjoo Choi"
+   ],
+   "n_authors": 6,
+   "abstract": "The advent of wearable sensing technologies has produced unprecedented opportunities for the near real-time collection and analysis of workers\u2019 safety and health data. To encourage the proactive safety management these opportunities present, extensive research efforts have explored using various wearable sensing technologies\u2014including motion sensors (e.g., inertial measurement units) and physiological sensors (e.g., heart-rate sensors, electrodermal-activity sensors, skin-temperature sensors, eye trackers, and brainwave monitors)\u2014to detect potential safety hazards and to continuously monitor a worker\u2019s health on a construction jobsite. However, these efforts tend to be piecemeal or fragmented, which presents a challenge for both the practitioners and the researchers who wish to fully understand the current developments in this area. In this context, this paper provides a critical review of the state of the art of wearable applications in construction safety and health. The review first identifies five general applications within the literature: preventing musculoskeletal disorders, preventing falls, assessing physical workload and fatigue, evaluating hazard-recognition abilities, and monitoring workers\u2019 mental status. Second, this study identifies the challenges impeding further development and deployment of wearable applications, specifically, signal artifacts and noise in wearable-sensors\u2019 field measurements, variable standards for personal safety and health risks in constr"
+  },
+  {
+   "id": "https://openalex.org/W2751079608",
+   "doi": "10.1016/j.autcon.2017.08.005",
+   "title": "What drives construction workers' acceptance of wearable technologies in the workplace?: Indoor localization and wearable health devices for occupational safety and health",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 345,
+   "relevance_score": null,
+   "authors": [
+    "Byungjoo Choi",
+    "Sungjoo Hwang",
+    "Sang Hyun Lee"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2783015502",
+   "doi": "10.1016/j.autcon.2017.12.033",
+   "title": "An IoT-based autonomous system for workers' safety in construction sites with real-time alarming, monitoring, and positioning strategies",
+   "publication_year": 2018,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 341,
+   "relevance_score": null,
+   "authors": [
+    "Riad Kanan",
+    "Obaidallah Elhassan",
+    "Rofaida Bensalem"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2082459479",
+   "doi": "10.1016/j.aei.2013.09.001",
+   "title": "Vision-based action recognition of earthmoving equipment using spatio-temporal features and support vector machine classifiers",
+   "publication_year": 2013,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 316,
+   "relevance_score": null,
+   "authors": [
+    "Mani Golparvar\u2010Fard",
+    "Arsalan Heydarian",
+    "Juan Carlos Niebles"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2036695573",
+   "doi": "10.1016/j.autcon.2012.09.004",
+   "title": "Automatic spatio-temporal analysis of construction site equipment operations using GPS data",
+   "publication_year": 2012,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 315,
+   "relevance_score": null,
+   "authors": [
+    "Nipesh Pradhananga",
+    "Jochen Teizer"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2088761457",
+   "doi": "10.1016/j.autcon.2011.05.001",
+   "title": "Performance evaluation of ultra wideband technology for construction resource location tracking in harsh environments",
+   "publication_year": 2011,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 300,
+   "relevance_score": null,
+   "authors": [
+    "T. Cheng",
+    "Manu Venugopal",
+    "Jochen Teizer",
+    "Patricio Antonio Vela"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2593148160",
+   "doi": "10.1016/j.apergo.2017.02.007",
+   "title": "Ergonomic analysis of construction worker's body postures using wearable mobile sensors",
+   "publication_year": 2017,
+   "source": "Applied Ergonomics",
+   "type": "article",
+   "cited_by_count": 282,
+   "relevance_score": null,
+   "authors": [
+    "Nipun D. Nath",
+    "Reza Akhavian",
+    "Amir H. Behzadan"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2884374137",
+   "doi": "10.1016/j.isprsjprs.2018.07.010",
+   "title": "Tunnel inspection using photogrammetric techniques and image processing: A review",
+   "publication_year": 2018,
+   "source": "ISPRS Journal of Photogrammetry and Remote Sensing",
+   "type": "article",
+   "cited_by_count": 269,
+   "relevance_score": null,
+   "authors": [
+    "Leanne Attard",
+    "Carl James Debono",
+    "Gianluca Valentino",
+    "Mario Di Castro"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2076796478",
+   "doi": "10.1016/j.autcon.2012.12.002",
+   "title": "Automated 2D detection of construction equipment and workers from site video streams using histograms of oriented gradients and colors",
+   "publication_year": 2013,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 265,
+   "relevance_score": null,
+   "authors": [
+    "Milad Memarzadeh",
+    "Mani Golparvar\u2010Fard",
+    "Juan Carlos Niebles"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3015666110",
+   "doi": "10.1061/(asce)co.1943-7862.0001843",
+   "title": "Automated Methods for Activity Recognition of Construction Workers and Equipment: State-of-the-Art Review",
+   "publication_year": 2020,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 255,
+   "relevance_score": null,
+   "authors": [
+    "Behnam Sherafat",
+    "Changbum R. Ahn",
+    "Reza Akhavian",
+    "Amir H. Behzadan",
+    "Mani Golparvar\u2010Fard",
+    "Hyunsoo Kim"
+   ],
+   "n_authors": 9,
+   "abstract": "Equipment and workers are two important resources in the construction industry. Performance monitoring of these resources would help project managers improve the productivity rates of construction jobsites and discover potential performance issues. A typical construction workface monitoring system consists of four major levels: location tracking, activity recognition, activity tracking, and performance monitoring. These levels are employed to evaluate work sequences over time and also assess the workers\u2019 and equipment\u2019s well-being and abnormal edge cases. Results of an automated performance monitoring system could be used to employ preventive measures to minimize operating/repair costs and downtimes. The authors of this paper have studied the feasibility of implementing a wide range of technologies and computational techniques for automated activity recognition and tracking of construction equipment and workers. This paper provides a comprehensive review of these methods and techniques as well as describes their advantages, practical value, and limitations. Additionally, a multifaceted comparison between these methods is presented, and potential knowledge gaps and future research directions are discussed."
+  },
+  {
+   "id": "https://openalex.org/W2208933689",
+   "doi": "10.1016/j.apergo.2015.11.020",
+   "title": "Musculoskeletal disorders in construction: A review and a novel system for activity tracking with body area network",
+   "publication_year": 2015,
+   "source": "Applied Ergonomics",
+   "type": "review",
+   "cited_by_count": 255,
+   "relevance_score": null,
+   "authors": [
+    "Enrique Valero",
+    "Aparajithan Sivanathan",
+    "Fr\u00e9d\u00e9ric Bosch\u00e9",
+    "Mohamed Abdel\u2010Wahab"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2800154372",
+   "doi": "10.1061/(asce)co.1943-7862.0001506",
+   "title": "Measuring Workers\u2019 Emotional State during Construction Tasks Using Wearable EEG",
+   "publication_year": 2018,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 253,
+   "relevance_score": null,
+   "authors": [
+    "Sungjoo Hwang",
+    "Houtan Jebelli",
+    "Byungjoo Choi",
+    "Minji Choi",
+    "Sang Hyun Lee"
+   ],
+   "n_authors": 5,
+   "abstract": "Construction workers\u2019 emotional states (e.g., pleasure, displeasure, excitement, and relaxation) are known as a critical factor that affect their performance (e.g., safety, health, and productivity). To prevent adverse impacts on work performance, measuring emotional states should take precedence to better understand how workers\u2019 emotions vary while they are working. Among many methods available to measure emotional states, electroencephalogram (EEG) has a great potential for quantitative measurement by overcoming a possible bias from the survey-based subjective assessment of emotions. Although EEG-based emotion measurement has been tested and applied only in a laboratory environment, recent advancements in wearable EEG sensors, which are portable, wireless, and affordable, open a new door toward nonintrusive field emotion measurement. This study thus investigates the feasibility of measuring workers\u2019 emotions in the field using a wearable EEG sensor. To do this, a bipolar dimensional emotion model, which consists of valence (from displeasure to pleasure) and arousal (from relaxation to excitement) dimensions, was applied to quantify workers\u2019 emotional states. Then, workers\u2019 valence and arousal levels were measured using a wearable EEG sensor during their ongoing tasks. The validity of the EEG-based emotion measurement was examined through a comparison with cortisol levels obtained from workers\u2019 saliva samples, which has been accepted as a reliable physical measure of emotion"
+  },
+  {
+   "id": "https://openalex.org/W2884022949",
+   "doi": "10.1016/j.autcon.2018.06.007",
+   "title": "Convolutional neural networks: Computer vision-based workforce activity assessment in construction",
+   "publication_year": 2018,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 247,
+   "relevance_score": null,
+   "authors": [
+    "Hanbin Luo",
+    "Chaohua Xiong",
+    "Weili Fang",
+    "Peter E.D. Love",
+    "Bowen Zhang",
+    "Xi Ouyang"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2161879536",
+   "doi": "10.1016/j.aei.2011.01.003",
+   "title": "Automated vision tracking of project related entities",
+   "publication_year": 2011,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 246,
+   "relevance_score": null,
+   "authors": [
+    "Ioannis K. Brilakis",
+    "Man-Woo Park",
+    "Gauri M. Jog"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2921144593",
+   "doi": "10.1016/j.autcon.2019.02.020",
+   "title": "An automatic and non-invasive physical fatigue assessment method for construction workers",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 244,
+   "relevance_score": null,
+   "authors": [
+    "Yantao Yu",
+    "Heng Li",
+    "Xincong Yang",
+    "Liulin Kong",
+    "Xiaochun Luo",
+    "Arnold Yu Lok Wong"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2742690770",
+   "doi": "10.1016/j.autcon.2017.06.014",
+   "title": "Image-based construction hazard avoidance system using augmented reality in wearable device",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 240,
+   "relevance_score": null,
+   "authors": [
+    "Kinam Kim",
+    "Hongjo Kim",
+    "Hyoungkwan Kim"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2804284796",
+   "doi": "10.1061/(asce)co.1943-7862.0001516",
+   "title": "Examining the Relationship between Construction Workers\u2019 Visual Attention and Situation Awareness under Fall and Tripping Hazard Conditions: Using Mobile Eye Tracking",
+   "publication_year": 2018,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 239,
+   "relevance_score": null,
+   "authors": [
+    "Sogand Hasanzadeh",
+    "Behzad Esmaeili",
+    "Michael D. Dodd"
+   ],
+   "n_authors": 3,
+   "abstract": "The risk of major occupational accidents involving tripping hazards is commonly underestimated with a large number of studies having been conducted to better understand variables that affect situation awareness: the ability to detect, perceive, and comprehend constantly evolving surroundings. An important property that affects situation awareness is the limited capacity of the attentional system. To maintain situation awareness while exposed to tripping hazards, a worker needs to obtain feedforward information about hazards, detect immediate tripping hazards, and visually scan surroundings for any potential environmental hazards. Despite the importance of situation awareness, its relationship with attention remains unknown in the construction industry. To fill this theoretical knowledge gap, this study examines differences in attentional allocation between workers with low and high situation awareness levels while exposed to tripping hazards in a real construction site. Participants were exposed to tripping hazards on a real jobsite while walking along a path in the presence of other workers. Situation awareness was measured using the situation awareness rating technique, and subjects\u2019 eye movements were tracked as direct measures of attention via a wearable mobile eye tracker. Investigating the attentional distribution of subjects by examining fixation-count heat maps and scan paths revealed that as workers with higher situation awareness walked, they periodically looked dow"
+  },
+  {
+   "id": "https://openalex.org/W3011093266",
+   "doi": "10.2106/jbjs.20.00236",
+   "title": "Novel Coronavirus and Orthopaedic Surgery: Early Experiences from Singapore",
+   "publication_year": 2020,
+   "source": "Journal of Bone and Joint Surgery",
+   "type": "article",
+   "cited_by_count": 238,
+   "relevance_score": null,
+   "authors": [
+    "Zhen Chang Liang",
+    "Wilson Wang",
+    "Diarmuid Paul Murphy",
+    "James Hoi Po Hui"
+   ],
+   "n_authors": 4,
+   "abstract": "No sooner had the fireworks, celebrating the dawn of a new decade, faded when health-care systems in China and, later, globally were threatened by the emergence of the 2019 novel coronavirus (COVID-19) epidemic. Medical resources in China and the rest of Asia have been stretched thin in an attempt to contain the spread of what is thought to be a particularly infectious zoonosis. This viral outbreak was first reported in late December 2019 as a cluster outbreak in Wuhan, China, and was linked to a seafood and wholesale wet market1. It has now spread to involve countries across multiple continents, stretching as far as the United States2, Italy3, and Australia4. The World Health Organization (WHO) has since declared this novel coronavirus outbreak a global health emergency, calling for global solidarity and a concerted international effort to stem this burgeoning epidemic. As of March 13, 2020, this coronavirus has infected 145,336 patients and claimed 5,416 lives5. These numbers are increasing on a daily basis as screening and diagnostic efforts are being stepped up with heightened vigilance. This COVID-19 epidemic is not the first infectious disease outbreak to hit Singapore, nor will it be the last. In 2003, our health-care system was abruptly stressed with the emergence of the SARS (severe acute respiratory syndrome) crisis, with 238 infections (including health-care professionals) and 33 deaths. Since then, Singapore has progressively strengthened its ability and resilienc"
+  },
+  {
+   "id": "https://openalex.org/W3008168565",
+   "doi": "10.1016/j.ssci.2020.104658",
+   "title": "A critical review of vision-based occupational health and safety monitoring of construction site workers",
+   "publication_year": 2020,
+   "source": "Safety Science",
+   "type": "article",
+   "cited_by_count": 234,
+   "relevance_score": null,
+   "authors": [
+    "Mingyuan Zhang",
+    "Rui Shi",
+    "Zhen Yang"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2994999390",
+   "doi": "10.1016/j.autcon.2019.103045",
+   "title": "Automated excavators activity recognition and productivity analysis from construction site surveillance videos",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 233,
+   "relevance_score": null,
+   "authors": [
+    "Chen Chen",
+    "Zhenhua Zhu",
+    "Amin Hammad"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2989319645",
+   "doi": "10.1016/j.autcon.2019.103000",
+   "title": "Identification and classification of construction equipment operators' mental fatigue using wearable eye-tracking technology",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 229,
+   "relevance_score": null,
+   "authors": [
+    "Jue Li",
+    "Heng Li",
+    "Waleed Umer",
+    "Hongwei Wang",
+    "Xuejiao Xing",
+    "Shukai Zhao"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4404402026",
+   "doi": "10.1038/s41467-024-53993-w",
+   "title": "Automated estimation of cementitious sorptivity via computer vision",
+   "publication_year": 2024,
+   "source": "Nature Communications",
+   "type": "article",
+   "cited_by_count": 227,
+   "relevance_score": null,
+   "authors": [
+    "Hossein Kabir",
+    "Jordan Wu",
+    "Sunav Dahal",
+    "Tony Joo",
+    "Nishant Garg"
+   ],
+   "n_authors": 5,
+   "abstract": "Monitoring water uptake in cementitious systems is crucial to assess their durability against corrosion, salt attack, and freeze-thaw damage. However, gauging absorption currently relies on labor-intensive and infrequent weight measurements, as outlined in ASTM C1585. To address this issue, we introduce a custom computer vision model trained on 6234 images, consisting of 4000 real and 2234 synthetic, that automatically detects the water level in prismatic samples absorbing water. This model provides accurate and frequent estimations of water penetration values every minute. After training the model on 1440 unique data points, including 15 paste mixtures with varying water-to-cement ratios from 0.4 to 0.8 and curing periods of 1 to 7 days, we can now predict initial and secondary sorptivities in real time with high confidence, achieving R\u00b2 > 0.9. Finally, we demonstrate its application on mortar and concrete systems, opening a pathway toward low-cost and automated durability assessment of construction materials."
+  },
+  {
+   "id": "https://openalex.org/W2301606162",
+   "doi": "10.1016/j.autcon.2015.12.018",
+   "title": "Revealing the \u201cInvisible Gorilla\u201d in construction: Estimating construction safety through mental workload assessment",
+   "publication_year": 2016,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 224,
+   "relevance_score": null,
+   "authors": [
+    "Jiayu Chen",
+    "Xinyi Song",
+    "Zhenghang Lin"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2012858774",
+   "doi": "10.1016/j.autcon.2013.08.017",
+   "title": "Real-time safety early warning system for cross passage construction in Yangtze Riverbed Metro Tunnel based on the internet of things",
+   "publication_year": 2013,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 223,
+   "relevance_score": null,
+   "authors": [
+    "Lieyun Ding",
+    "Cheng Zhou",
+    "Qingxu Deng",
+    "Hanbin Luo",
+    "Xiao\u2010Wei Ye",
+    "Yi\u2010Qing Ni"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2004924319",
+   "doi": "10.1016/j.autcon.2010.07.009",
+   "title": "Application of WiFi-based indoor positioning system for labor tracking at construction sites: A case study in Guangzhou MTR",
+   "publication_year": 2010,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 217,
+   "relevance_score": null,
+   "authors": [
+    "Sun-Kyu Woo",
+    "Seongsu Jeong",
+    "Esmond Mok",
+    "Linyuan Xia",
+    "Changsu Choi",
+    "Mu-Wook Pyeon"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2595315860",
+   "doi": "10.1016/j.autcon.2017.02.001",
+   "title": "Monitoring workers' attention and vigilance in construction activities through a wireless and wearable electroencephalography system",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 210,
+   "relevance_score": null,
+   "authors": [
+    "Di Wang",
+    "Jiayu Chen",
+    "Dong Fang Zhao",
+    "Fei Dai",
+    "Changjian Zheng",
+    "Xiaobing Wu"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2578179458",
+   "doi": "10.1109/wiw.2016.045",
+   "title": "Automatic Detection of Helmet Uses for Construction Safety",
+   "publication_year": 2016,
+   "source": "IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)",
+   "type": "conference-paper",
+   "cited_by_count": 210,
+   "relevance_score": null,
+   "authors": [
+    "Abu Hasnat Mohammad Rubaiyat",
+    "Tanjin Taher Toma",
+    "Masoumeh Kalantari Khandani",
+    "Syed Ashiqur Rahman",
+    "Lingwei Chen",
+    "Yanfang Ye"
+   ],
+   "n_authors": 7,
+   "abstract": "The U.S. construction industry suffers from the highest number of fatalities among all industries, i.e., one in five worker deaths in private industry were in construction. Tremendous loss has occurred to the workers' families, the industry, and the nation. Considering the large and increasing number of construction projects that are being conducted in the U.S., there is a growing necessity of developing innovative methods to automatically monitor the safety for the workers at construction sites. Since the head is the most critical area of a human body and is the most vulnerable to an impact that could cause serious injury or death, the use of a protective helmet in construction work is needed. In this paper, we aim to automatically detect the uses of construction helmets (e.g., whether the construction worker wears the helmet or not) by analyzing the construction surveillance images. Based on the collected images, we first detect the object of interest (i.e., construction worker) and further analyze whether the worker wears the helmet or not, by using computer vision and machine learning techniques. In the first step, we incorporate frequency domain information of the image with a popular human detection algorithm Histogram of Oriented Gradient (HOG) for construction worker detection; in the second step, the combination of color-based and Circle Hough Transform (CHT) feature extraction techniques is applied to detect helmet uses for the construction worker."
+  },
+  {
+   "id": "https://openalex.org/W2656075374",
+   "doi": "10.1016/j.autcon.2017.06.003",
+   "title": "Wristband-type wearable health devices to measure construction workers' physical demands",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 209,
+   "relevance_score": null,
+   "authors": [
+    "Sungjoo Hwang",
+    "Sang Hyun Lee"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2147134774",
+   "doi": "10.1016/j.autcon.2015.09.009",
+   "title": "Workforce location tracking to model, visualize and analyze workspace requirements in building information models for construction safety planning",
+   "publication_year": 2015,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 206,
+   "relevance_score": null,
+   "authors": [
+    "Sijie Zhang",
+    "Jochen Teizer",
+    "Nipesh Pradhananga",
+    "Charles M. Eastman"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2741527112",
+   "doi": "10.1016/j.autcon.2017.07.005",
+   "title": "Safety barrier warning system for underground construction sites using Internet-of-Things technologies",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 204,
+   "relevance_score": null,
+   "authors": [
+    "Cheng Zhou",
+    "Lieyun Ding"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3121674946",
+   "doi": "10.1080/13467581.2020.1869557",
+   "title": "Augmented reality and digital twin system for interaction with construction machinery",
+   "publication_year": 2021,
+   "source": "Journal of Asian Architecture and Building Engineering",
+   "type": "article",
+   "cited_by_count": 198,
+   "relevance_score": null,
+   "authors": [
+    "Syedmobeen Hasan",
+    "Kyuhyup Lee",
+    "Daeyoon Moon",
+    "Soon\u2010Wook Kwon",
+    "Jinwoo Song",
+    "Seojoon Lee"
+   ],
+   "n_authors": 6,
+   "abstract": "Smart construction utilizes the latest IoT \u201csmart\u201d technologies, such as Cyber-Physical Systems, to aid in construction processes. A Cyber-Physical System (CPS) is an amalgamation of computation, networking and physical objects. There are various examples of CPS being employed in sectors varying from manufacturing, robotics, and smart cities. Where the application and literature are lacking, however, is construction. This paper focuses on construction machinery operation and work tracking through CPS. The relevant technologies required for creating a system with these capabilities are Augmented Reality (AR) and Digital Twin (DT). Two salient features of a CPS are real-time state knowledge and control. These are handled by the sensors and micro-controllers, respectively, allowing for bi-directional communication between the virtual models and physical objects. Remote control and tracking/monitoring of construction machinery can expedite certain on-site processes such as operations logging and 4D BIM, while improving operation precision and safety."
+  },
+  {
+   "id": "https://openalex.org/W3087601224",
+   "doi": "10.1155/2020/9703560",
+   "title": "Deep Learning\u2010Based Safety Helmet Detection in Engineering Management Based on Convolutional Neural Networks",
+   "publication_year": 2020,
+   "source": "Advances in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 198,
+   "relevance_score": null,
+   "authors": [
+    "Yange Li",
+    "Wei Hong Han",
+    "Zheng Sheng Han",
+    "Jianling Huang",
+    "Weidong Wang"
+   ],
+   "n_authors": 5,
+   "abstract": "Visual examination of the workplace and in\u2010time reminder to the failure of wearing a safety helmet is of particular importance to avoid injuries of workers at the construction site. Video monitoring systems provide a large amount of unstructured image data on\u2010site for this purpose, however, requiring a computer vision\u2010based automatic solution for real\u2010time detection. Although a growing body of literature has developed many deep learning\u2010based models to detect helmet for the traffic surveillance aspect, an appropriate solution for the industry application is less discussed in view of the complex scene on the construction site. In this regard, we develop a deep learning\u2010based method for the real\u2010time detection of a safety helmet at the construction site. The presented method uses the SSD\u2010MobileNet algorithm that is based on convolutional neural networks. A dataset containing 3261 images of safety helmets collected from two sources, i.e., manual capture from the video monitoring system at the workplace and open images obtained using web crawler technology, is established and released to the public. The image set is divided into a training set, validation set, and test set, with a sampling ratio of nearly 8 : 1 : 1. The experiment results demonstrate that the presented deep learning\u2010based model using the SSD\u2010MobileNet algorithm is capable of detecting the unsafe operation of failure of wearing a helmet at the construction site, with satisfactory accuracy and efficiency."
+  },
+  {
+   "id": "https://openalex.org/W2381252496",
+   "doi": "10.1016/j.aei.2016.04.009",
+   "title": "Vision-based action recognition of construction workers using dense trajectories",
+   "publication_year": 2016,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 198,
+   "relevance_score": null,
+   "authors": [
+    "Jun Yang",
+    "Zhongke Shi",
+    "Ziyan Wu"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2990500716",
+   "doi": "10.1016/j.autcon.2019.103016",
+   "title": "Full body pose estimation of construction equipment using computer vision and deep learning techniques",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 195,
+   "relevance_score": null,
+   "authors": [
+    "Han Luo",
+    "Mingzhu Wang",
+    "Peter Kok-Yiu Wong",
+    "Jack C.P. Cheng"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2945557339",
+   "doi": "10.1016/j.autcon.2019.102835",
+   "title": "Evaluating the impact of mental fatigue on construction equipment operators' ability to detect hazards using wearable eye-tracking technology",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 193,
+   "relevance_score": null,
+   "authors": [
+    "Jue Li",
+    "Heng Li",
+    "Hongwei Wang",
+    "Waleed Umer",
+    "Hong Chuan Fu",
+    "Xuejiao Xing"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2663017374",
+   "doi": "10.1016/j.autcon.2017.06.012",
+   "title": "Wearable sensors for monitoring on-duty and off-duty worker physiological status and activities in construction",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 193,
+   "relevance_score": null,
+   "authors": [
+    "Wonil Lee",
+    "Ken\u2010Yu Lin",
+    "Edmund Seto",
+    "Giovanni Ciro Migliaccio"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3011463348",
+   "doi": "10.1177/0278364920961451",
+   "title": "Ford Multi-AV Seasonal Dataset",
+   "publication_year": 2020,
+   "source": "The International Journal of Robotics Research",
+   "type": "article",
+   "cited_by_count": 192,
+   "relevance_score": null,
+   "authors": [
+    "Siddharth Agarwal",
+    "Ankit Vora",
+    "Gaurav Pandey",
+    "Wayne Williams",
+    "Helen Kourous",
+    "James McBride"
+   ],
+   "n_authors": 6,
+   "abstract": "This article presents a challenging multi-agent seasonal dataset collected by a fleet of Ford autonomous vehicles (AVs) at different days and times during 2017\u20132018. The vehicles traversed an average route of 66 km in Michigan that included a mix of driving scenarios such as the Detroit airport, freeways, city centers, university campus, and suburban neighborhoods. Each vehicle used in this data collection was a Ford Fusion outfitted with an Applanix POS-LV GNSS/INS system, four HDL-32E Velodyne 3D-lidar scanners, six Point Grey 1.3 MP cameras arranged on the rooftop for 360\u00b0 coverage, and one Point Grey 5 MP camera mounted behind the windshield for the forward field of view. We present the seasonal variation in weather, lighting, construction, and traffic conditions experienced in dynamic urban environments. We also include data from multiple AVs that were driven in close proximity. This dataset can help design robust algorithms for AVs and multi-agent systems. Each log in the dataset is time-stamped and contains raw data from all the sensors, calibration values, pose trajectory, ground-truth pose, and 3D maps. All data is available in rosbag format that can be visualized, modified, and applied using the open-source Robot Operating System (ROS). We also provide the output of reflectivity-based localization for bench-marking purposes. The dataset can be freely downloaded at avdata.ford.com ."
+  },
+  {
+   "id": "https://openalex.org/W2765275511",
+   "doi": "10.1061/(asce)cp.1943-5487.0000719",
+   "title": "EEG Signal-Processing Framework to Obtain High-Quality Brain Waves from an Off-the-Shelf Wearable EEG Device",
+   "publication_year": 2017,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 192,
+   "relevance_score": null,
+   "authors": [
+    "Houtan Jebelli",
+    "Sungjoo Hwang",
+    "Sang Hyun Lee"
+   ],
+   "n_authors": 3,
+   "abstract": "Investigating brain waves collected by an electroencephalogram (EEG) can be useful in understanding human psychosocial conditions such as stress, emotional exhaustion, burnout, and mental fatigue. Recently, an off-the-shelf wearable EEG device, which is wireless, lightweight, and affordable, has become available so that field construction workers\u2019 psychosocial status can be explored without interfering with their ongoing work. However, capturing high-quality EEG signals from such a device can be very challenging at real construction sites because of the signal artifacts generated by body movement caused by physically demanding work. To address this issue, the authors propose an EEG signal-processing framework that can acquire high-quality EEG signals at real construction sites using a wearable EEG device. Specifically, the signal-processing framework reduces noises and is thus able to extract quality EEG signals. This framework is validated by examining whether brain activation (particularly by body movements) can be identified using the processed EEG signal applied to eight field construction workers under working (i.e., active) and not working (i.e., inactive) conditions. Specifically, mean power spectral density (PSD) of the EEG beta frequency range is calculated from electrodes near the motor cortex, the part of the brain that controls voluntary movements. A significant difference in mean PSD in the beta frequency range between active and inactive conditions demonstrates "
+  },
+  {
+   "id": "https://openalex.org/W2209693234",
+   "doi": "10.1061/(asce)cp.1943-5487.0000562",
+   "title": "Vision-Based Object-Centric Safety Assessment Using Fuzzy Inference: Monitoring Struck-By Accidents with Moving Objects",
+   "publication_year": 2015,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 186,
+   "relevance_score": null,
+   "authors": [
+    "Hongjo Kim",
+    "Kinam Kim",
+    "Hyoungkwan Kim"
+   ],
+   "n_authors": 3,
+   "abstract": "Due to the dynamic environment of construction sites, workers are continuously confronted with the potential for safety accidents. Although various safety guidelines have been developed, workers cannot always be aware of everything that occurs around them when they focus on their work on noisy and congested job sites. Therefore, it is difficult for workers to conform to guidelines to protect themselves when confronting dangerous situations. To address this safety issue, this paper presents an on-site safety-assessment system for monitoring struck-by accidents with moving entities based on computer vision and fuzzy inference. Computer vision is used to monitor a construction site and extract spatial information for each entity (workers and equipment). Next, fuzzy inference is used to assess the proper safety levels of each entity using spatial information. A safety level represents the potential hazard or the integrating danger that a person encounters at a particular moment. Struck-by accidents are selected as a target safety hazard for validation. The proposed system is expected to provide valuable information regarding worker safety represented as a numerical value. Using the record of safety levels, site managers can improve current working practices. For example, site managers can sound an alarm for workers when the safety level is too low."
+  },
+  {
+   "id": "https://openalex.org/W3081701338",
+   "doi": "10.1016/j.jobe.2020.101769",
+   "title": "Vision-based robotic system for on-site construction and demolition waste sorting and recycling",
+   "publication_year": 2020,
+   "source": "Journal of Building Engineering",
+   "type": "article",
+   "cited_by_count": 185,
+   "relevance_score": null,
+   "authors": [
+    "Zeli Wang",
+    "Heng Li",
+    "Xintao Yang"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2319477217",
+   "doi": "10.1016/j.autcon.2016.03.008",
+   "title": "Heat map generation for predictive safety planning: Preventing struck-by and near miss interactions between workers-on-foot and construction equipment",
+   "publication_year": 2016,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 185,
+   "relevance_score": null,
+   "authors": [
+    "Olga Golovina",
+    "Jochen Teizer",
+    "Nipesh Pradhananga"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2050641370",
+   "doi": "10.1016/j.scient.2012.02.023",
+   "title": "Influence of RFID technology on automated management of construction materials and components",
+   "publication_year": 2012,
+   "source": "Scientia Iranica",
+   "type": "article",
+   "cited_by_count": 185,
+   "relevance_score": null,
+   "authors": [
+    "Javad Majrouhi Sardroud"
+   ],
+   "n_authors": 1,
+   "abstract": "Recent research has indicated that even though construction materials and components may constitute more than fifty percent of total project costs, existing methods for managing them still depend on human skills. This traditional data collection is time and labour-intensive, error-prone, and unreliable, due to the reluctance of workforces to monitor and record the presence of large numbers of material. Automating the task of identifying and tracking construction materials can provide timely and accurate information on materials available to the manager. This paper investigates a new approach for integrating the latest innovations in ADC technologies for real-time data collection in construction. In this approach, the combination of Radio Frequency Identification (RFID), Global Positioning System (GPS), and General Packet Radio System (GPRS) technologies can facilitate extremely low-cost, infrastructure-free, and easy-to-implement solutions to uniquely identify materials, components, and equipment. The presented system is fully automatic and will lead to their location and tracking in three phases, namely, production sites (off-site), en-route (shipping), and construction job sites (on-site), almost instantaneously."
+  },
+  {
+   "id": "https://openalex.org/W2109192831",
+   "doi": "10.1061/(asce)cp.1943-5487.0000097",
+   "title": "Accelerometer-Based Activity Recognition in Construction",
+   "publication_year": 2010,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 184,
+   "relevance_score": null,
+   "authors": [
+    "Liju Joshua",
+    "Koshy Varghese"
+   ],
+   "n_authors": 2,
+   "abstract": "Recognizing the activities of workers helps to measure and control safety, productivity, and quality in construction sites. Automated activity recognition can enhance the efficiency of the measurement system. The present study investigates accelerometer-based activity classification for automating the work-sampling process. A methodology is developed for evaluating classifiers for recognizing activities based on the features generated from accelerometer data segments. An experimental study is carried out in instructed and uninstructed modes for classifying masonry activities by using accelerometers attached to the waist of the mason. Three types of classifiers were evaluated, and multilayer perceptron, a neural network classifier, gave the best results. A 50% overlap for data segments enhanced classifier performance. The study showed that the utilization of best features instead of all features did not affect the classification accuracy significantly but reduced the run time considerably. An accuracy of 80% was obtained with accelerometers attached at both sides of the waist in an uninstructed environment. The results from preliminary studies have shown the potential of the proposed method for automating the activity recognition in construction sites."
+  },
+  {
+   "id": "https://openalex.org/W2001579261",
+   "doi": "10.1016/j.autcon.2013.06.012",
+   "title": "RFID indoor location identification for construction projects",
+   "publication_year": 2013,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 183,
+   "relevance_score": null,
+   "authors": [
+    "Ali Montaser",
+    "Osama Moselhi"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2906994126",
+   "doi": "10.1061/(asce)cp.1943-5487.0000813",
+   "title": "Vision-Based Framework for Intelligent Monitoring of Hardhat Wearing on Construction Sites",
+   "publication_year": 2018,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 178,
+   "relevance_score": null,
+   "authors": [
+    "Bahaa Eddine Mneymneh",
+    "Mohamad Abbas",
+    "Hiam Khoury"
+   ],
+   "n_authors": 3,
+   "abstract": "The construction industry is still considered among the riskiest industries in the world because workers are continuously exposed to injury from falls, slips, or trips or being struck by falling objects. Hence, safety programs have been according great emphasis on enforcing proper use of personal protective equipment (PPE) by deploying safety officers on construction sites. However, the current practice of supervising large construction areas is still manual, tedious, and ineffective. Therefore, this study aims at creating an integrated framework that can automatically and efficiently detect any noncompliance with safety rules and regulations, in particular a failure to wear a hardhat, using computer vision techniques applied on videos captured from construction sites. This is mainly achieved by (1) isolating mobile workers or construction personnel from the captured scene by means of a novel motion detection algorithm and a human classifier and (2) detecting the hardhat in the identified region of interest using an object detection tool coupled with a color-based image classification one. Several experiments were conducted and results highlighted that the proposed framework proved accurate, fast, and robust under different conditions and identified hardhats with high precision and recall. More specifically, the newly developed motion detection algorithm showed an improved accuracy compared to common background subtraction methods; the human classifier performed well and was "
+  },
+  {
+   "id": "https://openalex.org/W2977691951",
+   "doi": "10.1061/(asce)co.1943-7862.0001729",
+   "title": "Application of Wearable Biosensors to Construction Sites. I: Assessing Workers\u2019 Stress",
+   "publication_year": 2019,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 175,
+   "relevance_score": null,
+   "authors": [
+    "Houtan Jebelli",
+    "Byungjoo Choi",
+    "Sang Hyun Lee"
+   ],
+   "n_authors": 3,
+   "abstract": "One of the major hazards of the workplace, and in life in general, is occupational stress, which adversely affects workers\u2019 well-being, safety, and productivity. The construction industry is one of the most stressful occupations. Current stress-assessment tools rely either on a subject\u2019s perceived stress (e.g., stress questionnaires) or an individual\u2019s chemical reaction to stressors (e.g., cortisol hormone). However, these methods can interrupt ongoing tasks and therefore may not be suitable for continuous measurement. To address this problem, the authors aim to develop and validate a framework for noninvasive and nonsubjective measurement of worker stress by examining changes in workers\u2019 physiological signals collected from a wearable biosensor. The framework applies various filtering methods to reduce physiological signal noises and extracts the patterns of physiological signals as workers experience various stress levels. Then, the framework learns these patterns by applying a supervised-learning algorithm. To examine the performance of the proposed framework, the authors collected a physiological signal from 10 construction workers in the field. The proposed framework resulted in a stress-prediction accuracy of 84.48% in distinguishing between low and high stress levels and 73.28% in distinguishing among low, medium, and high stress levels. The results confirmed the potential of the proposed framework for assessing workers\u2019 stress in the field. Automatic predictions of wo"
+  },
+  {
+   "id": "https://openalex.org/W2911273932",
+   "doi": "10.1016/j.ssci.2019.01.022",
+   "title": "Feasibility analysis of electrodermal activity (EDA) acquired from wearable sensors to assess construction workers\u2019 perceived risk",
+   "publication_year": 2019,
+   "source": "Safety Science",
+   "type": "article",
+   "cited_by_count": 175,
+   "relevance_score": null,
+   "authors": [
+    "Byungjoo Choi",
+    "Houtan Jebelli",
+    "Sang Hyun Lee"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2324738773",
+   "doi": "10.1093/ahr/117.4.1028",
+   "title": "The First Green Revolution: Debt Peonage and the Making of the Nitrogen Fertilizer Trade, 1840\u20131930",
+   "publication_year": 2012,
+   "source": "The American Historical Review",
+   "type": "article",
+   "cited_by_count": 171,
+   "relevance_score": null,
+   "authors": [
+    "Edward Dallam Melillo"
+   ],
+   "n_authors": 1,
+   "abstract": "Edward D. Melillo is Assistant Professor of History and Environmental Studies at Amherst College, where he teaches courses on global environmental history and the history of the Pacific world. He is currently completing a book manuscript, Strangers on Familiar Soil: Rediscovering the Chile-California Connection, 1786\u20132008, which describes two centuries of ecological and cultural interactions between Chile and California. He is co-editor of Networks of Nature in the British Empire: New Views on Imperial Environmental History (Continuum Press, forthcoming). To many historians, scientists, and agricultural experts, the term \u201cGreen Revolution\u201d refers to the controversial array of programs and policies that introduced high-yield seeds, intensive irrigation techniques, herbicides, pesticides, mechanization, and petrochemical fertilizers to parts of the developing world during the 1960s and 1970s. Among the most profound consequences of this recent agricultural transformation was a vast increase in the amount of nitrogen available to farmers in Asia and Latin America. Through the application of imported synthetic fertilizers, these cultivators achieved increased yields of staple crops such as corn, rice, and wheat. Numerous scholars have portrayed this twentieth-century intervention in world food production as the first human alteration of the global nitrogen cycle during the modern era.1 Such a depiction is misleading. It obscures an earlier Green Revolution, beginning in the ninet"
+  },
+  {
+   "id": "https://openalex.org/W2138788982",
+   "doi": "10.1016/j.comcom.2012.01.005",
+   "title": "Real-time personal protective equipment monitoring system",
+   "publication_year": 2012,
+   "source": "Computer Communications",
+   "type": "article",
+   "cited_by_count": 171,
+   "relevance_score": null,
+   "authors": [
+    "Santiago Barro-Torres",
+    "Tiago M. Fern\u00e1ndez\u2010Caram\u00e9s",
+    "H\u00e9ctor J. P\u00e9rez\u2010Iglesias",
+    "Carlos J. Escudero"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3091130823",
+   "doi": "10.3390/s20195637",
+   "title": "Design, Construction and Testing of IoT Based Automated Indoor Vertical Hydroponics Farming Test-Bed in Qatar",
+   "publication_year": 2020,
+   "source": "Sensors",
+   "type": "article",
+   "cited_by_count": 170,
+   "relevance_score": null,
+   "authors": [
+    "Muhammad E. H. Chowdhury",
+    "Amith Abdullah Khandakar",
+    "Saba Ahmed",
+    "Fatima Al-Khuzaei",
+    "Jalaa Hamdalla",
+    "Fahmida Haque"
+   ],
+   "n_authors": 9,
+   "abstract": "Growing plants in the gulf region can be challenging as it is mostly desert, and the climate is dry. A few species of plants have the capability to grow in such a climate. However, those plants are not suitable as a food source. The aim of this work is to design and construct an indoor automatic vertical hydroponic system that does not depend on the outside climate. The designed system is capable to grow common type of crops that can be used as a food source inside homes without the need of large space. The design of the system was made after studying different types of vertical hydroponic systems in terms of price, power consumption and suitability to be built as an indoor automated system. A microcontroller was working as a brain of the system, which communicates with different types of sensors to control all the system parameters and to minimize the human intervention. An open internet of things (IoT) platform was used to store and display the system parameters and graphical interface for remote access. The designed system is capable of maintaining healthy growing parameters for the plants with minimal input from the user. The functionality of the overall system was confirmed by evaluating the response from individual system components and monitoring them in the IoT platform. The system was consuming 120.59 and 230.59 kWh respectively without and with air conditioning control during peak summer, which is equivalent to the system running cost of 13.26 and 25.36 Qatari Riyal"
+  },
+  {
+   "id": "https://openalex.org/W3100646833",
+   "doi": "10.1080/15623599.2020.1847405",
+   "title": "IoT-based application for construction site safety monitoring",
+   "publication_year": 2020,
+   "source": "International Journal of Construction Management",
+   "type": "article",
+   "cited_by_count": 168,
+   "relevance_score": null,
+   "authors": [
+    "William Wong Shiu Chung",
+    "Salman Tariq",
+    "Saeed Reza Mohandes",
+    "Tarek M. Zayed"
+   ],
+   "n_authors": 4,
+   "abstract": "Hong Kong construction safety has witnessed substantial improvement in the last three decades, however, accidents still occur frequently as more than 4,000 accidents are reported in the year 2017. Against this background, this research, firstly, aims to investigate the effectiveness of safety training for construction personnel in Hong Kong. A questionnaire is designed to explore the efficacy and weaknesses of mandatory basic safety training. The results indicate the inadequate knowledge of the concept of personal protective equipment as the main weakness of the workers. Secondly, to overcome the training weakness, an Internet-of-Things (IoT) based innovative safety model is designed to provide real-time monitoring of construction site personnel and environment. The proposed model not only identifies real-time personnel safety problems, i.e., near misses, to reduce the accident rates but also stores the digital data to improve future training and system itself. The proposed model in this research provides a cost-effective solution for optimal construction safety to the stakeholders. A cost comparison analysis suggests that the IoT system can provide 1) 78% cost-savings with respect to the traditional manual system and 2) 65% cost-savings with respect to the traditional sensor system."
+  },
+  {
+   "id": "https://openalex.org/W4240839386",
+   "doi": "10.1680/icsic.64669.067",
+   "title": "Developing a Dynamic Digital Twin at a Building Level: using Cambridge Campus as Case Study",
+   "publication_year": 2019,
+   "source": "ICE Publishing eBooks",
+   "type": "conference-paper",
+   "cited_by_count": 168,
+   "relevance_score": null,
+   "authors": [
+    "Qiuchen Lu",
+    "Ajith Kumar Parlikad",
+    "Philip Woodall",
+    "Gishan Don Ranasinghe",
+    "James Heaton"
+   ],
+   "n_authors": 5,
+   "abstract": "A Digital Twin (DT) refers to a digital replica of physical assets, processes and systems.DTs integrate artificial intelligence, machine learning and data analytics to create dynamic digital models that are able to learn and update the status of the physical counterpart from multiple sources.A DT, if equipped with appropriate algorithms will represent and predict future condition and performance of their physical counterparts.Current developments related to DTs are still at an early stage with respect to buildings and other infrastructure assets.Most of these developments focus on the architectural and engineering/construction point of view.Less attention has been paid to the operation & maintenance (O&M) phase, where the value potential is immense.A systematic and clear architecture verified with practical use cases for constructing a DT is the foremost step for effective operation and maintenance of assets.This paper presents a system architecture for developing dynamic DTs in building levels for integrating heterogeneous data sources, support intelligent data query, and provide smarter decision-making processes.This will further bridge the gaps between human relationships with buildings/regions via a more intelligent, visual and sustainable channels.This architecture is brought to life through the development of a dynamic DT demonstrator of the West Cambridge site of the University of Cambridge.Specifically, this demonstrator integrates an as-is multi-layered IFC Building "
+  },
+  {
+   "id": "https://openalex.org/W2019832769",
+   "doi": "10.1016/j.autcon.2012.02.015",
+   "title": "Leveraging passive RFID technology for construction resource field mobility and status monitoring in a high-rise renovation project",
+   "publication_year": 2012,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 163,
+   "relevance_score": null,
+   "authors": [
+    "Aaron M. Costin",
+    "Nipesh Pradhananga",
+    "Jochen Teizer"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2510934300",
+   "doi": "10.1016/j.autcon.2016.08.039",
+   "title": "Continuous localization of construction workers via integration of detection and tracking",
+   "publication_year": 2016,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 160,
+   "relevance_score": null,
+   "authors": [
+    "Man-Woo Park",
+    "Ioannis K. Brilakis"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2704368076",
+   "doi": "10.1016/j.autcon.2017.06.005",
+   "title": "Activity analysis of construction equipment using audio signals and support vector machines",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 159,
+   "relevance_score": null,
+   "authors": [
+    "Chieh-Feng Cheng",
+    "Abbas Rashidi",
+    "Mark A. Davenport",
+    "David V. Anderson"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4405642324",
+   "doi": "10.3390/app142411934",
+   "title": "Artificial Intelligence and Smart Technologies in Safety Management: A Comprehensive Analysis Across Multiple Industries",
+   "publication_year": 2024,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 158,
+   "relevance_score": null,
+   "authors": [
+    "Jiyoung Park",
+    "Dongheon Kang"
+   ],
+   "n_authors": 2,
+   "abstract": "The integration of Artificial Intelligence (AI) and smart technologies into safety management is a pivotal aspect of the Fourth Industrial Revolution or Industry 4.0. This study conducts a systematic literature review to identify and analyze how AI and smart technologies enhance safety management across various sectors within the Safety 4.0 paradigm. Focusing on peer-reviewed journal articles that explicitly mention \u201cSmart\u201d, \u201cAI\u201d, or \u201cArtificial Intelligence\u201d in their titles, the research examines key safety management factors, such as accident prevention, risk management, real-time monitoring, and ethical implementation, across sectors, including construction, industrial safety, disaster and public safety, transport and logistics, energy and power, health, smart home and living, and other diverse industries. AI-driven solutions, such as predictive analytics, machine learning algorithms, IoT sensor integration, and digital twin models, are shown to proactively identify and mitigate potential hazards, optimize energy consumption, and enhance operational efficiency. For instance, in the energy and power sector, intelligent gas meters and automated fire suppression systems manage gas-related risks effectively, while in the health sector, AI-powered health monitoring devices and mental health support applications improve patient and worker safety. The analysis reveals a significant trend towards shifting from reactive to proactive safety management, facilitated by the convergence"
+  },
+  {
+   "id": "https://openalex.org/W2511014273",
+   "doi": "10.1016/j.autcon.2016.08.029",
+   "title": "Feasibility analysis of heart rate monitoring of construction workers using a photoplethysmography (PPG) sensor embedded in a wristband-type activity tracker",
+   "publication_year": 2016,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 158,
+   "relevance_score": null,
+   "authors": [
+    "Sungjoo Hwang",
+    "JoonOh Seo",
+    "Houtan Jebelli",
+    "Sang Hyun Lee"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2018299540",
+   "doi": "10.1061/(asce)cp.1943-5487.0000179",
+   "title": "Automated Visual Recognition of Dump Trucks in Construction Videos",
+   "publication_year": 2011,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 154,
+   "relevance_score": null,
+   "authors": [
+    "Ehsan Rezazadeh Azar",
+    "Brenda Y. McCabe"
+   ],
+   "n_authors": 2,
+   "abstract": "Earthmoving plants are essential but costly resources in the construction of heavy civil engineering projects. In addition to proper allocation, ongoing control of this equipment is necessary to ensure and increase the productivity of earthmoving operations. Captured videos from construction sites are potential tools to control earthmoving operations; however, the current practice of manual data extraction from surveillance videos is tedious, costly, and error prone. Cutting-edge computer vision techniques have the potential to automate equipment monitoring tasks. This paper presents research in the evaluation of combinations of existing object recognition and background subtraction algorithms to recognize off-highway dump trucks in noisy video streams containing other active machines. Two detection algorithms, namely, Haar\u2013histogram of oriented gradients (HOG) and Blob-HOG, are presented and evaluated for their ability to recognize dump trucks in videos as measured by both effectiveness and timeliness. The results of this study can help practitioners select a suitable approach to recognize such equipment in videos for real-time applications such as productivity measurement, performance control, and proactive work-zone safety."
+  },
+  {
+   "id": "https://openalex.org/W3168015039",
+   "doi": "10.1016/j.jobe.2021.102824",
+   "title": "Assessment of construction workers\u2019 perceived risk using physiological data from wearable sensors: A machine learning approach",
+   "publication_year": 2021,
+   "source": "Journal of Building Engineering",
+   "type": "article",
+   "cited_by_count": 151,
+   "relevance_score": null,
+   "authors": [
+    "By Gaang Lee",
+    "Byungjoo Choi",
+    "Houtan Jebelli",
+    "Sang Hyun Lee"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2803282449",
+   "doi": "10.1016/j.autcon.2018.05.006",
+   "title": "Automating and scaling personalized safety training using eye-tracking data",
+   "publication_year": 2018,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 148,
+   "relevance_score": null,
+   "authors": [
+    "Idris Jeelani",
+    "Kevin K. Han",
+    "Alex Albert"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3030264781",
+   "doi": "10.1016/j.autcon.2020.103272",
+   "title": "Cyber-physical postural training system for construction workers",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 147,
+   "relevance_score": null,
+   "authors": [
+    "Abiola Abosede Akanmu",
+    "Johnson Olayiwola",
+    "Omobolanle Ruth Ogunseiju",
+    "David McFeeters"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4386879539",
+   "doi": "10.3390/su151813990",
+   "title": "Personal Protective Equipment Detection: A Deep-Learning-Based Sustainable Approach",
+   "publication_year": 2023,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 146,
+   "relevance_score": null,
+   "authors": [
+    "Mohammed Imran Basheer Ahmed",
+    "Linah Saraireh",
+    "Atta Rahman",
+    "Seba Al-Qarawi",
+    "Afnan Mhran",
+    "Joud Al-Jalaoud"
+   ],
+   "n_authors": 11,
+   "abstract": "Personal protective equipment (PPE) can increase the safety of the worker for sure by reducing the probability and severity of injury or fatal incidents at construction, chemical, and hazardous sites. PPE is widely required to offer a satisfiable safety level not only for protection against the accidents at the aforementioned sites but also for chemical hazards. However, for several reasons or negligence, workers may not commit to and comply with the regulations of wearing the equipment, occasionally. Since manual monitoring is laborious and erroneous, the situation demands the development of intelligent monitoring systems to offer the automated real-time and accurate detection of PPE compliance. As a solution, in this study, Deep Learning and Computer Vision are investigated to offer near real-time and accurate PPE detection. The four colored hardhats, vest, safety glass (CHVG) dataset was utilized to train and evaluate the performance of the proposed model. It is noteworthy that the solution can detect eight variate classes of the PPE, namely red, blue, white, yellow helmets, head, person, vest, and glass. A two-stage detector based on the Fast-Region-based Convolutional Neural Network (RCNN) was trained on 1699 annotated images. The proposed model accomplished an acceptable mean average precision (mAP) of 96% in contrast to the state-of-the-art studies in literature. The proposed study is a potential contribution towards the avoidance and prevention of fatal/non-fatal indu"
+  },
+  {
+   "id": "https://openalex.org/W4407122489",
+   "doi": "10.34117/bjdv11n2-011",
+   "title": "Digital monitoring of heavy equipment: advancing cost optimization and operational efficiency",
+   "publication_year": 2025,
+   "source": "Brazilian Journal of Development",
+   "type": "article",
+   "cited_by_count": 144,
+   "relevance_score": null,
+   "authors": [
+    "Carolina Araujo Moreira"
+   ],
+   "n_authors": 1,
+   "abstract": "The monitoring of heavy equipment using digital technologies has become a crucial solution for cost optimization and improving operational efficiency in essential sectors such as construction, mining, and infrastructure. The integration of technologies such as advanced sensors, the Internet of Things (IoT), Big Data, and Artificial Intelligence (AI) enables proactive management of machines, allowing for early failure detection, real-time monitoring, and the adoption of predictive maintenance. These advancements result in significant reductions in downtime, extend the lifespan of equipment, and minimize emergency repair costs. The research by Khan et al. (2022), Ma et al. (2020), and Rohith et al. (2023) demonstrates how technological innovations such as AI, ML, BIM, and GIS are transforming maintenance strategies. These tools not only optimize machine performance but also provide intelligent, data-driven decision support, creating a more efficient and sustainable environment. The implementation of these technologies allows for the integration of new automated systems, which can revolutionize equipment management in various sectors. However, the adoption of these technologies also faces challenges, as indicated by Dagsa et al. (2022) and Shekari and Ray (2024), who highlight the limitations of monitoring systems and potential contractual disputes. While the benefits are evident, the excess of data and contractual complications require managers to adopt balanced solutions to en"
+  },
+  {
+   "id": "https://openalex.org/W3126666061",
+   "doi": "10.1016/j.autcon.2021.103598",
+   "title": "Monitoring distraction of construction workers caused by noise using a wearable Electroencephalography (EEG) device",
+   "publication_year": 2021,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 144,
+   "relevance_score": null,
+   "authors": [
+    "Jinjing Ke",
+    "Ming Xumin Zhang",
+    "Xiaowei Luo",
+    "Jiayu Chen"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2967740205",
+   "doi": "10.1016/j.aei.2019.100960",
+   "title": "Differential received signal strength based RFID positioning for construction equipment tracking",
+   "publication_year": 2019,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 144,
+   "relevance_score": null,
+   "authors": [
+    "Changzhi Wu",
+    "Xiangyu Wang",
+    "Mengcheng Chen",
+    "Mi Jeong Kim"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4389637782",
+   "doi": "10.1016/j.autcon.2023.105227",
+   "title": "Advancing construction site workforce safety monitoring through BIM and computer vision integration",
+   "publication_year": 2023,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 143,
+   "relevance_score": null,
+   "authors": [
+    "Almo Senja Kulinan",
+    "Minsoo Park",
+    "Pa Pa Win Aung",
+    "Gichun Cha",
+    "Seunghee Park"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4285389446",
+   "doi": "10.1155/2022/2194949",
+   "title": "Digital Twin Technology for Bridge Maintenance using 3D Laser Scanning: A Review",
+   "publication_year": 2022,
+   "source": "Advances in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 141,
+   "relevance_score": null,
+   "authors": [
+    "Haidar Hosamo",
+    "Mohsen Hosamo"
+   ],
+   "n_authors": 2,
+   "abstract": "There has been a significant surge in the interest in adopting cutting\u2010edge new technologies in the civil engineering industry in recent times that monitor the Internet of Things (IoT) data and control automation systems. By combining the real and digital worlds, digital technologies, such as Digital Twin, provide a high\u2010level depiction of bridges and their assets. The inspection, evaluation, and management of infrastructure have experienced profound changes in technological advancement over the last decade. Technologies like laser scanners have emerged as a viable replacement for labor\u2010intensive, costly, and dangerous traditional methods that risk health and safety. The new maintenance techniques have increased their use in the construction section, particularly regarding bridges. This review paper aims to present a comprehensive and state\u2010of\u2010the\u2010art review upon using laser scanners in bridge maintenance and engineering and looking deeper into the study field in focus and researchers\u2019 suggestions in this field. Moreover, the review was conducted to gather, evaluate, and analyze the papers collected in the years from 2017 to 2022. The interaction of research networks, dominant subfields, the co\u2010occurrence of keywords, and countries were all examined. Four main categories were presented, namely machine learning, bridge management system (BMS), bridge information modeling (BrIM), and 3D modeling. The findings demonstrate that information standardization is the first significant"
+  },
+  {
+   "id": "https://openalex.org/W2908703502",
+   "doi": "10.1061/(asce)co.1943-7862.0001629",
+   "title": "Real-Time Alarming, Monitoring, and Locating for Non-Hard-Hat Use in Construction",
+   "publication_year": 2019,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 141,
+   "relevance_score": null,
+   "authors": [
+    "Hong Zhang",
+    "Xuzhong Yan",
+    "Heng Li",
+    "Rui Jin",
+    "HongFeng Fu"
+   ],
+   "n_authors": 5,
+   "abstract": "Non-hard-hat use (NHU) is related to many construction accidents, so NHU inspection is crucial to safety management, in which automatic NHU monitoring plays an essential role. Existing computer vision\u2013based NHU inspection methods lack capabilities in identifying workers and helping take real-time action. Previous sensor-based NHU inspection methods require direct skin contact, which would be uncomfortable for workers. In addition, previous sensor-based methods could be deceived by objects other than human heads and could not achieve real-time alarms. This study aims to address these problems by implementing real-time alarming, monitoring, and locating for NHU in construction based on sensor, mobile, web, and cloud techniques. A smart hard-hat system is developed using an Internet of Things (IoT)-based architecture including (1) a hard hat with an infrared beam detector and thermal infrared sensor for nonintrusive NHU detection; (2) radio-frequency identification (RFID) triggers for locating NHU with an average detection error of less than 10 cm; (3) a smartphone application for personalized warnings; (4) a web application for data visualization and alarms for managers; and (5) a cloud sever for data storage and retrieval. The proposed system enables both workers and managers to take timely actions against NHU. The system performance is evaluated in a laboratory test and validated in a field application. It is indicated that the proposed system is accurate and reliable, showin"
+  },
+  {
+   "id": "https://openalex.org/W3136366894",
+   "doi": "10.1061/(asce)co.1943-7862.0002038",
+   "title": "Evaluation of Physiological Metrics as Real-Time Measurement of Physical Fatigue in Construction Workers: State-of-the-Art Review",
+   "publication_year": 2021,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 140,
+   "relevance_score": null,
+   "authors": [
+    "Shahnawaz Anwer",
+    "Heng Li",
+    "Maxwell Fordjour Antwi\u2010Afari",
+    "Waleed Umer",
+    "Arnold Yu Lok Wong"
+   ],
+   "n_authors": 5,
+   "abstract": "Physical fatigue is a major health and safety\u2013related problem among construction workers. Many previous studies relied on interviews and/or questionnaire to assess physical fatigue in construction workers. However, these traditional methods are not only time-consuming but also limited by recall bias. To overcome these limitations, many researchers have used physiological metrics (e.g., heart rate, heart-rate variability, skin temperature, electromyographic activity, and jerk metrics) to measure real-time physical fatigue. Although physiological metrics have shown promising results for real-time assessments of physical fatigue, no state-of-the-art review has been conducted to summarize various physiological metrics in measuring physical fatigue among construction workers. Therefore, the current state-of-the art review aims to summarize existing evidence regarding the use of physiological metrics to measure physical fatigue of construction workers in real-time. This review used systematic searches to identify relevant studies and critically appraised the application of physiological metrics in measuring physical fatigue of construction workers. First, it summarizes the application of various physiological metrics for real-time measurement of physical fatigue in construction workers. Second, various wearable sensing technologies for measuring physiological metrics are identified. Third, this review discusses the potential challenges for applying physiological metrics to measure "
+  },
+  {
+   "id": "https://openalex.org/W2741429228",
+   "doi": "10.22260/isarc2017/0084",
+   "title": "Internet of Things (IoT) for Integrating Environmental and Localization Data in Building Information Modeling (BIM)",
+   "publication_year": 2017,
+   "source": "International Symposium on Automation and Robotics in Construction (ISARC)",
+   "type": "conference-paper",
+   "cited_by_count": 139,
+   "relevance_score": null,
+   "authors": [
+    "Jochen Teizer",
+    "Mario Wolf",
+    "Olga Golovina",
+    "Manuel Perschewski",
+    "Markus Propach",
+    "Matthias Neges"
+   ],
+   "n_authors": 7,
+   "abstract": "Digital transformation is an ongoing challenge in construction. Whereas central storage and planning with Building Information Modeling (BIM) can be considered state-of-the-art, the integration of real-time data like environmental and localization data of workers in indoor work environments can provide further benefits for operations management in construction and facility management. This paper introduces the concept of permanent availability of up-to-date actual performance data sets through an Internet-of-Things (IoT) approach that integrates environmental and localization data in a cloud-based BIM platform. In this paper, we reflect on the usage of Internet of Things (IoT) technology and the lean and injury-free (LIFE) construction management approach, create a concept to implement the topics in existing systems, design and create a prototypical application, validate the prototype in field-typical work settings, and critically review the results."
+  },
+  {
+   "id": "https://openalex.org/W4367187771",
+   "doi": "10.1016/j.aei.2023.101978",
+   "title": "Deep learning-based construction equipment operators\u2019 mental fatigue classification using wearable EEG sensor data",
+   "publication_year": 2023,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 133,
+   "relevance_score": null,
+   "authors": [
+    "Imran Mehmood",
+    "Heng Li",
+    "Yazan Qarout",
+    "Waleed Umer",
+    "Shahnawaz Anwer",
+    "Haitao Wu"
+   ],
+   "n_authors": 8,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2921091633",
+   "doi": "10.1089/soro.2018.0116",
+   "title": "Integrated Soft Ionotronic Skin with Stretchable and Transparent Hydrogel\u2013Elastomer Ionic Sensors for Hand-Motion Monitoring",
+   "publication_year": 2019,
+   "source": "Soft Robotics",
+   "type": "article",
+   "cited_by_count": 132,
+   "relevance_score": null,
+   "authors": [
+    "Guoying Gu",
+    "Haipeng Xu",
+    "Sai Peng",
+    "Ling Li",
+    "Sujie Chen",
+    "Tongqing Lu"
+   ],
+   "n_authors": 7,
+   "abstract": "Skin-like stretchable sensors with the flexible and soft inorganic/organic electronics have many promising potentials in wearable devices, soft robotics, prosthetics, and health monitoring equipment. Hydrogels with ionic conduction, akin to the biological skin, provide an alternative for soft and stretchable sensor design. However, fully integrated and wearable sensing skin with ionically conductive hydrogel for hand-motion monitoring has not been achieved. In this article, we report a wearable soft ionotronic skin (iSkin) system integrating multichannel stretchable and transparent hydrogel-elastomer hybrid ionic sensors and a wireless electronic control module. The ionic sensor is of resistive type and fabricated by curing ionic hydrogel precursor on a benzophenone-treated preshaped elastomer to form a hydrogel-elastomer hybrid structure. The hydrogel-elastomer hybrid iSkin is highly stretchable (\u223c300% strain), transparent (\u223c95% transmittance in the visible light range), and lightweight (<22 g). Experiments demonstrate that the fully integrated iSkin system can conformably attach onto the dexterous hands for recognizing the joint proprioception and hand gesture, and understanding the sign language. Our iSkin system would also provide a test bed for customized material selection and construction in a variety of applications."
+  },
+  {
+   "id": "https://openalex.org/W3008741834",
+   "doi": "10.1016/j.autcon.2020.103138",
+   "title": "Construction activity recognition with convolutional recurrent networks",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 131,
+   "relevance_score": null,
+   "authors": [
+    "Trevor Slaton",
+    "Carlos Hernandez",
+    "Reza Akhavian"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3083336957",
+   "doi": "10.1016/j.jobe.2020.101721",
+   "title": "Automated PPE-Tool pair check system for construction safety using smart IoT",
+   "publication_year": 2020,
+   "source": "Journal of Building Engineering",
+   "type": "article",
+   "cited_by_count": 129,
+   "relevance_score": null,
+   "authors": [
+    "Xincong Yang",
+    "Yantao Yu",
+    "Sara Shirowzhan",
+    "Samad M. E. Sepasgozar",
+    "Heng Li"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2770013142",
+   "doi": "10.1016/j.aei.2017.11.001",
+   "title": "Development of ergonomic posture recognition technique based on 2D ordinary camera for construction hazard prevention through view-invariant features in 2D skeleton motion",
+   "publication_year": 2017,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 128,
+   "relevance_score": null,
+   "authors": [
+    "Xuzhong Yan",
+    "Heng Li",
+    "Wang Chen",
+    "JoonOh Seo",
+    "Hong Zhang",
+    "Hongwei Wang"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2625085489",
+   "doi": "10.1016/j.autcon.2017.06.001",
+   "title": "The availability of wearable-device-based physical data for the measurement of construction workers' psychological status on site: From the perspective of safety management",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 127,
+   "relevance_score": null,
+   "authors": [
+    "Hongling Guo",
+    "Yantao Yu",
+    "Tian Xiang",
+    "Heng Li",
+    "Dan Zhang"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2135936016",
+   "doi": "10.1061/(asce)co.1943-7862.0000629",
+   "title": "Toward Automated Earned Value Tracking Using 3D Imaging Tools",
+   "publication_year": 2012,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 125,
+   "relevance_score": null,
+   "authors": [
+    "Yelda T\u00fcrkan",
+    "Fr\u00e9d\u00e9ric Bosch\u00e9",
+    "Carl Thomas Haas",
+    "Ralph Haas"
+   ],
+   "n_authors": 4,
+   "abstract": "Accurate and frequent construction progress tracking provides critical input data for project systems such as cost, schedule control, and billing. Unfortunately, conventional progress tracking is labor intensive, sometimes subject to negotiation, and often driven by arcane rules. Attempts to improve progress tracking have recently focused on automation, using technologies such as three-dimensional imaging, global positioning systems, ultra wide band (UWB) indoor locating, handheld computers, voice recognition, wireless networks, and other technologies in various combinations. However, one limit of these approaches is their focus on counting objects or milestones rather than value. In this paper, a four-dimensional model recognition-driven automated progress tracking system that transforms objects to their earned values is examined via the analysis of data from the construction of a steel reinforced concrete structure and a steel structure. It is concluded that automated, object oriented recognition systems that convert each object to its earned value can substantially improve the accuracy of progress tracking, and thus, better support project systems like billing. The contribution of this study is an argument based on scientific results for refocusing future research onto automated earned value tracking, which is ultimately what is needed in practice."
+  },
+  {
+   "id": "https://openalex.org/W3199399526",
+   "doi": "10.3390/buildings11090409",
+   "title": "Applications of Computer Vision in Monitoring the Unsafe Behavior of Construction Workers: Current Status and Challenges",
+   "publication_year": 2021,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 122,
+   "relevance_score": null,
+   "authors": [
+    "Wenyao Liu",
+    "Qingfeng Meng",
+    "Zhen Li",
+    "Xin Hu"
+   ],
+   "n_authors": 4,
+   "abstract": "The unsafe behavior of construction workers is one of the main causes of safety accidents at construction sites. To reduce the incidence of construction accidents and improve the safety performance of construction projects, there is a need to identify risky factors by monitoring the behavior of construction workers. Computer vision (CV) technology, which is a powerful and automated tool used for extracting images and video information from construction sites, has been recognized and adopted as an effective construction site monitoring technology for the identification of risky factors resulting from the unsafe behavior of construction workers. In this article, we introduce the research background of this field and conduct a systematic statistical analysis of the relevant literature in this field through the bibliometric analysis method. Thereafter, we adopt a content-based analysis method to depict the historical explorations in the field. On this basis, the limitations and challenges in this field are identified, and future research directions are proposed. It is found that CV technology can effectively monitor the unsafe behaviors of construction workers. The research findings can enhance people\u2019s understanding of construction safety management."
+  },
+  {
+   "id": "https://openalex.org/W4313214316",
+   "doi": "10.1016/j.ymssp.2022.109980",
+   "title": "Gearbox fault diagnosis based on a fusion model of virtual physical model and data-driven method",
+   "publication_year": 2022,
+   "source": "Mechanical Systems and Signal Processing",
+   "type": "article",
+   "cited_by_count": 121,
+   "relevance_score": null,
+   "authors": [
+    "Jianbo Yu",
+    "Siyuan Wang",
+    "Lu Wang",
+    "Yuanhang Sun"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4290963548",
+   "doi": "10.1109/tnse.2022.3175945",
+   "title": "DEEP-FEL: Decentralized, Efficient and Privacy-Enhanced Federated Edge Learning for Healthcare Cyber Physical Systems",
+   "publication_year": 2022,
+   "source": "IEEE Transactions on Network Science and Engineering",
+   "type": "article",
+   "cited_by_count": 120,
+   "relevance_score": null,
+   "authors": [
+    "Zhuotao Lian",
+    "Qinglin Yang",
+    "Weizheng William Wang",
+    "Qingkui Zeng",
+    "Mamoun Alazab",
+    "Hong Qiang Zhao"
+   ],
+   "n_authors": 7,
+   "abstract": "The rapid development of Internet of Things (IoT) stimulates the innovation for the health-related devices such as remote patient monitoring, connected inhalers and ingestible sensors. Simultaneously, with the aid of numerous equipments, a great number of collected data can be used for disease prediction or diagnosis model establishment. However, the potential patient data leak will also bring privacy and security issues in the interaction period. To deal with these existing issues, we propose a decentralized, efficient, and privacy-enhanced federated edge learning system called DEEP-FEL, which enables medical devices in different institutions to collaboratively train a global model without raw data mutual exchange. Firstly, we design a hierarchical ring topology to alleviate centralization of the conventional training framework, and formulate the ring construction as an optimization problem, which can be solved by an efficient heuristic algorithm. Subsequently, we design an efficient parameter aggregation algorithm for distributed medical institutions to generate a new global model, and the total amount of data transmitted by N nodes is only$2/N$times that of traditional algorithm. In addition, data security among different medical institutions is enhanced by adding artificial noise to the edge model. Finally, experimental results on three medical datasets demonstrate the superiority of our system."
+  },
+  {
+   "id": "https://openalex.org/W2808766141",
+   "doi": "10.1016/j.autcon.2018.05.015",
+   "title": "Greenhouse gas emission monitoring system for manufacturing prefabricated components",
+   "publication_year": 2018,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 119,
+   "relevance_score": null,
+   "authors": [
+    "Xingyu Tao",
+    "Chao Mao",
+    "Fangyun Xie",
+    "Guiwen Liu",
+    "Pengpeng Xu"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4311448413",
+   "doi": "10.1016/j.autcon.2022.104703",
+   "title": "Transformer-based deep learning model and video dataset for unsafe action identification in construction projects",
+   "publication_year": 2022,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 118,
+   "relevance_score": null,
+   "authors": [
+    "Meng Yang",
+    "Wu Chengke",
+    "Yuanjun Guo",
+    "Rui Jiang",
+    "Feixiang Zhou",
+    "Jianlin Zhang"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2135623443",
+   "doi": "10.1061/(asce)cp.1943-5487.0000470",
+   "title": "Low False Alarm Rate Model for Unsafe-Proximity Detection in Construction",
+   "publication_year": 2015,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 117,
+   "relevance_score": null,
+   "authors": [
+    "Jun Wang",
+    "Saiedeh Razavi"
+   ],
+   "n_authors": 2,
+   "abstract": "The research reported in this paper proposes and develops an unsafe-proximity detection model focused on decreasing false alarms. By considering three types of entity attributes [i.e., (1) position, (2) heading/moving direction, and (3) speed], more accurate unsafe-proximity identifications with reduced false alarms can be achieved. The proposed and developed model works via two modules, as follows: (1) state tracking module, and (2) safety rules module. The state tracking module collects construction entities\u2019 states (position, heading, and speed) in real time. The collected states information is analyzed in the safety rules module for unsafe-proximity identifications. Five common situations on construction jobsites are extracted and studied for the development of the safety rules, as follows: (1) static equipment and moving worker, (2) moving equipment and moving worker, (3) moving equipment and static worker, (4) two pieces of moving equipment, and (5) moving equipment and static equipment. The unsafe area around equipment is divided into alert and warning areas which are quantified using forklift as sample equipment. The localization accuracy of the state tracking module and the functional effectiveness of the safety rules module are evaluated, through simulation and a field experiment. Twelve scenarios and 13 subscenarios were designed and incorporated, in the simulation and the field experiment, respectively. The extended Kalman filter combined with the nearest-neighbor"
+  },
+  {
+   "id": "https://openalex.org/W4400364399",
+   "doi": "10.1007/s42524-024-3128-5",
+   "title": "Artificial intelligence in infrastructure construction: A critical review",
+   "publication_year": 2024,
+   "source": "Frontiers of Engineering Management",
+   "type": "article",
+   "cited_by_count": 116,
+   "relevance_score": null,
+   "authors": [
+    "Ke Chen",
+    "Xiaojie Zhou",
+    "Zhikang Bao",
+    "Miroslaw Jan Skibniewski",
+    "Weili Fang"
+   ],
+   "n_authors": 5,
+   "abstract": "Artificial intelligence (AI) has emerged as a promising technological solution for addressing critical infrastructure construction challenges, such as elevated accident rates, suboptimal productivity, and persistent labor shortages. This review aims to thoroughly analyze the contemporary landscape of AI applications in the infrastructure construction sector. We conducted both quantitative and qualitative analyses based on 594 and 91 selected papers, respectively. The results reveal that the primary focus of current AI research in this field centers on safety monitoring and control, as well as process management. Key technologies such as machine learning, computer vision, and natural language processing are prominent, with significant attention given to the development of smart construction sites. Our review also highlights several areas for future research, including broadening the scope of AI applications, exploring the potential of diverse AI technologies, and improving AI applications through standardized data sets and generative AI models. These directions are promising for further advancements in infrastructure construction, offering potential solutions to its significant challenges."
+  },
+  {
+   "id": "https://openalex.org/W2979133542",
+   "doi": "10.1061/(asce)co.1943-7862.0001710",
+   "title": "Application of Wearable Biosensors to Construction Sites. II: Assessing Workers\u2019 Physical Demand",
+   "publication_year": 2019,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 116,
+   "relevance_score": null,
+   "authors": [
+    "Houtan Jebelli",
+    "Byungjoo Choi",
+    "Sang Hyun Lee"
+   ],
+   "n_authors": 3,
+   "abstract": "The construction industry is one of the world\u2019s most labor-intensive industries. In it, workers are challenged almost every day by highly demanding physical tasks. Although current methods [e.g., the National Institute for Occupational Safety and Health (NIOSH)] to investigate the physical demands of various tasks provide valuable information with which to evaluate certain manual handling tasks, they may be limited to consideration of unique characteristics of each individual (e.g., physiological characteristics) and environmental conditions (e.g., ambient temperature and humidity). In other words, given the same task, different workers experience different levels of exertion. To address this problem, the objective of this research is to develop a procedure for automatic predictions of demand levels based on physiological signals collected from workers. To achieve the objective, workers\u2019 physiological signals were captured using a wristband-type biosensor while they performed regular tasks in the field. Various physiological responses were extracted from the artifact-corrected physiological signals. The rate of energy expenditure, estimated using an energy-expenditure prediction program (EEPP), was used as a baseline to separate tasks into low-, moderate-, and high-intensity activities. Then, a supervised-machine-learning model was trained by applying a Gaussian kernel support vector machine. The results led to a prediction accuracy of 90% in recognizing low and high physical"
+  }
+ ]
+}

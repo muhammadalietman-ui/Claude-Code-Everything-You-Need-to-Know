@@ -1,0 +1,1796 @@
+{
+ "query_id": "C8-CIT",
+ "run_date": "2026-11-23",
+ "query_url": "https://api.openalex.org/works?filter=title_and_abstract.search%3A%28%22data+quality%22+OR+%22measurement+uncertainty%22+OR+%22volume+uncertainty%22+OR+%22data+validation%22+OR+provenance+OR+%22audit+trail%22+OR+auditability+OR+traceability+OR+%22data+integrity%22%29+AND+%28construction+OR+%22digital+twin%22+OR+%22progress+monitoring%22%29%2Cfrom_publication_date%3A2010-01-01%2Ctype%3Aarticle%7Creview%7Cbook-chapter%7Cconference-paper%2Clanguage%3Aen&sort=cited_by_count%3Adesc&per-page=100&select=id%2Cdoi%2Ctitle%2Cdisplay_name%2Cpublication_year%2Cprimary_location%2Ctype%2Ccited_by_count%2Cauthorships%2Cabstract_inverted_index%2Crelevance_score",
+ "hits_total": 41121,
+ "retrieved": 100,
+ "records": [
+  {
+   "id": "https://openalex.org/W2013760130",
+   "doi": "10.1002/anie.201107017",
+   "title": "Palladium\u2010Catalyzed Cross\u2010Coupling: A Historical Contextual Perspective to the 2010 Nobel Prize",
+   "publication_year": 2012,
+   "source": "Angewandte Chemie International Edition",
+   "type": "article",
+   "cited_by_count": 3502,
+   "relevance_score": null,
+   "authors": [
+    "Carin C. C. Johansson",
+    "Matthew O. Kitching",
+    "Thomas J. Colacot",
+    "Victor A. Snieckus"
+   ],
+   "n_authors": 4,
+   "abstract": "In 2010, Richard Heck, Ei-ichi Negishi, and Akira Suzuki joined the prestigious circle of Nobel Laureate chemists for their roles in discovering and developing highly practical methodologies for C-C bond construction. From their original contributions in the early 1970s the landscape of the strategies and methods of organic synthesis irreversibly changed for the modern chemist, both in academia and in industry. In this Review, we attempt to trace the historical origin of these powerful reactions, and outline the developments from the seminal discoveries leading to their eminent position as appreciated and applied today."
+  },
+  {
+   "id": "https://openalex.org/W2599784308",
+   "doi": "10.1515/jdis-2017-0006",
+   "title": "Science Mapping: A Systematic Review of the Literature",
+   "publication_year": 2017,
+   "source": "Journal of Data and Information Science",
+   "type": "review",
+   "cited_by_count": 2542,
+   "relevance_score": null,
+   "authors": [
+    "Chaomei Chen"
+   ],
+   "n_authors": 1,
+   "abstract": "Purpose We present a systematic review of the literature concerning major aspects of science mapping to serve two primary purposes: First, to demonstrate the use of a science mapping approach to perform the review so that researchers may apply the procedure to the review of a scientific domain of their own interest, and second, to identify major areas of research activities concerning science mapping, intellectual milestones in the development of key specialties, evolutionary stages of major specialties involved, and the dynamics of transitions from one specialty to another. Design/methodology/approach We first introduce a theoretical framework of the evolution of a scientific specialty. Then we demonstrate a generic search strategy that can be used to construct a representative dataset of bibliographic records of a domain of research. Next, progressively synthesized co-citation networks are constructed and visualized to aid visual analytic studies of the domain\u2019s structural and dynamic patterns and trends. Finally, trajectories of citations made by particular types of authors and articles are presented to illustrate the predictive potential of the analytic approach. Findings The evolution of the science mapping research involves the development of a number of interrelated specialties. Four major specialties are discussed in detail in terms of four evolutionary stages: conceptualization, tool construction, application, and codification. Underlying connections between major sp"
+  },
+  {
+   "id": "https://openalex.org/W2117029130",
+   "doi": "10.1890/12-2010.1",
+   "title": "PERMANOVA, ANOSIM, and the Mantel test in the face of heterogeneous dispersions: What null hypothesis are you testing?",
+   "publication_year": 2013,
+   "source": "Ecological Monographs",
+   "type": "article",
+   "cited_by_count": 2321,
+   "relevance_score": null,
+   "authors": [
+    "Marti Jane Anderson",
+    "Daniel C. I. Walsh"
+   ],
+   "n_authors": 2,
+   "abstract": "ANOSIM, PERMANOVA, and the Mantel test are all resemblance\u2010based permutation methods widely used in ecology. Here, we report the results of the first simulation study, to our knowledge, specifically designed to examine the effects of heterogeneity of multivariate dispersions on the rejection rates of these tests and on a classical MANOVA test (Pillai's trace). Increasing differences in dispersion among groups were simulated under scenarios of changing sample sizes, correlation structures, error distributions, numbers of variables, and numbers of groups for balanced and unbalanced one\u2010way designs. The power of these tests to detect environmental impacts or natural large\u2010scale biogeographic gradients was also compared empirically under simulations based on parameters derived from real ecological data sets. Overall, ANOSIM and the Mantel test were very sensitive to heterogeneity in dispersions, with ANOSIM generally being more sensitive than the Mantel test. In contrast, PERMANOVA and Pillai's trace were largely unaffected by heterogeneity for balanced designs. PERMANOVA was also unaffected by differences in correlation structure, unlike Pillai's trace. For unbalanced designs, however, all of the tests were (1) too liberal when the smaller group had greater dispersion and (2) overly conservative when the larger group had greater dispersion, especially ANOSIM and the Mantel test. For simulations based on real ecological data sets, PERMANOVA was generally, but not always, more pow"
+  },
+  {
+   "id": "https://openalex.org/W4385474529",
+   "doi": "10.48550/arxiv.2307.16789",
+   "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+   "publication_year": 2024,
+   "source": "International Conference on Learning Representations",
+   "type": "conference-paper",
+   "cited_by_count": 2024,
+   "relevance_score": null,
+   "authors": [
+    "Qin, Yujia",
+    "Shihao Liang",
+    "Yining Ye",
+    "Kunlun Zhu",
+    "Lan Yan",
+    "Yaxi Lu"
+   ],
+   "n_authors": 19,
+   "abstract": "Despite the advancements of open-source large language models (LLMs), e.g., LLaMA, they remain significantly limited in tool-use capabilities, i.e., using external tools (APIs) to fulfill human instructions. The reason is that current instruction tuning largely focuses on basic language tasks but ignores the tool-use domain. This is in contrast to the excellent tool-use capabilities of state-of-the-art (SOTA) closed-source LLMs, e.g., ChatGPT. To bridge this gap, we introduce ToolLLM, a general tool-use framework encompassing data construction, model training, and evaluation. We first present ToolBench, an instruction-tuning dataset for tool use, which is constructed automatically using ChatGPT. Specifically, the construction can be divided into three stages: (i) API collection: we collect 16,464 real-world RESTful APIs spanning 49 categories from RapidAPI Hub; (ii) instruction generation: we prompt ChatGPT to generate diverse instructions involving these APIs, covering both single-tool and multi-tool scenarios; (iii) solution path annotation: we use ChatGPT to search for a valid solution path (chain of API calls) for each instruction. To enhance the reasoning capabilities of LLMs, we develop a novel depth-first search-based decision tree algorithm. It enables LLMs to evaluate multiple reasoning traces and expand the search space. Moreover, to evaluate the tool-use capabilities of LLMs, we develop an automatic evaluator: ToolEval. Based on ToolBench, we fine-tune LLaMA to obt"
+  },
+  {
+   "id": "https://openalex.org/W2123069643",
+   "doi": "10.1109/tpds.2010.183",
+   "title": "Enabling Public Auditability and Data Dynamics for Storage Security in Cloud Computing",
+   "publication_year": 2010,
+   "source": "IEEE Transactions on Parallel and Distributed Systems",
+   "type": "article",
+   "cited_by_count": 1620,
+   "relevance_score": null,
+   "authors": [
+    "Qian Wang",
+    "Cong Wang",
+    "Kui Ren",
+    "Wenjing Lou",
+    "Jin Li"
+   ],
+   "n_authors": 5,
+   "abstract": "Cloud Computing has been envisioned as the next-generation architecture of IT Enterprise. It moves the application software and databases to the centralized large data centers, where the management of the data and services may not be fully trustworthy. This unique paradigm brings about many new security challenges, which have not been well understood. This work studies the problem of ensuring the integrity of data storage in Cloud Computing. In particular, we consider the task of allowing a third party auditor (TPA), on behalf of the cloud client, to verify the integrity of the dynamic data stored in the cloud. The introduction of TPA eliminates the involvement of the client through the auditing of whether his data stored in the cloud are indeed intact, which can be important in achieving economies of scale for Cloud Computing. The support for data dynamics via the most general forms of data operation, such as block modification, insertion, and deletion, is also a significant step toward practicality, since services in Cloud Computing are not limited to archive or backup data only. While prior works on ensuring remote data integrity often lacks the support of either public auditability or dynamic data operations, this paper achieves both. We first identify the difficulties and potential security problems of direct extensions with fully dynamic data updates from prior works and then show how to construct an elegant verification scheme for the seamless integration of these two "
+  },
+  {
+   "id": "https://openalex.org/W2139275006",
+   "doi": "10.1007/jhep05(2011)036",
+   "title": "Towards a derivation of holographic entanglement entropy",
+   "publication_year": 2011,
+   "source": "Journal of High Energy Physics",
+   "type": "article",
+   "cited_by_count": 1538,
+   "relevance_score": null,
+   "authors": [
+    "Horacio Casini",
+    "Marina Huerta",
+    "Robert Cobb Myers"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2924663053",
+   "doi": "10.1002/etc.4371",
+   "title": "Rethinking microplastics as a diverse contaminant suite",
+   "publication_year": 2019,
+   "source": "Environmental Toxicology and Chemistry",
+   "type": "article",
+   "cited_by_count": 1483,
+   "relevance_score": null,
+   "authors": [
+    "Chelsea M. Rochman",
+    "Cole B. Brookson",
+    "Jacqueline Bikker",
+    "Natasha Djuric",
+    "Arielle Earn",
+    "Kennedy Bucci"
+   ],
+   "n_authors": 30,
+   "abstract": "Microplastics are not microplastics are not microplastics, just like pesticides are not pesticides are not pesticides. \"Microplastics,\" like other classes of chemical contaminants, is a catch-all term for a variety of unique chemical compounds. Yet, many scientific publications, policy reports, and media articles present microplastics as if they are simply a single compound or type of material. Such simple communications have consequences, leading to simplified studies and protocols that may be inadequate to inform us of the sources and fate of microplastics, as well as their biological and ecological implications. For example, studying the fate and effects of one plastic type with a specific shape and size does not tell us the fate and effects of microplastics in general. Moreover, not recognizing the diversity of materials in a microplastics sample may overlook the complexity necessary to inform robust quality analysis and quality control (QA/QC) needed in sampling and analytical measurement techniques. For instance, some methods are better at recovering specific sizes, shapes, or types of microplastics. Simplifying microplastics as a single compound has also led to confusion around the need for new policies and strategies to reduce future emissions of microplastics. For example, some policymakers and scientists are under the impression that banning microbeads from rinse-off personal care products has eliminated future releases of microplastics in general to the environment"
+  },
+  {
+   "id": "https://openalex.org/W2105392510",
+   "doi": "10.1177/0022146510383495",
+   "title": "The Social Construction of Illness: Key Insights and Policy Implications",
+   "publication_year": 2010,
+   "source": "Journal of Health and Social Behavior",
+   "type": "review",
+   "cited_by_count": 1349,
+   "relevance_score": null,
+   "authors": [
+    "Peter Conrad",
+    "Kristin Kay Barker"
+   ],
+   "n_authors": 2,
+   "abstract": "The social construction of illness is a major research perspective in medical sociology. This article traces the roots of this perspective and presents three overarching constructionist findings. First, some illnesses are particularly embedded with cultural meaning--which is not directly derived from the nature of the condition--that shapes how society responds to those afflicted and influences the experience of that illness. Second, all illnesses are socially constructed at the experiential level, based on how individuals come to understand and live with their illness. Third, medical knowledge about illness and disease is not necessarily given by nature but is constructed and developed by claims-makers and interested parties. We address central policy implications of each of these findings and discuss fruitful directions for policy-relevant research in a social constructionist tradition. Social constructionism provides an important counterpoint to medicine's largely deterministic approaches to disease and illness, and it can help us broaden policy deliberations and decisions."
+  },
+  {
+   "id": "https://openalex.org/W2023873184",
+   "doi": "10.1111/j.1365-2966.2010.18188.x",
+   "title": "Galaxy and Mass Assembly (GAMA): survey diagnostics and core data release",
+   "publication_year": 2011,
+   "source": "Monthly Notices of the Royal Astronomical Society",
+   "type": "article",
+   "cited_by_count": 1331,
+   "relevance_score": null,
+   "authors": [
+    "Simon P. Driver",
+    "David T. Hill",
+    "L. S. Kelvin",
+    "Aaron S G Robotham",
+    "J. Liske",
+    "Peder Norberg"
+   ],
+   "n_authors": 55,
+   "abstract": "The Galaxy and Mass Assembly (GAMA) survey has been operating since 2008 February on the 3.9-m Anglo-Australian Telescope using the AAOmega fibre-fed spectrograph facility to acquire spectra with a resolution of R\u2248 1300 for 120 862 Sloan Digital Sky Survey selected galaxies. The target catalogue constitutes three contiguous equatorial regions centred at 9h (G09), 12h (G12) and 14.5h (G15) each of 12 \u00d7 4 deg2 to limiting fluxes of rpet < 19.4, rpet < 19.8 and rpet < 19.4 mag, respectively (and additional limits at other wavelengths). Spectra and reliable redshifts have been acquired for over 98 per cent of the galaxies within these limits. Here we present the survey footprint, progression, data reduction, redshifting, re-redshifting, an assessment of data quality after 3 yr, additional image analysis products (including ugrizYJHK photometry, S\u00e9rsic profiles and photometric redshifts), observing mask and construction of our core survey catalogue (GamaCore). From this we create three science-ready catalogues: GamaCoreDR1 for public release, which includes data acquired during year 1 of operations within specified magnitude limits (2008 February to April); GamaCoreMainSurvey containing all data above our survey limits for use by the GAMA Team and collaborators; and GamaCoreAtlasSV containing year 1, 2 and 3 data matched to Herschel-ATLAS science demonstration data. These catalogues along with the associated spectra, stamps and profiles can be accessed via the GAMA website: http:/"
+  },
+  {
+   "id": "https://openalex.org/W2101637067",
+   "doi": "10.1093/cjres/rsq004",
+   "title": "Regional resilience: theoretical and empirical perspectives",
+   "publication_year": 2010,
+   "source": "Cambridge Journal of Regions Economy and Society",
+   "type": "article",
+   "cited_by_count": 1097,
+   "relevance_score": null,
+   "authors": [
+    "Susan Christopherson",
+    "Jonathan Michie",
+    "Peter Tyler"
+   ],
+   "n_authors": 3,
+   "abstract": "This edition of Cambridge Journal of Regions, Economy and Society is devoted to examining regional resilience and assessing its underlying theoretical foundations, the empirical evidence that may lie behind it and importantly what it may have to offer the formulation of policy. The articles in this issue explore the concept from a variety of angles and demonstrate why it has emerged as a popular, albeit contested, concept in environmental studies and the social sciences. We acknowledge that one reason for the popularity of the term \u2018regional resilience\u2019 is its malleability; it can mean different things to different people. As the term originated in environmental studies, it described biological capacity to adapt and thrive under adverse environmental conditions. At the other end of the spectrum, in economics, resilience has been defined in terms of return to a fixed and narrowly defined equilibrium (as measured by employment, for example) or, in the more liberal version, multiple equilibria. In the social sciences, more generally, however, the term regional resilience has become popular because of its association with regional adaptation and so has strong connections with evolutionary economics and evolutionary economic geography.1 One obvious question is why the concept has become so popular at this historical moment. The processes it encompasses (rebound, adaptation and recovery) certainly are not new in any fundamental sense. The attention to resilience may be, however, a "
+  },
+  {
+   "id": "https://openalex.org/W2566593834",
+   "doi": "10.3847/1538-4365/abb82d",
+   "title": "The Pan-STARRS1 Database and Data Products",
+   "publication_year": 2020,
+   "source": "The Astrophysical Journal Supplement Series",
+   "type": "article",
+   "cited_by_count": 1083,
+   "relevance_score": null,
+   "authors": [
+    "H. A. Flewelling",
+    "Eugene A. Magnier",
+    "K. C. Chambers",
+    "J. N. Heasley",
+    "C. Holmberg",
+    "M. E. Huber"
+   ],
+   "n_authors": 39,
+   "abstract": "This paper describes the organization of the database and the catalog data products from the Pan-STARRS1 3 \u03c0 Steradian Survey. The catalog data products are available in the form of an SQL-based relational database from MAST, the Mikulski Archive for Space Telescopes at STScI. The database is described in detail, including the construction of the database, the provenance of the data, the schema, and how the database tables are related. Examples of queries for a range of science goals are included."
+  },
+  {
+   "id": "https://openalex.org/W2080732846",
+   "doi": "10.1128/aem.02848-13",
+   "title": "Corrosion of Iron by Sulfate-Reducing Bacteria: New Views of an Old Problem",
+   "publication_year": 2013,
+   "source": "Applied and Environmental Microbiology",
+   "type": "review",
+   "cited_by_count": 1063,
+   "relevance_score": null,
+   "authors": [
+    "Dennis Enning",
+    "Julia Garrelfs"
+   ],
+   "n_authors": 2,
+   "abstract": "About a century ago, researchers first recognized a connection between the activity of environmental microorganisms and cases of anaerobic iron corrosion. Since then, such microbially influenced corrosion (MIC) has gained prominence and its technical and economic implications are now widely recognized. Under anoxic conditions (e.g., in oil and gas pipelines), sulfate-reducing bacteria (SRB) are commonly considered the main culprits of MIC. This perception largely stems from three recurrent observations. First, anoxic sulfate-rich environments (e.g., anoxic seawater) are particularly corrosive. Second, SRB and their characteristic corrosion product iron sulfide are ubiquitously associated with anaerobic corrosion damage, and third, no other physiological group produces comparably severe corrosion damage in laboratory-grown pure cultures. However, there remain many open questions as to the underlying mechanisms and their relative contributions to corrosion. On the one hand, SRB damage iron constructions indirectly through a corrosive chemical agent, hydrogen sulfide, formed by the organisms as a dissimilatory product from sulfate reduction with organic compounds or hydrogen (\"chemical microbially influenced corrosion\"; CMIC). On the other hand, certain SRB can also attack iron via withdrawal of electrons (\"electrical microbially influenced corrosion\"; EMIC), viz., directly by metabolic coupling. Corrosion of iron by SRB is typically associated with the formation of iron sulfide"
+  },
+  {
+   "id": "https://openalex.org/W1966814098",
+   "doi": "10.1016/j.rser.2010.09.003",
+   "title": "A review on energy saving strategies in industrial sector",
+   "publication_year": 2010,
+   "source": "Renewable and Sustainable Energy Reviews",
+   "type": "article",
+   "cited_by_count": 1044,
+   "relevance_score": null,
+   "authors": [
+    "Ehab Abdelaziz",
+    "R. Saidur",
+    "Saad Mekhilef"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2034942869",
+   "doi": "10.1038/sc.2012.158",
+   "title": "The global map for traumatic spinal cord injury epidemiology: update 2011, global incidence rate",
+   "publication_year": 2013,
+   "source": "Spinal Cord",
+   "type": "article",
+   "cited_by_count": 1025,
+   "relevance_score": null,
+   "authors": [
+    "Bonsan B. Lee",
+    "Raymond A. Cripps",
+    "Michael Fitzharris",
+    "PETER C. WING"
+   ],
+   "n_authors": 4,
+   "abstract": "STUDY DESIGN: Literature review. OBJECTIVES: Update the global maps for traumatic spinal cord injury (TSCI) and incorporate methods for extrapolating incidence data. SETTING: An initiative of the International Spinal Cord Society (ISCoS) Prevention Committee. METHODS: A search of Medline/Embase was performed (1959-Jun/30/2011). Enhancement of data-quality 'zones' including individual data-ranking as well as integrating regression techniques to provide a platform for continued regional and global estimates. RESULTS: A global-incident rate (2007) is estimated at 23 TSCI cases per million (179,312 cases per annum). Regional data are available from North America (40 per million), Western Europe (16 per million) and Australia (15 per million). Extrapolated regional data are available for Asia-Central (25 per million), Asia-South (21 per million), Caribbean (19 per million), Latin America, Andean (19 per million), Latin America, Central (24 per million), Latin America-Southern (25 per million), Sub-Saharan Africa-Central (29 per million), Sub-Saharan Africa-East (21 per million). DISCUSSION: It is estimated that globally in 2007, there would have been between 133 and 226 thousand incident cases of TSCI from accidents and violence. The proportion of TSCI from land transport is decreasing/stable in developed but increasing in developing countries due to trends in transport mode (transition to motorised transport), poor infrastructure and regulatory challenges. TSCIs from low falls in"
+  },
+  {
+   "id": "https://openalex.org/W2160443244",
+   "doi": "10.1093/bioinformatics/bts196",
+   "title": "RNA-SeQC: RNA-seq metrics for quality control and process optimization",
+   "publication_year": 2012,
+   "source": "Bioinformatics",
+   "type": "article",
+   "cited_by_count": 981,
+   "relevance_score": null,
+   "authors": [
+    "David S. DeLuca",
+    "Joshua Z. Levin",
+    "Andrey Sivachenko",
+    "Timothy Fennell",
+    "Marc-Danie Nazaire",
+    "Chris Williams"
+   ],
+   "n_authors": 9,
+   "abstract": "UNLABELLED: RNA-seq, the application of next-generation sequencing to RNA, provides transcriptome-wide characterization of cellular activity. Assessment of sequencing performance and library quality is critical to the interpretation of RNA-seq data, yet few tools exist to address this issue. We introduce RNA-SeQC, a program which provides key measures of data quality. These metrics include yield, alignment and duplication rates; GC bias, rRNA content, regions of alignment (exon, intron and intragenic), continuity of coverage, 3'/5' bias and count of detectable transcripts, among others. The software provides multi-sample evaluation of library construction protocols, input materials and other experimental parameters. The modularity of the software enables pipeline integration and the routine monitoring of key measures of data quality such as the number of alignable reads, duplication rates and rRNA contamination. RNA-SeQC allows investigators to make informed decisions about sample inclusion in downstream analysis. In summary, RNA-SeQC provides quality control measures critical to experiment design, process optimization and downstream computational analysis. AVAILABILITY AND IMPLEMENTATION: See www.genepattern.org to run online, or www.broadinstitute.org/rna-seqc/ for a command line tool."
+  },
+  {
+   "id": "https://openalex.org/W1983359423",
+   "doi": "10.1016/j.apgeochem.2014.04.009",
+   "title": "Characteristics and environmental aspects of slag: A review",
+   "publication_year": 2014,
+   "source": "Applied Geochemistry",
+   "type": "article",
+   "cited_by_count": 879,
+   "relevance_score": null,
+   "authors": [
+    "Nadine M. Piatak",
+    "Michael B. Parsons",
+    "Robert R. Seal"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2113525598",
+   "doi": "10.1093/sysbio/syr107",
+   "title": "Best Practices for Justifying Fossil Calibrations",
+   "publication_year": 2011,
+   "source": "Systematic Biology",
+   "type": "article",
+   "cited_by_count": 852,
+   "relevance_score": null,
+   "authors": [
+    "James Ford Parham",
+    "Philip C. J. Donoghue",
+    "Christopher J. Bell",
+    "Tyler Calway",
+    "Jason J. Head",
+    "Patricia A. Holroyd"
+   ],
+   "n_authors": 25,
+   "abstract": "Our ability to correlate biological evolution with climate change, geological evolution, and other historical patterns is essential to understanding the processes that shape biodiversity. Combining data from the fossil record with molecular phylogenetics represents an exciting synthetic approach to this challenge. The first molecular divergence dating analysis (Zuckerkandl and Pauling 1962) was based on a measure of the amino acid differences in the hemoglobin molecule, with replacement rates established (calibrated) using paleontological age estimates from textbooks (e.g., Dodson 1960). Since that time, the amount of molecular sequence data has increased dramatically, affording ever-greater opportunities to apply molecular divergence approaches to fundamental problems in evolutionary biology. To capitalize on these opportunities, increasingly sophisticated divergence dating methods have been, and continue to be, developed. In contrast, comparatively, little attention has been devoted to critically assessing the paleontological and associated geological data used in divergence dating analyses. The lack of rigorous protocols for assigning calibrations based on fossils raises serious questions about the credibility of divergence dating results (e.g., Shaul and Graur 2002; Brochu et al. 2004; Graur and Martin 2004; Hedges and Kumar 2004; Reisz and M\u00fcller 2004a, 2004b; Theodor 2004; van Tuinen and Hadly 2004a, 2004b; van Tuinen et al. 2004; Benton and Donoghue 2007; Donoghue and "
+  },
+  {
+   "id": "https://openalex.org/W2887516688",
+   "doi": "10.1002/poi3.183",
+   "title": "Constructing a Data\u2010Driven Society: China's Social Credit System as a State Surveillance Infrastructure",
+   "publication_year": 2018,
+   "source": "Policy & Internet",
+   "type": "article",
+   "cited_by_count": 825,
+   "relevance_score": null,
+   "authors": [
+    "Fan Liang",
+    "Vishnupriya Das",
+    "Nadiya Kostyuk",
+    "Muzammil Hussain"
+   ],
+   "n_authors": 4,
+   "abstract": "Big data technologies have been adopted by both the public and private sectors to develop and expand surveillance capacities. This article traces the institutional processes and political\u2010economic interests of the public and private stakeholders involved in the construction of China's Social Credit System (SCS), which is currently on track for full deployment on 1.4 billion citizens by 2020. The SCS aims to centralize data platforms into a big data\u2013enabled surveillance infrastructure to manage, monitor, and predict the trustworthiness of citizens, firms, organizations, and governments in China. A punishment/reward system based on credit scores will determine whether citizens and organizations are able to access things like education, markets, and tax deductions. While the SCS is widely described by the Western news media as a means of \u201cbig brother\u201d or political control, we find that it is a complicated system that focuses primarily on financial and commercial activities rather than political ones. This article presents a framework for understanding state surveillance infrastructures by exploring how various government agencies are cooperating to establish this centralized data infrastructure with the aim of scoring credit, and discussing the distinct but interconnected processes of data collection, data aggregation, and data analytics."
+  },
+  {
+   "id": "https://openalex.org/W2013398238",
+   "doi": "10.5964/jspp.v1i1.96",
+   "title": "The Role of the Media in the Construction of Public Belief and Social Change",
+   "publication_year": 2013,
+   "source": "Journal of Social and Political Psychology",
+   "type": "article",
+   "cited_by_count": 815,
+   "relevance_score": null,
+   "authors": [
+    "Catherine Happer",
+    "Greg Philo"
+   ],
+   "n_authors": 2,
+   "abstract": "The media play a central role in informing the public about what happens in the world, particularly in those areas in which audiences do not possess direct knowledge or experience. This article examines the impact the media has in the construction of public belief and attitudes and its relationship to social change. Drawing on findings from a range of empirical studies, we look at the impact of media coverage in areas such as disability, climate change and economic development. Findings across these areas show the way in which the media shape public debate in terms of setting agendas and focusing public interest on particular subjects. For example, in our work on disability we showed the relationship between negative media coverage of people on disability benefit and a hardening of attitudes towards them. Further, we found that the media also severely limit the information with which audiences understand these issues and that alternative solutions to political problems are effectively removed from public debate. We found other evidence of the way in which media coverage can operate to limit understanding of possibilities of social change. In our study of news reporting of climate change, we traced the way that the media have constructed uncertainty around the issue and how this has led to disengagement in relation to possible changes in personal behaviours. Finally, we discuss the implications for communications and policy and how both the traditional and new media might help"
+  },
+  {
+   "id": "https://openalex.org/W1509897070",
+   "doi": "10.1016/j.aos.2011.01.002",
+   "title": "Seeking legitimacy for new assurance forms: The case of assurance on sustainability reporting",
+   "publication_year": 2011,
+   "source": "Accounting Organizations and Society",
+   "type": "article",
+   "cited_by_count": 809,
+   "relevance_score": null,
+   "authors": [
+    "Brendan O\u2019Dwyer",
+    "David Lloyd Owen",
+    "Jeffrey Unerman"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2027769154",
+   "doi": "10.1145/2000799.2000800",
+   "title": "Runtime Verification for LTL and TLTL",
+   "publication_year": 2011,
+   "source": "ACM Transactions on Software Engineering and Methodology",
+   "type": "article",
+   "cited_by_count": 793,
+   "relevance_score": null,
+   "authors": [
+    "Andreas Bauer",
+    "Martin Leucker",
+    "Christian Schallhart"
+   ],
+   "n_authors": 3,
+   "abstract": "This article studies runtime verification of properties expressed either in lineartime temporal logic (LTL) or timed lineartime temporal logic (TLTL). It classifies runtime verification in identifying its distinguishing features to model checking and testing, respectively. It introduces a three-valued semantics (with truth values true, false, inconclusive ) as an adequate interpretation as to whether a partial observation of a running system meets an LTL or TLTL property. For LTL, a conceptually simple monitor generation procedure is given, which is optimal in two respects: First, the size of the generated deterministic monitor is minimal , and, second, the monitor identifies a continuously monitored trace as either satisfying or falsifying a property as early as possible . The feasibility of the developed methodology is demontrated using a collection of real-world temporal logic specifications. Moreover, the presented approach is related to the properties monitorable in general and is compared to existing concepts in the literature. It is shown that the set of monitorable properties does not only encompass the safety and cosafety properties but is strictly larger. For TLTL, the same road map is followed by first defining a three-valued semantics. The corresponding construction of a timed monitor is more involved, yet, as shown, possible."
+  },
+  {
+   "id": "https://openalex.org/W2042831115",
+   "doi": "10.1038/ncomms5228",
+   "title": "Made-to-order metal-organic frameworks for trace carbon dioxide removal and air capture",
+   "publication_year": 2014,
+   "source": "Nature Communications",
+   "type": "article",
+   "cited_by_count": 777,
+   "relevance_score": null,
+   "authors": [
+    "Osama Shekhah",
+    "Youssef Belmabkhout",
+    "Zhijie Chen",
+    "Vincent Guillerm",
+    "Amy Cairns",
+    "Karim Adil"
+   ],
+   "n_authors": 7,
+   "abstract": "Direct air capture is regarded as a plausible alternate approach that, if economically practical, can mitigate the increasing carbon dioxide emissions associated with two of the main carbon polluting sources, namely stationary power plants and transportation. Here we show that metal-organic framework crystal chemistry permits the construction of an isostructural metal-organic framework (SIFSIX-3-Cu) based on pyrazine/copper(II) two-dimensional periodic 4(4) square grids pillared by silicon hexafluoride anions and thus allows further contraction of the pore system to 3.5 versus 3.84 \u00c5 for the parent zinc(II) derivative. This enhances the adsorption energetics and subsequently displays carbon dioxide uptake and selectivity at very low partial pressures relevant to air capture and trace carbon dioxide removal. The resultant SIFSIX-3-Cu exhibits uniformly distributed adsorption energetics and offers enhanced carbon dioxide physical adsorption properties, uptake and selectivity in highly diluted gas streams, a performance, to the best of our knowledge, unachievable with other classes of porous materials."
+  },
+  {
+   "id": "https://openalex.org/W2753840835",
+   "doi": "10.1016/j.imavis.2017.08.003",
+   "title": "A survey of multimodal sentiment analysis",
+   "publication_year": 2017,
+   "source": "Image and Vision Computing",
+   "type": "article",
+   "cited_by_count": 766,
+   "relevance_score": null,
+   "authors": [
+    "Mohammad Soleymani",
+    "David Garc\u00eda",
+    "Brendan Jou",
+    "Bj\u00f6rn Wolfgang Schuller",
+    "Shih\u2010Fu Chang",
+    "Maja Panti\u0107"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2000207828",
+   "doi": "10.1108/02517471080000700",
+   "title": "The analytic hierarchy process and analytic network process: an overview of applications",
+   "publication_year": 2010,
+   "source": "Management Decision",
+   "type": "article",
+   "cited_by_count": 755,
+   "relevance_score": null,
+   "authors": [
+    "Seyhan Sipahi",
+    "Mehpare Timor"
+   ],
+   "n_authors": 2,
+   "abstract": "Purpose The purpose of this paper is to present a detailed literature review of the recent applications of the analytic hierarchy process (AHP) and analytic network process (ANP) group decision\u2010making methodologies. Design/methodology/approach Among more than 600 related papers published in the period 2005\u20102009, a total of 232 application articles published in highly reputed international academic journals were selected and referenced in this paper. Papers were categorized according to application areas, subject titles, publication date, country of origin, academic journals, and integrated methodologies, and are summarized herein by various tables and charts. Findings The findings show that during the years 2005\u20102009, use of the AHP technique has continued to increase exponentially. Moreover, it is expected that ANP will gain more popularity in the future, as the benefits of ANP become better understood. Applications of AHP have been dominant in manufacturing, followed by the environmental management and agriculture field, power and energy industry, transportation industry, construction industry, and healthcare. Other remarkable application fields include education, logistics, e\u2010business, IT, R&D, telecommunication industry, finance and banking, urban management, defense industry and military, government, marketing, tourism and leisure, archaeology, auditing, and the mining industry. Research limitations/implications The study does not consider theoretical based AHP or ANP ar"
+  },
+  {
+   "id": "https://openalex.org/W2021935701",
+   "doi": "10.1016/j.renene.2011.01.002",
+   "title": "The wind energy (r)evolution: A short review of a long history",
+   "publication_year": 2011,
+   "source": "Renewable Energy",
+   "type": "article",
+   "cited_by_count": 752,
+   "relevance_score": null,
+   "authors": [
+    "John K. Kaldellis",
+    "Dimitrios P. Zafirakis"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W1583595895",
+   "doi": "10.1038/nature14586",
+   "title": "DNA rendering of polyhedral meshes at the nanoscale",
+   "publication_year": 2015,
+   "source": "Nature",
+   "type": "article",
+   "cited_by_count": 745,
+   "relevance_score": null,
+   "authors": [
+    "Erik Benson",
+    "Abdulmelik Mohammed",
+    "Johan Gardell",
+    "Sergej Masich",
+    "Eugen Czeizler",
+    "Pekka Orponen"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2027808287",
+   "doi": "10.1016/j.amepre.2010.09.034",
+   "title": "Using Google Street View to Audit Neighborhood Environments",
+   "publication_year": 2010,
+   "source": "American Journal of Preventive Medicine",
+   "type": "article",
+   "cited_by_count": 735,
+   "relevance_score": null,
+   "authors": [
+    "Andrew Rundle",
+    "Michael D. M. Bader",
+    "Catherine A. Richards",
+    "Kathryn M. Neckerman",
+    "Julien O. Teitler"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2107040035",
+   "doi": "10.1080/17450101.2012.718935",
+   "title": "The Enchantments of Infrastructure",
+   "publication_year": 2012,
+   "source": "Mobilities",
+   "type": "article",
+   "cited_by_count": 728,
+   "relevance_score": null,
+   "authors": [
+    "Penelope M. Harvey",
+    "Hannah Knox"
+   ],
+   "n_authors": 2,
+   "abstract": "This paper addresses the unstable material and social environments that large-scale road construction projects attempt to tame and fix in place as a way of exploring the affective force of roads as technologies for delivering progress and development. Drawing from our ethnography of the construction of two roads in Peru, we trace the disruptive and destabilising processes through which roads come to hold the promise of transformation. We approach roads with curiosity as to their capacity to enchant with respect to three specific promises: speed, political integration and economic connectivity. We suggest that whilst the abstractions of engineering and politics are provisional attempts to demarcate the capacity of roads to bring about the enhancement of international trade, promote the growth of national economies and provide economic opportunity for those prepared to engage with the road\u2019s potential, that these practices alone are not sufficient to explain the passionate promise that roads hold in Peruvian society. We suggest, rather, that the promise of stability is invigorated by mundane engagements with unruly forces that threaten to subvert the best laid plans of politicians and engineers. We argue that such forces are integral to the ways in which roads come to endure as enchanted sites of contemporary state-craft despite their capacity to disappoint and/or the likelihood of generating negative consequences. The political and material process of creating roads, calls for"
+  },
+  {
+   "id": "https://openalex.org/W1966786060",
+   "doi": "10.1016/j.rser.2013.05.001",
+   "title": "Life cycle assessment in the construction sector: A review",
+   "publication_year": 2013,
+   "source": "Renewable and Sustainable Energy Reviews",
+   "type": "article",
+   "cited_by_count": 723,
+   "relevance_score": null,
+   "authors": [
+    "Matthias Buyle",
+    "Johan Braet",
+    "Amaryllis Audenaert"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4352994034",
+   "doi": "10.5334/aogh.4056",
+   "title": "The Minderoo-Monaco Commission on Plastics and Human Health",
+   "publication_year": 2023,
+   "source": "Annals of Global Health",
+   "type": "review",
+   "cited_by_count": 693,
+   "relevance_score": null,
+   "authors": [
+    "Philip J. Landrigan",
+    "Herv\u00e9 Raps",
+    "Maureen Cropper",
+    "Caroline Bald",
+    "Manuel Brunner",
+    "Elvia Maya Canonizado"
+   ],
+   "n_authors": 48,
+   "abstract": "Background: Plastics have conveyed great benefits to humanity and made possible some of the most significant advances of modern civilization in fields as diverse as medicine, electronics, aerospace, construction, food packaging, and sports. It is now clear, however, that plastics are also responsible for significant harms to human health, the economy, and the earth\u2019s environment. These harms occur at every stage of the plastic life cycle, from extraction of the coal, oil, and gas that are its main feedstocks through to ultimate disposal into the environment. The extent of these harms not been systematically assessed, their magnitude not fully quantified, and their economic costs not comprehensively counted. Goals: The goals of this Minderoo-Monaco Commission on Plastics and Human Health are to comprehensively examine plastics\u2019 impacts across their life cycle on: (1) human health and well-being; (2) the global environment, especially the ocean; (3) the economy; and (4) vulnerable populations\u2014the poor, minorities, and the world\u2019s children. On the basis of this examination, the Commission offers science-based recommendations designed to support development of a Global Plastics Treaty, protect human health, and save lives. Report Structure: This Commission report contains seven Sections. Following an Introduction, Section 2 presents a narrative review of the processes involved in plastic production, use, and disposal and notes the hazards to human health and the environment assoc"
+  },
+  {
+   "id": "https://openalex.org/W2050705723",
+   "doi": "10.1088/1742-6596/247/1/012007",
+   "title": "A SAXS/WAXS/GISAXS Beamline with Multilayer Monochromator",
+   "publication_year": 2010,
+   "source": "Journal of Physics Conference Series",
+   "type": "conference-paper",
+   "cited_by_count": 685,
+   "relevance_score": null,
+   "authors": [
+    "Alexander Hexemer",
+    "Wim Bras",
+    "James M. Glossinger",
+    "Eric G. Schaible",
+    "Eliot H. Gann",
+    "Richard A. Kirian"
+   ],
+   "n_authors": 10,
+   "abstract": "We discuss the construction of a new SAXS/WAXS beamline at the Advanced Light Source at Lawrence Berkeley Laboratory. The beamline is equipped with a multilayer monochromator in order to obtain a high X-ray flux. The detrimental effects that the increased bandwidth transmitted by this monochromator could have on the data quality of the SAXS and WAXS patterns is shown to be negligible for the experimental program intended to be operated on this beamline."
+  },
+  {
+   "id": "https://openalex.org/W4281730893",
+   "doi": "10.1021/acs.chemrev.1c00987",
+   "title": "Crystal Engineering of Pharmaceutical Cocrystals in the Discovery and Development of Improved Drugs",
+   "publication_year": 2022,
+   "source": "Chemical Reviews",
+   "type": "review",
+   "cited_by_count": 655,
+   "relevance_score": null,
+   "authors": [
+    "Geetha Bolla",
+    "Bipul Sarma",
+    "Ashwini Kumar Nangia"
+   ],
+   "n_authors": 3,
+   "abstract": "The subject of crystal engineering started in the 1970s with the study of topochemical reactions in the solid state. A broad chemical definition of crystal engineering was published in 1989, and the supramolecular synthon concept was proposed in 1995 followed by heterosynthons and their potential applications for the design of pharmaceutical cocrystals in 2004. This review traces the development of supramolecular synthons as robust and recurring hydrogen bond patterns for the design and construction of supramolecular architectures, notably, pharmaceutical cocrystals beginning in the early 2000s to the present time. The ability of a cocrystal between an active pharmaceutical ingredient (API) and a pharmaceutically acceptable coformer to systematically tune the physicochemical properties of a drug (i.e., solubility, permeability, hydration, color, compaction, tableting, bioavailability) without changing its molecular structure is the hallmark of the pharmaceutical cocrystals platform, as a bridge between drug discovery and pharmaceutical development. With the design of cocrystals via heterosynthons and prototype case studies to improve drug solubility in place (2000-2015), the period between 2015 to the present time has witnessed the launch of several salt-cocrystal drugs with improved efficacy and high bioavailability. This review on the design, synthesis, and applications of pharmaceutical cocrystals to afford improved drug products and drug substances will interest researche"
+  },
+  {
+   "id": "https://openalex.org/W2069651257",
+   "doi": "10.1007/jhep01(2011)125",
+   "title": "Holographic c-theorems in arbitrary dimensions",
+   "publication_year": 2011,
+   "source": "Journal of High Energy Physics",
+   "type": "article",
+   "cited_by_count": 654,
+   "relevance_score": null,
+   "authors": [
+    "Robert Cobb Myers",
+    "Aninda Sinha"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2626972740",
+   "doi": "10.1016/j.jclepro.2017.06.075",
+   "title": "Methodology and applications of city level CO2 emission accounts in China",
+   "publication_year": 2017,
+   "source": "Journal of Cleaner Production",
+   "type": "article",
+   "cited_by_count": 617,
+   "relevance_score": null,
+   "authors": [
+    "Yuli Shan",
+    "Dabo Guan",
+    "Jianghua Liu",
+    "Zhifu Mi",
+    "Zhu Liu",
+    "Jingru Liu"
+   ],
+   "n_authors": 11,
+   "abstract": "China is the world's largest energy consumer and CO2 emitter. Cities contribute 85% of the total CO2 emissions in China and thus are considered as the key areas for implementing policies designed for climate change adaption and CO2 emission mitigation. However, the emission inventory construction of Chinese cities has not been well researched, mainly owing to the lack of systematic statistics and poor data quality. Focusing on this research gap, we developed a set of methods for constructing CO2 emissions inventories for Chinese cities based on energy balance table. The newly constructed emission inventory is compiled in terms of the definition provided by the IPCC territorial emission accounting approach and covers 47 socioeconomic sectors, 17 fossil fuels and 9 primary industry products, which is corresponding with the national and provincial inventory. In the study, we applied the methods to compile CO2 emissions inventories for 24 common Chinese cities and examined uncertainties of the inventories. Understanding the emissions sources in Chinese cities is the basis for many climate policy and goal research in the future."
+  },
+  {
+   "id": "https://openalex.org/W3013877586",
+   "doi": "10.1016/j.jenvman.2020.110445",
+   "title": "Review of construction and demolition waste management in China and USA",
+   "publication_year": 2020,
+   "source": "Journal of Environmental Management",
+   "type": "review",
+   "cited_by_count": 613,
+   "relevance_score": null,
+   "authors": [
+    "Muhammad Shahzad Aslam",
+    "Beijia Huang",
+    "Lifeng Cui"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4387457231",
+   "doi": "10.1038/s41746-023-00927-3",
+   "title": "Harnessing the power of synthetic data in healthcare: innovation, application, and privacy",
+   "publication_year": 2023,
+   "source": "npj Digital Medicine",
+   "type": "review",
+   "cited_by_count": 594,
+   "relevance_score": null,
+   "authors": [
+    "Mauro Giuffr\u00e8",
+    "Dennis Legen Shung"
+   ],
+   "n_authors": 2,
+   "abstract": "Data-driven decision-making in modern healthcare underpins innovation and predictive analytics in public health and clinical research. Synthetic data has shown promise in finance and economics to improve risk assessment, portfolio optimization, and algorithmic trading. However, higher stakes, potential liabilities, and healthcare practitioner distrust make clinical use of synthetic data difficult. This paper explores the potential benefits and limitations of synthetic data in the healthcare analytics context. We begin with real-world healthcare applications of synthetic data that informs government policy, enhance data privacy, and augment datasets for predictive analytics. We then preview future applications of synthetic data in the emergent field of digital twin technology. We explore the issues of data quality and data bias in synthetic data, which can limit applicability across different applications in the clinical context, and privacy concerns stemming from data misuse and risk of re-identification. Finally, we evaluate the role of regulatory agencies in promoting transparency and accountability and propose strategies for risk mitigation such as Differential Privacy (DP) and a dataset chain of custody to maintain data integrity, traceability, and accountability. Synthetic data can improve healthcare, but measures to protect patient well-being and maintain ethical standards are key to promote responsible use."
+  },
+  {
+   "id": "https://openalex.org/W2033817758",
+   "doi": "10.1021/ar200194b",
+   "title": "Innate and Guided C\u2013H Functionalization Logic",
+   "publication_year": 2011,
+   "source": "Accounts of Chemical Research",
+   "type": "article",
+   "cited_by_count": 589,
+   "relevance_score": null,
+   "authors": [
+    "Tobias Br\u00fcckl",
+    "Ryan D. Baxter",
+    "Yoshihiro Ishihara",
+    "Phil S. Baran"
+   ],
+   "n_authors": 4,
+   "abstract": "The combustion of organic matter is perhaps the oldest and most common chemical transformation utilized by mankind. The generation of a C-O bond at the expense of a C-H bond during this process may be considered the most basic form of C-H functionalization. This illustrates the extreme generality of the term \"C-H functionalization\", because it can describe the conversion of literally any C-H bond into a C-X bond (X being anything except H). Therefore, it may be of use to distinguish between what, in our view, are two distinct categories of C-H functionalization logic: \"guided\" and \"innate\". Guided C-H functionalizations, as the name implies, are guided by external reagents or directing groups (covalently or fleetingly bound) to install new functional groups at the expense of specifically targeted C-H bonds. Conversely, innate C-H functionalizations may be broadly defined as reactions that exchange C-H bonds for new functional groups based solely on natural reactivity patterns in the absence of other directing forces. Two substrates that illustrate this distinction are dihydrojunenol and isonicotinic acid. The C-H functionalization processes of hydroxylation or arylation, respectively, can take place at multiple locations on each molecule. Innate functionalizations lead to substitution patterns that are dictated by the inherent bias (steric or electronic) of the substrate undergoing C-H cleavage, whereas guided functionalizations lead to substitution patterns that are controll"
+  },
+  {
+   "id": "https://openalex.org/W2528685303",
+   "doi": "10.1109/tifs.2016.2615853",
+   "title": "Identity-Based Remote Data Integrity Checking With Perfect Data Privacy Preserving for Cloud Storage",
+   "publication_year": 2016,
+   "source": "IEEE Transactions on Information Forensics and Security",
+   "type": "article",
+   "cited_by_count": 588,
+   "relevance_score": null,
+   "authors": [
+    "Yong Hong Yu",
+    "Man Ho Au",
+    "Giuseppe Ateniese",
+    "Xinyi Huang",
+    "Willy Susilo",
+    "Yuanshun Dai"
+   ],
+   "n_authors": 7,
+   "abstract": "Remote data integrity checking (RDIC) enables a data storage server, say a cloud server, to prove to a verifier that it is actually storing a data owner's data honestly. To date, a number of RDIC protocols have been proposed in the literature, but most of the constructions suffer from the issue of a complex key management, that is, they rely on the expensive public key infrastructure (PKI), which might hinder the deployment of RDIC in practice. In this paper, we propose a new construction of identity-based (ID-based) RDIC protocol by making use of key-homomorphic cryptographic primitive to reduce the system complexity and the cost for establishing and managing the public key authentication framework in PKI-based RDIC schemes. We formalize ID-based RDIC and its security model, including security against a malicious cloud server and zero knowledge privacy against a third party verifier. The proposed ID-based RDIC protocol leaks no information of the stored data to the verifier during the RDIC process. The new construction is proven secure against the malicious server in the generic group model and achieves zero knowledge privacy against a verifier. Extensive security analysis and implementation results demonstrate that the proposed protocol is provably secure and practical in the real-world applications."
+  },
+  {
+   "id": "https://openalex.org/W2469117827",
+   "doi": "10.1021/jacs.6b05345",
+   "title": "A Fine-Tuned Fluorinated MOF Addresses the Needs for Trace CO 2 Removal and Air Capture Using Physisorption",
+   "publication_year": 2016,
+   "source": "Journal of the American Chemical Society",
+   "type": "article",
+   "cited_by_count": 584,
+   "relevance_score": null,
+   "authors": [
+    "Prashant M. Bhatt",
+    "Youssef Belmabkhout",
+    "Amandine Cadiau",
+    "Karim Adil",
+    "Osama Shekhah",
+    "Aleksander Shkurenko"
+   ],
+   "n_authors": 8,
+   "abstract": "The development of functional solid-state materials for carbon capture at low carbon dioxide (CO2) concentrations, namely, from confined spaces (<0.5%) and in particular from air (400 ppm), is of prime importance with respect to energy and environment sustainability. Herein, we report the deliberate construction of a hydrolytically stable fluorinated metal-organic framework (MOF), NbOFFIVE-1-Ni, with the appropriate pore system (size, shape, and functionality), ideal for the effective and energy-efficient removal of trace carbon dioxide. Markedly, the CO2-selective NbOFFIVE-1-Ni exhibits the highest CO2 gravimetric and volumetric uptake (ca. 1.3 mmol/g and 51.4 cm(3) (STP) cm(-3)) for a physical adsorbent at 400 ppm of CO2 and 298 K. Practically, NbOFFIVE-1-Ni offers the complete CO2 desorption at 328 K under vacuum with an associated moderate energy input of 54 kJ/mol, typical for the full CO2 desorption in conventional physical adsorbents but considerably lower than chemical sorbents. Noticeably, the contracted square-like channels, affording the close proximity of the fluorine centers, permitted the enhancement of the CO2-framework interactions and subsequently the attainment of an unprecedented CO2 selectivity at very low CO2 concentrations. The precise localization of the adsorbed CO2 at the vicinity of the periodically aligned fluorine centers, promoting the selective adsorption of CO2, is evidenced by the single-crystal X-ray diffraction study on NbOFFIVE-1-Ni hosting "
+  },
+  {
+   "id": "https://openalex.org/W2997365797",
+   "doi": "10.1016/j.autcon.2019.103063",
+   "title": "Blockchain-based framework for improving supply chain traceability and information sharing in precast construction",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 555,
+   "relevance_score": null,
+   "authors": [
+    "Zhaojing Wang",
+    "Tengyu Wang",
+    "Hao Hu",
+    "Jie Gong",
+    "Xu Ren",
+    "Qiying Xiao"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3036626989",
+   "doi": "10.1016/s1473-3099(20)30471-0",
+   "title": "Household secondary attack rate of COVID-19 and associated determinants in Guangzhou, China: a retrospective cohort study",
+   "publication_year": 2020,
+   "source": "The Lancet Infectious Diseases",
+   "type": "article",
+   "cited_by_count": 554,
+   "relevance_score": null,
+   "authors": [
+    "Qin-Long Jing",
+    "Ming-Jin Liu",
+    "Zhou-Bin Zhang",
+    "Li-Qun Fang",
+    "Jun Yuan",
+    "An-Ran Zhang"
+   ],
+   "n_authors": 16,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2913109850",
+   "doi": "10.1016/j.aei.2019.02.007",
+   "title": "Applications of 3D point cloud data in the construction industry: A fifteen-year review from 2004 to 2018",
+   "publication_year": 2019,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 549,
+   "relevance_score": null,
+   "authors": [
+    "Qian Wang",
+    "M.-K. Kim"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3021341554",
+   "doi": "10.1016/j.omega.2020.102261",
+   "title": "How to support the application of multiple criteria decision analysis? Let us start with a comprehensive taxonomy",
+   "publication_year": 2020,
+   "source": "Omega",
+   "type": "article",
+   "cited_by_count": 540,
+   "relevance_score": null,
+   "authors": [
+    "Marco Cinelli",
+    "Mi\u0142osz Kadzi\u0144ski",
+    "Michael A. Gonzalez",
+    "Roman S\u0142owi\u0144ski"
+   ],
+   "n_authors": 4,
+   "abstract": "Decision making is a complex task that involves a multitude of perspectives, constraints, and variables. Multiple Criteria Decision Analysis (MCDA) is a process that has been used for several decades to support decision making. It includes a series of steps that systematically help Decision Maker(s) (DM(s)) and stakeholders in structuring a decision making problem, identifying their preferences, and building a decision recommendation consistent with those preferences. Over the last decades, many studies have demonstrated the conduct of the MCDA process and how to select an MCDA method. Until now, there has not been a review of these studies, nor a proposal of a unified and comprehensive high-level representation of the MCDA process characteristics (i.e., features), which is the goal of this paper. We introduce a review of the research that defines how to conduct the MCDA process, compares MCDA methods, and presents Decision Support Systems (DSSs) to recommend a relevant MCDA method or a subset of methods. We then synthesize this research into a taxonomy of characteristics of the MCDA process, grouped into three main phases, (i) problem formulation, (ii) construction of the decision recommendation, and (iii) qualitative features and technical support. Each of these phases includes a subset of the 10 characteristics that helps the analyst implementing the MCDA process, while also being aware of the implication of these choices at each step. By showing how decision making can be"
+  },
+  {
+   "id": "https://openalex.org/W1991510770",
+   "doi": "10.1109/tsg.2015.2409775",
+   "title": "Developing a Hybrid Intrusion Detection System Using Data Mining for Power Systems",
+   "publication_year": 2015,
+   "source": "IEEE Transactions on Smart Grid",
+   "type": "article",
+   "cited_by_count": 529,
+   "relevance_score": null,
+   "authors": [
+    "Shengyi Pan",
+    "Thomas H. Morris",
+    "Uttam Adhikari"
+   ],
+   "n_authors": 3,
+   "abstract": "Synchrophasor systems provide an immense volume of data for wide area monitoring and control of power systems to meet the increasing demand of reliable energy. The construction of traditional intrusion detection systems (IDSs) that use manually created rules based upon expert knowledge is knowledge-intensive and is not suitable in the context of this big data problem. This paper presents a systematic and automated approach to build a hybrid IDS that learns temporal state-based specifications for power system scenarios including disturbances, normal control operations, and cyber-attacks. A data mining technique called common path mining is used to automatically and accurately learn patterns for scenarios from a fusion of synchrophasor measurement data, and power system audit logs. As a proof of concept, an IDS prototype was implemented and validated. The IDS prototype accurately classifies disturbances, normal control operations, and cyber-attacks for the distance protection scheme for a two-line three-bus power transmission system."
+  },
+  {
+   "id": "https://openalex.org/W3152733342",
+   "doi": "10.1016/j.autcon.2021.103688",
+   "title": "Integrated digital twin and blockchain framework to support accountable information sharing in construction projects",
+   "publication_year": 2021,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 528,
+   "relevance_score": null,
+   "authors": [
+    "Dongmin Lee",
+    "Sang Hyun Lee",
+    "Neda Masoud",
+    "Mayuram S. Krishnan",
+    "Victor C. Li"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W1495752514",
+   "doi": "10.1108/ijopm-10-2012-0467",
+   "title": "Social sustainability in developing country suppliers: An exploratory study in the ready made garments industry of Bangladesh",
+   "publication_year": 2014,
+   "source": "International Journal of Operations & Production Management",
+   "type": "article",
+   "cited_by_count": 519,
+   "relevance_score": null,
+   "authors": [
+    "Fahian Anisul Huq",
+    "Mark Stevenson",
+    "Marta Zorzini"
+   ],
+   "n_authors": 3,
+   "abstract": "\u2013 The purpose of this paper is to investigate why developing country suppliers are adopting socially sustainable practices and how the implementation process is both impeded and enabled. , \u2013 A multi-case study approach is adopted based on four ready made garment (RMG) industry suppliers in Bangladesh and the Bangladeshi buying houses of two large UK retailers. The primary mode of data collection is exploratory face-to-face interviews with 14 senior representatives. Findings are later interpreted using the transaction cost economics (TCE) theory lens. , \u2013 One factor motivating implementation is labour retention \u2013 a skilled labour shortage means employees will migrate to other factories if suppliers do not improve certain social standards. Barriers to implementation include a misalignment between the requirements of western codes of conduct and the cultural and socio-economic context in Bangladesh. Enablers include a shift from auditing and monitoring to more open dialogue and trust between buyers and suppliers. The paper also reveals evidence of mock compliance, e.g. suppliers keeping two sets of timesheets, and of the complexities of social sustainability. For example, while some initiatives are unanimously positive, removing child labour from RMG industry suppliers has simply diverted it to other, less regulated and more hazardous industries such as construction. , \u2013 An early, exploratory contribution is provided. The work could be extended, e.g. to other stakeholders such a"
+  },
+  {
+   "id": "https://openalex.org/W4318827691",
+   "doi": "10.1109/access.2023.3241588",
+   "title": "A Review on Digital Twin Technology in Smart Grid, Transportation System and Smart City: Challenges and Future",
+   "publication_year": 2023,
+   "source": "IEEE Access",
+   "type": "article",
+   "cited_by_count": 518,
+   "relevance_score": null,
+   "authors": [
+    "Mina Jafari",
+    "Abdollah Kavousi\u2010Fard",
+    "Tao Chen",
+    "Mazaher Karimi"
+   ],
+   "n_authors": 4,
+   "abstract": "With recent advances in information and communication technology (ICT), the bleeding edge concept of digital twin (DT) has enticed the attention of many researchers to revolutionize the entire modern industries. DT concept refers to a digital representation of a physical entity that is able to reflect its physical behavior by applying platforms and bidirectional interaction of data in real-time. The remarkable deployment of the internet of things in the power grid has led to reliable access to information that improves its performance and equips it with a powerful tool for real-time data management and analysis. This paper aims to trace the continuous investigation and propose practical ideas in originating and developing DT technology, according to various application domains of power systems, and also describes the proposed solutions to deal with the challenges associated with DT. Indeed, with the development of modern cities, different energy layers such as transportation systems, smart grids, and microgrids have emerged facing various issues that challenge the multi-dimensional energy management system. For example, in transportation systems, traffic is a major problem that requires real-time management, planning, and analysis. In power grids, remote data transfer within the grid and also various analyzes needing real data are just some of the current challenges in the field. These problems can be cracked by providing and analyzing a real twin framework in each section. A"
+  },
+  {
+   "id": "https://openalex.org/W2580295879",
+   "doi": "10.1016/j.enbuild.2017.01.075",
+   "title": "Measuring embodied carbon dioxide equivalent of buildings: A review and critique of current industry practice",
+   "publication_year": 2017,
+   "source": "Energy and Buildings",
+   "type": "article",
+   "cited_by_count": 513,
+   "relevance_score": null,
+   "authors": [
+    "Catherine De Wolf",
+    "Francesco Pomponi",
+    "Alice M. Moncaster"
+   ],
+   "n_authors": 3,
+   "abstract": "Lowering the embodied carbon dioxide equivalent (embodied CO2e) of buildings is an essential response to national and global targets for carbon reduction. Globally, construction industry is developing tools, databases and practices for measuring embodied CO2e in buildings and recommending routes to reduction. While the TC350 developed standardized methods for the assessment of sustainability aspects in construction works and Environmental Product Declarations, there is no consensus on how this should be carried out in practice. This paper evaluates the current construction industry practice through a review of both academic and professional literature, and through focus groups and interviews with industry experts in the field. Incentives in the available building codes, standards, and benchmarks are also analysed, as are the existing methodologies, tools and datasets. The multiple data sources are used to identify the barriers to the effective measurement and reduction of embodied CO2e in practice. This paper recommends that Governments mandate for improved data quality and support the development of a transparent and simplified methodology."
+  },
+  {
+   "id": "https://openalex.org/W2912470563",
+   "doi": null,
+   "title": "Explain Me This: Creativity, Competition, and the Partial Productivity of Constructions",
+   "publication_year": 2019,
+   "source": "Project Muse (Johns Hopkins University)",
+   "type": "article",
+   "cited_by_count": 511,
+   "relevance_score": null,
+   "authors": [
+    "Adele Eva Goldberg"
+   ],
+   "n_authors": 1,
+   "abstract": "Why our use of language is highly creative yet also constrained We use words and phrases creatively to express ourselves in ever-changing contexts, readily extending language constructions in new ways. Yet native speakers also implicitly know when a creative and easily interpretable formulation-such as Explain me or She considered to go-doesn't sound quite right. In this incisive book, Adele Goldberg explores how these creative but constrained language skills emerge from a combination of general cognitive mechanisms and experience. Shedding critical light on an enduring linguistic paradox, Goldberg demonstrates how words and abstract constructions are generalized and constrained in the same ways. When learning language, we record partially abstracted tokens of language within the high-dimensional conceptual space that is used when we speak or listen. Our implicit knowledge of language includes dimensions related to form, function, and social context. At the same time, abstract memory traces of linguistic usage-events cluster together on a subset of dimensions, with overlapping aspects strengthened via repetition. In this way, dynamic categories that correspond to words and abstract constructions emerge from partially overlapping memory traces, and as a result, distinct words and constructions compete with one another each time we select them to express our intended messages. While much of the research on this puzzle has favored semantic or functional explanations over statist"
+  },
+  {
+   "id": "https://openalex.org/W2037899662",
+   "doi": "10.1016/j.baae.2010.06.006",
+   "title": "The genetic effects of roads: A review of empirical evidence",
+   "publication_year": 2010,
+   "source": "Basic and Applied Ecology",
+   "type": "article",
+   "cited_by_count": 501,
+   "relevance_score": null,
+   "authors": [
+    "Rolf Holderegger",
+    "Manuela Di Giulio"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2903298154",
+   "doi": "10.1038/s41538-018-0032-6",
+   "title": "FoodOn: a harmonized food ontology to increase global food traceability, quality control and data integration",
+   "publication_year": 2018,
+   "source": "npj Science of Food",
+   "type": "article",
+   "cited_by_count": 498,
+   "relevance_score": null,
+   "authors": [
+    "Damion Dooley",
+    "Emma Griffiths",
+    "Gurinder Gosal",
+    "Pier Luigi Buttigieg",
+    "Robert Hoehndorf",
+    "Matthew C Lange"
+   ],
+   "n_authors": 9,
+   "abstract": "The construction of high capacity data sharing networks to support increasing government and commercial data exchange has highlighted a key roadblock: the content of existing Internet-connected information remains siloed due to a multiplicity of local languages and data dictionaries. This lack of a digital lingua franca is obvious in the domain of human food as materials travel from their wild or farm origin, through processing and distribution chains, to consumers. Well defined, hierarchical vocabulary, connected with logical relationships-in other words, an ontology-is urgently needed to help tackle data harmonization problems that span the domains of food security, safety, quality, production, distribution, and consumer health and convenience. FoodOn (http://foodon.org) is a consortium-driven project to build a comprehensive and easily accessible global farm-to-fork ontology about food, that accurately and consistently describes foods commonly known in cultures from around the world. FoodOn addresses food product terminology gaps and supports food traceability. Focusing on human and domesticated animal food description, FoodOn contains animal and plant food sources, food categories and products, and other facets like preservation processes, contact surfaces, and packaging. Much of FoodOn's vocabulary comes from transforming LanguaL, a mature and popular food indexing thesaurus, into a World Wide Web Consortium (W3C) OWL Web Ontology Language-formatted vocabulary that provi"
+  },
+  {
+   "id": "https://openalex.org/W2962678768",
+   "doi": "10.4310/acta.2018.v221.n2.a1",
+   "title": "On topological cyclic homology",
+   "publication_year": 2018,
+   "source": "Acta Mathematica",
+   "type": "article",
+   "cited_by_count": 495,
+   "relevance_score": null,
+   "authors": [
+    "Thomas Nikolaus",
+    "Peter Scholze"
+   ],
+   "n_authors": 2,
+   "abstract": "Topological cyclic homology is a refinement of Connes\u2013Tsygan\u2019s cyclic homology which was introduced by B\u00f6kstedt\u2013Hsiang\u2013Madsen in 1993 as an approximation to algebraic $K$-theory. There is a trace map from algebraic $K$-theory to topological cyclic homology, and a theorem of Dundas\u2013Goodwillie\u2013McCarthy asserts that this induces an equivalence of relative theories for nilpotent immersions, which gives a way for computing $K$-theory in various situations. The construction of topological cyclic homology is based on genuine equivariant homotopy theory, the use of explicit point-set models, and the elaborate notion of a cyclotomic spectrum. The goal of this paper is to revisit this theory using only homotopy-invariant notions. In particular, we give a new construction of topological cyclic homology. This is based on a new definition of the $\\infty$-category of cyclotomic spectra: We define a cyclotomic spectrum to be a spectrum $X$ with $S^1$-action (in the most naive sense) together with $S^1$-equivariant maps $\\varphi_p : X \\to X^{t C_p}$ for all primes $p$. Here, $X^{t C_p} = \\mathrm{cofib}(\\mathrm{Nm} : X^{h C_p} \\to X^{h C_p})$ is the Tate construction. On bounded below spectra, we prove that this agrees with previous definitions. As a consequence, we obtain a new and simple formula for topological cyclic homology. In order to construct the maps $\\varphi_p : X \\to X^{t C_p}$ in the example of topological Hochschild homology, we introduce and study Tate-diagonals for spectra and"
+  },
+  {
+   "id": "https://openalex.org/W2065705685",
+   "doi": "10.4236/ojpp.2014.43047",
+   "title": "Interpretivism in Aiding Our Understanding of the Contemporary Social World",
+   "publication_year": 2014,
+   "source": "Open Journal of Philosophy",
+   "type": "article",
+   "cited_by_count": 495,
+   "relevance_score": null,
+   "authors": [
+    "Muhammad Faisol Chowdhury"
+   ],
+   "n_authors": 1,
+   "abstract": "The purpose of this paper is to critically discuss the extent of interpretivism to understand the contemporary social world. This paper firstly highlights the roots of interpretivism which can be traced back in the ancient history of philosophy. It then discusses the concept of interpretivism and gives a critical commentary on the Weber\u2019s construction of ideal types to help explore the contemporary social world. The paper then further discusses the concept of \u201cverstehen\u201d and explains how it can add to our understanding of the social world phenomena. Following this analysis and tackling some philosophical debate, finally, this theoretical paper confirms that interpretivism has influenced the development of the social science and has helped our understanding of the contemporary social world to a great extent."
+  },
+  {
+   "id": "https://openalex.org/W1967921001",
+   "doi": "10.1785/0120090257",
+   "title": "The Role Played and Opportunities Provided by IGP DMC of China National Seismic Network in Wenchuan Earthquake Disaster Relief and Researches",
+   "publication_year": 2010,
+   "source": "Bulletin of the Seismological Society of America",
+   "type": "article",
+   "cited_by_count": 492,
+   "relevance_score": null,
+   "authors": [
+    "X.-F. Zheng",
+    "Zhenxing Yao",
+    "Jiaqi Liang",
+    "Jian Ping Zheng"
+   ],
+   "n_authors": 4,
+   "abstract": "The seismological observation system in China achieved rapid development during the last five years. The Data Management Center (DMC) of the China Earthquake Network Center (CENC) of the China Earthquake Administration (CEA) now receives and archives waveform data from more than 1000 permanent seismic stations around China in real time. For operational, backup, and data security considerations, the DMC at the Institute of Geophysics (IGP), the CEA was established at the end of 2007. The IGPDMC is capable of receiving and processing continuous waveform data in real time from more than 1000 permanent seismic stations around China. Currently, the data processing and management mainly include data quality control, data format conversion, event data extraction at user\u2019s request, and data download service via Internet. By now, the IGPDMC has supplied about 150 terabytes waveform data to over 120 researches of more than 30 academic institutions. More than 20 papers have been published in professional journals. After the great Wenchuan earthquake, the real-time waveform data from 56 portable stations deployed in the aftershock area were added to IGPDMC. All these data make the IGPDMC a critical platform for supporting relevant seismological research. This paper gives a detailed description of the permanent seismic stations of the CEA\u2019s seismological observation system, the technical system construction of the IGPDMC, establishment of the near-real-time automatic event-extraction syst"
+  },
+  {
+   "id": "https://openalex.org/W2767895518",
+   "doi": "10.1007/s10029-017-1697-5",
+   "title": "European Hernia Society guidelines on prevention and treatment of parastomal hernias",
+   "publication_year": 2017,
+   "source": "Hernia",
+   "type": "article",
+   "cited_by_count": 486,
+   "relevance_score": null,
+   "authors": [
+    "Stavros A. Antoniou",
+    "Ferdinando Agresta",
+    "J. G. Alamino",
+    "D. Berger",
+    "Frederik Christiaan Berrevoet",
+    "Henk-Thijs Brandsma"
+   ],
+   "n_authors": 32,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2944810901",
+   "doi": "10.1016/j.compind.2019.04.011",
+   "title": "Building a digital twin for additive manufacturing through the exploitation of blockchain: A case analysis of the aircraft industry",
+   "publication_year": 2019,
+   "source": "Computers in Industry",
+   "type": "article",
+   "cited_by_count": 476,
+   "relevance_score": null,
+   "authors": [
+    "Claudio Mandolla",
+    "Antonio Messeni Petruzzelli",
+    "Gianluca Percoco",
+    "Andrea Urbinati"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2788670787",
+   "doi": "10.1016/j.autcon.2018.01.001",
+   "title": "An Internet of Things-enabled BIM platform for on-site assembly services in prefabricated construction",
+   "publication_year": 2018,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 476,
+   "relevance_score": null,
+   "authors": [
+    "Clyde Zhengdao Li",
+    "Fan Xue",
+    "Xiao Li",
+    "Jingke Hong",
+    "Qiping Shen"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2114533356",
+   "doi": "10.1016/j.autcon.2012.09.008",
+   "title": "A knowledge-based BIM system for building maintenance",
+   "publication_year": 2012,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 470,
+   "relevance_score": null,
+   "authors": [
+    "Ibrahim A. Motawa",
+    "Abdul Kareem Almarshad"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2465808793",
+   "doi": "10.1002/joc.4775",
+   "title": "ICOADS Release 3.0: a major update to the historical marine climate record",
+   "publication_year": 2016,
+   "source": "International Journal of Climatology",
+   "type": "article",
+   "cited_by_count": 467,
+   "relevance_score": null,
+   "authors": [
+    "Eric Freeman",
+    "Scott D. Woodruff",
+    "Steven J. Worley",
+    "Sandra J. Lubker",
+    "Elizabeth C. Kent",
+    "William E. Angel"
+   ],
+   "n_authors": 16,
+   "abstract": "We highlight improvements to the International Comprehensive Ocean\u2010Atmosphere Data Set (ICOADS) in the latest Release 3.0 (R3.0; covering 1662\u20132014). ICOADS is the most widely used freely available collection of surface marine observations, providing data for the construction of gridded analyses of sea surface temperature, estimates of air\u2013sea interaction and other meteorological variables. ICOADS observations are assimilated into all major atmospheric, oceanic and coupled reanalyses, further widening its impact. R3.0 therefore includes changes designed to enable effective exchange of information describing data quality between ICOADS, reanalysis centres, data set developers, scientists and the public. These user\u2010driven innovations include the assignment of a unique identifier (UID) to each marine report \u2013 to enable tracing of observations, linking with reports and improved data sharing. Other revisions and extensions of the ICOADS' International Maritime Meteorological Archive common data format incorporate new near\u2010surface oceanographic data elements and cloud parameters. Many new input data sources have been assembled, and updates and improvements to existing data sources, or removal of erroneous data, made. Coupled with enhanced \u2018preliminary\u2019 monthly data and product extensions past 2014, R3.0 provides improved support of climate assessment and monitoring, reanalyses and near\u2010real\u2010time applications."
+  },
+  {
+   "id": "https://openalex.org/W2581658282",
+   "doi": "10.1016/j.autcon.2017.01.006",
+   "title": "Prefabricated construction enabled by the Internet-of-Things",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 457,
+   "relevance_score": null,
+   "authors": [
+    "Ray Y. Zhong",
+    "Yi Min Peng",
+    "Fan Xue",
+    "Ji Fang",
+    "Weiwu Zou",
+    "Hao Luo"
+   ],
+   "n_authors": 10,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4206689428",
+   "doi": "10.1016/j.jclepro.2022.130395",
+   "title": "Drivers and barriers towards circular economy in the building sector: Stakeholder interviews and analysis of five European countries policies and practices",
+   "publication_year": 2022,
+   "source": "Journal of Cleaner Production",
+   "type": "article",
+   "cited_by_count": 456,
+   "relevance_score": null,
+   "authors": [
+    "Serena Giorgi",
+    "Monica Lavagna",
+    "Ke Wang",
+    "Mohamed Osmani",
+    "Gang Liu",
+    "A. Campioli"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2092794624",
+   "doi": "10.1016/j.autcon.2012.09.010",
+   "title": "A framework for proactive construction defect management using BIM, augmented reality and ontology-based data collection template",
+   "publication_year": 2012,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 456,
+   "relevance_score": null,
+   "authors": [
+    "Chansik Park",
+    "Do-Yeop Lee",
+    "Oh-Seong Kwon",
+    "Xiangyu Wang"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2090967692",
+   "doi": "10.1016/j.gloenvcha.2014.03.013",
+   "title": "The global metabolic transition: Regional patterns and trends of global material flows, 1950\u20132010",
+   "publication_year": 2014,
+   "source": "Global Environmental Change",
+   "type": "article",
+   "cited_by_count": 454,
+   "relevance_score": null,
+   "authors": [
+    "Anke Schaffartzik",
+    "Andreas C. R. Mayer",
+    "Simone Gingrich",
+    "Nina Eisenmenger",
+    "Christian Loy",
+    "Fridolin Krausmann"
+   ],
+   "n_authors": 6,
+   "abstract": "Since the World War II, many economies have transitioned from an agrarian, biomass-based to an industrial, minerals-based metabolic regime. Since 1950, world population grew by factor 2.7 and global material consumption by factor 3.7-71 Gigatonnes per year in 2010. The expansion of the resource base required by human societies is associated with growing pressure on the environment and infringement on the habitats of other species. In order to achieve a sustainability transition, we require a better understanding of the currently ongoing metabolic transition and its potential inertia. In this article, we present a long-term global material flow dataset covering material extraction, trade, and consumption of 177 individual countries between 1950 and 2010. We trace patterns and trends in material flows for six major geographic and economic country groupings and world regions (Western Industrial, the (Former) Soviet Union and its allies, Asia, the Middle East and Northern Africa, Latin America and the Caribbean, and Sub-Saharan Africa) as well as their contribution to the emergence of a global metabolic profile during a period of rapid industrialization and globalization. Global average material use increased from 5.0 to 10.3 tons per capita and year (t/cap/a) between 1950 and 2010. Regional metabolic rates range from 4.5 t/cap/a in Sub-Saharan Africa to 14.8 t/cap/a in the Western Industrial grouping. While we can observe a stabilization of the industrial metabolic profile compo"
+  },
+  {
+   "id": "https://openalex.org/W1549337014",
+   "doi": "10.1111/j.1467-9922.2010.00622.x",
+   "title": "Processing Advantages of Lexical Bundles: Evidence From Self\u2010Paced Reading and Sentence Recall Tasks",
+   "publication_year": 2011,
+   "source": "Language Learning",
+   "type": "article",
+   "cited_by_count": 450,
+   "relevance_score": null,
+   "authors": [
+    "Antoine Tremblay",
+    "Bruce L. Derwing",
+    "Gary Libben",
+    "Chris F. Westbury"
+   ],
+   "n_authors": 4,
+   "abstract": "This article examines the extent to which lexical bundles (LBs; i.e., frequently recurring strings of words that often span traditional syntactic boundaries) are stored and processed holistically. Three self\u2010paced reading experiments compared sentences containing LBs (e.g., in the middle of the ) and matched control sentence fragments (e.g., in the front of the ). LBs and sentences containing LBs were read faster than the control sentence fragments in all three experiments. Two follow\u2010up word and sentence recall experiments demonstrated that more sentences containing LBs were correctly remembered. Consistent with construction\u2010type models of language, these results suggest that regular multiword sequences leave memory traces in the brain."
+  },
+  {
+   "id": "https://openalex.org/W2167622655",
+   "doi": "10.1016/j.jclepro.2015.09.111",
+   "title": "Alkaline residues and the environment: a review of impacts, management practices and opportunities",
+   "publication_year": 2015,
+   "source": "Journal of Cleaner Production",
+   "type": "article",
+   "cited_by_count": 448,
+   "relevance_score": null,
+   "authors": [
+    "Helena I. Gomes",
+    "William M. Mayes",
+    "Mike Rogerson",
+    "Douglas Ian Stewart",
+    "Ian T. Burke"
+   ],
+   "n_authors": 5,
+   "abstract": "Around two billion tonnes of alkaline residues are produced globally each year by industries such as steel production, alumina refining and coal-fired power generation, with a total production estimate of 90 billion tonnes since industrialisation. These wastes are frequently stored in waste piles or landfills, and can be an environmental hazard if allowed to generate dust, or if rainwater infiltrates the waste. This review will focus on the environmental impacts associated with alkaline residues, with emphasis on the leachates produced by rainwater ingress. Many alkaline industrial wastes can produce leachates that are enriched with trace metals that form oxyanions (e.g. As, Cr, Mo, Se, V), which can be very mobile in alkaline water. The management options for the residues and their leachates are also discussed, distinguishing active and passive treatment options. Potential reuses of these materials, in construction materials, as agricultural amendments, and in environmental applications are identified. The mechanisms of carbon sequestration by alkaline residues are assessed, and the potential for enhancing its rate as a climate change off-setting measure for the industry is evaluated. The potential for recovery of metals critical to e-technologies, such as vanadium, cobalt, lithium and rare earths, from alkaline residues is considered. Finally research needs are identified, including the need to better understand the biogeochemistry of highly alkaline systems in order to dev"
+  },
+  {
+   "id": "https://openalex.org/W4413735689",
+   "doi": "10.62311/nesx/rp-1-06-2021",
+   "title": "A Control-Theoretic Framework for AI Safety: Stability, Robustness, and Assurance",
+   "publication_year": 2021,
+   "source": "International Journal of Academic and Industrial Research Innovations(IJAIRI)",
+   "type": "article",
+   "cited_by_count": 443,
+   "relevance_score": null,
+   "authors": [
+    "Murali Krishna Pasupuleti"
+   ],
+   "n_authors": 1,
+   "abstract": "AI systems increasingly operate as feedback-driven agents in open environments, where unsafe behavior can arise under model error, non-stationarity, or adversarial perturbations. Building on concept analysis from control theory, this study develops a control-theoretic framework for AI safety organized around three pillars\u2014stability, robustness, and assurance. The framework analyzes AI decision processes as uncertain dynamical systems, formalizes safety as invariance and constraint satisfaction, and links algorithmic behavior to verifiable properties. The central problem addressed is the lack of scalable, end-to-end guarantees that persist under distribution shift and learning-in-the-loop. Methodology integrates Lyapunov and control-barrier functions, distributionally robust model predictive control, and reachability analysis with compositional verification and runtime shielding. Synthesis procedures are provided for policy wrapping and training-time regularization, together with tractable certificates that yield sufficient conditions for closed-loop stability and high-probability constraint satisfaction under bounded uncertainty. The framework is evaluated through theoretical results (existence and construction of certificates; performance\u2013safety trade-off bounds) and empirical studies on representative control and decision-making tasks, using containerized protocols for reproducibility. Results indicate substantial reductions in safety-constraint violations and improved stab"
+  },
+  {
+   "id": "https://openalex.org/W3180062783",
+   "doi": "10.1109/spw53761.2021.00009",
+   "title": "Troubleshooting an Intrusion Detection Dataset: the CICIDS2017 Case Study",
+   "publication_year": 2021,
+   "source": "IEEE Security and Privacy Workshops (SPW)",
+   "type": "conference-paper",
+   "cited_by_count": 440,
+   "relevance_score": null,
+   "authors": [
+    "Gints Engelen",
+    "Vera Rimmer",
+    "Wouter Joosen"
+   ],
+   "n_authors": 3,
+   "abstract": "Numerous studies have demonstrated the effectiveness of machine learning techniques in application to network intrusion detection. And yet, the adoption of machine learning for securing large-scale network environments remains challenging. The community acknowledges that network security presents unique challenges for machine learning, and the lack of training data representative of modern traffic remains one of the most intractable issues. New attempts are continuously made to develop high quality benchmark datasets and proper data collection methodologies. The CICIDS2017 dataset is one of the recent results, created to meet the demanding criterion of representativeness for network intrusion detection. In this paper we revisit CICIDS2017 and its data collection pipeline and analyze correctness, validity and overall utility of the dataset for the learning task. During this in-depth analysis, we uncover a series of problems with traffic generation, flow construction, feature extraction and labelling that severely affect the aforementioned properties. We investigate the causes of these shortcomings and address most of them by applying an improved data processing methodology. As a result, more than 20 percent of original traffic traces are reconstructed or relabelled. Machine learning benchmarks on the final dataset demonstrate significant improvements. Our study exemplifies how data collection issues may have enormous impact on model evaluation and provides recommendations for "
+  },
+  {
+   "id": "https://openalex.org/W3109423373",
+   "doi": "10.1051/0004-6361/202039498",
+   "title": "Gaia Early Data Release 3: The Gaia Catalogue of Nearby Stars",
+   "publication_year": 2021,
+   "source": "Astronomy and Astrophysics",
+   "type": "article",
+   "cited_by_count": 440,
+   "relevance_score": null,
+   "authors": [
+    "Richard L. Smart",
+    "Luis Manuel Sarro",
+    "J. Rybizki",
+    "C. Reyl\u00e9",
+    "A. C. Robin",
+    "N. C. Hambly"
+   ],
+   "n_authors": 100,
+   "abstract": "Aims. We produce a clean and well-characterised catalogue of objects within 100 pc of the Sun from the Gaia Early Data Release 3. We characterise the catalogue through comparisons to the full data release, external catalogues, and simulations. We carry out a first analysis of the science that is possible with this sample to demonstrate its potential and best practices for its use. Methods. Theselection of objects within 100 pc from the full catalogue used selected training sets, machine-learning procedures, astrometric quantities, and solution quality indicators to determine a probability that the astrometric solution is reliable. The training set construction exploited the astrometric data, quality flags, and external photometry. For all candidates we calculated distance posterior probability densities using Bayesian procedures and mock catalogues to define priors. Any object with reliable astrometry and a non-zero probability of being within 100 pc is included in the catalogue. Results. We have produced a catalogue of 331 312 objects that we estimate contains at least 92% of stars of stellar type M9 within 100 pc of the Sun. We estimate that 9% of the stars in this catalogue probably lie outside 100 pc, but when the distance probability function is used, a correct treatment of this contamination is possible. We produced luminosity functions with a high signal-to-noise ratio for the main-sequence stars, giants, and white dwarfs. We examined in detail the Hyades cluster, the "
+  },
+  {
+   "id": "https://openalex.org/W2507502046",
+   "doi": "10.1130/ges00889.1",
+   "title": null,
+   "publication_year": 2014,
+   "source": "Geosphere",
+   "type": "article",
+   "cited_by_count": 426,
+   "relevance_score": null,
+   "authors": [
+    "George E. Gehrels"
+   ],
+   "n_authors": 1,
+   "abstract": "U-Pb geochronologic and Hf isotopic analyses have been conducted on detrital zircons extracted from 36 samples of Neoproterozoic through Triassic passive margin strata from western North America. The data serve as an improved reference for comparison with inboard strata that accumulated on the North American craton and outboard strata belonging to potentially displaced Cordilleran terranes. As expected, this reference documents significant variations in ages and Hf isotope compositions both north-south and also through time. The data also provide insights into the provenance of Cordilleran passive margin strata. During Neoproterozoic, Cambrian, and Early\u2013Middle Devonian time, most grains were shed from relatively local basement rocks and from Mesoproterozoic clastic strata containing 1.2\u20131.0 Ga grains that originated in the Grenville orogen. This pattern was interrupted during Ordovician time, when much of the Cordilleran margin was blanketed by detritus shed from the northern Canadian Shield. Beginning in Late Devonian time, and continuing through late Paleozoic and Triassic time, most regions were dominated by locally derived detritus (largely recycled from underlying strata), but also received 0.7\u20130.4 Ga grains that were shed from the Franklinian, Caledonian, Appalachian, and Ouachita-Marathon orogens. This pattern is complicated in southern transects as a result of mid-Paleozoic emplacement of off-shelf assemblages onto the continental margin (e.g., Antler orogeny) and co"
+  },
+  {
+   "id": "https://openalex.org/W2593194056",
+   "doi": "10.1021/acsami.7b00918",
+   "title": "Stable Zr(IV)-Based Metal\u2013Organic Frameworks with Predesigned Functionalized Ligands for Highly Selective Detection of Fe(III) Ions in Water",
+   "publication_year": 2017,
+   "source": "ACS Applied Materials & Interfaces",
+   "type": "article",
+   "cited_by_count": 425,
+   "relevance_score": null,
+   "authors": [
+    "Bin Wang",
+    "Qi Yang",
+    "Chao Guo",
+    "Yuxiu Sun",
+    "Lin\u2010Hua Xie",
+    "Jian\u2010Rong Li"
+   ],
+   "n_authors": 6,
+   "abstract": "Metal\u2013organic frameworks are a class of attractive materials for fluorescent sensing. Improvement of hydrolytic stability, sensitivity, and selectivity of function is the key to advance application of fluorescent MOFs in aqueous media. In this work, two stable MOFs, [Zr 6 O 4 (OH) 8 (H 2 O) 4 (L 1 ) 2 ] (BUT-14) and [Zr 6 O 4 (OH) 8 (H 2 O) 4 (L 2 ) 2 ] (BUT-15), were designed and synthesized for the detection of metal ions in water. Two new ligands utilized for construction of the MOFs, namely, 5\u2032,5\u2034-bis(4-carboxyphenyl)-[1,1\u2032:3\u2032,1\u2033:4\u2033,1\u2034:3\u2034,1\u2032\u2032\u2032\u2032-quinquephenyl]-4,4\u2032\u2032\u2032\u2032-dicarboxylate (L 1 ) and 4,4\u2032,4\u2033,4\u2034-(4,4\u2032-(1,4-phenylene)bis(pyridine-6,4,2-triyl))tetrabenzoate (L 2 ), are structurally similar with the only difference being that the latter is functionalized by pyridine N atoms. The two MOFs are isostructural with a sqc - a topological framework structure, and highly porous with the Brunauer\u2013Emmett\u2013Teller (BET) surface areas of 3595 and 3590 m 2 g \u20131, respectively. Interestingly, they show intense fluorescence in water, which can be solely quenched by trace amounts of Fe 3+ ions. The detection limits toward the Fe 3+ ions were calculated to be 212 and 16 ppb, respectively. The efficient fluorescent quenching effect is attributed to the photoinduced electron transfer between Fe 3+ ions and the ligands in these MOFs. Moreover, the introduced pyridine N donors in the ligand of BUT-15 additionally donate their lone-pair electrons to the Fe 3+ ions, leading to significantly en"
+  },
+  {
+   "id": "https://openalex.org/W2081836475",
+   "doi": "10.2140/gt.2013.17.733",
+   "title": "A universal characterization of higher algebraic K-theory",
+   "publication_year": 2013,
+   "source": "Geometry & Topology",
+   "type": "article",
+   "cited_by_count": 424,
+   "relevance_score": null,
+   "authors": [
+    "Andrew J. Blumberg",
+    "David Gepner",
+    "Gon\u00e7alo Tabuada"
+   ],
+   "n_authors": 3,
+   "abstract": "In this paper we establish a universal characterization of higher algebraic K \u2013theory in the setting of small stable \u221e \u2013categories. Specifically, we prove that connective algebraic K \u2013theory is the universal additive invariant, ie the universal functor with values in spectra which inverts Morita equivalences, preserves filtered colimits and satisfies Waldhausen\u2019s additivity theorem. Similarly, we prove that nonconnective algebraic K \u2013theory is the universal localizing invariant, ie the universal functor that moreover satisfies the Thomason\u2013Trobaugh\u2013Neeman Localization Theorem. To prove these results, we construct and study two stable \u221e \u2013categories of \u201cnoncommutative motives\u201d; one associated to additivity and another to localization. In these stable \u221e \u2013categories, Waldhausen\u2019s S \u2219 \u2013construction corresponds to the suspension functor and connective and nonconnective algebraic K \u2013theory spectra become corepresentable by the noncommutative motive of the sphere spectrum. In particular, the algebraic K \u2013theory of every scheme, stack and ring spectrum can be recovered from these categories of noncommutative motives. In the case of a connective ring spectrum R , we prove moreover that its negative K \u2013groups are isomorphic to the negative K \u2013groups of the ordinary ring \u03c0 0 R . In order to work with these categories of noncommutative motives, we establish comparison theorems between the category of spectral categories localized at the Morita equivalences and the category of small idempo"
+  },
+  {
+   "id": "https://openalex.org/W3182841691",
+   "doi": "10.1108/978-1-61735-531-820251003",
+   "title": "Relevance Processes in Multiple Document Comprehension",
+   "publication_year": 2011,
+   "source": "Emerald Group Publishing Limited eBooks",
+   "type": "book-chapter",
+   "cited_by_count": 423,
+   "relevance_score": null,
+   "authors": [
+    "Jean\u2010Fran\u00e7ois Rouet",
+    "M. Anne Britt"
+   ],
+   "n_authors": 2,
+   "abstract": "We introduce the MD-TRACE model (for Multiple-Document Task-based Relevance Assessment and Content Extraction), a descriptive model of the resources and the processes brought to bear in document-based activities. The MD-TRACE model considers the external resources that take part in functional reading activities (beyond text passages), as well as the cognitive resources that these activities call upon. The MD-TRACE model defines five core processes: the construction of a task model; the assessment of one\u2019s information needs; the selection, processing and integration of document information; the construction of a task product; and the assessment of product quality. These processes are helpful in identifying the many ways in which relevance processes take place during functional reading. We discuss several research questions that are derived from the revised model."
+  },
+  {
+   "id": "https://openalex.org/W4385989283",
+   "doi": "10.1016/j.scs.2023.104862",
+   "title": "Urban Digital Twin Challenges: A Systematic Review and Perspectives for Sustainable Smart Cities",
+   "publication_year": 2023,
+   "source": "Sustainable Cities and Society",
+   "type": "review",
+   "cited_by_count": 421,
+   "relevance_score": null,
+   "authors": [
+    "Charlotte Weil",
+    "Simon Elias Bibri",
+    "R\u00e9gis Longchamp",
+    "Fran\u00e7ois Golay",
+    "Alexandre Alahi"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3024505128",
+   "doi": "10.1016/j.dibe.2020.100011",
+   "title": "Building Information Modelling, Artificial Intelligence and Construction Tech",
+   "publication_year": 2020,
+   "source": "Developments in the Built Environment",
+   "type": "article",
+   "cited_by_count": 410,
+   "relevance_score": null,
+   "authors": [
+    "Rafael Sacks",
+    "Mark Girolami",
+    "Ioannis K. Brilakis"
+   ],
+   "n_authors": 3,
+   "abstract": "Adoption of digital information tools in the construction sector provides fertile ground for the birth and growth of companies that specialize in applications of technologies to design and construction. While some of the technologies are new, many implement ideas proposed in construction research decades ago that were impractical without a sound digital building information foundation. Building Information Modelling (BIM) itself can be traced to a landmark paper from 1975; ideas for artificially intelligent design and code checking tools date from the mid-1980s; and construction robots have laboured in research labs for decades. Yet only within the past five years has venture capital actively sought startup companies in the \u2018Construction Tech\u2019 sector. Following a set of digital construction innovations through their known past and their uncertain present, we review their increasingly optimistic future, all through the lens of their dependence on digital information. The review identifies new challenges, yielding a set of research topics with the potential to unlock a range of future applications that apply artificial intelligence."
+  },
+  {
+   "id": "https://openalex.org/W2062884191",
+   "doi": "10.1016/j.intaccaudtax.2014.11.001",
+   "title": "The impact of board and audit committee characteristics on voluntary disclosure: A meta-analysis",
+   "publication_year": 2015,
+   "source": "Journal of International Accounting Auditing and Taxation",
+   "type": "review",
+   "cited_by_count": 406,
+   "relevance_score": null,
+   "authors": [
+    "Khaled Samaha",
+    "Hichem Khlif",
+    "Khaled Hussainey"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2084631275",
+   "doi": "10.1080/17452007.2012.659506",
+   "title": "Measuring BIM performance: Five metrics",
+   "publication_year": 2012,
+   "source": "Architectural Engineering and Design Management",
+   "type": "article",
+   "cited_by_count": 406,
+   "relevance_score": null,
+   "authors": [
+    "Bilal Succar",
+    "Willy Sher",
+    "Anthony Philip Williams"
+   ],
+   "n_authors": 3,
+   "abstract": "The term Building Information Modelling (BIM) refers to an expansive knowledge domain within the design, construction and operation (DCO) industry. The voluminous possibilities attributed to BIM represent an array of challenges that can be met through a systematic research and delivery framework spawning a set of performance assessment and improvement metrics. This article identifies five complementary components specifically developed to enable such assessment: (i) BIM capability stages representing transformational milestones along the implementation continuum; (ii) BIM maturity levels representing the quality, predictability and variability within BIM stages; (iii) BIM competencies representing incremental progressions towards and improvements within BIM stages; (iv) Organizational Scales representing the diversity of markets, disciplines and company sizes; and (v) Granularity Levels enabling highly targeted yet flexible performance analyses ranging from informal self-assessment to high-detail, formal organizational audits. This article explores these complementary components and positions them as a systematic method to understand BIM performance and to enable its assessment and improvement. A flowchart of the contents of this article is provided."
+  },
+  {
+   "id": "https://openalex.org/W2039941235",
+   "doi": "10.1007/s11186-014-9216-5",
+   "title": "The cultural environment: measuring culture with big data",
+   "publication_year": 2014,
+   "source": "Theory and Society",
+   "type": "article",
+   "cited_by_count": 405,
+   "relevance_score": null,
+   "authors": [
+    "Christopher A. Bail"
+   ],
+   "n_authors": 1,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2727938846",
+   "doi": "10.1016/j.promfg.2017.07.094",
+   "title": "Sensor Data and Information Fusion to Construct Digital-twins Virtual Machine Tools for Cyber-physical Manufacturing",
+   "publication_year": 2017,
+   "source": "Procedia Manufacturing",
+   "type": "article",
+   "cited_by_count": 403,
+   "relevance_score": null,
+   "authors": [
+    "Yi Cai",
+    "Binil Starly",
+    "Paul H. Cohen",
+    "Yuan\u2010Shin Lee"
+   ],
+   "n_authors": 4,
+   "abstract": "This paper presents sensor data integration and information fusion to build \u201cdigital-twins\u201d virtual machine tools for cyber-physical manufacturing. Virtual machine tools are useful for simulating machine tools\u2019 capabilities in a safe and cost-effective way, but it is challenging to accurately emulate the behavior of the physical tools. When a physical machine tool breaks down or malfunctions, engineers can always go back to check the digital traces of the \u201cdigital-twins\u201d virtual machine for diagnosis and prognosis. This paper presents an integration of manufacturing data and sensory data into developing \u201cdigital-twins\u201d virtual machine tools to improve their accountability and capabilities for cyber-physical manufacturing. The sensory data are used to extract the machining characteristics profiles of a digital-twins machine tool, with which the tool can better reflect the actual status of its physical counterpart in its various applications. In this paper, techniques are discussed for deploying sensors to capture machine-specific features, and analytical techniques of data and information fusion are presented for modeling and developing \u201cdigital-twins\u201d virtual machine tools. Example of developing the digital-twins of a 3-axis vertical milling machine is presented to demonstrate the concept of modeling and building a digital-twins virtual machine tool for cyber-physical manufacturing. The presented technique can be used as a building block for cyber-physic manufacturing develop"
+  },
+  {
+   "id": "https://openalex.org/W4385164063",
+   "doi": "10.1016/j.cscm.2023.e02326",
+   "title": "Life Cycle Assessment of construction materials: Methodologies, applications and future directions for sustainable decision-making",
+   "publication_year": 2023,
+   "source": "Case Studies in Construction Materials",
+   "type": "article",
+   "cited_by_count": 402,
+   "relevance_score": null,
+   "authors": [
+    "Salim Barbhuiya",
+    "Bibhuti Bhusan Das"
+   ],
+   "n_authors": 2,
+   "abstract": "This review paper presents a comprehensive analysis of Life Cycle Assessment (LCA) methodologies applied to construction materials. It begins with an introduction highlighting the significance of LCA in the construction industry, followed by an overview of LCA principles, phases and key parameters specific to construction materials. The methodological approaches utilised in LCA, including inventory analysis, impact assessment, normalisation, allocation methods and uncertainty analysis, are discussed in detail. The paper then provides a thorough review of LCA studies on various construction materials, such as cement, concrete, steel and wood, examining their life cycle stages and environmental considerations. The review also explores recent advances in LCA for construction materials, including circular economy principles, renewable alternatives, technological innovations and policy implications. The challenges and future directions in LCA implementation for construction materials are discussed, emphasising the need for data quality, standardisation, social aspects integration and industry-research collaboration. The provides valuable insights for researchers, policymakers and industry professionals to enhance sustainability in the construction sector through informed decision-making based on LCA."
+  },
+  {
+   "id": "https://openalex.org/W1658947143",
+   "doi": "10.1088/0004-6256/150/1/19",
+   "title": "OBSERVING STRATEGY FOR THE SDSS-IV/MaNGA IFU GALAXY SURVEY",
+   "publication_year": 2015,
+   "source": "The Astronomical Journal",
+   "type": "article",
+   "cited_by_count": 402,
+   "relevance_score": null,
+   "authors": [
+    "David R. Law",
+    "Renbin Yan",
+    "Matthew A. Bershady",
+    "Kevin A. Bundy",
+    "Brian Cherinka",
+    "Niv Drory"
+   ],
+   "n_authors": 15,
+   "abstract": "Mapping Nearby Galaxies at Apache Point Observatory (MaNGA) is an integral-field spectroscopic survey that is one of three core programs in the fourth-generation Sloan Digital Sky Survey (SDSS-IV). MaNGA's 17 pluggable optical fiber-bundle integral field units (IFUs) will observe a sample of 10,000 nearby galaxies distributed throughout the SDSS imaging footprint (focusing particularly on the North Galactic Cap). In each pointing these IFUs are deployed across a 3\u00b0 field; they yield spectral coverage 3600\u221210300 \u00c5 at a typical resolution R \u223c 2000, and sample the sky with 2'' diameter fiber apertures with a total bundle fill factor of 56%. Observing over such a large field and range of wavelengths is particularly challenging for obtaining uniform and integral spatial coverage and resolution at all wavelengths and across each entire fiber array. Data quality is affected by the IFU construction technique, chromatic and field differential refraction, the adopted dithering strategy, and many other effects. We use numerical simulations to constrain the hardware design and observing strategy for the survey with the aim of ensuring consistent data quality that meets the survey science requirements while permitting maximum observational flexibility. We find that MaNGA science goals are best achieved with IFUs composed of a regular hexagonal grid of optical fibers with rms displacement of 5 \u03bc m or less from their nominal packing position; this goal is met by the MaNGA hardware, which ac"
+  },
+  {
+   "id": "https://openalex.org/W4220991980",
+   "doi": "10.23919/icact53585.2022.9728808",
+   "title": "Overview: Technology Roadmap of the Future Trend of Metaverse based on IoT, Blockchain, AI Technique, and Medical Domain Metaverse Activity",
+   "publication_year": 2022,
+   "source": "International Conference on Advanced Communication Technology",
+   "type": "conference-paper",
+   "cited_by_count": 393,
+   "relevance_score": null,
+   "authors": [
+    "Md Ariful Islam Mozumder",
+    "Muhammad Mohsan Sheeraz",
+    "Ali Athar",
+    "Satyabrata Aich",
+    "Hee\u2010Cheol Kim"
+   ],
+   "n_authors": 5,
+   "abstract": "Metaverse is defined as a collection of technology gadgets and metaverse connected to IoT, Blockchain, Artificial Intelligence, and all the other tech industries including the medical area. IoT and Metaverse are the digital twins, Metaverse is using maximum IoT devices in their virtual workstation. This data has a unique identifying tag and is used as traceable data in the blockchain-based Metaverse. In the Metaverse, such data is becoming a valuable resource for artificial intelligence. Metaverse uses artificial intelligence and blockchain technology to build a digital virtual world where you can safely and freely engage in social and economic activities that transcend the limits of the real world, and the application of these latest technologies will be expedited. In this paper, we are going to describe what technologies metaverse is using and metaverse potentiality in medical healthcare."
+  },
+  {
+   "id": "https://openalex.org/W2406526729",
+   "doi": "10.1038/nature18291",
+   "title": "Early Neanderthal constructions deep in Bruniquel Cave in southwestern France",
+   "publication_year": 2016,
+   "source": "Nature",
+   "type": "article",
+   "cited_by_count": 392,
+   "relevance_score": null,
+   "authors": [
+    "Jacques Jaubert",
+    "Sophie Verheyden",
+    "Dominique Genty",
+    "Michel Soulier",
+    "Hai Cheng",
+    "Dominique Blamart"
+   ],
+   "n_authors": 20,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2344234307",
+   "doi": "10.1016/j.talanta.2016.04.046",
+   "title": "Recent approaches to improving selectivity and sensitivity of enzyme-based biosensors for organophosphorus pesticides: A review",
+   "publication_year": 2016,
+   "source": "Talanta",
+   "type": "review",
+   "cited_by_count": 392,
+   "relevance_score": null,
+   "authors": [
+    "Everlyne A. Songa",
+    "Jonathan Okechukwu Okonkwo"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2157365260",
+   "doi": "10.1093/jamia/ocu023",
+   "title": "Feasibility and utility of applications of the common data model to multiple, disparate observational health databases",
+   "publication_year": 2015,
+   "source": "Journal of the American Medical Informatics Association",
+   "type": "article",
+   "cited_by_count": 385,
+   "relevance_score": null,
+   "authors": [
+    "Erica A. Voss",
+    "Rupa Makadia",
+    "Amy Matcho",
+    "Qianli Ma",
+    "Chris Knoll",
+    "Martijn J. Schuemie"
+   ],
+   "n_authors": 10,
+   "abstract": "OBJECTIVES: To evaluate the utility of applying the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) across multiple observational databases within an organization and to apply standardized analytics tools for conducting observational research. MATERIALS AND METHODS: Six deidentified patient-level datasets were transformed to the OMOP CDM. We evaluated the extent of information loss that occurred through the standardization process. We developed a standardized analytic tool to replicate the cohort construction process from a published epidemiology protocol and applied the analysis to all 6 databases to assess time-to-execution and comparability of results. RESULTS: Transformation to the CDM resulted in minimal information loss across all 6 databases. Patients and observations excluded were due to identified data quality issues in the source system, 96% to 99% of condition records and 90% to 99% of drug records were successfully mapped into the CDM using the standard vocabulary. The full cohort replication and descriptive baseline summary was executed for 2 cohorts in 6 databases in less than 1 hour. DISCUSSION: The standardization process improved data quality, increased efficiency, and facilitated cross-database comparisons to support a more systematic approach to observational research. Comparisons across data sources showed consistency in the impact of inclusion criteria, using the protocol and identified differences in patient characteristics and "
+  },
+  {
+   "id": "https://openalex.org/W2592730363",
+   "doi": "10.1007/s40279-017-0707-1",
+   "title": "A National Study on the Effects of Concussion in Collegiate Athletes and US Military Service Academy Members: The NCAA\u2013DoD Concussion Assessment, Research and Education (CARE) Consortium Structure and Methods",
+   "publication_year": 2017,
+   "source": "Sports Medicine",
+   "type": "article",
+   "cited_by_count": 378,
+   "relevance_score": null,
+   "authors": [
+    "Steven P. Broglio",
+    "Michael McCrea",
+    "Thomas W. McAllister",
+    "Jaroslaw Harezlak",
+    "Barry P. Katz",
+    "Dallas C. Hack"
+   ],
+   "n_authors": 7,
+   "abstract": "BACKGROUND: The natural history of mild traumatic brain injury (TBI) or concussion remains poorly defined and no objective biomarker of physiological recovery exists for clinical use. The National Collegiate Athletic Association (NCAA) and the US Department of Defense (DoD) established the Concussion Assessment, Research and Education (CARE) Consortium to study the natural history of clinical and neurobiological recovery after concussion in the service of improved injury prevention, safety and medical care for student-athletes and military personnel. OBJECTIVES: The objectives of this paper were to (i) describe the background and driving rationale for the CARE Consortium; (ii) outline the infrastructure of the Consortium policies, procedures, and governance; (iii) describe the longitudinal 6-month clinical and neurobiological study methodology; and (iv) characterize special considerations in the design and implementation of a multicenter trial. METHODS: Beginning Fall 2014, CARE Consortium institutions have recruited and enrolled 23,533 student-athletes and military service academy students (approximately 90% of eligible student-athletes and cadets; 64.6% male, 35.4% female). A total of 1174 concussions have been diagnosed in participating subjects, with both concussion and baseline cases deposited in the Federal Interagency Traumatic Brain Injury Research (FITBIR) database. CONCLUSIONS: Challenges have included coordinating regulatory issues across civilian and military inst"
+  },
+  {
+   "id": "https://openalex.org/W2802823174",
+   "doi": "10.1016/j.bios.2018.04.028",
+   "title": "Strategies of molecular imprinting-based fluorescence sensors for chemical and biological analysis",
+   "publication_year": 2018,
+   "source": "Biosensors and Bioelectronics",
+   "type": "review",
+   "cited_by_count": 377,
+   "relevance_score": null,
+   "authors": [
+    "Qian Yang",
+    "Jinhua Li",
+    "Xiaoyan Wang",
+    "Hailong Peng",
+    "Hua Xiong",
+    "Lingxin Chen"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2617162961",
+   "doi": "10.1016/j.rser.2017.05.051",
+   "title": "Life cycle embodied energy analysis of residential buildings: A review of literature to investigate embodied energy parameters",
+   "publication_year": 2017,
+   "source": "Renewable and Sustainable Energy Reviews",
+   "type": "article",
+   "cited_by_count": 376,
+   "relevance_score": null,
+   "authors": [
+    "Manish Dixit"
+   ],
+   "n_authors": 1,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3171756682",
+   "doi": "10.1016/j.comcom.2021.06.003",
+   "title": "Secure and energy-efficient smart building architecture with emerging technology IoT",
+   "publication_year": 2021,
+   "source": "Computer Communications",
+   "type": "article",
+   "cited_by_count": 374,
+   "relevance_score": null,
+   "authors": [
+    "Arun Kumar",
+    "Sharad C. Sharma",
+    "Nitin Goyal",
+    "Aman Deep Singh",
+    "Xiaochun Cheng",
+    "Parminder Singh"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2235663509",
+   "doi": "10.1016/j.rser.2015.12.243",
+   "title": "LCA databases focused on construction materials: A review",
+   "publication_year": 2016,
+   "source": "Renewable and Sustainable Energy Reviews",
+   "type": "article",
+   "cited_by_count": 373,
+   "relevance_score": null,
+   "authors": [
+    "Alejandro Mart\u00ednez-Rocamora",
+    "Jaime Sol\u00eds-Guzm\u00e1n",
+    "Madelyn Marrero"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2142467765",
+   "doi": "10.1007/s12185-015-1894-x",
+   "title": "Introduction of Transplant Registry Unified Management Program 2 (TRUMP2): scripts for TRUMP data analyses, part I (variables other than HLA-related data)",
+   "publication_year": 2015,
+   "source": "International Journal of Hematology",
+   "type": "article",
+   "cited_by_count": 370,
+   "relevance_score": null,
+   "authors": [
+    "Yoshiko Atsuta"
+   ],
+   "n_authors": 1,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2734801606",
+   "doi": "10.1038/nature22999",
+   "title": "Infant viewing of social scenes is under genetic control and is atypical in autism",
+   "publication_year": 2017,
+   "source": "Nature",
+   "type": "article",
+   "cited_by_count": 369,
+   "relevance_score": null,
+   "authors": [
+    "John Nicholas Constantino",
+    "Stefanie Kennon\u2010McGill",
+    "Claire T. Weichselbaum",
+    "Natasha M. Marrus",
+    "Alyzeh Haider",
+    "Anne L. Glowinski"
+   ],
+   "n_authors": 10,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W1985638738",
+   "doi": "10.1111/nph.12923",
+   "title": "Parsing ecological signal from noise in next generation amplicon sequencing",
+   "publication_year": 2014,
+   "source": "New Phytologist",
+   "type": "article",
+   "cited_by_count": 365,
+   "relevance_score": null,
+   "authors": [
+    "Nhu Nguyen",
+    "Dylan P. Smith",
+    "Kabir Peay",
+    "Peter G. Kennedy"
+   ],
+   "n_authors": 4,
+   "abstract": "It is clear that the use of next generation sequencing (NGS) applied to environmental DNA is changing the way researchers conduct experiments and significantly deepening our understanding of microbial communities around the globe (Amend et al., 2010; Caporaso et al., 2011; Bik et al., 2012; Bates et al., 2013). The lower per unit cost and sheer number of sequences relative to traditional methods provide tremendous advantages in characterizing the richness and composition of highly diverse microbial systems (Bokulich et al., 2013). In a recent volume of New Phytologist, Lindahl et al. (2013) presented an excellent introduction into high-throughput sequencing of amplified gene markers for fungi, and broadly discussed field sampling and handling, DNA extraction, markers, primers, amplicon library construction, sequencing platform, bioinformatic analyses and data interpretation. We applaud their overview as an important general guide, but we have found that there are significant additional issues regarding NGS that have not been well articulated in the literature, especially when applied to fungi. Below we highlight a series of platform-independent recommendations based on our recent experiences with NGS, which we think are critical for maximizing the signal:noise ratio in molecular ecological analyses. The inclusion of both negative and positive controls is indispensable in NGS-based studies due to the greater detection level than traditional sequencing (i.e. sequences can be re"
+  },
+  {
+   "id": "https://openalex.org/W2117624434",
+   "doi": "10.1080/03054985.2011.577949",
+   "title": "Making sense of young people, education and digital technology: the role of sociological theory",
+   "publication_year": 2011,
+   "source": "Oxford Review of Education",
+   "type": "article",
+   "cited_by_count": 359,
+   "relevance_score": null,
+   "authors": [
+    "Neil Selwyn"
+   ],
+   "n_authors": 1,
+   "abstract": "This paper considers the contribution of sociological theory to the academic study of young people, education and digital technology. First it discusses the shortcomings of the technological and socially determinist views of technology and education that prevail in current academic and policy discussions. Against this background the paper outlines the benefits of a number of different sociological perspectives on the social shaping of technology that, despite their popularity in other areas of science and technology studies, have been employed rarely in analyses of educational technology. In particular the paper outlines the provenance of theoretical approaches such as the social construction of technology, studies of domestication of digital technologies, feminist critical theory and the political economy of technology. Drawing on all these theoretical traditions the scene is then set for future empirical and theoretical examinations of young people\u2019s use of digital technology in formal and informal educational settings."
+  },
+  {
+   "id": "https://openalex.org/W3148657662",
+   "doi": "10.1111/joms.12709",
+   "title": "Researching for Desirable Futures: From Real Utopias to Imagining Alternatives",
+   "publication_year": 2021,
+   "source": "Journal of Management Studies",
+   "type": "article",
+   "cited_by_count": 354,
+   "relevance_score": null,
+   "authors": [
+    "Ali Aslan G\u00fcm\u00fc\u015fay",
+    "Juliane Reinecke"
+   ],
+   "n_authors": 2,
+   "abstract": "Moments of crisis may serve as critical junctures for imagining alternatives. As the future has become increasingly volatile and precarious in these unsettled times of pandemic, climate emergency, rising inequality and an ever looming digital (r)evolution, there is a great need and opportunity to develop theory that can guide society towards its future potentialities. But how can we theorize what does not (yet) exist? A central task would be to develop methodological strategies that make the future amenable to empirical study. This is quite ambitious. In this essay we seek to take one of many steps and advocate for such (re-)search for the future, where acts of (disciplined) imagination become input for theory building. Calls abound for us management scholars to assume a more engaged societal role by breaking away from a narrow, paradigm-driven 'theory fetish' and instead, contribute to solving grand challenges and societal problems (Biggart, 2016). We do not see this as an either/or. It is time for us as management scholars to use the methodological and theoretical toolkit at our disposal to co-create the future; and to actively feed forward soci(et)al change \u2013 not despite theory, but through it. However, the future poses some peculiar problems: By definition, it is not here yet. Thus, the quest to contribute to the construction of a future social reality by theorizing it raises some fundamental questions: Do we actually need to wait until something exists before we can buil"
+  },
+  {
+   "id": "https://openalex.org/W2004921952",
+   "doi": "10.1145/1982595.1982612",
+   "title": "Automating GUI testing for Android applications",
+   "publication_year": 2011,
+   "source": "International Workshop on Automation of Software Test (AST)",
+   "type": "conference-paper",
+   "cited_by_count": 352,
+   "relevance_score": null,
+   "authors": [
+    "Cuixiong Hu",
+    "Iulian Neamtiu"
+   ],
+   "n_authors": 2,
+   "abstract": "Users increasingly rely on mobile applications for computational needs. Google Android is a popular mobile platform, hence the reliability of Android applications is becoming increasingly important. Many Android correctness issues, however, fall outside the scope of traditional verification techniques, as they are due to the novelty of the platform and its GUI-oriented application construction paradigm. In this paper we present an approach for automating the testing process for Android applications, with a focus on GUI bugs. We first conduct a bug mining study to understand the nature and frequency of bugs affecting Android applications; our study finds that GUI bugs are quite numerous. Next, we present techniques for detecting GUI bugs by automatic generation of test cases, feeding the application random events, instrumenting the VM, producing log/trace files and analyzing them post-run. We show how these techniques helped to re-discover existing bugs and find new bugs, and how they could be used to prevent certain bug categories. We believe our study and techniques have the potential to help developers increase the quality of Android applications."
+  },
+  {
+   "id": "https://openalex.org/W1541738557",
+   "doi": "10.1088/1475-7516/2014/12/021",
+   "title": "f(T,\ud835\udcaf) gravity and cosmology",
+   "publication_year": 2014,
+   "source": "Journal of Cosmology and Astroparticle Physics",
+   "type": "article",
+   "cited_by_count": 349,
+   "relevance_score": null,
+   "authors": [
+    "Tiberiu Harko",
+    "Francisco S. N. Lobo",
+    "Giovanni Otalora",
+    "Emmanuel N. Saridakis"
+   ],
+   "n_authors": 4,
+   "abstract": "We present an extension of f ( T ) gravity, allowing for a general coupling of the torsion scalar T with the trace of the matter energy-momentum tensor \ud835\udcaf. The resulting f ( T ,\ud835\udcaf) theory is a new modified gravity, since it is different from all the existing torsion or curvature based constructions. Applied to a cosmological framework, it leads to interesting phenomenology. In particular, one can obtain a unified description of the initial inflationary phase, the subsequent non-accelerating, matter-dominated expansion, and then the transition to a late-time accelerating phase. Additionally, the effective dark energy sector can be quintessence or phantom-like, or exhibit the phantom-divide crossing during the evolution. Moreover, in the far future the universe results either to a de Sitter exponential expansion, or to eternal power-law accelerated expansions. Finally, a detailed study of the scalar perturbations at the linear level reveals that f ( T ,\ud835\udcaf) cosmology can be free of ghosts and instabilities for a wide class of ansatzes and model parameters."
+  },
+  {
+   "id": "https://openalex.org/W1976752706",
+   "doi": "10.1016/j.geoforum.2015.03.004",
+   "title": "The political ecology of ecosystem services",
+   "publication_year": 2015,
+   "source": "Geoforum",
+   "type": "article",
+   "cited_by_count": 345,
+   "relevance_score": null,
+   "authors": [
+    "Christian A. Kull",
+    "Xavier Arnauld de Sartre",
+    "Monica Castro Larranaga"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2995398773",
+   "doi": "10.1103/physrevresearch.2.023237",
+   "title": "Fractional Chern insulator states in twisted bilayer graphene: An analytical approach",
+   "publication_year": 2020,
+   "source": "Physical Review Research",
+   "type": "article",
+   "cited_by_count": 344,
+   "relevance_score": null,
+   "authors": [
+    "Patrick J. Ledwith",
+    "Grigory Tarnopolsky",
+    "Eslam Khalaf",
+    "Ashvin Vishwanath"
+   ],
+   "n_authors": 4,
+   "abstract": "This work shows that the character of the narrow band wave functions in twisted bilayer graphene favor the formation of fractional Quantum Hall states even in the absence of a magnetic field. The authors trace the features of magic angle bands to a holomorphic property of the tractable chiral limit which also allows for mapping to a Dirac particle in an inhomogeneous magnetic field and the explicit construction of Laughlin like ground states."
+  },
+  {
+   "id": "https://openalex.org/W2024053660",
+   "doi": "10.1111/ecoj.12044",
+   "title": "Do Entry Regulations Deter Entrepreneurship and Job Creation? Evidence from Recent Reforms in Portugal",
+   "publication_year": 2010,
+   "source": "The Economic Journal",
+   "type": "article",
+   "cited_by_count": 342,
+   "relevance_score": null,
+   "authors": [
+    "Lee Branstetter",
+    "Francisco Lima",
+    "Lowell J. Taylor",
+    "Ana Ven\u00e2ncio"
+   ],
+   "n_authors": 4,
+   "abstract": "Recent research has suggested that the reduction of entry regulation can promote firm entry and job creation, but little is known about the quality of firms and jobs created through these reforms.To shed light on this question, we employ data from Portugal, a country which implemented one of the most dramatic and thorough policies of entry deregulation in the industrialized world.The impact of these major changes can be traced with a matched employer-employee database that provides unusually rich information on the quality of founders and employees associated with the new firms.Our assessment indicates that the short term consequences of the reform were just as one would predict with a standard economic model of entrepreneurship: The reform resulted in increased firm formation and employment, but mostly among \"marginal firms\" that would have been most readily deterred by existing heavy entry regulations.These marginal firms were typically small, owned by relatively poorly-educated entrepreneurs, operating in the low-tech sector (agriculture, construction, and retail trade).These firms were also less likely to survive their first two years than comparable firms that entered prior to the reform.The social impact of entry deregulation may be limited by the quality of the firms it creates."
+  },
+  {
+   "id": "https://openalex.org/W2106517536",
+   "doi": "10.1109/jstsp.2012.2212417",
+   "title": "Video Quality Assessment on Mobile Devices: Subjective, Behavioral and Objective Studies",
+   "publication_year": 2012,
+   "source": "IEEE Journal of Selected Topics in Signal Processing",
+   "type": "article",
+   "cited_by_count": 337,
+   "relevance_score": null,
+   "authors": [
+    "Anush Krishna Moorthy",
+    "Lark Kwon Choi",
+    "Alan Conrad Bovik",
+    "Gustavo A. De Veciana"
+   ],
+   "n_authors": 4,
+   "abstract": "We introduce a new video quality database that models video distortions in heavily-trafficked wireless networks and that contains measurements of human subjective impressions of the quality of videos. The new LIVE Mobile Video Quality Assessment (VQA) database consists of 200 distorted videos created from 10 RAW HD reference videos, obtained using a RED ONE digital cinematographic camera. While the LIVE Mobile VQA database includes distortions that have been previously studied such as compression and wireless packet-loss, it also incorporates dynamically varying distortions that change as a function of time, such as frame-freezes and temporally varying compression rates. In this article, we describe the construction of the database and detail the human study that was performed on mobile phones and tablets in order to gauge the human perception of quality on mobile devices. The subjective study portion of the database includes both the differential mean opinion scores (DMOS) computed from the ratings that the subjects provided at the end of each video clip, as well as the continuous temporal scores that the subjects recorded as they viewed the video. The study involved over 50 subjects and resulted in 5,300 summary subjective scores and time-sampled subjective traces of quality. In the behavioral portion of the article we analyze human opinion using statistical techniques, and also study a variety of models of temporal pooling that may reflect strategies that the subjects used"
+  }
+ ]
+}

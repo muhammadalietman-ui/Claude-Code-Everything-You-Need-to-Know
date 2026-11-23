@@ -1,0 +1,1037 @@
+{
+ "run_date": "2026-11-23",
+ "source": "Semantic Scholar Graph API /paper/batch (fields=title,abstract,tldr,externalIds)",
+ "purpose": "abstract enrichment for records lacking an OpenAlex abstract (screening support only; not an identification source)",
+ "records": {
+  "10.1016/j.autcon.2022.104245": {
+   "title": "Computer vision-based construction progress monitoring",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/s13369-017-2811-9": {
+   "title": "Evaluation of UAV- and GNSS-Based DEMs for Earthwork Volume",
+   "abstract": "Road planning and construction is a complex and time consuming process. One of the most important components in this process is estimating earthwork. Resolution of DEM, which is commonly used in road planning stage, directly affects success of earthworks estimation and construction costs. Within the scope of this study, capabilities of two different data collection systems (UAV and GNSS) were compared for DEM generation. In the study, two sets of DEMs of Bursa Technical University Kestel campus area were produced using both UAV- and GNSS-based methods. Then, cut and fill volumes were compared with considering UAV-based DEM and GNSS-based DEM depending on reference plane for three different roads. According to NRTK-GNSS-based surveying results, point density was obtained as 35 point/ha, while UAV-based surveying point density was computed as \u223c234,385\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\sim } 234{,}385$$\\end{document} point/ha. Using UAV-based DEM as a reference plane, it was found that the volumes of excavations and embankments were very close to each other when the average excavation per unit (i.e., 1 m) road length was calculated.",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2026.107159": {
+   "title": "Deep learning framework for point cloud instance segmentation in construction sites",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2025.106109": {
+   "title": "Mechanics-based digital twin model for structural construction using 3D scanning and FE model updating",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.isprsjprs.2022.12.014": {
+   "title": "Geometric BIM verification of indoor construction sites by photogrammetric point clouds and evidence theory",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.aei.2023.102102": {
+   "title": "Blockchain-enabled cyber-physical system for construction site management: A pilot implementation",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jclepro.2019.119059": {
+   "title": "Cyber-physical system-based real-time monitoring and visualization of greenhouse gas emissions of prefabricated construction",
+   "abstract": "Abstract The excessive emissions of greenhouse gases (GHGs) from the construction industry are currently receiving global attention. Many breakthroughs have been made in assessing GHG emissions, including pre- and post-evaluation methods. However, the real-time monitoring of GHG emissions has not been studied on a large scale. The real-time GHG emissions of construction sites must be monitored, and the use of clean energy and technologies must be facilitated by comparing real-time GHG emissions under different mechanical and energy use conditions. Thus, this study proposes a cyber-physical system (CPS)-based real-time monitoring and visualization of the GHG emissions of prefabricated construction, which is widely practiced in the construction industry. In this system, acceleration sensors monitor the operational status of tower cranes, barometric sensors monitor the running state of construction elevators, and a Global Positioning System module records the travel time of on-site transfer vehicles to detect and transmit the running time of construction machineries to a remote server via a preinstalled Wi-Fi or General Packet Radio Service module. Furthermore, the database can store the model number, quantity, and power of each element of construction machinery and GHG emission factors. Thus, GHG emissions from prefabrication sites can be calculated in real time using the specified quantitative model in the remote server. In addition, GHG emission data can be displayed using a ",
+   "tldr": "This study proposes a cyber-physical system (CPS)-based real-time monitoring and visualization of the GHG emissions of prefabricated construction, which is widely practiced in the construction industry."
+  },
+  "10.1016/j.compind.2022.103783": {
+   "title": "A digital twin approach for tunnel construction safety early warning and management",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.rcim.2020.102075": {
+   "title": "The connotation of digital twin, and the construction and application method of shop-floor digital twin",
+   "abstract": "Abstract Digital twin (DT) technology provides a novel, feasible, and clear implementation path for the realization of smart manufacturing and cyber-physical systems (CPS). Currently, DT is applied to all stages of the product lifecycle, including design, production, and service, although its application in the production stage is not yet extensive. Shop-floor digital twin (SDT) is a digital mapping model of the corresponding physical shop-floor. How to build and apply SDT has always been challenging when applying DT technology in the production phase. To address the existing problems, this paper first reviews the origin and evolution of DT, including its application status in the production stage. Then, an implementation framework for the construction and application of SDT is proposed. Three key implementation techniques are explained in detail: the five-dimensional modeling of SDT; DT-based 3D visual and real-time monitoring of shop-floor operating status; and prediction of shop-floor operating status based on SDT using Markov chain. A DT-based visual monitoring and prediction system (DT-VMPS) for shop-floor operating status is developed, and the feasibility and effectiveness of the proposed method are demonstrated through the use of an engineering case study. Finally, a summary of the contributions of the paper is given, and future research issues are discussed.",
+   "tldr": "A DT-based visual monitoring and prediction system (DT-VMPS) for shop-floor operating status is developed, and the feasibility and effectiveness of the proposed method are demonstrated through the use of an engineering case study."
+  },
+  "10.1016/j.jobe.2021.102726": {
+   "title": "Digital twin application in the construction industry: A literature review",
+   "abstract": "Abstract The construction industry is faced with numerous challenges including low productivity, lack of research and development, and poor technology advancements. Advances in digital technologies such as digital twin (DT) has seen enormous utilisations in digitally advanced industries including the manufacturing and automotive industries. It presents an opportunity for the integration of the physical world to the digital world. DT technology has the potential to transform the construction industry and provide responses to some of its challenges. As a result, the concept of DT has attracted much attention and is developing at a rapid pace. The overarching aim of this study was to analyse the current state of DT applications in the construction industry. This study comprehensively reviews and analyses DT concept, technologies, and application in the construction industry using a systematic review methodology while incorporating the science mapping method. After a complete search of several databases and careful selection in line with the proposed criteria, 22 academic publications about DT application in the construction industry were identified and classified accordingly. The research analysed in detail the status, evolution of the concept, key technologies, and six areas of application in the lifecycle phases of a project: building information modeling, structural system integrity, facilities management, monitoring, logistics processes, and energy simulation. This research ",
+   "tldr": "There is a high potential for digital twin to enable solutions to the numerous challenges in the construction industry, and the level of awareness and need for the application of DT is raised."
+  },
+  "10.1007/978-3-030-27928-8_148": {
+   "title": "Construction of a Simple Management Method in Production Using a Digital Twin Model",
+   "abstract": "",
+   "tldr": "An architecture is developed that makes it possible to find solutions or answers by projecting effective internet of things (IoT) and digital manufacturing (DM) uses at production sites and how to evaluate manufacturing processes on a digital twin model, using production activity based on the plan-do-check-action (PDCA) cycle widely used in the Japanese manufacturing industry."
+  },
+  "10.1016/j.autcon.2025.106108": {
+   "title": "Enhancing worker monitoring and management on large-scale construction sites with UAVs and digital twin modeling",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jmsy.2020.02.003": {
+   "title": "Data Construction Method for the Applications of Workshop Digital Twin System",
+   "abstract": "Abstract Data is the key to the operation of manufacturing workshop Digital Twin System (DTS) and also supports the top-level applications of DTS. However, manufacturing data has the characteristics of coupling and large-amount, which lead to inefficient and inaccurate operations of applications. In order to provide stable and efficient data support for the applications of DTS, this paper proposed a data construction method. The framework of data construction is designed based on the functional requirements, which are analyzed according to the characteristics of manufacturing data. Then, module implementation of the framework, including data representation module, data organization module and data management module, is introduced in detail. Finally, application of cutting tool wear prediction is taken as a case study to show the feasibility and effectiveness of the proposed data construction method.",
+   "tldr": "The framework of data construction is designed based on the functional requirements, which are analyzed according to the characteristics of manufacturing data, and application of cutting tool wear prediction is taken as a case study to show the feasibility and effectiveness of the proposed data construction method."
+  },
+  "10.1016/j.autcon.2024.105805": {
+   "title": "Spatio-temporal heat risk analysis in construction: Digital twin-enabled monitoring",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.aei.2023.102182": {
+   "title": "Intervention and management of construction workers' unsafe behavior: A simulation digital twin model",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2025.106147": {
+   "title": "Digital twin-enabled safety monitoring system for seamless worker-robot collaboration in construction",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.compind.2021.103594": {
+   "title": "Digital twin-enabled smart modular integrated construction system for on-site assembly",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jclepro.2019.04.156": {
+   "title": "Digital twin aided sustainability-based lifecycle management for railway turnout systems",
+   "abstract": "Abstract Railway turnouts or so-called \u2018switches and crossings\u2019 are complex systems by nature of design and construction. Railway turnouts are used to change direction of trains from one to another. They require high-quality construction and maintenance, in order to minimise rapid degradation and component failures that could result in train derailments. Due to the complexity of railway turnouts, the efficiency and effectiveness of maintenance can be improved by integrating existing practice by Building Information Modelling (BIM). This research establishes and analyses the world's first 6D BIM for life cycle management of a railway turnout system. The BIM (Level 3) has integrated 6-dimensions of field data information based on Revit-2018 and Navisworks-2018 platforms. The digital twins of a railway turnout in 3D embrace time schedule, costs and sustainability across the whole life cycle. The use of BIM for railway turnout systems has the potential to improve the overall information flow of the turnout planning and design, manufacturing pre-assembly and logistic, construction and installation, operation and management and demolition, thereby achieving better project performance and quality. Based on integrated information of railway turnout system, the 6D BIM has the ability to assess on economic, management and sustainability, and achieve a balance among them. This is the word first to demonstrate that BIM can fully deliver its essential benefits by information sharing, easi",
+   "tldr": "This research establishes and analyses the world's first 6D BIM for life cycle management of a railway turnout system, and reveals that embodied material emission is the main contributor towards carbon footprint, especially produced during the manufacturing stage."
+  },
+  "10.1007/s00170-020-05779-9": {
+   "title": "Model construction of planning and scheduling system based on digital twin",
+   "abstract": "",
+   "tldr": "Digital twin\u2019 technology and planning and scheduling are integrated to form a plans and scheduling system based on digital twin, which can effectively use the concept of twin to carry out all-around management and control of the uncertain factors in production activities so that the planner and scheduling scheme in the production process can accurately guide the actual production."
+  },
+  "10.1016/j.autcon.2021.104057": {
+   "title": "Semantics-aided 3D change detection on construction sites using UAV-based photogrammetric point clouds",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2025.106211": {
+   "title": "UAV-based automated earthwork progress monitoring using deep learning with image inpainting",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2022.104398": {
+   "title": "Construction quality evaluation of asphalt pavement based on BIM and GIS",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/s41062-026-02946-x": {
+   "title": "BIM-GIS data integration of geotechnical and geophysical data in 3D models for railway design",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1155/2024/9792362": {
+   "title": "Retracted: Collaboration and Management of Heterogeneous Robotic Systems for Road Network Construction, Management, and Maintenance under the Vision of \"BIM + GIS\" Technology",
+   "abstract": "<jats:p />",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2019.103045": {
+   "title": "Automated excavators activity recognition and productivity analysis from construction site surveillance videos",
+   "abstract": "Abstract The productivity of construction equipment plays an important role in completing construction projects within schedule and under budget. However, the current productivity monitoring on construction sites highly depends on manually observing and recording equipment activities, which is labor-intensive and time-consuming. To address this problem, an increasing number of research studies focused on automatically identifying equipment activities from site surveillance videos. However, these studies failed to accurately conduct the activity recognition and productivity analysis, when multiple pieces of equipment are working together. This research proposes a novel framework for automatically analyzing the activity and productivity of multiple excavators. In this framework, three convolutional neural networks are designed to detect, track and recognize the activities of excavators. The results are further compiled to analyze excavator's activity time, working cycle, and productivity. The proposed framework has been tested with the videos recorded from real construction sites. The overall activity recognition has achieved 87.6% accuracy. The productivity calculation has achieved 83% accuracy, which indicates the feasibility of the proposed framework for automating the monitoring of excavator's productivity.",
+   "tldr": "The results indicate the feasibility of the proposed framework for automating the monitoring of excavator's productivity, which involves three convolutional neural networks designed to detect, track and recognize the activities of excavators."
+  },
+  "10.1016/j.autcon.2021.103928": {
+   "title": "Providing proximity alerts to workers on construction sites using Bluetooth Low Energy RTLS",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2016.08.039": {
+   "title": "Continuous localization of construction workers via integration of detection and tracking",
+   "abstract": "Abstract Tracking construction workers onsite yields trajectory data that can be very useful in safety and productivity monitoring. Tracking via cameras and computer vision-based methods is one of the tracking options available and deemed suitable for worker tracking in congested outdoor environments. However, this option has yet to yield a practical, robust solution, because of its poor performance in handling occlusions and maintaining trajectories over time. This is due, on one hand, to the tracking methods' degeneracy issues, and the use of detection methods only for initializing trackers. On the other hand, detection methods alone are unable to yield robust trajectories because they treat each frame independently and do not account for temporal effects. Furthermore, no detection method satisfies high performance requirements in both precision and recall. Higher precision entails lower recall. False positives or false negatives limit practical applications. To resolve these issues, this paper presents a hybrid method for locating construction workers that fuses tracking and detection together throughout the tracking process. The detection method is designed to hit higher precision while the tracking method supplements the reduced lower recall. Tracking allows entity matching across frames producing trajectories for all identified workers, while tracking of an occluded worker is automatically terminated and resumed when the occlusion gets cleared. Experimental tests on ons",
+   "tldr": "A hybrid method for locating construction workers that fuses tracking and detection together throughout the tracking process, designed to hit higher precision while the tracking method supplements the reduced lower recall."
+  },
+  "10.1016/j.autcon.2012.09.004": {
+   "title": "Automatic spatio-temporal analysis of construction site equipment operations using GPS data",
+   "abstract": "",
+   "tldr": "Technology and algorithms that have the potential in aiding the automated assessment of construction site equipment operations and are able to identify and track equipment activity- and safety-related information automatically for job site performance and layout decision making are presented."
+  },
+  "10.1016/j.autcon.2017.08.005": {
+   "title": "What drives construction workers' acceptance of wearable technologies in the workplace?: Indoor localization and wearable health devices for occupational safety and health",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2025.106428": {
+   "title": "Multi-granular crew activity recognition for construction monitoring",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2017.06.012": {
+   "title": "Wearable sensors for monitoring on-duty and off-duty worker physiological status and activities in construction",
+   "abstract": "",
+   "tldr": "The results demonstrated the usability of these sensors and recommended a data collection period of three consecutive days for obtaining an intraclass correlation coefficient of \u2265\u00a00.75 for heart rate, energy expenditure, metabolic equivalents, and sleep efficiency."
+  },
+  "10.1016/j.autcon.2017.02.001": {
+   "title": "Monitoring workers' attention and vigilance in construction activities through a wireless and wearable electroencephalography system",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2017.12.033": {
+   "title": "An IoT-based autonomous system for workers' safety in construction sites with real-time alarming, monitoring, and positioning strategies",
+   "abstract": "",
+   "tldr": "A novel design for an autonomous system that monitors, localizes, and warns site laborers who avail within danger zones is proposed, and its architecture is based on Internet of Things (IoT)."
+  },
+  "10.1007/978-3-031-25706-3_31": {
+   "title": "Smart Internet of Things (IoT) System for Construction Sites Monitoring",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2011.05.001": {
+   "title": "Performance evaluation of ultra wideband technology for construction resource location tracking in harsh environments",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2021.103598": {
+   "title": "Monitoring distraction of construction workers caused by noise using a wearable Electroencephalography (EEG) device",
+   "abstract": "Abstract In the construction environment with high attention requirements, distraction is the main cause of unsafe behavior and safety performance degradation. However, few studies have focused on distraction's cognitive features and how to monitor it objectively in the construction workplace. To fill the research gap, the present study examined the correlation between distraction and brain activity using an Electroencephalography (EEG) device, intending to provide an approach for objectively monitoring worker distraction. In the simulated hazards identification activity, sustained attention to response task and dual-task paradigms have been employed to induce distraction combined with noise interference. Twenty-seven subjects participated in the experiment to identify whether a hazardous opening exists or not in the workplace in the shown images. The EEG waves were recorded and divided into two groups according to task performance: focused and distracted. Through feature calculation and extraction, it was found that beta and gamma powers in the left temporal and right pre-frontal cortex can distinguish these two statuses, particularly in channels T7 and AF4. The indicators can be considered as an objective evaluation of an individual's sustained attention and attention failures. The developed indicators located in specified brain zones can also be used as a reference for attention training. By providing safety managers with attention status about the workers in high-risk wor",
+   "tldr": "It was found that beta and gamma powers in the left temporal and right pre-frontal cortex can distinguish these two statuses, particularly in channels T7 and AF4, and these indicators can be considered as an objective evaluation of an individual's sustained attention and attention failures."
+  },
+  "10.1007/978-3-319-94589-7_12": {
+   "title": "Control of Collective Security Equipment by RFID in the Construction Site",
+   "abstract": "",
+   "tldr": "The development of a remote monitoring system of safety equipment using Radio Frequency Identification technology (RFID), managed by a software, developed in this research is presented."
+  },
+  "10.1016/j.autcon.2026.107147": {
+   "title": "Incremental learning framework for edge AI\u2013enabled worker tracking and productivity monitoring in digital construction",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.apergo.2017.02.007": {
+   "title": "Ergonomic analysis of construction worker's body postures using wearable mobile sensors.",
+   "abstract": "",
+   "tldr": "A low-cost ubiquitous approach is presented and validated which deploys built-in smartphone sensors to unobtrusively monitor workers' bodily postures and autonomously identify potential work-related ergonomic risks and indicates that measurements of trunk and shoulder flexions of a worker by smartphone sensory data are very close to corresponding measurements by observation."
+  },
+  "10.1007/s40996-021-00716-6": {
+   "title": "Developing a Wearable Device Based on IoT to Monitor the Use of Personal Protective Equipment in Construction Projects",
+   "abstract": "",
+   "tldr": "This paper aims to solve the problem of simultaneous safety monitoring of projects by developing an online tracking PPE wearable device based on the concept of the Internet of things and shows that the frequency of nonuse of PPE was decreased."
+  },
+  "10.1016/j.autcon.2024.105555": {
+   "title": "Monitoring and evaluating the status and behaviour of construction workers using wearable sensing technologies",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2017.06.003": {
+   "title": "Wristband-type wearable health devices to measure construction workers' physical demands",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2018.02.035": {
+   "title": "Utilization analysis methodology for fleet telematics of heavy earthwork equipment",
+   "abstract": "Abstract Fleet telematics aims to comprehensively control equipment groups through location tracking, maintenance control, and productivity monitoring of individual equipment based on real-time location and status transmitted to fleet control center from the equipment. Logistics industry, automobile industry, as well as transportation (land, sea, and air) industry are actively applying fleet telematics in order to efficiently and safely operate multiple groups of equipment. Earthwork, a basic operation for any type of construction, depends heavily on equipment. The productivity and safety of earthwork equipment are decided by effective management of the equipment. Therefore, fleet telematics can also improve the earthwork operation as well. The goal of this research is to develop a GPS only-based fleet telematics system for heavy earthwork equipment which can analyze time log information of each equipment using GPS location data without utilizing any other on-board sensors and CAN bus data. The earthwork site (loading and dumping area) and moving route, hazardous areas of the project are all visualized on a map via geo-fencing technology considering the characteristics of earthwork operation. Lastly, algorithms to analyze the utilization time of earthwork equipment using GPS location information are designed and their reliability are verified through field tests.",
+   "tldr": "A GPS only-based fleet telematics system for heavy earthwork equipment which can analyze time log information of each equipment using GPS location data without utilizing any other on-board sensors and CAN bus data is developed."
+  },
+  "10.1016/j.aei.2019.100960": {
+   "title": "Differential received signal strength based RFID positioning for construction equipment tracking",
+   "abstract": "Abstract A novel differential received signal strength (RSS) positioning algorithm is proposed in the paper. Different from traditional methods to find the relationship between RSS and distance, this new positioning approach is based on linear regression of angle and differential received signal strengths. The advantages of this positioning algorithm is robust to heterogeneity of RFID tags as well as direction between tag and reader. Several experiments are firstly carried out in open environment and then a further experiment is conducted in a LNG training centre to validate our proposed algorithm. The results show that our proposed algorithm can achieve better accuracy than existing RFID positioning approaches for equipment tracking.",
+   "tldr": "The results show that the proposed algorithm can achieve better accuracy than existing RFID positioning approaches for equipment tracking and is robust to heterogeneity of RFID tags as well as direction between tag and reader."
+  },
+  "10.1016/j.measurement.2018.07.093": {
+   "title": "Monitoring harness use in construction with BLE beacons",
+   "abstract": "Abstract This paper introduces a novel approach to measure and evaluate the proper use of harnesses at construction sites: we deploy Bluetooth Low Energy (BLE) beacons for delimiting areas where the use of a harness is mandatory and to detect whether the harness is attached to the corresponding lifeline when the worker enter these areas. Our method is based on local estimation, through statistical filtering of RSSI measurements (Extended Kalman Filter), of the proximity between the beacons that delimit the different areas and the one in the lifeline, followed by a finite state machine risk status detector. Experiments have been performed in a real construction work-place with a wearable device; their results show that our solution is ideal for dynamic construction environments. Its main advantages are robustness of the detection system, easy relocation of the beacons as the construction zone evolves, and no need for calibration, communication infrastructure, external processing support, or configuration/map updates. Additionally, optional remote IoT for online monitoring is possible.",
+   "tldr": "A novel approach to measure and evaluate the proper use of harnesses at construction sites: Bluetooth Low Energy beacons are deployed for delimiting areas where the use of a harness is mandatory and to detect whether the harness is attached to the corresponding lifeline when the worker enter these areas."
+  },
+  "10.1016/j.aei.2019.100944": {
+   "title": "Times-series data augmentation and deep learning for construction equipment activity recognition",
+   "abstract": "Abstract Automated, real-time, and reliable equipment activity recognition on construction sites can help to minimize idle time, improve operational efficiency, and reduce emissions. Previous efforts in activity recognition of construction equipment have explored different classification algorithms anm accelerometers and gyroscopes. These studies utilized pattern recognition approaches such as statistical models (e.g., hidden-Markov models); shallow neural networks (e.g., Artificial Neural Networks); and distance algorithms (e.g., K-nearest neighbor) to classify the time-series data collected from sensors mounted on the equipment. Such methods necessitate the segmentation of continuous operational data with fixed or dynamic windows to extract statistical features. This heuristic and manual feature extraction process is limited by human knowledge and can only extract human-specified shallow features. However, recent developments in deep neural networks, specifically recurrent neural network (RNN), presents new opportunities to classify sequential time-series data with recurrent lateral connections. RNN can automatically learn high-level representative features through the network instead of being manually designed, making it more suitable for complex activity recognition. However, the application of RNN requires a large training dataset which poses a practical challenge to obtain from real construction sites. Thus, this study presents a data-augmentation framework for generati",
+   "tldr": "A data-augmentation framework for generating synthetic time-series training data for an RNN-based deep learning network to accurately and reliably recognize equipment activities."
+  },
+  "10.1007/978-3-030-00220-6_22": {
+   "title": "Feasibility of Wearable Electromyography (EMG) to Assess Construction Workers\u2019 Muscle Fatigue",
+   "abstract": "",
+   "tldr": "The feasibility of a wearable Electromyography (EMG) sensor to measure the electrical impulses produced by workers\u2019 muscles as a means to continuously evaluate workers muscle fatigue without interfering with their ongoing tasks is examined."
+  },
+  "10.1016/j.autcon.2015.02.004": {
+   "title": "A labor consumption measurement system based on real-time tracking technology for dam construction site",
+   "abstract": "",
+   "tldr": "The results achieved show that the system is able to log entire on-site trajectories of laborers, and calculate the accurate labor consumption of each dam monolith."
+  },
+  "10.1016/j.autcon.2019.103000": {
+   "title": "Identification and classification of construction equipment operators' mental fatigue using wearable eye-tracking technology",
+   "abstract": "Abstract In the construction industry, the operator's mental fatigue is one of the most important causes of construction equipment-related accidents. Mental fatigue can easily lead to poor performance of construction equipment operations and accidents in the worst case scenario. Hence, it is necessary to propose an objective method that can accurately detect multiple levels of mental fatigue of construction equipment operators. To address such issue, this paper develops a novel method to identify and classify operator's multi-level mental fatigue using wearable eye-tracking technology. For the purpose, six participants were recruited to perform a simulated excavator operation experiment to obtain relevant data. First, a Toeplitz Inverse Covariance-Based Clustering (TICC) method was used to determine the number of levels of mental fatigue using relevant subjective and objective data collected during the experiments. The results revealed the number of mental fatigue levels to be 3 using TICC-based method. Second, four eye movement feature-sets suitable for different construction scenarios were extracted and supervised learning algorithms were used to classify multi-level mental fatigue of the operator. The classification performance analysis of the supervised learning algorithms showed Support Vector Machine (SVM) was the most suitable algorithm to classify mental fatigue in the face of various construction scenarios and subject bias (accuracy between 79.5% and 85.0%). Overall,",
+   "tldr": "The feasibility of applying wearable eye-tracking technology to identify and classify the mental fatigue of construction equipment operators' multi-level mental fatigue is demonstrated."
+  },
+  "10.1007/s41062-025-02005-x": {
+   "title": "Automation in construction through application of bluetooth low energy for indoor monitoring of construction projects in Gujarat, India",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/s43681-025-00957-5": {
+   "title": "The ethics of algorithmic visibility: power and resistance in AI surveillance at construction sites from a critical theory perspective",
+   "abstract": "",
+   "tldr": "This study reveals that algorithmic systems construct a dynamically evolving disciplinary mechanism of \u201cdigital panopticism\u201d through continuous monitoring, automated adjudication, and predictive intervention, achieving a deep penetration into workers\u2019 behaviors and even their lived experiences."
+  },
+  "10.1016/j.cose.2024.104275": {
+   "title": "Privacy and security of wearable internet of things: A scoping review and conceptual framework development for safety and health management in construction",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2026.107069": {
+   "title": "Blockchain-enabled plug-in personalized federated learning for new-client wearable construction health and safety monitoring",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/s43681-026-01429-0": {
+   "title": "Ethical and safe by construction: a unified assurance pipeline for physical AI",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2026.106800": {
+   "title": "Human digital twin for optimizing labor productivity in construction 5.0",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2025.106432": {
+   "title": "Feasibility of VR-generated synthetic data for automated productivity monitoring in modular construction",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jclepro.2017.07.156": {
+   "title": "Integrating RFID and BIM technologies for mitigating risks and improving schedule performance of prefabricated house construction",
+   "abstract": "Abstract With its generally recognized benefits of clean and safe working environment and good quality, prefabricated house construction (PHC) as a solution is gaining momentum in the face of various housing challenges in Hong Kong's construction industry. Although prefabrication has its own benefits, its fundamental disadvantages of fragmentation, discontinuity, poor interoperability, and scarce real-time information availability have imposed significant adverse influence on the schedule performance of prefabricated house construction. As a result, despite the promise of the government to provide sufficient houses and harmonious housing, schedule delay problems still frequently beset the industry of PHC. To help address schedule delay problems encountered in the construction of prefabrication housing, this research first identified and analysed critical schedule risk factors that may have significant influence on the schedule performance of PHC. Based on the identified schedule risks, the challenges and corresponding required functions for enhancing schedule performance are determined. Then, a radio frequency identification device (RFID)-enabled BIM platform that integrates various involved stakeholders, information/data flow, offshore prefabrication procedures, and state-of-the-art construction technologies, is developed to handle the critical schedule factors. Smart construction objects and RFID-enabled smart gateway work collaboratively to ease operations within the three",
+   "tldr": ""
+  },
+  "10.1007/s11227-022-04803-x": {
+   "title": "Computer vision-based deep learning for supervising excavator operations and measuring real-time earthwork productivity",
+   "abstract": "",
+   "tldr": "The feasibility of using the proposed autonomous productivity measurement in construction as a more economical, faster, and real-time measure of excavator productivity is demonstrated."
+  },
+  "10.1016/j.autcon.2010.11.009": {
+   "title": "Formalisms for query capture and data source identification to support data fusion for construction productivity monitoring",
+   "abstract": "",
+   "tldr": "In this paper, the authors present a formal approach for capturing dynamic user queries and identifying applicable sets of data sources from a given set of available data sources to answer such queries to enable automated and efficient multi-source data fusion."
+  },
+  "10.1016/j.autcon.2022.104294": {
+   "title": "BIM integrated smart contract for construction project progress payment administration",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.12677/ecl.2024.133564": {
+   "title": "Application Framework Construction of Blockchain Technology in VAT Electronic Invoice Control",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/978-3-030-26528-1_11": {
+   "title": "Relevance of Competencies of Construction Project Risk Managers to Quantity Surveying Practice",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2012.11.041": {
+   "title": "Automated construction progress measurement using a 4D building information model and 3D data",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.aei.2016.03.001": {
+   "title": "Ontology-based semantic approach for construction-oriented quantity take-off from BIM models in the light-frame building industry",
+   "abstract": "",
+   "tldr": "An ontology-based semantic approach to extracting construction-oriented quantity take-off information from a BIM design model is proposed, which allows users to semantically query the B IM design model using a domain vocabulary, capitalizing on building product ontology formalized from construction perspectives."
+  },
+  "10.1007/s42524-021-0184-y": {
+   "title": "Blockchain-based smart contract for smart payment in construction: A focus on the payment freezing and disbursement cycle",
+   "abstract": "",
+   "tldr": "A blockchain-based smart contract (BBSC) system for smart payment in the construction industry by focusing on the fundamental cycle of payment freezing (sometimes also synonymously called payment guarantees) and disbursement application is developed."
+  },
+  "10.21608/ijeaid.2026.516179.1024": {
+   "title": "Improving Quantity Takeoff Accuracy and Time \u200eEfficiency in \u200eConstruction Projects Using BIM-Driven \u200eAutomated \u200eEstimation",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2020.103284": {
+   "title": "Securing interim payments in construction projects through a blockchain-based framework",
+   "abstract": "Abstract Interim payment provisions in construction projects are susceptible to unfair practices. In construction project participants with varying financial capacities belonging to different organizations are bound by contractual relationships. Due to this type of project organizational structure, project participants do not completely trust each other which prevents the adoption of existing centralized automated frameworks for interim payment. Therefore, this paper presents a distributed blockchain-based framework that does not require to be trusted for automatically enforcing the terms and conditions related to interim payments and sharing payment records at project-level transparently and securely. A logic to automatically initiate, validate, and disburse interim payments according to general contract conditions for interim payments is formalized in this paper. A blockchain-based data model that enables selective-transparency in payment records is proposed. This data model facilitates the sharing of sensitive financial information privately between two contracting parties and non-sensitive payment-related information publicly among all project participants. The proposed blockchain-based framework is supported by a key management strategy to facilitate different security properties such as confidentiality and authenticity of data and users. Considering the non-technical nature of construction project participants, the proposed key management strategy is designed to dynamic",
+   "tldr": "A distributed blockchain-based framework that does not require to be trusted for automatically enforcing the terms and conditions related to interim payments and sharing payment records at project-level transparently and securely is presented."
+  },
+  "10.1007/978-981-15-0342-9_16": {
+   "title": "Qingdao Sanley Group Co., Ltd. v. China Haisum Engineering Co., Ltd. (Dispute over Construction Contract for Construction Engineering)\u2014Difference Between Interest of Payment for the Engineering and Liquidated Damages",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.rcim.2024.102736": {
+   "title": "Knowledge graph based OPC UA information model automatic construction method for heterogeneous devices integration",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2015.12.003": {
+   "title": "EXPRESS to OWL for construction industry: Towards a recommendable and usable ifcOWL ontology",
+   "abstract": "",
+   "tldr": "This paper looks into existing efforts in obtaining an ifcOWL ontology from the EXPRESS schemas of IFC and analyses which features would be required in a usable and recommendable ifcowL ontologies."
+  },
+  "10.1016/j.autcon.2026.107095": {
+   "title": "Semantic interoperability framework for digital twin-based virtual commissioning of robotic assembly in industrialized construction",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2024.105640": {
+   "title": "Digital twin-enabled visibility and traceability for building materials in on-site fit-out construction",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2021.103688": {
+   "title": "Integrated digital twin and blockchain framework to support accountable information sharing in construction projects",
+   "abstract": "Abstract Efficient collaboration among various stakeholders is important for the successful completion of a construction project. However, stakeholders in construction are fragmented, which in turn hinders accountable information sharing. To address this issue, the authors aim to develop and test an integrated digital twin and blockchain framework for traceable data communication. The digital twin updates building information modeling in near real-time using internet of things sensors, while the blockchain authenticates and adds confidence to all data transactions to the digital twin. The authors tested the framework with a case project where virtual positioning data from a prefabricated brick is transmitted to digital twin in near real-time, recorded on the blockchain with time stamps. The results show that the integrated digital twin and blockchain framework makes all data transactions traceable. This paper's primary contribution is the development of a framework that realizes accountable project-related information sharing across stakeholders.",
+   "tldr": "An integrated digital twin and blockchain framework for traceable data communication that realizes accountable project-related information sharing across stakeholders is developed and tested."
+  },
+  "10.1007/978-981-95-3540-8_7": {
+   "title": "Certificate-Based Quasi-linearly Homomorphic Signatures: Definition, Construction, and Application to Data Integrity Auditing",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2017.09.021": {
+   "title": "Point cloud quality requirements for Scan-vs-BIM based automated construction progress monitoring",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1080/15623599.2025.2537727": {
+   "title": "Spatial-temporal traceability and coordination in modular integrated construction: a future framework with hybrid digital twin and reinforcement learning",
+   "abstract": "Abstract Spatial-temporal traceability and coordination in Modular Integrated Construction (MiC) play a pivotal role in achieving seamless integration of lifecycle and effective management of heterogeneous entities. The significant enabler lies in multi-modal data acquisition and fusion, cyberphysical traceability, and coordinated decision-making. However, outdated information and automation technologies in MiC represent a significant barrier for the next-generation upgrade. Digital Twin (DT) and Reinforcement Learning (RL) have the potential complementarity as the state-of-the-art technological fusion to offer data-driven traceability and coordinated decisionmaking. This paper conducts a systematic scientometric review through bibliometric selection and scientometric analysis for the representative literature on DT and RL-enabled MiC. 108 highquality articles are selected through academic database searches, well-defined search strings, and rigorous inclusion and exclusion criteria. The key challenges are identified and systematically categorized into four critical layers of DT and four core limitations of RL. A lifecycle management framework is proposed, including the controlled and programmable entities, graph-based hierarchical data management, system-of-system-level virtual modeling, multiagent decision-making, and lifecycle services in MiC. This review offers practical guidance for MiC practitioners on how to adopt a cross-disciplinary technological integration to enhanc",
+   "tldr": "A lifecycle management framework is proposed, including the controlled and programmable entities, graph-based hierarchical data management, system-of-system-level virtual modeling, multiagent decision-making, and lifecycle services in MiC."
+  },
+  "10.1007/978-3-031-19849-6_12": {
+   "title": "Twinning-by-Construction: Ensuring Correctness for Self-adaptive Digital Twins",
+   "abstract": "",
+   "tldr": "This paper considers a digital twin infrastructure combining MAPE-K feedback loops and semantic re(cid:29)ection to automatically ensure that the digital artefacts correctly twin the physical system; i.e., the resulting system is twinned-by-construction."
+  },
+  "10.1007/978-3-031-75387-9_16": {
+   "title": "Traceability and Accountability by Construction",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/978-981-19-0852-1_38": {
+   "title": "Research on the Evaluation Method of Construction Measurement Uncertainty Based on Edge Algorithm",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.aei.2016.03.004": {
+   "title": "Rapid data quality oriented laser scan planning for dynamic construction environments",
+   "abstract": "",
+   "tldr": "Validation results of multiple case studies show that the proposed laser scan planning method can produce laser-scanning data with higher quality than data collected by experienced professionals, and without increasing the data collection time."
+  },
+  "10.1016/j.autcon.2022.104736": {
+   "title": "Digital twin enhanced BIM to shape full life cycle digital transformation for bridge engineering",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.ijproman.2015.01.008": {
+   "title": "Overcoming resistance to change in engineering and construction: Change management factors for owner organizations",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.inffus.2023.102096": {
+   "title": "Dynamic collective opinion generation framework for digital transformation barrier analysis in the construction industry",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.compind.2020.103264": {
+   "title": "Peeking into the void: Digital twins for construction site logistics",
+   "abstract": "Abstract Construction is one of the least-digitized industries in the economy. To rein in the rising costs of building activities, digital transformation is one of the pillars that industry leaders rely on. A case in point are logistics processes which are characterized by very limited visibility and inefficient organization. To progress beyond this current state of the art, we conceptualize the idea of a lightweight digital twin for non-high-tech industries. In collaboration with a leading supplier of building materials, we explore the opportunities offered by digital silo twin capabilities. Focusing on fill level monitoring we identify diverse opportunities for generating informational, automational and transformational business value. Leveraging new information sources for the redesign of core business processes drastically increases the complexity of operational decision-making. To tap into these opportunities, we design and implement a decision support system for silo dispatch and replenishment activity.",
+   "tldr": "Focusing on fill level monitoring, this work designs and implements a decision support system for silo dispatch and replenishment activity that identifies diverse opportunities for generating informational, automational and transformational business value."
+  },
+  "10.1007/978-3-030-48465-1_95": {
+   "title": "Evaluating the Influence of Training on Attitudes to Building Information Modelling (BIM) Adoption in Malaysian Construction Industry by Using Extended Technology Acceptance Model (TAM)",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jobe.2023.106388": {
+   "title": "A new framework to evaluate and optimize digital transformation policies in the construction industry: A China case study",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.32782/tnu-2663-6468/2025.2/03": {
+   "title": "DIGITAL TRANSFORMATION IN THE SYSTEM OF PUBLIC ADMINISTRATION OF THE CONSTRUCTION INDUSTRY OF UKRAINE",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/s10668-023-03165-5": {
+   "title": "Enabling the green total factor productivity of the construction industry with the prospect of digital transformation",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.eswa.2026.134339": {
+   "title": "AeroDistinct: A generative data construction pipeline and benchmark for drone-bird discrimination in urban air mobility",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2025.106487": {
+   "title": "Enhanced MEP construction progress tracking using panoramic mobile positioning and optimized pipeline segmentation",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/s42107-024-00995-0": {
+   "title": "Applying blockchain technology in smart contracts for construction payment: a comprehensive solution for lumpsum contracts",
+   "abstract": "",
+   "tldr": "The integration of Smart Contracts and Blockchain technology presents a promising solution for addressing the challenges associated with payment delays and disputes in construction projects."
+  },
+  "10.1007/978-3-030-48465-1_83": {
+   "title": "The Sources of Dispute in Construction Projects in the Mpumalanga Province",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jobe.2021.102730": {
+   "title": "Digital Twin Research in the AECO-FM Industry",
+   "abstract": "Abstract The purpose of this paper is to examine and discuss the current patterns, gaps and trends in Digital Twin research in the architectural, engineering, construction, operation, and facility management (AECO-FM) industry and to propose future directions for industry stakeholders . A bibliometric search was performed on 197 papers that were obtained from the Scopus database. 151 of those papers were used in the subsequent scientometric analysis and mapping to narrate the evolution of the research subject. The studies discussed in the paper cover a wide range of research from model-based information management to building information management, all the way to the interaction between buildings and smart cities. The \u2018virtual-physical building integration\u2019, \u2018building lifecycle management\u2019, and \u2018information integrated production\u2019 subjects are highly in the focus of the research field. While \u2018information-based predictive management\u2019 and \u2018virtual-based information utilization\u2019 studies need to be addressed for a holistic Digital Twin adoption in the AECO-FM industry. Future studies should focus on the full integration of digital twin and its physical counterpart for better performance throughout the building life cycle. This study highlights the patterns, gaps and trends in Digital Twin research in the AECO-FM industry and contributes to the state-of-the-art digitalization and automation approaches in the construction project management body of knowledge. The sample size is a l",
+   "tldr": "This study highlights the patterns, gaps and trends in Digital Twin research in the AECO-FM industry and contributes to the state-of-the-art digitalization and automation approaches in the construction project management body of knowledge."
+  },
+  "10.1016/j.aei.2023.102030": {
+   "title": "Digital twin and its potential applications in construction industry: State-of-art review and a conceptual framework",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.isprsjprs.2018.07.010": {
+   "title": "Tunnel inspection using photogrammetric techniques and image processing: A review",
+   "abstract": "Abstract During the last few decades many tunnelling projects were conducted in order to use limited land surface area more efficiently. Such underground constructions are used for transportation such as for railways, subways and roads, to host equipment used for experiments like particle accelerators, as well as for pipelines and mines. Independent of their purpose, tunnels should be regularly inspected in order to avoid accidents resulting from structure failure and to simultaneously extend their lifetime by identifying deterioration at an early stage and perform the required maintenance. Traditional methods of tunnel inspection rely on manual vision monitoring and sensing equipment that requires installation and contact with the tunnel surface. Apart from being time consuming, tedious and expensive, manual inspection is also highly dependent on human subjectivity and exposes inspection personnel to possible dangerous environments. Taking these issues into consideration, various systems were proposed to automate different procedures of tunnel inspection using photographic equipment to capture photos of the tunnel environment, apply photogrammetric and computer vision (CV) techniques and conduct image processing (IP) on them to achieve different surveying goals. This manuscript provides a collective review of the current state of the art in tunnel inspection based on photogrammetric techniques and IP.",
+   "tldr": "This manuscript provides a collective review of the current state of the art in tunnel inspection based on photogrammetric techniques and IP."
+  },
+  "10.1016/j.apergo.2015.11.020": {
+   "title": "Musculoskeletal disorders in construction: A review and a novel system for activity tracking with body area network.",
+   "abstract": "",
+   "tldr": "An in-depth review of existing assessment frameworks used in practice for the evaluation of human body motion and a new system to detect and characterise unsafe postures of construction workers based on the measurement of motion data from wearable wireless IMUs integrated in a body area network are introduced."
+  },
+  "10.1016/j.autcon.2010.07.009": {
+   "title": "Application of WiFi-based indoor positioning system for labor tracking at construction sites: A case study in Guangzhou MTR",
+   "abstract": "",
+   "tldr": "The results showed that the WiFi-based indoor positioning system was accurate within 5 m of error for that site, thus proving the utility of the system for tracking the approximate locations of labor at construction sites."
+  },
+  "10.1016/j.autcon.2015.09.009": {
+   "title": "Workforce location tracking to model, visualize and analyze workspace requirements in building information models for construction safety planning",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2019.102835": {
+   "title": "Evaluating the impact of mental fatigue on construction equipment operators' ability to detect hazards using wearable eye-tracking technology",
+   "abstract": "Abstract Construction equipment related accidents, such as collisions between equipment and pedestrian workers, pose a major challenge to occupational safety at construction sites. Decrement of operators' hazard detection ability resulting from attention failure is a leading cause of these accidents. Although mental fatigue induced by prolonged and monotonous operating tasks is known as the primary cause of this type of failure, little is revealed on how mental fatigue influences operators' ability to detect hazardous situations and associated visual attention features. To address this issue, this study uses wearable eye-tracking technology to evaluate the impact of mental fatigue on operators' ability in hazard detection and the corresponding patterns of visual attention allocation. Twelve healthy participants performed a simulated excavator operating task in a laboratory experiment. Subjective mental fatigue assessment, hazard detection task performance, and eye movement metrics were recorded and analyzed. In the experiment, mental fatigue was effectively induced and manipulated by a Time-On-Operating (TOO) procedure. Results revealed that operators' hazard detection ability decreased with the increase in subjective mental fatigue level, reflected by significant increases in reaction time for hazards and the number of misdetections. Attention allocation-related data were further analyzed to explain the specific manifestations of hazard detection failure in visual attention.",
+   "tldr": "Wearable eye-tracking technology is used to evaluate the impact of mental fatigue on operators' ability in hazard detection and the corresponding patterns of visual attention allocation and indicated that the decrease of operators' hazard detection ability is associated with the changes of the distributions of fixation and gaze point while mental fatigue level increases."
+  },
+  "10.1016/j.ssci.2019.01.022": {
+   "title": "Feasibility analysis of electrodermal activity (EDA) acquired from wearable sensors to assess construction workers\u2019 perceived risk",
+   "abstract": "Abstract Risk perception is known as a critical step in workers\u2019 safety decision-making process. However, current approaches to assess workers\u2019 perceived risk include surveys and interviews which are post hoc, subjective, and cumbersome to implement at construction sites. To address the issues associated with these methods, the authors propose a novel approach for the continuous and quantitative assessment of workers\u2019 perceived risk using physiological responses acquired from wearable sensors. With this background, this study aims to investigate the potential of using physiological sensory data (e.g., electrodermal activity (EDA)) collected from off-the-shelf wristband typed sensors to understand construction workers\u2019 perceived risk during their ongoing work. To achieve this objective, 30\u202fh of physiological sensory data were collected from eight construction workers during their ongoing work. The results indicate that: (1) electrodermal response (EDR), which refers to short-term changes in EDA, shows significant differences between low and high-risk activities; (2) high-risk activities significantly affect workers\u2019 EDR during their ongoing work. The main contribution of this study is to show the feasibility of using wearable sensors to understand workers\u2019 perceived risk in construction sites continuously. Considering the complexity and dynamicity of workers\u2019 tasks on construction sites, the development of an objective, continuous, and non-intrusive method for monitoring worke",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2012.02.015": {
+   "title": "Leveraging passive RFID technology for construction resource field mobility and status monitoring in a high-rise renovation project",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jobe.2021.102824": {
+   "title": "Assessment of construction workers\u2019 perceived risk using physiological data from wearable sensors: A machine learning approach",
+   "abstract": "",
+   "tldr": "This study develops an automatic method to recognize construction workers\u2019 perceived levels of risk by using physiological signals acquired from wristband-type wearable biosensors in conjunction with a supervised-learning algorithm."
+  },
+  "10.1016/j.autcon.2020.103272": {
+   "title": "Cyber-physical postural training system for construction workers",
+   "abstract": "Abstract Risks of work-related musculoskeletal injuries can be reduced by adequately training construction workers on performing work in safe postures. Traditional training approaches provide limited support for performing work tasks and receiving real-time feedback. This paper describes a cyber-physical postural training environment where workers can practice to perform work with reduced ergonomic risks. The proposed system uses wearable sensors, Vive trackers, machine learning and virtual reality to track body kinematics, and engagement with physical construction resources, and provides feedback via an interactive user interface. The postural training system was developed for training workers engaged in wood frame construction. User study of the effectiveness of the feedback and user interface was conducted. Findings showed that the user interface was perceived as convenient with limited interference with the workspace. The feedback was understandable in learning risks associated with participant's postures. Further research will involve conducting formative workload evaluation of the user interface and developing a reinforcement learning model for adapting the feedback based on the state of learning.",
+   "tldr": "A cyber-physical postural training environment where workers can practice to perform work with reduced ergonomic risks and receive real-time feedback via an interactive user interface is described."
+  },
+  "10.1016/j.aei.2023.101978": {
+   "title": "Deep learning-based construction equipment operators' mental fatigue classification using wearable EEG sensor data",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2020.103138": {
+   "title": "Construction activity recognition with convolutional recurrent networks",
+   "abstract": "Abstract Although heavy equipment is an indispensable resource in many construction projects, it is often underutilized. Inefficient usage patterns and frequent idling contribute to increased emissions and project costs. Efforts to improve usage patterns often begin with activity tracking. Recent research into automated activity tracking has leveraged sensing devices and Internet-of-Things (IoT) frameworks to power machine learning models that can predict the behaviors of monitored equipment. However, shallow machine learning models require complex manual feature engineering that could be further automated with more recent deep learning approaches. Deep learning approaches not only increase automation but also promise improved accuracies by avoiding biases introduced by manual feature design. This paper proposes a construction equipment activity recognition framework that uses deep learning architectures to predict the activities of heavy construction equipment monitored via accelerometers and applies this framework to a roller compactor and an excavator performing real work. The performance of a simple baseline convolutional neural network (CNN) is compared to a hybrid network that contains both convolutional and recurrent long short-term memory (LSTM) layers. The hybrid model outperforms the baseline model in all instances studied. In the task of classifying the activities of the roller compactor, the hybrid model achieves a validation accuracy of 77.1% when presented with ",
+   "tldr": "This study demonstrates that deep learning frameworks can model the activities of construction equipment with high accuracy and shows that convolutional and LSTM layers can each form effective parts of deep learning models that characterize equipment activities based on accelerometer data, and furthermore that these components can produce more effective models when combined."
+  },
+  "10.1016/j.autcon.2017.06.001": {
+   "title": "The availability of wearable-device-based physical data for the measurement of construction workers' psychological status on site: From the perspective of safety management",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jclepro.2020.120527": {
+   "title": "Dynamic production scheduling model under due date uncertainty in precast concrete construction",
+   "abstract": "Abstract Precast concrete structures (PCs) are widely used in the construction industry to reduce project delivery times and improve quality. On-time delivery of PCs is critical for successful project completion because the processes involving precast concrete are the critical paths in most cases. However, existing models for scheduling PC production are not adequate for use in dynamic environments where construction projects have uncertain construction schedules because of various reasons such as poor labor productivity, inadequate equipment, and poor weather. This research proposes a dynamic model for PC production scheduling by adopting a discrete-time simulation method to respond to due date changes in real time and by using a new dispatching rule that considers the uncertainty of the due dates to minimize tardiness. The model is validated by simulation experiments based on various scenarios with different levels of tightness and due date uncertainty. The results of this research will contribute to construction project productivity with a reliable and economic precast concrete supply chain.",
+   "tldr": "This research proposes a dynamic model for PC production scheduling by adopting a discrete-time simulation method to respond to due date changes in real time and by using a new dispatching rule that considers the uncertainty of the due dates to minimize tardiness."
+  },
+  "10.1016/j.autcon.2017.05.005": {
+   "title": "Integrated detection and tracking of workforce and equipment from construction jobsite videos",
+   "abstract": "",
+   "tldr": "A novel framework that integrates the visual tracking into the detection of construction workforce and equipment is presented that significantly improves the recall and meanwhile maintains high precision and has been tested in real construction jobsites."
+  },
+  "10.1016/j.jobe.2022.104448": {
+   "title": "Wearable acceleration-based action recognition for long-term and continuous activity analysis in construction site",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/978-981-10-6190-5_51": {
+   "title": "Correlation Analysis of Key Influencing Factors to the Total Factor Productivity of the Hong Kong Construction Industry",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2012.09.010": {
+   "title": "A framework for proactive construction defect management using BIM, augmented reality and ontology-based data collection template",
+   "abstract": "",
+   "tldr": "It is envisaged that the system framework and solutions proposed could enable proactive reduction of the defect occurrence during the construction process and that could greatly improve current defect management practices in the construction industry."
+  },
+  "10.1016/j.autcon.2020.103310": {
+   "title": "Knowledge graph for identifying hazards on construction sites: Integrating computer vision with ontology",
+   "abstract": "Abstract Hazards potentially affect the safety of people on construction sites include falls from heights (FFH), trench and scaffold collapse, electric shock and arc flash/arc blast, and failure to use proper personal protective equipment. Such hazards are significant contributors to accidents and fatalities. Computer vision has been used to automatically detect safety hazards to assist with the mitigation of accidents and fatalities. However, as safety regulations are subject to change and become more stringent prevailing computer vision approaches will become obsolete as they are unable to accommodate the adjustments that are made to practice. This paper integrates computer vision algorithms with ontology models to develop a knowledge graph that can automatically and accurately recognise hazards while adhering to safety regulations, even when they are subjected to change. Our developed knowledge graph consists of: (1) an ontological model for hazards: (2) knowledge extraction; and (3) knowledge inference for hazard identification. We focus on the detection of hazards associated with FFH as an example to illustrate our proposed approach. We also demonstrate that our approach can successfully detect FFH hazards in varying contexts from images.",
+   "tldr": "This paper integrates computer vision algorithms with ontology models to develop a knowledge graph that can automatically and accurately recognise hazards while adhering to safety regulations, even when they are subjected to change."
+  },
+  "10.1016/j.autcon.2019.103063": {
+   "title": "Blockchain-based framework for improving supply chain traceability and information sharing in precast construction",
+   "abstract": "Abstract Precast construction has great potential for driving innovations in clean, safe, high-efficient construction methods in the industry. However, current precast supply chain management often faces challenges such as fragmentation, poor traceability, and lack of real-time information. To address these challenges, this study builds a novel blockchain-based information management framework for a precast supply chain, which extends the applications of blockchain in the domain of construction supply chains. In this study, a blockchain framework and its development processes are presented in detail, and algorithms for smart contracts are developed for the model implementation. Finally, the performance of this framework is validated with a case study in which a visualization system is presented to achieve (1) information sharing management, (2) real-time control of scheduling, and (3) information traceability. The results suggest that the proposed framework facilitates the on-time delivery of precast components (PCs) and tracks the reasons for disputes centered on PCs in the precast supply chain.",
+   "tldr": "A blockchain framework and its development processes are presented in detail, and algorithms for smart contracts are developed for the model implementation and the results suggest that the proposed framework facilitates the on-time delivery of precast components and tracks the reasons for disputes centered on PCs in the precast supply chain."
+  },
+  "10.1016/j.aei.2019.02.007": {
+   "title": "Applications of 3D point cloud data in the construction industry: A fifteen-year review from 2004 to 2018",
+   "abstract": "Abstract 3D point cloud data obtained from laser scans, images, and videos are able to provide accurate and fast records of the 3D geometries of construction-related objects. Thus, the construction industry has been using point cloud data for a variety of purposes including 3D model reconstruction, geometry quality inspection, construction progress tracking, etc. Although a number of studies have been reported on applying point cloud data for the construction industry in the recent decades, there has not been any systematic review that summaries these applications and points out the research gaps and future research directions. This paper, therefore, aims to provide a thorough review on the applications of 3D point cloud data in the construction industry and to provide recommendations on future research directions in this area. A total of 197 research papers were collected in this study through a two-fold literature search, which were published within a fifteen-year period from 2004 to 2018. Based on the collected papers, applications of 3D point cloud data in the construction industry are reviewed according to three categories including (1) 3D model reconstruction, (2) geometry quality inspection, and (3) other applications. Following the literature review, this paper discusses on the acquisition and processing of point cloud data, particularly focusing on how to properly perform data acquisition and processing to fulfill the needs of the intended construction applications. ",
+   "tldr": "A thorough review on the applications of 3D point cloud data in the construction industry and to provide recommendations on future research directions in this area is provided."
+  },
+  "10.1016/j.autcon.2018.01.001": {
+   "title": "An Internet of Things-enabled BIM platform for on-site assembly services in prefabricated construction",
+   "abstract": "Abstract Building Information Modelling (BIM) serves as a useful tool in facilitating the on-site assembly services (OAS) of prefabricated construction for its benefits of powerful management of physical and functional digital presentations. However, the benefits of using BIM in the OAS of prefabricated construction cannot be cultivated with an incomplete, inaccurate, and untimely data exchange and lack of real-time visibility and traceability. To deal with these challenges, an Internet of Things (IoT)-enabled platform is designed by integrating IoT and BIM for prefabricated public housing projects in Hong Kong. The demands of the stakeholders were analysed; then smart construction objects (SCOs) and smart gateway are defined and designed to collect real-time data throughout the working processes of on-site assembly of prefabricated construction using the radio frequency identification (RFID) technology. The captured data is uploaded to cloud in real-time to process and analyse for decision support purposes for the involved site managers and workers. Visibility and traceability functions are developed with BIM and virtual reality (VR) technologies, through which managers can supervise the construction progress and approximate cost information in a real-time manner. The IoT-enabled platform can provide various decision support tools and services to different stakeholders, for improving the efficiency and effectiveness of daily operations, decision making, collaboration, and su",
+   "tldr": "An Internet of Things (IoT)-enabled platform is designed by integrating IoT and BIM for prefabricated public housing projects in Hong Kong, which can provide various decision support tools and services to different stakeholders for improving the efficiency and effectiveness of daily operations, decision making, collaboration, and supervision."
+  },
+  "10.1016/j.autcon.2019.02.005": {
+   "title": "Blockchain in the built environment and construction industry: A systematic review, conceptual models and practical use cases",
+   "abstract": "Abstract The construction industry is facing many challenges including low productivity, poor regulation and compliance, lack of adequate collaboration and information sharing, and poor payment practices. Advances in distributed ledger technologies (DLT), also referred to as Blockchain, are increasingly investigated as one of the constituents in the digital transformation of the construction industry and its response to these challenges. The overarching aim of this study was to analyse the current state of DLT in the built environment and the construction sector with a view to developing a coherent approach to support its adoption specifically in the construction industry. Three objectives were established to achieve this: (a) to present the first state-of-the-art and literature review on DLT in the built environment and construction industry providing a consolidated view of the applications explored and potential use cases that could support disruption of the construction industry. Seven use-categories were identified: [1] Smart Energy, [2] Smart Cities & the Sharing Economy, [3] Smart Government, [4] Smart Homes, [5] Intelligent Transport, [6] BIM and Construction Management, and [7] Business Models and Organisational Structures; (b) to propose a framework for implementation composed of two conceptual models (i.e. the DLT Four-Dimensional Model, and the DLT Actors Model), developed according to extended socio-technical systems theory and including four dimensions (technical",
+   "tldr": "There is real potential for DLT to support digitalisation in the construction industry and enable solutions to many of its challenges, but there needs to be further investigation of the readiness of the industry, its organisations and processes, and to evaluate what changes need to occur before implementation can be successful."
+  },
+  "10.1016/j.jobe.2019.100764": {
+   "title": "Perceived benefits of and barriers to Building Information Modelling (BIM) implementation in construction: The case of Hong Kong",
+   "abstract": "Abstract BIM has experienced an increasing appeal in its adoption and implementation in the built environment worldwide in recent years. The current research study aims to identify and assess the perceived benefits of and barriers to BIM implementation in the Hong Kong construction industry. The study adopted a quantitative research design using a structured empirical questionnaire survey. Also, a comparative analysis of the perceptions of the respondents\u2019 groupings was conducted. The major barriers to BIM adoption are related to the inherent resistance to change by construction stakeholders, inadequate organizational support and structure to execute BIM, and lack of BIM industry standards in Hong Kong. Meanwhile, the key benefits include better cost estimation and control, efficient construction planning and management, and improvement in design and project quality. Practical and insightful recommendations were suggested for policymakers, local authorities, construction firms, and other key stakeholders to increase the uptake of BIM in construction projects as well as to aid them in the quest for full adoption of BIM in the built environment. The practical implications of the research findings were also presented and discussed.",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2021.103955": {
+   "title": "Applications of distributed ledger technology (DLT) and Blockchain-enabled smart contracts in construction",
+   "abstract": "Abstract The contribution of distributed ledger technology (DLT) (e.g. blockchain) and smart contracts to the digitalisation and digital transformation of the construction sector is nascent but rapidly gaining traction. \u2018Systematic reviews\u2019 of DLT and smart contract applications that are specific to the construction sector are missing. This paper performs an extensive systematic review of 153 DLT and smart contract papers specific to the design, construction and operation of built assets. The protocols and processes of a systematic review were adopted to ensure full transparency, accountability, reproducibility, and updateability of the results. Through thematic analysis, we identify eight distinct themes of applications for DLT and smart contracts in construction: information management, payments, procurement, supply chain management, regulations and compliance, construction management and delivery, dispute resolution, and technological systems. Each theme identified was analysed to understand current capabilities, applications, and future developments. A cross-themes discussion revealed that DLT and smart contracts are \u2018supplementary\u2019 technologies that are used in combination with other technologies (e.g. BIM, IoT, cloud computing) as part of \u2018technological systems\u2019 that need to co-evolve in order to enable the themes' applications identified. Research into DLT and smart contracts in construction is rapidly moving from theoretical insights and frameworks into developing pro",
+   "tldr": "An extensive systematic review of 153 DLT and smart contract papers specific to the design, construction and operation of built assets finds the need for an extended socio-technical approach to the solution in order to deliver the necessary change and impact from the adoption of DLTs and smart contracts at speed and scale."
+  },
+  "10.1016/j.aei.2022.101710": {
+   "title": "Digital twin-driven deep reinforcement learning for adaptive task allocation in robotic construction",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2023.105210": {
+   "title": "Digital twin for intelligent tunnel construction",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.aei.2023.102346": {
+   "title": "Developing an integrative framework for digital twin applications in the building construction industry: A systematic literature review",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.tust.2022.104493": {
+   "title": "Data-driven construction of Three-dimensional subsurface geological models from limited Site-specific boreholes and prior geological knowledge for underground digital twin",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jobe.2023.107598": {
+   "title": "Digital twin-enabled prefabrication supply chain for smart construction and carbon emissions evaluation in building projects",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jmsy.2021.05.004": {
+   "title": "Construction method of shop-floor digital twin based on MBSE",
+   "abstract": "Abstract Digital twin (DT) technology is essential for achieving the fusion of virtual-real cyber-physical systems. Academics and companies have made great strides in the theoretical research and case studies of constructing the shop-floor digital twin (SDT), which is the premise of applying DT technology on the shop floor. A shop floor is a large complex system that involves many elements including people, machines, materials, methods, and the environment and processes, such as the technical flow, business process, logistics, and control flow. However, most of the developed cases lack a hierarchical, structured and modularized implementation framework for the development of an SDT system, which leads to problems such as a low reuse rate of the system blocks, lack of scalability, and high upgrade and maintenance costs. In response to these issues, we propose a construction method of the DT for the shop floor based on model-based systems engineering from the perspective of the system. In this method, a comprehensive DT model for the shop floor is gradually constructed by using system modeling language, the modeling method \u201cMagicGrid,\u201d and the \u201cV model\u201d of systems engineering. The model includes four dimensions of the shop-floor requirements, structure, behavior, and parameters, as well as three stages (the problem domain, solution domain, and implementation domain), and connects nine steps of the \u201cV model,\u201d including the system requirements, system architecture, subsystem impl",
+   "tldr": "In this method, a comprehensive DT model for the shop floor is gradually constructed by using system modeling language, the modeling method \u201cMagicGrid,\u201d and the \u201cV model\u201d of systems engineering, and the functions of the integrated systems are verified based on the requirements."
+  },
+  "10.1016/j.autcon.2023.104747": {
+   "title": "Blockchain-enabled digital twin collaboration platform for fit-out operations in modular integrated construction",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.rcim.2021.102123": {
+   "title": "Multi-scale evolution mechanism and knowledge construction of a digital twin mimic model",
+   "abstract": "",
+   "tldr": "The proposed method constructed the digital twin quality knowledge model from the macro, meso, and micro levels by utilizing the data of thedigital twin mimic model, and tested the method in monitoring and controlling the machining quality of an air rudder to verify the feasibility of the proposed method."
+  },
+  "10.1016/j.autcon.2021.103961": {
+   "title": "Digital twin-driven virtual sensor approach for safe construction operations of trailing suction hopper dredger",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2024.105715": {
+   "title": "Construction digital twin: a taxonomy and analysis of the application-technology-data triad",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jclepro.2022.135231": {
+   "title": "Knowledge map and forecast of digital twin in the construction industry: State-of-the-art review using scientometric analysis",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.rcim.2022.102335": {
+   "title": "Construction of damage-free digital twin of damaged aero-engine blades for repair volume generation in remanufacturing",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jmsy.2022.03.002": {
+   "title": "The process correlation interaction construction of Digital Twin for dynamic characteristics of machine tool structures with multi-dimensional variables",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/s00170-022-09144-w": {
+   "title": "Study on the construction theory of digital twin mechanism model for mechatronics equipment",
+   "abstract": "",
+   "tldr": "The solutions in this paper provide a reliable, rapid, and consistent mechanism model along with construction guidelines and theoretical systems for engineers or researchers that use DT technology to solve specific application problems."
+  },
+  "10.1007/s00170-022-08971-1": {
+   "title": "Construction and application of smart factory digital twin system based on DTME",
+   "abstract": "",
+   "tldr": "This paper proposes the concept and composition of a digital twin manufacturing ecosystem (DTME) based on the requirements and characteristics of the product life cycle, and analyzes the construction requirements of the DTME for a factory DTS, product DTS (PDTS), and supply chain DTS(SCDTS) from the perspective of the life cycle."
+  },
+  "10.1016/j.tust.2023.105544": {
+   "title": "Tunnel performance prediction through degradation inspection and digital twin construction",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.compeleceng.2022.108104": {
+   "title": "Construction of situational teaching mode in ideological and political classroom based on digital twin technology",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.energy.2024.130543": {
+   "title": "Construction of digital twin model of engine in-cylinder combustion based on data-driven",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2014.01.004": {
+   "title": "Mobile 3D mapping for surveying earthwork projects using an Unmanned Aerial Vehicle (UAV) system",
+   "abstract": "",
+   "tldr": "The performance evaluation of a UAV system that was built to rapidly and autonomously acquire mobile three-dimensional mapping data and its execution for the generation of 3D point clouds from digital mobile images is presented."
+  },
+  "10.1016/j.tra.2020.09.018": {
+   "title": "Applications of unmanned aerial vehicle (UAV) in road safety, traffic and highway infrastructure management: Recent advances and challenges",
+   "abstract": "For next-generation smart cities, small UAVs (also known as drones) are vital to incorporate in airspace for advancing the transportation systems. This paper presents a review of recent developments in relation to the application of UAVs in three major domains of transportation, namely; road safety, traffic monitoring and highway infrastructure management. Advances in computer vision algorithms to extract key features from UAV acquired videos and images are discussed along with the discussion on improvements made in traffic flow analysis methods, risk assessment and assistance in accident investigation and damage assessments for bridges and pavements. Additionally, barriers associated with the wide-scale deployment of UAVs technology are identified and countermeasures to overcome these barriers are discussed, along with their implications.",
+   "tldr": "Advances in computer vision algorithms to extract key features from UAV acquired videos and images are discussed along with the discussion on improvements made in traffic flow analysis methods, risk assessment and assistance in accident investigation and damage assessments for bridges and pavements."
+  },
+  "10.1016/j.autcon.2018.12.014": {
+   "title": "Remote proximity monitoring between mobile construction resources using camera-mounted UAVs",
+   "abstract": "Abstract Struck-by accidents have resulted in a significant number of fatal and nonfatal injuries in the construction industry. As a proactive safety measure against struck-by hazards, the authors present an Unmanned Aerial Vehicle (UAV)-assisted visual monitoring method that can automatically measure proximities among construction entities. To attain this end, this research conducts two research thrusts: (i) object localization using a deep neural network, YOLO-V3; and (ii) development of an image rectification method that allows for the measurement of actual distance from a 2D image collected from a UAV. Tests on real-site aerial videos show the promising accuracy of the proposed method; the mean absolute distance errors for estimated proximity were less than 0.9\u202fm and the mean absolute percentage errors were around 4%. The proposed method enables the advanced detection of struck-by hazards around workers, which in turn can make timely intervention possible. This proactive intervention can ultimately promote a safer working environment for construction workers.",
+   "tldr": "The proposed UAV-assisted visual monitoring method enables the advanced detection of struck-by hazards around workers, which in turn can make timely intervention possible and ultimately promote a safer working environment for construction workers."
+  },
+  "10.1016/j.mechatronics.2012.03.003": {
+   "title": "Design and construction of a novel quad tilt-wing UAV",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2019.103068": {
+   "title": "An integrated UGV-UAV system for construction site data collection",
+   "abstract": "Abstract There have been recent efforts to increase the degree of automation and frequency of data collection for construction applications using Unmanned Aerial/Ground Vehicles (UAV/UGV). However, the current practice of data collection is traditionally performed, which is manual, costly, time-consuming, and error-prone. Developing vision-based mobile robotic systems that are aware of its surrounding and capable of autonomous navigation are becoming essential to many construction applications, namely surveying, monitoring, and inspection. Nevertheless, the systems above suffer from a series of performance issues. One major problem is inefficient navigation in indoor and cluttered scenes with many obstacles and barriers, where some places are inaccessible by a UGV. To provide a solution to this problem, this paper designs a UAV-UGV team that integrates two custom-built mobile robots. The UGV autonomously navigates through space, leveraging its sensors. The UAV acts as an external eye for the UGV, observing the scene from a vantage point that is inaccessible to the UGV. The relative pose of the UAV is estimated continuously, which allows it to maintain a fixed location that is relative to the UGV. The key aspects for the development of this system that is capable of autonomous navigation are the localization of both UAV and UGV, mapping of the surrounding environment, and efficient path planning using multiple sensors. The proposed system is tested in an indoor and cluttered c",
+   "tldr": "This paper designs a UAV-UGV team that integrates two custom-built mobile robots that is capable of autonomous navigation, and the performance of the system demonstrates the feasibility of developing and deploying a robust and automated data collection system for construction applications in the near future."
+  },
+  "10.1016/j.ssci.2021.105473": {
+   "title": "Safety challenges of UAV integration in construction: Conceptual analysis and future research roadmap",
+   "abstract": "Abstract The use of Unmanned Aerial Vehicles (UAVs) in construction is growing at an unprecedented level, making the construction industry one of the fastest commercial adopters of UAVs. UAVs are widely used through different phases of construction, from aerial mapping, safety and quality monitoring and site logistics to structural inspection and maintenance assessment. While there is significant research about the benefits of UAVs for specific construction-related tasks, there is a dearth of research examining the impact of working with or near UAVs on the health and safety of workers. In this theory-driven paper, we examined UAV integration in construction workplaces from a health and safety perspective, categorized the potential ways UAVs might affect the construction workers\u2019 health and safety, and provided a roadmap for future research in this area. The study used inferential and VR visualization techniques to identify the risks posed by UAVs, which were categorized into three groups of (1) physical risks, (2) attentional costs, and (3) psychological impacts. We then proposed a concurrent and cross-functional two-branch research road map to advance our knowledge about human-UAV interactions and develop regulatory and technological measures to ensure safe integration of UAVs in construction. The first branch shall empirically evaluate different ways UAVs can adversely impact workers\u2019 health and safety. The second branch shall use these findings to develop regulatory and a",
+   "tldr": "This theory-driven paper examined UAV integration in construction workplaces from a health and safety perspective, categorized the potential ways UAVs might affect the construction workers\u2019 health andSafety, and provided a roadmap for future research in this area."
+  },
+  "10.1016/j.autcon.2023.104827": {
+   "title": "Application of drones in the architecture, engineering, and construction (AEC) industry",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2016.08.015": {
+   "title": "Smartphone-based construction workers' activity recognition and classification",
+   "abstract": "",
+   "tldr": "Smartphones are used in an unobtrusive way to capture body movements by collecting data using embedded accelerometer and gyroscope sensors and results indicate that neural networks outperform other classifiers by offering an accuracy ranging from 87% to 97% for user-dependent and 62% to 96% foruser-independent categories."
+  },
+  "10.1016/j.autcon.2013.08.009": {
+   "title": "Mobile passive Radio Frequency Identification (RFID) portal for automated and rapid control of Personal Protective Equipment (PPE) on construction sites",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.aei.2015.03.001": {
+   "title": "Construction equipment activity recognition for simulation input modeling using mobile sensors and machine learning classifiers",
+   "abstract": "",
+   "tldr": "The goal of this research is to investigate the prospect of using built-in smartphone sensors as ubiquitous multi-modal data collection and transmission nodes in order to detect detailed construction equipment activities which can ultimately contribute to the process of simulation input modeling."
+  },
+  "10.1016/j.aei.2015.03.006": {
+   "title": "Status quo and open challenges in vision-based sensing and tracking of temporary resources on infrastructure construction sites",
+   "abstract": "",
+   "tldr": "An overview to vision-based sensing technology available for temporary resource tracking at infrastructure construction sites is presented and the status quo of research applications is provided by highlighting exemplary case."
+  },
+  "10.1016/j.aei.2010.06.008": {
+   "title": "Tracking multiple workers on construction sites using video cameras",
+   "abstract": "",
+   "tldr": "The authors have developed a tracking algorithm based upon machine learning methods that requires several sample templates of the tracking target and learns a general model that can be applied to other targets with similar geometry."
+  },
+  "10.1016/j.autcon.2020.103448": {
+   "title": "Real-time vision-based worker localization & hazard detection for construction",
+   "abstract": "Abstract Despite training, construction workers often fail to recognize a significant proportion of hazards in construction environments. Therefore, there is a need for developing technology that assists workers and safety managers in identifying hazards in complex and dynamic construction environments. This study develops a framework for an automated system that detects hazardous conditions and objects in real-time to assist workers and managers. The framework consists of three independent pipelines for localization of workers, semantic segmentation of the visual scene around workers, and detection of static and dynamic hazards. The framework can be used to automate and augment the hazard detection ability of workers and safety managers in construction workplaces. In addition, the framework offers several computing contributions including an improved real-time worker localization method and an efficient architecture for integrating pipelines for entity localization and object detection. A system developed based on the proposed framework as a proof of concept and was tested in indoor and outdoor construction environments. It achieved over 93% accuracy.",
+   "tldr": "A framework for an automated system that detects hazardous conditions and objects in real-time to assist workers and managers and can be used to automate and augment the hazard detection ability of workers and safety managers in construction workplaces is developed."
+  },
+  "10.1016/j.autcon.2011.03.007": {
+   "title": "Comparative study of vision tracking methods for tracking of construction site resources",
+   "abstract": "",
+   "tldr": "A comparative study of various vision tracker categories is carried out, to identify which one is most effective in tracking construction resources and the most suitable tracker needed to research effective 3D vision trackers of construction resources."
+  },
+  "10.1016/j.autcon.2010.07.017": {
+   "title": "Multisensor data fusion for on-site materials tracking in construction",
+   "abstract": "",
+   "tldr": "This study has successfully addressed the challenges of fusing data from different simple sources of information within a very noisy and dynamic environment and indicates a potential for the proposed model to improve location estimation and movement detection as well as to automate multi-handling counts."
+  },
+  "10.1016/j.autcon.2021.103670": {
+   "title": "Integrated worker detection and tracking for the safe operation of construction machinery",
+   "abstract": "Abstract Safety is the most important issue in the operation of machinery on a construction site. Due to the poor visibility of the surrounding environment, the machinery operated at construction sites poses a serious threat to the safety of the construction workers, as well as to the operators. This study proposes an integrated construction worker detection and tracking scheme using complementary metal-oxide semiconductor (CMOS) image sensors for real-time monitoring of the workspace and the safe operation of construction machinery. Various procedures were developed to detect and track construction workers in image sequences obtained from the CMOS image sensors. The architecture of the proposed scheme consists of the latest and fourth version of you only look once (YOLO) and the Siamese network, which are based on convolutional neural networks. Field experiments were performed to test the performance, while earthmoving operations were executed at the construction sites. The integrated architecture had recall, precision, and accuracy rates and F1 and F2 scores of 98.47%, 97.50%, 96.04%, 97.98%, and 98.27%, respectively. In addition, the results of worker detection and tracking were updated at 22 frames per second (fps). It is expected that the proposed method can be applied to operator assistance systems in construction machinery to achieve active safety.",
+   "tldr": "An integrated construction worker detection and tracking scheme using complementary metal-oxide semiconductor (CMOS) image sensors for real-time monitoring of the workspace and the safe operation of construction machinery is proposed."
+  },
+  "10.1016/j.autcon.2012.10.005": {
+   "title": "Accuracy assessment of Ultra-Wide Band technology in tracking static resources in indoor construction scenarios",
+   "abstract": "",
+   "tldr": "This research studied the performance of an UWB tracking system in static mode under conditions that can commonly occur on construction sites, namely: the presence of metal objects that reflect UWB signals; best signals being blocked by other objects; tracking metal objects; removing the timing cables; tracking multiple tags simultaneously, and decreased number of receivers."
+  },
+  "10.1016/j.autcon.2020.103308": {
+   "title": "Tracking multiple construction workers through deep learning and the gradient based method with re-matching based on multi-object tracking accuracy",
+   "abstract": "Abstract Multiple construction worker tracking is an active research area critical to the planning of the job site. Challenges in multiple construction worker tracking include miss detection and mismatch due to occlusion and identity switches. To the best knowledge of the authors, the mismatch is not reported in the literature of construction for image based single camera multiple worker tracking. As a result, the mismatch should be taken into account through a representative performance index such as the Multi-Object Tracking Accuracy (MOTA). This work aims to improve the performance of the current multiple worker tracking through an approach composed of three stages: detection, matching and re-matching. In the detection stage, the deep learning detector, Mask R-CNN, is utilized. In the matching stage, we attempt to track workers between consecutive image frames through a gradient based method with feature based comparison. Several cost means and matching methods have been experimented for model selection. Trajectories of tracking objects are derived in this stage. The best cost measurements and matching methods are recommended. Trajectories of tracking objects could be interrupted because of miss detection or mismatch. We call those broken trajectories, without matched detections, orphans. In the re-matching stage, we attempt to recover unmatched detections in the current frame with previous orphans based on extracted features. A competitive MOTA of 56.7% was obtained from ",
+   "tldr": "This work aims to improve the performance of the current multiple worker tracking through an approach composed of three stages: detection, matching and re-matching, and suggests to utilize the MOTA for multiple construction worker tracking."
+  },
+  "10.1016/j.aei.2012.11.004": {
+   "title": "Information lifecycle management with RFID for material control on construction sites",
+   "abstract": "",
+   "tldr": "The understanding about the effectiveness of ILM with RFID for material control is provided, which can serve as a base for adopting other IT technologies in the building industry."
+  },
+  "10.1016/j.autcon.2017.11.005": {
+   "title": "Real-time simulation of construction workers using combined human body and hand tracking for robotic construction worker system",
+   "abstract": "",
+   "tldr": "The central hypothesis of this study is that it is possible to eliminate injuries if the authors move the human construction worker off-site and remotely link his/her motions to a Robotic Construction Worker (RCW) on-site."
+  },
+  "10.1016/j.autcon.2015.03.013": {
+   "title": "Autonomous production tracking for augmenting output in off-site construction",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2024.105404": {
+   "title": "An unsupervised low-light image enhancement method for improving V-SLAM localization in uneven low-light construction sites",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2020.103206": {
+   "title": "Robust segmentation and localization of structural planes from photogrammetric point clouds in construction sites",
+   "abstract": "Abstract Plane segmentation is a simple yet essential processing step for using 3D point clouds in applications such as temporal data registration and object modeling. The performance of traditional plane segmentation algorithms, especially when addressing photogrammetric point clouds, is significantly limited by factors including the errors of the point positions, noise contamination, and unevenly distributed density, resulting in a low segmentation efficiency and poor segmentation outcome. This paper proposes a robust plane segmentation algorithm for addressing photogrammetric point clouds of construction site scenarios. The implementation of the proposed method includes three major steps: preprocessing, segmentation of the point clouds, and extraction of the planes. The preprocessing is designed to suppress noise and filter outliers, and downsample the dataset. In the subsequent segmentation step, we propose a bottom-up approach utilizing the voxelized structure and facet-based global clustering to obtain planar segments using an automatic and unsupervised clustering of the planar facets selected from the voxelized points. In the last step, the points of the planar segments are extracted using a parametric model-based plane fitting. A 3D Hough transform-based method, constrained by an orientated bounding box, is developed to generate the initial model of the planes. The obtained plane models are then localized by the oriented bounding box and optimized by a local clusterin",
+   "tldr": "A robust plane segmentation algorithm for addressing photogrammetric point clouds of construction site scenarios that could segment the majority of the structural planes from the points, with accurate model parameters, sizes, and locations estimated is proposed."
+  },
+  "10.1016/j.conbuildmat.2021.123268": {
+   "title": "The equipment detection and localization of large-scale construction jobsite by far-field construction surveillance video based on improving YOLOv3 and grey wolf optimizer improving extreme learning machine",
+   "abstract": "Abstract The equipment detection and localization on large-scale construction jobsite by far-field construction surveillance video is significant to monitor jobsite safety and construction process. These videos usually with a larger view containing extensive construction equipment and richer environment information could help the supervisor know more about real-time status of the large-scale construction jobsite. However, due to numerous multi-scale objects, especially for small scale objects in the video, it is difficult to recognize each equipment intuitively, which is not conducive to ensuring jobsite security and guiding construction process. This study presents a real-time multi-scale equipment detection and localization model including the improving YOLOv3 for detection and the grey wolf optimizer improving extreme learning machine (GWO-ELM) for localization. The effectiveness and efficiency of the proposed model are demonstrated via a real hydraulic-engineering megaproject. The experimental results show that the improving YOLOv3 has improved 4.8% mean average precision (mAP) over the multi-scale objects detection, especially, the significant improvements of 17.2% mAP and 13.3% recall at small scale objects detection while maintaining real-time. The improving YOLOv3 is proved robust under various environmental conditions on construction monitoring. Meanwhile, the mean absolute localization percentage errors of different scale objects are less than 1%, which indicates th",
+   "tldr": "The improving YOLOv3 is proved robust under various environmental conditions on construction monitoring and the mean absolute localization percentage errors of different scale objects are less than 1%, which indicates the accuracy and effectiveness of the model to assist supervisor in inspecting construction safety and process."
+  },
+  "10.1016/j.autcon.2025.105987": {
+   "title": "Detection of helmet use among construction workers via helmet-head region matching and state tracking",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.aei.2023.102092": {
+   "title": "3D pose estimation and localization of construction equipment from single camera images by virtual model integration",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/s41027-021-00348-4": {
+   "title": "Vulnerability of Construction Workers During COVID-19: Tracking Welfare Responses and Challenges",
+   "abstract": "This paper takes stock of the cash assistance provided by the government to construction workers during the COVID-19 pandemic. As the role of the state construction welfare board has been crucial, some existing issues related to boards and challenges emerged during the crisis have also been discussed. Results show that cash benefit through direct benefit transfer has partially helped workers to overcome their financial distress, but 65% workers did not receive any benefit due to various issues related to registration and seeding of bank accounts with Aadhar. Sluggish process of registration has been a major issue which is being addressed by different mechanisms, but results would be known later. Proper cess collection and its utilisation is still an important issue as 61% of the cess collected in 2019 was not utilised. Even during the crisis, 15% cess was used at most in direct benefit transfer and in-kind (food distribution) support. Majority of the states are running a number of welfare schemes, but the coverage is poor despite proper guidelines set under the Model Welfare Framework of the Ministry of Labour and Employment. The objectives of Mission Mode Projects are appreciable, but the outcomes are not known even after the completion of deadlines. Above all, the emerging issues of maintaining health and hygiene at worksite and living place and getting vaccinated are major challenges for the sustainability of the construction sector. Hence, a collective effort of the gover",
+   "tldr": "Results show that cash benefit through direct benefit transfer has partially helped workers to overcome their financial distress, but 65% workers did not receive any benefit due to various issues related to registration and seeding of bank accounts with Aadhar."
+  },
+  "10.1016/j.measurement.2021.109148": {
+   "title": "Impact source localization and vibration intensity prediction on construction sites",
+   "abstract": "Abstract Excessive ground-borne vibrations induced by construction activities may pose adverse effects on the surrounding environments. On-site vibration control is typically based on vibration monitoring results at a few selected locations. However, this approach cannot predict vibration intensities at locations other than the monitored points because the locations of vibration sources are usually unknown in vibration assessment processes. The localization of impact sources (e.g., impact piling) becomes a critical problem to be addressed before vibration intensities can be quantified in a broad area instead of at several discrete points. Therefore, this paper develops a two-stage impact source localization method based on wave propagation characteristics obtained in finite element analyses of an infinite half-space soil domain. The localization accuracy of this approach is validated by numerical examples and field experiments on a construction site with ongoing impact piling work. The results indicate that the plan coordinates of the impact sources can be localized with satisfactory accuracy. The variations of the measured vibration intensities along with the distance from the localized impact source are modeled by using an empirical formula. The estimated impact source locations and the obtained empirical formula can jointly extend vibration intensity assessment from the discrete monitored points to the global surrounding area.",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2023.105001": {
+   "title": "Self-supervised contrastive video representation learning for construction equipment activity recognition on limited dataset",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2024.105300": {
+   "title": "Dual attention-based deep learning for construction equipment activity recognition considering transition activities and imbalanced dataset",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2024.105341": {
+   "title": "Influence of visual environments on struck-by hazards for construction equipment operators through virtual eye-tracking",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2010.11.003": {
+   "title": "Testing in harsh conditions: Tracking resources on construction sites with machine vision",
+   "abstract": "",
+   "tldr": "Full-scale validation demonstrates that the novel vision tracking provides a good solution to track different entities on a large, congested construction site."
+  },
+  "10.1016/j.autcon.2025.106080": {
+   "title": "Construction site hazard recognition via mobile immersive virtual reality and eye tracking",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2024.105771": {
+   "title": "Tracking multiple construction workers using pose estimation and feature-assisted re-identification model",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2025.106099": {
+   "title": "Deep learning-based automated method for enhancing excavator activity recognition in far-field construction site surveillance videos",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.ergon.2024.103606": {
+   "title": "Personality traits affecting construction Worker's near-miss recognition performance: Analysis based on eye tracking",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/978-3-030-51295-8_60": {
+   "title": "Conceptual Framework for Tracking Metallic Formworks on Construction Sites Using IoT, RFID and BIM Technologies",
+   "abstract": "",
+   "tldr": "A conceptual framework for tracking physical resources at construction sites using BIM, IoT, and RFID is designed and a preliminary proposal of an integrated system associating the RFID tags with the ID of equivalent virtual elements in BIM and storing information from the formworks in a database, which communicates with the virtual model is presented."
+  },
+  "10.1007/978-3-030-37919-3_4": {
+   "title": "Application of RFID Technology on Construction Site \u2013 Case Study",
+   "abstract": "",
+   "tldr": "The aim of the paper is to point out the possibilities of using RFID technology for construction and to describe the advantages of its application and the case study was a construction of \u201cWaste collection area\u201d in Torysa village."
+  },
+  "10.1016/j.autcon.2025.106610": {
+   "title": "Message-passing framework for multi-camera worker tracking in construction",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2016.06.016": {
+   "title": "Data acquisition technologies for construction progress tracking",
+   "abstract": "",
+   "tldr": "Comparisons of enhanced IT, geo-spatial, 3D imaging, and augmented reality technologies have recently achieved significant advances in real-time data acquisition of construction projects are made, along with recommendations for their suitability in different projects."
+  },
+  "10.1016/j.autcon.2020.103401": {
+   "title": "A smart contract system for security of payment of construction contracts",
+   "abstract": "Abstract Timely payment of project participants is crucial for successful completion of construction projects, however the construction industry worldwide suffers from poor payment practices. The existing research studied the reasons and the consequences of the payment problem, but very few studies proposed methods for eliminating the problem. In this paper a novel smart contract payment security system named SMTSEC is presented for eliminating or reducing payment issues in the construction sector. The SMTSEC ensures security of payment of construction contracts through an automated computerized protocol that runs on a decentralized blockchain. The potential contributions and limitations of the proposed SMTSEC are studied through a real construction project. The main contribution of the SMTSEC is that it provides a new method for timely and transparent payment of construction projects by guaranteeing security of payment for works under construction without requiring administrative costs and burdens of trusted intermediaries such as lawyers or banks.",
+   "tldr": "The main contribution of the SMTSEC is that it provides a new method for timely and transparent payment of construction projects by guaranteeing security of payment for works under construction without requiring administrative costs and burdens of trusted intermediaries such as lawyers or banks."
+  },
+  "10.1016/j.autcon.2021.103705": {
+   "title": "Computer vision-based interior construction progress monitoring: A literature review and future research directions",
+   "abstract": "Abstract Computer vision (CV)-based technologies have been used to automate construction progress monitoring. The automation attempts to maximise precision and minimise human intervention in onsite progress monitoring. Such attempts have mainly focussed on exterior construction environments while there are significantly lesser number of studies on interior construction. This imbalance impedes automation of the onsite progress monitoring as a whole. Thus, the core intent of this study is to pave the way for advancing automated indoor progress monitoring by providing a systematic survey of extant literature. Main contributions of this survey include 1) presenting a full spectrum of CV-based approaches, tools, and algorithms adopted for indoor construction progress monitoring (ICPM) 2) portraying a succinct reference to the shortcomings, technical challenges, and scope limitations of the past studies on ICPM. The study then synthesises a readily usable agenda for hybridising CV with other data-driven technologies to improve automation in ICPM.",
+   "tldr": "The study synthesises a readily usable agenda for hybridising CV with other data-driven technologies to improve automation in ICPM by presenting a full spectrum of CV-based approaches, tools, and algorithms adopted for indoor construction progress monitoring."
+  },
+  "10.1016/j.ijproman.2015.06.006": {
+   "title": "Trust influencing factors in main contractor and subcontractor relationships during projects",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.ijproman.2016.02.013": {
+   "title": "How safety leadership works among owners, contractors and subcontractors in construction projects",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.aei.2018.06.001": {
+   "title": "Automated continuous construction progress monitoring using multiple workplace real time 3D scans",
+   "abstract": "Abstract In recent years, exponential growth has been detected in research efforts focused on automated construction progress monitoring. Despite various data acquisition methods and approaches, the success is limited. This paper proposes a new method, where changes are constantly perceived and as-built model continuously updated during the construction process, instead of periodical scanning of the whole building under construction. It turned out that low precision 3D scanning devices, which are closely observing active workplaces, are sufficient for correct identification of the built elements. Such scanning devices are small enough to fit onto workers\u2019 protective helmets and on the applied machinery. In this way, workers capture all workplaces inside and outside of the building in real time and record partial point clouds, their locations, and time stamps. The partial point clouds are then registered and merged into a complete 4D as-built point cloud of a building under construction. Identification of as-designed BIM elements within the 4D as-built point cloud then results in the 4D as-built BIM. Finally, the comparison of the 4D as-built BIM and the 4D as-designed BIM enables identification of the differences between both models and thus the deviations from the time schedule. The differences are reported in virtual real-time, which enables more efficient project management.",
+   "tldr": "A new method is proposed, where changes are constantly perceived and as-built model continuously updated during the construction process, instead of periodical scanning of the whole building under construction, which enables more efficient project management."
+  },
+  "10.1016/j.autcon.2010.03.003": {
+   "title": "3D structural component recognition and modeling method using color and 3D data for construction progress monitoring",
+   "abstract": "",
+   "tldr": "An outdoor experiment was performed on an actual construction site to demonstrate the applicability of the proposed 3D structural component recognition and modeling method to 3D modeling of such environments, and the results indicate that the proposed method can be beneficial for construction progress monitoring."
+  },
+  "10.1016/j.autcon.2013.03.005": {
+   "title": "4D CAD model updating using image processing-based construction progress monitoring",
+   "abstract": "",
+   "tldr": "This paper presents an image processing-based methodology for the automatic updating of a 4D CAD model, Characterized by 3D CAD-based image mask filters, color-based noise removal, and area-based progress calculation, that is expected to facilitate the wider use of 4D models in the construction industry."
+  },
+  "10.1016/j.autcon.2019.102961": {
+   "title": "Bridge construction progress monitoring using lidar and 4D design models",
+   "abstract": "Abstract Accurate data collected from on-going construction projects assists project field engineers with tracking the progress of construction work. The comparison of as-planned schedules against the as-built status of construction enables the involved parties to determine project performance. Periodic monitoring of project performance enables timely identification of discrepancies between the schedule baseline and the project schedule. The rapid identification of discrepancies allows necessary measures to be taken to minimize the impact of a delay on the construction workflow. In transportation projects, the traditional means of acquiring as-built data from a construction site prevents involved parties from receiving the required information from the site in a timely manner. The delay in the communication of information ultimately causes subsequent delays in implementing necessary courses of action targeted toward improving the workflow. Therefore, this project develops a technology-supplemented progress monitoring approach. The approach implements as-built data with a high level of detail is obtained from a jobsite within a reasonable period of time using lidar technology while ensuring the safety of the data collector. The proposed framework utilizes point cloud data obtained using mobile lidar technology and 4D design models to identify deviations of the performed work from the planned work. The framework was tested using as-built data acquired from an on-going bridge co",
+   "tldr": "This project develops a technology-supplemented progress monitoring approach that implements as-built data with a high level of detail is obtained from a jobsite within a reasonable period of time using lidar technology while ensuring the safety of the data collector."
+  },
+  "10.1016/j.autcon.2010.07.003": {
+   "title": "An object-based 3D walk-through model for interior construction progress monitoring",
+   "abstract": "The complicated nature of interior construction works makes the detailed progress monitoring challenging. Current interior construction progress monitoring methods involve submission of periodic reports and are constrained by their reliance on manually intensive processes and limited support for recording visual information. Recent advances in image-based visualization techniques enable reporting construction progress using interactive and visual approaches. However, analyzing significant amounts of as-built construction photographs requires sophisticated techniques. To overcome limitations of existing approaches, this research focuses on visualization and computer vision techniques to monitor detailed interior construction progress using an object-based approach. As-planned 3D models from Building Information Modeling (BIM) and as-built photographs are visualized and compared in a walk-through model. Within such an environment, the as-built interior construction objects are decomposed to automatically generate the status of construction progress. This object-based approach introduces an advanced model that enables the user to have a realistic understanding of the interior construction progress.",
+   "tldr": "This research focuses on visualization and computer vision techniques to monitor detailed interior construction progress using an object-based approach that introduces an advanced model that enables the user to have a realistic understanding of the interiorConstruction progress."
+  },
+  "10.1007/s41064-016-0002-z": {
+   "title": "Acquisition and Consecutive Registration of Photogrammetric Point Clouds for Construction Progress Monitoring Using a 4D\u00a0BIM",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/s13369-018-3669-1": {
+   "title": "A Concept for Automated Construction Progress Monitoring: Technologies Adoption for Benchmarking Project Performance Control",
+   "abstract": "Despite recent advances in technologies and equipment for automated progress monitoring, most construction companies worldwide do not utilize them for their projects. This can be due to many reasons, such as the high cost of technologies and equipment, need for skilled staff, and lack of sufficient information about the impact of automated progress monitoring on project performance control. The aim of the present research is to investigate the impact of automated progress monitoring on key project performance indicators: time, cost, and quality. This study prepared based on a survey of contracting and engineering consulting firms in North America, Europe, and the Middle East. In the first part of this study, structural equation modeling is used to identify the relations of different factors of project progress monitoring (both conventional and automated) with project performance control. In the second part of the study, a benefit analysis is evaluated based on the sixteen (16) journal and international conference papers and also twenty-four (24) international construction projects for which automated progress monitoring was employed. The research findings validate the positive impact of real-time, accurate, and cost-effective automated progress monitoring environments and reveal how automated progress monitoring affects construction project success.",
+   "tldr": "The research findings validate the positive impact of real-time, accurate, and cost-effective automated progress monitoring environments and reveal how automated progressmonitoring affects construction project success."
+  },
+  "10.1016/j.autcon.2022.104442": {
+   "title": "Change detection for indoor construction progress monitoring based on BIM, point clouds and uncertainties",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jobe.2021.102877": {
+   "title": "Evolution of Close-Range Detection and Data Acquisition Technologies Towards Automation in Construction Progress Monitoring",
+   "abstract": "",
+   "tldr": "This study investigated and assessed the achievement level of automation attained in construction progress monitoring practices via digital data collection technologies for building construction projects, and highlighted the current technical challenges, gaps and future opportunities for the modification and evolution of construction progress Monitoring processes towards automation."
+  },
+  "10.1016/j.ijproman.2021.05.002": {
+   "title": "Relationship quality in construction projects: A subcontractor perspective of principal contractor relationships",
+   "abstract": "Abstract One of the defining characteristics of the construction industry is its subcontracting model of project organisation. Surprisingly, despite the criticality of the subcontractor/principal contractor relationship to successful project outcomes, research into this important relationship has been fragmented, disorganised and under-theorised. Mobilising theories of relationship quality to address this gap in knowledge, a survey of three hundred and thirty seven tier-one subcontractors in the Australian construction industry was undertaken to explore what factors influence relationship quality between subcontractors and principal contractors, whether these factors vary across the supply chain and how they affect overall relational satisfaction. The findings give subcontractors a missing voice in this important debate and provide a more nuanced understanding of this critical project relationship from a novel theoretical perspective. They indicate that from a subcontractor perspective, subcontractor/principal contractor relationship quality is determined by six key factors: integrity respect and fairness; prompt payment; willingness to negotiate risk and price; effective communication; concern for worker health, safety and well-being; and opportunities for early involvement in planning and design. Conceptually, when these factors are organised under the three dimensions of relationship quality theory (trust, satisfaction, and commitment), the results show that trust is by fa",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2021.103620": {
+   "title": "A vision-based approach for automatic progress tracking of floor paneling in offsite construction facilities",
+   "abstract": "Abstract Offsite construction is an approach focused on moving construction tasks from traditional jobsites to manufacturing facilities. Improved productivity of construction tasks is paramount in terms of competitiveness and is achieved through the continuous improvement of operations and planning, which often relies on historical data obtained from previous projects. Despite being a common practice, current methods, such as time studies, are not able to capture the changing scenarios resulting from improvements to production. This paper presents a novel approach to automatically detect and track the progress of construction operations by applying a method that combines deep learning algorithms and finite state machines to existing footage captured by closed-circuit television (CCTV) security cameras. Applied in the context of floor panel manufacturing stations, the proposed method examines entire production days recorded by CCTV cameras, while providing the durations of each task, its required resources, and the task efficiency per panel with high accuracy.",
+   "tldr": "A novel approach to automatically detect and track the progress of construction operations is presented by applying a method that combines deep learning algorithms and finite state machines to existing footage captured by closed-circuit television (CCTV) security cameras."
+  },
+  "10.1007/s40999-018-0320-1": {
+   "title": "Modeling and analysis of the impact of BIM-based field data capturing technologies on automated construction progress monitoring",
+   "abstract": "",
+   "tldr": "The study confirms the importance of using field data capture technologies with BIM in two main stages (modeling and execution) to enhance automated project progress monitoring performance and highlights the need for further exploration of the role of BIM-based field data capturing technologies in improving automated construction project progress Monitoring."
+  },
+  "10.1016/j.autcon.2022.104327": {
+   "title": "Integrated vision-based automated progress monitoring of indoor construction using mask region-based convolutional neural networks and BIM",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2023.105157": {
+   "title": "Activity-level construction progress monitoring through semantic segmentation of 3D-informed orthographic images",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2016.05.002": {
+   "title": "Automated progress monitoring system for linear infrastructure projects using satellite remote sensing",
+   "abstract": "",
+   "tldr": "An automated system for progress monitoring of key repetitive construction activities in linear infrastructure projects that can enhance the process of communication on deviations and construction efficiency between project decision makers through a web-based monitoring interface."
+  },
+  "10.1007/978-3-030-41560-0_5": {
+   "title": "Construction Progress Monitoring Using Cyber-Physical Systems",
+   "abstract": "",
+   "tldr": "This chapter presents how the latest robotics, computer vision technologies with construction management theories that can establish a CPS to enable performance tracking and introduces the cutting edge techniques for each component in the CPS."
+  },
+  "10.1016/j.matpr.2022.03.137": {
+   "title": "Automated progress monitoring of construction projects using Machine learning and image processing approach",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.ijproman.2010.04.001": {
+   "title": "An empirical examination of project contractors' supply-chain cash flow performance and owners' payment patterns",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/s40999-021-00601-3": {
+   "title": "Smart Progress Monitoring Framework for Building Construction Elements Using Videography\u2013MATLAB\u2013BIM Integration",
+   "abstract": "",
+   "tldr": "This study provides a framework for smart progress monitoring, which can be easily used on the construction sites by the contractors, while also providing paths for future work in developing cost-effective methods for progress monitoring."
+  },
+  "10.1016/j.autcon.2023.105048": {
+   "title": "Augmenting progress monitoring in soil-foundation construction utilizing SOLOv2-based instance segmentation and visual BIM representation",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.jsr.2020.06.010": {
+   "title": "The association between subcontractor safety management programs and worker perceived safety climate in commercial construction projects",
+   "abstract": "Problem: Safety management programs (SMPs) are designed to mitigate risk of workplace injuries and create a safe working climate. The purpose of this project was to evaluate the relationship between contractors\u2019 SMPs and workers\u2019 perceived safety climate and safety behaviors among small and medium-sized construction subcontractors. Methods: Subcontractor SMP scores on 18 organizational and project-level safety items were coded from subcontractors\u2019 written safety programs and interviews. Workers completed surveys to report perceptions of their contractor\u2019s safety climate and the safety behaviors of coworkers, crews, and themselves. The associations between SMP scores and safety climate and behavior scales were examined using Spearman correlation and hierarchical linear regression models (HLM). Results: Among 78 subcontractors working on large commercial construction projects, we found striking differences in SMP scores between small, medium, and large subcontractors (p<0.001), related to a number of specific safety management practices. We observed only weak relationships between SMP scales and safety climate scores reported by 746 workers of these subcontractors (\u03b2=0.09, p=0.04 by HLM). We saw no differences in worker reported safety climate and safety behaviors by contractor size. Discussion: SMP only weakly predicted safety climate scales of subcontractors, yet there were large differences in the quality and content of SMPs by size of employers. Summary: Future work should ",
+   "tldr": "Evaluating the relationship between contractors' SMPs and workers' perceived safety climate and safety behaviors among small and medium-sized construction subcontractors found striking differences in SMP scores between small, medium, and large subcontractors."
+  },
+  "10.1016/j.autcon.2024.105796": {
+   "title": "Global BIM-point cloud registration and association for construction progress monitoring",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.autcon.2023.105225": {
+   "title": "Hybrid self-supervised learning-based architecture for construction progress monitoring",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1016/j.cie.2019.04.046": {
+   "title": "Robust resource-constrained project scheduling problem of the project's subcontractors in a cooperative environment under uncertainty: Social complex construction case study",
+   "abstract": "Abstract Improvement of project scheduling is a complicated task due to numerous activities and various resources. Accordingly, the resource-constrained project scheduling problem (RCPSP) is an NP-hard problem that minimizes the time and cost of the project. In this paper, the goal is to model the problem under uncertainty in the availability of the resources and activities duration simultaneously. Subcontractors of the construction projects are motivated to form a coalition to reduce the makespan, increase the availability of the resources and maximize their profits. Initially, the robust optimization (RO) model is developed for the RCPSP based on the multi-objective optimization method in which the uncertainty is modeled in a set of scenarios. The behavior of subcontractors is considered by supper-additivity in cooperation, satisfaction level and stability of coalitions. The results of the proposed model demonstrate that the subcontractors can work together in a coalition and obtain more profit rather than working individually. Then, game theory methods such as Shapley Value, Max-Min core, and Equal Profit Method are applied to fairly allocate excess profit of the coalition.",
+   "tldr": "The proposed model demonstrates that the subcontractors can work together in a coalition and obtain more profit rather than working individually and game theory methods such as Shapley Value, Max-Min core, and Equal Profit Method are applied to fairly allocate excess profit of the coalition."
+  },
+  "10.1016/j.autcon.2023.104996": {
+   "title": "Platform-independent visual installation progress monitoring for construction automation",
+   "abstract": "",
+   "tldr": ""
+  },
+  "10.1007/s40999-021-00665-1": {
+   "title": "Optimization and Trajectory Analysis of Drone\u2019s Flying and Environmental Variables for 3D Modelling the Construction Progress Monitoring",
+   "abstract": "",
+   "tldr": "The research found that the best distance is 30\u00a0m, and noontime is the best time for dronography, which can significantly help the construction professionals to calibrate their drone\u2019s flying variables for quality 3D modeling the construction progress monitoring."
+  }
+ }
+}

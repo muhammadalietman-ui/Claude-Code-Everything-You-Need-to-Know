@@ -1,0 +1,1773 @@
+{
+ "query_id": "CORE-01-CIT",
+ "run_date": "2026-11-23",
+ "query_url": "https://api.openalex.org/works?filter=title_and_abstract.search%3A%28pipeline+OR+pipelines+OR+%22linear+infrastructure%22+OR+%22linear+project%22+OR+%22right-of-way%22+OR+%22right+of+way%22+OR+corridor+OR+%22oil+and+gas%22+OR+highway+OR+railway+OR+road%29+AND+%28%22digital+twin%22+OR+UAV+OR+UAS+OR+drone+OR+%22unmanned+aerial%22+OR+photogrammetry+OR+orthophoto+OR+%22point+cloud%22%29+AND+%28%22progress+monitoring%22+OR+%22progress+measurement%22+OR+%22progress+tracking%22+OR+%22quantity+takeoff%22+OR+%22quantity+take-off%22+OR+%22earthwork+volume%22+OR+%22volume+calculation%22+OR+%22progress+payment%22+OR+invoice+OR+subcontractor+OR+%22quantity+surveying%22+OR+%22as-built%22%29+AND+%28construction+OR+contractor+OR+%22construction+site%22%29%2Cfrom_publication_date%3A2010-01-01%2Ctype%3Aarticle%7Creview%7Cbook-chapter%7Cconference-paper%2Clanguage%3Aen&sort=cited_by_count%3Adesc&per-page=100&select=id%2Cdoi%2Ctitle%2Cdisplay_name%2Cpublication_year%2Cprimary_location%2Ctype%2Ccited_by_count%2Cauthorships%2Cabstract_inverted_index%2Crelevance_score",
+ "hits_total": 118,
+ "retrieved": 100,
+ "records": [
+  {
+   "id": "https://openalex.org/W4320493621",
+   "doi": "10.3390/app13042304",
+   "title": "Robots in Inspection and Monitoring of Buildings and Infrastructure: A Systematic Review",
+   "publication_year": 2023,
+   "source": "Applied Sciences",
+   "type": "review",
+   "cited_by_count": 337,
+   "relevance_score": null,
+   "authors": [
+    "Srijeet Halder",
+    "Kereshmeh Afsari"
+   ],
+   "n_authors": 2,
+   "abstract": "Regular inspection and monitoring of buildings and infrastructure, that is collectively called the built environment in this paper, is critical. The built environment includes commercial and residential buildings, roads, bridges, tunnels, and pipelines. Automation and robotics can aid in reducing errors and increasing the efficiency of inspection tasks. As a result, robotic inspection and monitoring of the built environment has become a significant research topic in recent years. This review paper presents an in-depth qualitative content analysis of 269 papers on the use of robots for the inspection and monitoring of buildings and infrastructure. The review found nine different types of robotic systems, with unmanned aerial vehicles (UAVs) being the most common, followed by unmanned ground vehicles (UGVs). The study also found five different applications of robots in inspection and monitoring, namely, maintenance inspection, construction quality inspection, construction progress monitoring, as-built modeling, and safety inspection. Common research areas investigated by researchers include autonomous navigation, knowledge extraction, motion control systems, sensing, multi-robot collaboration, safety implications, and data transmission. The findings of this study provide insight into the recent research and developments in the field of robotic inspection and monitoring of the built environment and will benefit researchers, and construction and facility managers, in developing a"
+  },
+  {
+   "id": "https://openalex.org/W4225619930",
+   "doi": "10.1016/j.autcon.2022.104245",
+   "title": "Computer vision-based construction progress monitoring",
+   "publication_year": 2022,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 221,
+   "relevance_score": null,
+   "authors": [
+    "Varun Kumar Reja",
+    "Koshy Varghese",
+    "Quang Phuc Ha"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2746695009",
+   "doi": "10.1007/s13369-017-2811-9",
+   "title": "Evaluation of UAV- and GNSS-Based DEMs for Earthwork Volume",
+   "publication_year": 2017,
+   "source": "Arabian Journal for Science and Engineering",
+   "type": "article",
+   "cited_by_count": 66,
+   "relevance_score": null,
+   "authors": [
+    "Mustafa Akg\u00fcl",
+    "Huseyin Yurtseven",
+    "Sercan G\u00fclci",
+    "Abdullah Emin AKAY"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3025168371",
+   "doi": "10.1016/j.autcon.2020.103236",
+   "title": "Automatic pipe and elbow recognition from three-dimensional point cloud model of industrial plant piping system using convolutional neural network-based primitive classification",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 58,
+   "relevance_score": null,
+   "authors": [
+    "Young-Doo Kim",
+    "Cong Hong Phong Nguyen",
+    "Young Ki Choi"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3039216802",
+   "doi": "10.3390/infrastructures5070055",
+   "title": "Roads Detection and Parametrization in Integrated BIM-GIS Using LiDAR",
+   "publication_year": 2020,
+   "source": "Infrastructures",
+   "type": "article",
+   "cited_by_count": 56,
+   "relevance_score": null,
+   "authors": [
+    "Luigi Barazzetti",
+    "Mattia Previtali",
+    "Marco Scaioni"
+   ],
+   "n_authors": 3,
+   "abstract": "Building Information Modeling (BIM) has a crucial role in smart road applications, not only limited to the design and construction stages, but also to traffic monitoring, autonomous vehicle navigation, road condition assessment, and real-time data delivery to drivers, among others. Point clouds collected through LiDAR are a powerful solution to capture as-built conditions, notwithstanding the lack of commercial tools able to automatically reconstruct road geometry in a BIM environment. This paper illustrates a two-step procedure in which roads are automatically detected and classified, providing GIS layers with basic road geometry that are turned into parametric BIM objects. The proposed system is an integrated BIM-GIS with a structure based on multiple proposals, in which a single project file can handle different versions of the model using a variable level of detail. The model is also refined by adding parametric elements for buildings and vegetation. Input data for the integrated BIM-GIS can also be existing cartographic layers or outputs generated with algorithms able to handle LiDAR data. This makes the generation of the BIM-GIS more flexible and not limited to the use of specific algorithms for point cloud processing."
+  },
+  {
+   "id": "https://openalex.org/W3144611559",
+   "doi": "10.3390/buildings11040150",
+   "title": "Change Detection in Unmanned Aerial Vehicle Images for Progress Monitoring of Road Construction",
+   "publication_year": 2021,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 54,
+   "relevance_score": null,
+   "authors": [
+    "Dongyeob Han",
+    "Suk Bae Lee",
+    "Mi-Hwa Song",
+    "Jun Cho"
+   ],
+   "n_authors": 4,
+   "abstract": "Currently, unmanned aerial vehicles are increasingly being used in various construction projects such as housing developments, road construction, and bridge maintenance. If a drone is used at a road construction site, elevation information and orthoimages can be generated to acquire the construction status quantitatively. However, the detection of detailed changes in the site owing to construction depends on visual video interpretation. This study develops a method for automatic detection of the construction area using multitemporal images and a deep learning method. First, a deep learning model was trained using images of the changing area as reference. Second, we obtained an effective application method by applying various parameters to the deep learning process. The application of the time-series images of a construction site to the selected deep learning model enabled more effective identification of the changed areas than the existing pixel-based change detection. The proposed method is expected to be very helpful in construction management by aiding in the development of smart construction technology."
+  },
+  {
+   "id": "https://openalex.org/W1992496195",
+   "doi": "10.1061/(asce)su.1943-5428.0000073",
+   "title": "Road Construction Earthwork Volume Calculation Using Three-Dimensional Laser Scanning",
+   "publication_year": 2011,
+   "source": "Journal of Surveying Engineering",
+   "type": "article",
+   "cited_by_count": 54,
+   "relevance_score": null,
+   "authors": [
+    "Kerry T. Slattery",
+    "Dianne K. Slattery",
+    "James P. Peterson"
+   ],
+   "n_authors": 3,
+   "abstract": "Terrestrial laser-scanning (TLS) technology can be used to create a detailed model before and after construction to determine earthwork quantities. Cost-effective implementation of this technology requires that field operations are planned to efficiently acquire sufficient scan data and that data processing is able to filter out off-terrain points to provide an accurate bare earth model. This research developed a workflow for using TLS on road projects and created a customized computer program with a graphical user interface. Scans taken before and after construction were planned using the best available terrain model. Point cloud data were converted to station/offset coordinates for viewing cross-sections and generating the surface. An algorithm was developed, based on the finite element method, to create a surface through the lowest scan points. This surface was converted to a Triangulated Irregular Network (TIN) file, and earthwork quantities were calculated by comparing the TIN of the original terrain to that of the finished project."
+  },
+  {
+   "id": "https://openalex.org/W2963153230",
+   "doi": "10.35490/ec3.2019.195",
+   "title": "BIM-driven mission planning and navigation for automatic indoor construction progress detection using robotic ground platform",
+   "publication_year": 2019,
+   "source": "Computing in construction",
+   "type": "conference-paper",
+   "cited_by_count": 49,
+   "relevance_score": null,
+   "authors": [
+    "Amir Sabry Ibrahim",
+    "Ali Sabet",
+    "Mani Golparvar\u2010Fard"
+   ],
+   "n_authors": 3,
+   "abstract": "Reconstructing a complete and accurate 3D representation of indoor construction scenes is an important step towards automated visual monitoring of construction projects. For fast access to construction\u2019s as-built visual data, construction drones are programmed to autonomously navigate the outdoor space and collect the data. However, due to limited satellite signal indoors, ground rovers provide safer and more reliable autonomous navigation inside the narrow indoor navigable space. In this paper we present a novel pipeline for 4D BIM-driven mapping of the as- built state of indoor construction using 2D Light Detection and Ranging (LiDAR) sensors mounted on an Unmanned Ground Vehicle (UGV). The developed method consists of (1) BIM-driven data collection planning; (2) automatic mission navigation; (3) LiDAR data collection and (4) dynamic obstacle avoidance. Experiments show the applicability of the developed data collection strategy and the improved safety of automatic mission execution using UGV."
+  },
+  {
+   "id": "https://openalex.org/W3211652689",
+   "doi": "10.1061/(asce)co.1943-7862.0002227",
+   "title": "Point Cloud Information Modeling: Deep Learning\u2013Based Automated Information Modeling Framework for Point Cloud Data",
+   "publication_year": 2021,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 48,
+   "relevance_score": null,
+   "authors": [
+    "Jisoo Park",
+    "Yong K. Cho"
+   ],
+   "n_authors": 2,
+   "abstract": "Because point clouds have reality measurements of physical objects, they are often used to reconstruct the as-built three-dimensional (3D) model of building construction sites through a modeling process called Scan-to-building information models (BIM). However, the reality measurements in point cloud data, such as actual color and deformed shapes of the original objects, could disappear during the solid modeling process. In addition, the conventional Scan-to-BIM pipeline still requires significant time and manual effort for object classification and shape representation. To address these problems, this study proposes a novel information modeling framework for point clouds, called point cloud information modeling (PCIM). PCIM can automatically recognize construction objects and their properties with deep learning approaches. Furthermore, it can store information in the original point cloud data with a hierarchical structure, rather than converting it to a solid or rigid model. To validate the overall PCIM concept, this research conducted a case study with an actual building construction project. The test results demonstrate that PCIM can be an effective tool for the as-is information modeling of structures and facilities during construction."
+  },
+  {
+   "id": "https://openalex.org/W4317506318",
+   "doi": "10.3390/rs15030576",
+   "title": "Framework for Geometric Information Extraction and Digital Modeling from LiDAR Data of Road Scenarios",
+   "publication_year": 2023,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 42,
+   "relevance_score": null,
+   "authors": [
+    "Yuchen Wang",
+    "Weicheng Wang",
+    "Jinzhou Liu",
+    "Tianheng Chen",
+    "Shuyi Wang",
+    "Bin Yu"
+   ],
+   "n_authors": 7,
+   "abstract": "Road geometric information and a digital model based on light detection and ranging (LiDAR) can perform accurate geometric inventories and three-dimensional (3D) descriptions for as-built roads and infrastructures. However, unorganized point clouds and complex road scenarios would reduce the accuracy of geometric information extraction and digital modeling. There is a standardization need for information extraction and 3D model construction that integrates point cloud processing and digital modeling. This paper develops a framework from semantic segmentation to geometric information extraction and digital modeling based on LiDAR data. A semantic segmentation network is improved for the purpose of dividing the road surface and infrastructure. The road boundary and centerline are extracted by the alpha-shape and Voronoi diagram methods based on the semantic segmentation results. The road geometric information is obtained by a coordinate transformation matrix and the least square method. Subsequently, adaptive road components are constructed using Revit software. Thereafter, the road route, road entity model, and various infrastructure components are generated by the extracted geometric information through Dynamo and Revit software. Finally, a detailed digital model of the road scenario is developed. The Toronto-3D and Semantic3D datasets are utilized for analysis through training and testing. The overall accuracy (OA) of the proposed net for the two datasets is 95.3 and 95.0%, "
+  },
+  {
+   "id": "https://openalex.org/W2803475642",
+   "doi": "10.1061/(asce)cp.1943-5487.0000772",
+   "title": "Road Design Layer Detection in Point Cloud Data for Construction Progress Monitoring",
+   "publication_year": 2018,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 42,
+   "relevance_score": null,
+   "authors": [
+    "Steven Vick",
+    "Ioannis K. Brilakis"
+   ],
+   "n_authors": 2,
+   "abstract": "Poor performance in transportation construction is well documented, with an estimated $114.3 billion in global annual cost overrun. Studies aimed at identifying the causes highlighted traditional project management functions like progress monitoring as the most important contributing factors. Current methods for monitoring progress on road construction sites are not accurate, consistent, reliable, or timely enough to enable effective project control decisions. Automating this process can address these inefficiencies. The detection of layered design surfaces in digital as-built data is an essential step in this automation. A number of recent studies, mostly focused on structural building elements, aimed to accomplish similar detection but the methods proposed are either ill suited for transportation projects or require labeled as-built data that can be costly and time consuming to produce. This paper proposes and experimentally validates a model-guided hierarchical space partitioning data structure for accomplishing this detection in discrete regions of three-dimensional as-built data. The proposed solution achieved an F1 score of 95.2% on real-world data, confirming the suitability of this approach."
+  },
+  {
+   "id": "https://openalex.org/W3035117935",
+   "doi": "10.3390/ijgi9060378",
+   "title": "Flight Planning for LiDAR-Based UAS Mapping Applications",
+   "publication_year": 2020,
+   "source": "ISPRS International Journal of Geo-Information",
+   "type": "article",
+   "cited_by_count": 40,
+   "relevance_score": null,
+   "authors": [
+    "Bashar Saleem Abbas Alsadik",
+    "Fabio Remondino"
+   ],
+   "n_authors": 2,
+   "abstract": "In the last two decades, unmanned aircraft systems (UAS) were successfully used in different environments for diverse applications like territorial mapping, heritage 3D documentation, as built surveys, construction monitoring, solar panel placement and assessment, road inspections, etc. These applications were correlated to the onboard sensors like RGB cameras, multi-spectral cameras, thermal sensors, panoramic cameras, or LiDARs. According to the different onboard sensors, a different mission plan is required to satisfy the characteristics of the sensor and the project aims. For UAS LiDAR-based mapping missions, requirements for the flight planning are different with respect to conventional UAS image-based flight plans because of different reasons related to the LiDAR scanning mechanism, scanning range, output scanning rate, field of view (FOV), rotation speed, etc. Although flight planning for image-based UAS missions is a well-known and solved problem, flight planning for a LiDAR-based UAS mapping is still an open research topic that needs further investigations. The article presents the developments of a LiDAR-based UAS flight planning tool, tested with simulations in real scenarios. The flight planning simulations considered an UAS platform equipped, alternatively, with three low-cost multi-beam LiDARs, namely Quanergy M8, Velodyne VLP-16, and the Ouster OS-1-16. The specific characteristics of the three sensors were used to plan flights and acquired dense point clouds. "
+  },
+  {
+   "id": "https://openalex.org/W4400764755",
+   "doi": "10.3390/buildings14072216",
+   "title": "Exploring Data for Construction Digital Twins: Building Health and Safety and Progress Monitoring Twins Using the Unreal Gaming Engine",
+   "publication_year": 2024,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 39,
+   "relevance_score": null,
+   "authors": [
+    "Claire Ellul",
+    "Neve Hamilton",
+    "Alexandros Pieri",
+    "G. S. Floros"
+   ],
+   "n_authors": 4,
+   "abstract": "Although digital twins have been established in manufacturing for a long time, they are only more recently making their way into the urban environment and present a relatively new concept for the construction industry. The concept of a digital twin\u2014a model of the physical environment that has a real-time two-way link between the physical and the digital, with the virtual model changing over time to reflect changes in the real world\u2014lends itself well to the continually changing environment of a construction project. Predictive capabilities built into a twin also have great potential for construction planning\u2014including in supply chain management and waste disposal as well as in the construction process itself. Underpinning this opportunity is location data, which model where something is happening and when and can be used to solve a wide range of problems. In particular, location (the power of where) can integrate diverse data sources and types into a single system, overcoming interoperability challenges that are known to be a barrier to twin implementation. This paper demonstrates the power of location-enabled digital twins in the context of a highway construction project, documenting and addressing data engineering tasks and functionality development to explore the potential of digital twins in the context of two case studies\u2014health and safety and construction monitoring. We develop two demonstrators using data from an existing construction project (building on data and requi"
+  },
+  {
+   "id": "https://openalex.org/W2885513925",
+   "doi": "10.1061/9780784481264.033",
+   "title": "UAV-Enabled Site-to-BIM Automation: Aerial Robotic- and Computer Vision-Based Development of As-Built/As-Is BIMs and Quality Control",
+   "publication_year": 2018,
+   "source": "ASCE Construction Research Congress (CRC)",
+   "type": "conference-paper",
+   "cited_by_count": 39,
+   "relevance_score": null,
+   "authors": [
+    "Hesam Hamledari",
+    "Shakiba Davari",
+    "Ehsan Rezazadeh Azar",
+    "Brenda Y. McCabe",
+    "Forest Flager",
+    "Martin A Fischer"
+   ],
+   "n_authors": 6,
+   "abstract": "The automated integration of as-built and as-is conditions into building information models (BIM) remains a primary challenge for unoccupied aerial vehicles (UAV)-enabled facility and construction inspection. Due to the lack of site-to-BIM data pipelines supporting reality capture technologies such as camera-mounted UAVs, BIMs lose their effectiveness over time since they do not accurately reflect the as-built and as-is conditions; the UAV-captured visual data also remains underutilized. This paper proposes and demonstrates a novel industry foundation classes (IFC)-based solution for UAV-enabled as-built and as-is BIM development, quality control, and smart inspections. It first identifies the requirements of UAV-enabled site-to-BIM automation and its framework; then, it elaborates on the proposed solution which aims to: (1) enable automated conformance checking and quality control using data queried from BIMs and UAV-captured reality in the form of images; and more importantly; and (2) enable the integration of on-site captured reality, including the as-built and as-is conditions, into BIMs. The method leverages the non-proprietary IFC schema, empowering OpenBIM applications, and facilitating interoperability, a core challenge in the information modeling domain. In addition to its support for UAV-enabled applications, the technique can provide the same site-to-BIM functionalities for other types of reality capture and other robotic data collection efforts during construction"
+  },
+  {
+   "id": "https://openalex.org/W4213222761",
+   "doi": "10.1080/15623599.2022.2040078",
+   "title": "Monitoring road base course construction progress by photogrammetry-based 3D reconstruction",
+   "publication_year": 2022,
+   "source": "International Journal of Construction Management",
+   "type": "article",
+   "cited_by_count": 38,
+   "relevance_score": null,
+   "authors": [
+    "Ying Lo",
+    "Cheng Zhang",
+    "Zehao Ye",
+    "Chunyi Cui"
+   ],
+   "n_authors": 4,
+   "abstract": "Infrastructure industry is a significant contributor to a country's economy, but it is beset by cost overruns and delays. Therefore, project monitoring is essential to determine project performance by comparing the site progress to the schedule baseline. However, manual tracking lacks the precision and efficiency. The ability to quickly and accurately identify differences is important to implement essential measures to reduce the impact of delays. This paper aims to build a technology-assisted progress monitoring framework for road base course construction. A case study is carried out on a road construction site using an Unmanned Aerial Vehicle to capture as-built data in a timely manner. Photogrammetry is used to generate point cloud model as the 3 D geometrical representative of the site. Percentage of Completion is computed as an indication for the progress of the construction along with the location of the work performed and the quantity of the material used. The framework produced a detailed and accurate construction progress report with evidence support from point cloud data which allows the visualization of the actual construction site in three dimensions. The findings reveal that the framework enables accurate and efficient tracking of road base course construction progress as well as schedule comparison."
+  },
+  {
+   "id": "https://openalex.org/W2600173001",
+   "doi": "10.3141/2630-01",
+   "title": "Estimating Earthwork Volumes Through Use of Unmanned Aerial Systems",
+   "publication_year": 2017,
+   "source": "Transportation Research Record Journal of the Transportation Research Board",
+   "type": "article",
+   "cited_by_count": 35,
+   "relevance_score": null,
+   "authors": [
+    "Xi Wang",
+    "Zamaan Al-Shabbani",
+    "Roy Everett Sturgill",
+    "Adam Kirk",
+    "Gabriel Biratu Dadi"
+   ],
+   "n_authors": 5,
+   "abstract": "Unmanned aerial systems (UASs) and unmanned aerial vehicles (UAVs) have become increasingly attractive for numerous surveying applications in civil engineering, agriculture, and many other fields. The unmanned systems and vehicles are capable of performing photogrammetric data acquisition with equipped digital cameras that allows for converting images to highly precise, georeferenced three-dimensional models. However, more studies are needed to demonstrate practical applications of UAS systems and UAVs on construction sites. In this project, UAS systems and UAVs and digital photogrammetry technology are introduced to estimate the earthwork volume of a highway extension project. The georeferenced images were processed by the photogrammetry software, Pix4Dmapper, which is a tool for converting images into an accurate and applicable three-dimensional point cloud model. Progress models were created over the course of several weeks. The volume of earth was computed by comparing the point cloud of the progress models after model processing. To ensure reliability, the accuracy of the UAS and UAV photogrammetry was verified by comparison with conventional ground survey methods and the results from different flights. The project presents the feasibility and effectiveness of using UAS systems and UAVs in estimating earthwork volumes on the basis of the results of an accuracy test and the efficiency of the survey."
+  },
+  {
+   "id": "https://openalex.org/W2797737639",
+   "doi": "10.1061/(asce)cf.1943-5509.0001163",
+   "title": "Video to BrIM: Automated 3D As-Built Documentation of Bridges",
+   "publication_year": 2018,
+   "source": "Journal of Performance of Constructed Facilities",
+   "type": "article",
+   "cited_by_count": 33,
+   "relevance_score": null,
+   "authors": [
+    "Abbas Rashidi",
+    "Ebrahim Parvaresh Karan"
+   ],
+   "n_authors": 2,
+   "abstract": "Labeling and mapping existing infrastructure is one of the grand challenges for civil engineers in the 21st century. The challenge remains in finding an appropriate data collection method that rapidly collects structural and geometrical information of bridges and automatically converts it into three-dimensional (3D) models. Over the last decade, there has been a tremendous effort to develop prototypes for capturing the as-is condition of a bridge and converting it into 3D bridge-information models (BrIMs). Bridge-information models are 3D-information-rich data models that can be used in various phases of bridge design, construction, operations, and maintenance. As an alternative solution, researchers are now studying the processing of videos to capture the required 3D information (videogrammetry) and using algorithms to automatically extract 3D objects and convert the results into a BrIM. This study evaluates the applicability of a novel videogrammetric pipeline for automatically documenting the physical condition of bridges. It also describes the results of three case studies of highway bridge assessment and modeling in which 3D information is extracted from two-dimensional video frames and point cloud data (PCD) are generated. As the next step, the PCD can be converted into a data-rich BrIM object for further processing."
+  },
+  {
+   "id": "https://openalex.org/W4313442886",
+   "doi": "10.1016/j.isprsjprs.2022.12.014",
+   "title": "Geometric BIM verification of indoor construction sites by photogrammetric point clouds and evidence theory",
+   "publication_year": 2022,
+   "source": "ISPRS Journal of Photogrammetry and Remote Sensing",
+   "type": "article",
+   "cited_by_count": 31,
+   "relevance_score": null,
+   "authors": [
+    "Theresa Meyer",
+    "Ansgar Brunn",
+    "Uwe Stilla"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4408180463",
+   "doi": "10.1016/j.autcon.2025.106109",
+   "title": "Mechanics-based digital twin model for structural construction using 3D scanning and FE model updating",
+   "publication_year": 2025,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 29,
+   "relevance_score": null,
+   "authors": [
+    "Jian\u2010Sheng Fan",
+    "Mu-Nan Xu",
+    "Yan-Chang Li",
+    "Yifan Ding",
+    "Yufei Liu",
+    "Bin Geng"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4306166987",
+   "doi": "10.5194/isprs-annals-x-4-w3-2022-97-2022",
+   "title": "SCAN-VS-BIM FOR REAL-TIME PROGRESS MONITORING OF BRIDGE CONSTRUCTION PROJECT",
+   "publication_year": 2022,
+   "source": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "Ze Jiang",
+    "Xiujun Shen",
+    "Mohammad Hashim Ibrahimkhil",
+    "Khalegh Barati",
+    "James Linke"
+   ],
+   "n_authors": 5,
+   "abstract": "New transport infrastructure construction can stimulate the growth of economy as well as improving the public citizen welfare. However, with the rising number of mega infrastructure projects, the low project performance, such as project delay and cost escalation, are challenging the traditional Architecture, Engineering, and Construction (AEC) industry. Traditional Construction progress monitoring methods rely on manual data collecting and paperwork reporting which can be labor-intensive, time-consuming and error-prone. Therefore, it is necessary for the involved stakeholders to introduce advanced technologies which facilitates assessing the construction performance automatically and ensures the projects to be delivered on time. The application of building information modeling (BIM) provides involved parties an accurate understandable single source of truth that can improve the interoperability of project information. Nevertheless, current \u2018Scan-to-BIM\u2019 workflow cannot support the demand for real-time data analysis and status reporting. This paper presents a semi-automatic construction progress monitoring framework that evaluating the project performance of the infrastructure in real-time. It introduces Hausdorff distance which transmits the 3-D geometrical information contained by as-built point cloud to virtual point cloud directly, to avoid the drawbacks of space partitioning algorithms. The Poisson surface reconstruction utilizing volume as criterion to improve the robust"
+  },
+  {
+   "id": "https://openalex.org/W4360851399",
+   "doi": "10.3390/f14040677",
+   "title": "Possibilities of Using UAV for Estimating Earthwork Volumes during Process of Repairing a Small-Scale Forest Road, Case Study from Kyoto Prefecture, Japan",
+   "publication_year": 2023,
+   "source": "Forests",
+   "type": "article",
+   "cited_by_count": 24,
+   "relevance_score": null,
+   "authors": [
+    "Hisashi Hasegawa",
+    "Azwar Azmillah Sujaswara",
+    "Taisei Kanemoto",
+    "Kazuya Tsubota"
+   ],
+   "n_authors": 4,
+   "abstract": "Although forest road networks are an important infrastructure for forestry, recreation, and sustainable forest management, they have a considerable effect on the environment. Therefore, a detailed analysis of the various benefits and associated costs of road network construction is needed. The cost of earthwork in road construction can be estimated based on the change in topography before and after construction. However, accurate estimation of the earthwork volume may not be possible on steep terrain where soil placement is limited. In this study, an unmanned aerial vehicle was flown under the tree canopy six times during a road repair work to measure the changes in topography using structure from motion analysis. Comparing the obtained 3D model with the measurement results from the total station, the average vertical error and root mean square error were \u22120.146 m and 0.098 m, respectively, suggesting its good accuracy for measuring an earthwork volume. Compared to the amount of earthwork estimated from the topographic changes before and after the repair work, the actual earthwork volume was 3.5 times greater for cutting and 1.9 times greater for filling. This method can be used to calculate the earthwork volume accurately for designing forest road networks on steep terrain."
+  },
+  {
+   "id": "https://openalex.org/W4297267165",
+   "doi": "10.1016/j.autcon.2022.104581",
+   "title": "Vision based metric for quality control by comparing built reality to BIM",
+   "publication_year": 2022,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 23,
+   "relevance_score": null,
+   "authors": [
+    "Stan Vincke",
+    "Maarten Vergauwen"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4205289949",
+   "doi": "10.3390/s22020521",
+   "title": "As-Built Inventory and Deformation Analysis of a High Rockfill Dam under Construction with Terrestrial Laser Scanning",
+   "publication_year": 2022,
+   "source": "Sensors",
+   "type": "article",
+   "cited_by_count": 23,
+   "relevance_score": null,
+   "authors": [
+    "Peiwei Xiao",
+    "Ran Zhao",
+    "Duohui Li",
+    "Zhaogao Zeng",
+    "Shunchao Qi",
+    "Xing-guo Yang"
+   ],
+   "n_authors": 6,
+   "abstract": "The construction of large earth/rock fill dams, albeit its remarkable progress, still relies largely on past experiences. Therefore, a comprehensive yet dependable monitoring program is particularly beneficial for guiding the practice. However, conventional measurements can only produce limited discrete data. This paper exploits the potential of the terrestrial laser scanning (TLS) for an accurate inventory of as-built states of a concrete-faced rockfill dam under construction and for a full-field analysis of the 3D deformation pattern over its upstream face. For the former, a well-designed 3D geodetic system, with a particular consideration of the topography, promises a regulated acquisition of high-quality and blind-zone-free point cloud at field and also eases the cumbersome data registration process while maintaining its precision in house. For the latter, a problem-tailored processing pipeline is proposed for deformation extraction. Its core idea is to achieve a highly precise alignment of the point clouds with Iterative Closed Point algorithms from different epochs in datum areas that displays a featured, undeformed geometry at stable positions across epochs. Then, the alignment transformation matrix is applied to the point clouds of respective upstream face for each epoch, followed by pairwise comparisons of multiple adjusted point clouds for deformation evaluation. A processing pipeline is used to exploit the peal scene data redundancy of the GLQ dam acquired at six d"
+  },
+  {
+   "id": "https://openalex.org/W2788956442",
+   "doi": "10.1139/cjce-2017-0620",
+   "title": "Feasibility of extracting highway vertical profiles from LiDAR data",
+   "publication_year": 2018,
+   "source": "Canadian Journal of Civil Engineering",
+   "type": "article",
+   "cited_by_count": 22,
+   "relevance_score": null,
+   "authors": [
+    "Suliman A. Gargoum",
+    "Karim El\u2010Basyouny",
+    "Amr Shalkamy",
+    "Maged Gouda"
+   ],
+   "n_authors": 4,
+   "abstract": "Producing as-built drawings is an important task in any road construction project. In fact, in an ideal situation, these drawings must be updated whenever major maintenance work takes place. Unfortunately, constantly updating those drawings is not always feasible due to the amount of manual work associated with the data collection in traditional surveying practice. The increase in computing power and the advancement in technology has led many transportation agencies to consider utilizing remote sensing techniques to extract roadway design features and prepare as-builts of roads. In this note, a procedure to generate as-built drawings of vertical profiles on highways using light detection and ranging (LiDAR) point cloud data are proposed. The procedure is a multistep procedure where the road centerline of each segment is first defined, after that a best fit alignment of points along the road\u2019s centerline is generated. A digital surface model (DSM) of the LiDAR highway is created and the centerline is relayed onto the DSM before generating the road profile. The proposed method is tested using LiDAR data collected on two highways in the province of Alberta, Canada. The profiles extracted using the proposed method are compared against vertical profiles that were generated for the same segments using data collected in GPS surveys and as-built drawings developed in manual surveys. The results show the feasibility of accurately extracting road profiles from LiDAR data. The average d"
+  },
+  {
+   "id": "https://openalex.org/W4200326820",
+   "doi": "10.1177/03611981211064277",
+   "title": "Mapping Unmanned Aerial System Data onto Building Information Modeling Parameters for Highway Construction Progress Monitoring",
+   "publication_year": 2021,
+   "source": "Transportation Research Record Journal of the Transportation Research Board",
+   "type": "article",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Reihaneh Samsami",
+    "Amlan Mukherjee",
+    "Colin Brooks"
+   ],
+   "n_authors": 3,
+   "abstract": "The transportation infrastructure management sector lacks automated procedures that can help it find and resolve the performance deviations. The objective of this research is to illustrate the mapping of Unmanned Aerial System (UAS) collected photogrammetric data to building information modeling (BIM) parameters, and their application for automated construction progress monitoring and the generation of as-built models. The goal is to support project managers to estimate project progress during highway construction. As a part of ongoing work, this paper takes into account 4D (3D + time) data that is acquired from 3D surface digital elevation models, point clouds, LiDAR data, and orthographic photos. It maps these 4D data onto BIM parameters to create as-built models of the project at different intervals. A comparison between as-planned and as-built models using the earned value management method is employed to develop metrics that can be used for indicating cost and schedule deviations during construction. The mapping methodology introduced in this paper is illustrated using an ongoing highway construction project case study. The main contribution of this paper is the organization, processing, and integration of UAS data with BIM data structures and project management workflows. The research outcomes will assist project managers in an easy and quick identification of potential performance problems and support the project management decision-making process."
+  },
+  {
+   "id": "https://openalex.org/W2885605018",
+   "doi": "10.1061/9780784481264.022",
+   "title": "Region Proposal Mechanism for Building Element Recognition for Advanced Scan-to-BIM Process",
+   "publication_year": 2018,
+   "source": "ASCE Construction Research Congress (CRC)",
+   "type": "conference-paper",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Jingdao Chen",
+    "Yong K. Cho",
+    "Kyungki Kim"
+   ],
+   "n_authors": 3,
+   "abstract": "Laser-scanned point clouds contain rich geometric information and are one of the primary modes of data acquired from as-built infrastructure. The creation of a building information model (BIM) from scanned data has several important applications such as construction progress tracking, asset management, structural health monitoring, quality assessment, and safety planning. A conventional scan-to-BIM pipeline typically involves a high volume of manual work to extract and label building elements which is time-consuming and error-prone. This research proposes a voxel grid search method to automatically generate region proposals for objects of interest from a laser-scanned point cloud. The advantages of the proposed method are that it does not require prior segmentation of objects and that it is agnostic with respect to the shape of objects that can be detected. A point cloud template is first created from a computer-aided design (CAD) model by randomly sampling points along the surfaces of the model. Next, a voxel grid data structure is used to represent the occupancy of both the template and the scene point cloud. A search procedure is used to determine candidate regions with high region proposal scores, and thresholding and mean shift clustering are used to refine the region proposal results. The proposed method was evaluated with a laser-scanned point cloud of a building, where a ground truth BIM model is available. Region proposals were generated for five different building e"
+  },
+  {
+   "id": "https://openalex.org/W4400223427",
+   "doi": "10.1108/ecam-01-2024-0020",
+   "title": "Unmanned ground vehicle (UGV) based automated construction progress measurement of road using LSTM",
+   "publication_year": 2024,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 15,
+   "relevance_score": null,
+   "authors": [
+    "Tirth Patel",
+    "Brian H.W. Guo",
+    "Jacobus Daniel van der Walt",
+    "Yang Zou"
+   ],
+   "n_authors": 4,
+   "abstract": "Purpose Current solutions for monitoring the progress of pavement construction (such as collecting, processing and analysing data) are inefficient, labour-intensive, time-consuming, tedious and error-prone. In this study, an automated solution proposes sensors prototype mounted unmanned ground vehicle (UGV) for data collection, an LSTM classifier for road layer detection, the integrated algorithm for as-built progress calculation and web-based as-built reporting. Design/methodology/approach The crux of the proposed solution, the road layer detection model, is proposed to develop from the layer change detection model and rule-based reasoning. In the beginning, data were gathered using a UGV with a laser ToF (time-of-flight) distance sensor, accelerometer, gyroscope and GPS sensor in a controlled environment. The long short-term memory (LSTM) algorithm was utilised on acquired data to develop a classifier model for layer change detection, such as layer not changed, layer up and layer down. Findings In controlled environment experiments, the classification of road layer changes achieved 94.35% test accuracy with 14.05% loss. Subsequently, the proposed approach, including the layer detection model, as-built measurement algorithm and reporting, was successfully implemented with a real case study to test the robustness of the model and measure the as-built progress. Research limitations/implications The implementation of the proposed framework can allow continuous, real-time monito"
+  },
+  {
+   "id": "https://openalex.org/W3104093844",
+   "doi": "10.1061/9780784482865.139",
+   "title": "Point Cloud Information Modeling (PCIM): An Innovative Framework for As-Is Information Modeling of Construction Sites",
+   "publication_year": 2020,
+   "source": "ASCE Construction Research Congress (CRC)",
+   "type": "conference-paper",
+   "cited_by_count": 14,
+   "relevance_score": null,
+   "authors": [
+    "Jisoo Park",
+    "Jingdao Chen",
+    "Yong K. Cho"
+   ],
+   "n_authors": 3,
+   "abstract": "Point clouds constitute a high fidelity representation of the 3D geometry of physical objects; thus, point cloud technology is often used to create an as-built building information modeling (BIM) of a building construction site. However, the conventional scan-to-BIM pipeline still requires significant time and manual efforts to complete. To address this problem, this study proposes a novel point cloud information management format, called point cloud information modeling (PCIM), where semantic information of building elements is captured from the laser scanner and camera data and directly encoded in a combined point cloud data structure. PCIM is a concise representation of the as-is condition of building elements on a construction site, including building object information such as type of building element, material, and geometry. PCIM has an object-oriented hierarchical structure, and the definition of building objects are derived from the industry foundation classes (IFC). The process of creating PCIM can be automated since the underlying semantic structures such as class and material information can be directly extracted from raw sensor data with machine learning technology. Under the machine learning framework, an automated classifier can be trained to recognize relevant entities from point cloud data based on a pre-built library of 3D building computer-aided design (CAD) objects. To validate the overall PCIM framework, this research conducted a case study at an actual bu"
+  },
+  {
+   "id": "https://openalex.org/W3099790078",
+   "doi": "10.7848/ksgpc.2020.38.2.131",
+   "title": "A Study on DEM-based Automatic Calculation of Earthwork Volume for BIM Application",
+   "publication_year": 2020,
+   "source": "Journal of the Korean Society of Surveying Geodesy Photogrammetry and Cartography",
+   "type": "article",
+   "cited_by_count": 14,
+   "relevance_score": null,
+   "authors": [
+    "Sun Il Cho",
+    "Jae Hyoung Lim",
+    "Soo Bong Lim",
+    "Heecheon Yoon"
+   ],
+   "n_authors": 4,
+   "abstract": "Recently the importance of BIM (Building Information Modeling) that enables 3D location-based design and construction work is being highlighted around the world. In Korea, the road map has been established to settle the design based on BIM using drone survey results by 2025. As the first step, BIM would be applied to road construction projects worth more than 50 billion Korean Won from 2020. On the other hand, drone survey regulation has been enacted and the data for drone survey cost were also included on Standard of construction estimate in 2020. However, more careful improvement is required to reflect drone survey results in BIM design and construction. Currently, Engineering instructions and Standard of construction estimate specifies that earthwork volume must be calculated by cross section method only. So it is required to add the method of DEM (Digital Elevation Model) based volume calculation on these regulations to realize BIM application. In order for that, this study verified the method of DEM based earthwork volume calculation. To get an accurate DEM for accurate volume computation, drone survey was carried out according to the drone survey regulation and then could get an accurate DEM data which have errors less than 3cm in X, Y and 6.8cm in H. As each DEM cell has 3D coordinate component, the volume of each cell can be calculated by obtaining the height of area of the cell then total volume is calculated by multiplying total number of cells by volume of each cel"
+  },
+  {
+   "id": "https://openalex.org/W4385758973",
+   "doi": "10.3390/s23167110",
+   "title": "Towards Automated Measurement of As-Built Components Using Computer Vision",
+   "publication_year": 2023,
+   "source": "Sensors",
+   "type": "article",
+   "cited_by_count": 10,
+   "relevance_score": null,
+   "authors": [
+    "Husein Perez",
+    "J.H.M. Tah"
+   ],
+   "n_authors": 2,
+   "abstract": "Regular inspections during construction work ensure that the completed work aligns with the plans and specifications and that it is within the planned time and budget. This requires frequent physical site observations to independently measure and verify the completion percentage of the construction progress performed over periods of time. The current computer vision techniques for measuring as-built elements predominantly employ three-dimensional laser scanning or three-dimensional photogrammetry modeling to ascertain the geometric properties of as-built elements on construction sites. Both techniques require data acquisition from several positions and angles to generate sufficient information about the element's coordinates, making the deployment of these techniques on dynamic construction project sites challenging. This paper proposes a pipeline for automating the measurement of as-built components using artificial intelligence and computer vision techniques. The pipeline requires a single image obtained with a stereo camera system to measure the sizes of selected objects or as-built components. The results in this work were demonstrated by measuring the sizes of concrete walls and columns. The novelty of this work is attributed to the use of a single image and a single target for developing a fully automated computer vision-based method for measuring any given object. The proposed solution is suitable for use in measuring the sizes of as-built components in built assets. I"
+  },
+  {
+   "id": "https://openalex.org/W4307321155",
+   "doi": "10.1117/12.2634711",
+   "title": "Multisource-data-fusion for the digitization of critical infrastructural elements",
+   "publication_year": 2022,
+   "source": null,
+   "type": "conference-paper",
+   "cited_by_count": 10,
+   "relevance_score": null,
+   "authors": [
+    "Simon Stemmler",
+    "Timo Kaufmann",
+    "Maria Justine Bange",
+    "Dominik Merkle",
+    "Alexander Reiterer",
+    "Katharina Klemt\u2010Albert"
+   ],
+   "n_authors": 7,
+   "abstract": "Due to the relatively high average age of the rail infrastructure in Germany and the thus often historic plans, as-built documentation has a very high priority at Deutsche Bahn AG. The inventory and updating of existing plans represent an enormous challenge for the operator, DB Netz AG. More than 4.6 million inventory plans must be continuously checked to ensure that they are up to date, correct, adjusted and supplemented as necessary. The most fragile structures are railroad bridges. These are the focus of this paper. For now, all information of bridges such as planning documents, statics, status reports of bridge examination, etc. are collected in decentral locations of the owner or operator. The existing information is available in a wide variety of formats, e.g. pdf files, plans on paper, scanned paper plans, digitally created plans, SAPdata and photos. We tackled this problem of non-uniform and decentralized data management within the mdfBIM project. Within the scope of this project, a process model was developed that describes the merging of the various data sources in the planning process and attempts to identify the primary data source in each case. The validation and adaptation of this model was carried out continuously after it had been set up based on a railway bridge in Hannover, Germany. We used machine learning algorithms to enable an automated object classification for the most common objects to derive the highest possible degree of automation. Another importan"
+  },
+  {
+   "id": "https://openalex.org/W4281683011",
+   "doi": "10.3390/engproc2022017003",
+   "title": "A Digital Twin for Monitoring the Construction of a Wind Farm",
+   "publication_year": 2022,
+   "source": "International Online Conference on Infrastructures (IOCI)",
+   "type": "conference-paper",
+   "cited_by_count": 9,
+   "relevance_score": null,
+   "authors": [
+    "Alejandra Ospina-Boh\u00f3rquez",
+    "Jorge L\u00f3pez-Rebollo",
+    "Pedro Mu\u00f1oz-S\u00e1nchez",
+    "Diego Gonz\u00e1lez\u2010Aguilera"
+   ],
+   "n_authors": 4,
+   "abstract": "first_page settings Order Article Reprints Font Type: Arial Georgia Verdana Font Size: Aa Aa Aa Line Spacing: \uf034 \uf034 \uf034 Column Width: \uf035 \uf035 \uf035 Background: Open AccessAbstract A Digital Twin for Monitoring the Construction of a Wind Farm \u2020 by Alejandra Ospina-Boh\u00f3rquez 1,*, Jorge L\u00f3pez-Rebollo 2, Pedro Mu\u00f1oz-S\u00e1nchez 2 and Diego Gonz\u00e1lez-Aguilera 2 1 TIDOP Research Group, University of Salamanca, Hornos Caleros, 50, 05003 \u00c1vila, Spain 2 Department of Cartographic and Land Engineering, Higher Polytechnic School of \u00c1vila, University of Salamanca, Hornos Caleros, 50, 05003 \u00c1vila, Spain * Author to whom correspondence should be addressed. \u2020 Presented at the 1st International Online Conference on Infrastructures, 7\u20139 June 2022; Available online: https://ioci2022.sciforum.net/. Eng. Proc. 2022, 17(1), 3; https://doi.org/10.3390/engproc2022017003 Published: 2 May 2022 (This article belongs to the Proceedings of The 1st International Online Conference on Infrastructures) Download Download PDF Download PDF with Cover Download XML Download Epub Versions Notes Digital twins (DTs) represent an emerging technology that can allow interaction between physical assets and their virtual replicas. These virtual replicas enclose the geometry derived from complex modelling procedures and the dynamism derived from artificial intelligence. Nowadays, DT applications are found in almost every engineering area, DTs serve different purposes, e.g., they test how new devices behave under diverse conditions or whi"
+  },
+  {
+   "id": "https://openalex.org/W3168972546",
+   "doi": null,
+   "title": "Assessing Close-Range Photogrammetry as an Alternative for LiDAR Technology at UDOT Divisions",
+   "publication_year": 2020,
+   "source": "ROSA P",
+   "type": "article",
+   "cited_by_count": 9,
+   "relevance_score": null,
+   "authors": [
+    "Chandler Cross",
+    "Mohammad Farhadmanesh",
+    "Abbas Rashidi"
+   ],
+   "n_authors": 3,
+   "abstract": "LiDAR (Light Detection and Ranging) is a mature and efficient technology currently used by various divisions of UDOT (asset management, traffic control, pavement, construction, etc.). Some of the current applications of LiDAR at UDOT (as well as other DOTs) include: asset management for roads and buildings, quality control of pavements and other infrastructure surfaces, 3D as-built documentation of constructed facilities, etc. While effective, there are some limitations in using LiDAR as a common engineering tool: The technology is pretty expensive, certain levels of expertise and training are required to use LiDAR scanners for data collection and processing results, and finally it might not be available for all units and individuals. Close-range photogrammetry is another emerging technology that could be considered as a potential alternative for LiDAR scanning devices. The technology is based on processing images and videos simply captured by off-the-shelf cameras or smartphones. Unlike LiDAR, close-range photogrammetry is very cost effective, simple, and easy-to-use. There is no need for extra hardware settings and almost everyone has a smartphone or camera so collecting and processing data is very feasible. Within the last decade, several software packages in the area of close-range photogrammetry have been introduced for research, education, and commercial purposes. Some examples are Autodesk Recap; Agisoft Photoscan; 3DF Zephyr; VisualSFM; and Photomodeler. The outputs o"
+  },
+  {
+   "id": "https://openalex.org/W4390055316",
+   "doi": "10.52939/ijg.v19i12.2977",
+   "title": "Earthwork Volume Measurement in Road Construction Using Unmanned Aerial Vehicle (UAV)",
+   "publication_year": 2023,
+   "source": "International Journal of Geoinformatics",
+   "type": "article",
+   "cited_by_count": 8,
+   "relevance_score": null,
+   "authors": [
+    "S. Chonpatathip"
+   ],
+   "n_authors": 1,
+   "abstract": "This study utilized an Unmanned Aerial Vehicle (UAV) to estimate earthwork volumes in a road construction project spanning from kilometer 6+675 to kilometer 17+275 within the Nongthalay subdistrict, Muang district, Krabi province. Data processing was conducted with PIX4D software, where earthwork volumes were determined from UAV photogrammetry-derived Digital Elevation Models (UAV-DEMs), utilizing the Raster Volume Comparison plugin in QGIS. Aerial imageries were acquired before and after earthwork completion on November 24, 2022, and January 31, 2022, respectively. The results indicated that the UAV-DEM-derived volume was 126.32 m\u00b3 less than the prismoidal formula, accounting for a 4.25% difference. It is important to note that the traditional technique's volume estimation represents compacted soil required for road construction. However, prismoidal formula use of cross-sectional areas derived from polygonal shapes may introduce inaccuracies. Therefore, conclusive comparisons favoring the traditional technique over UAV-DEMs should be approached with caution. Additionally, it should be emphasized that the volume results do not directly align with the total earthwork quantity required for the project. The determined volumes reflect compacted soil, whereas the project necessitates the transport of loose soil that will subsequently be compacted on-site. UAV-derived DEMs provide valuable tools for road construction earthwork estimation. With meticulous planning and execution of d"
+  },
+  {
+   "id": "https://openalex.org/W2087224210",
+   "doi": "10.1061/9780784413616.120",
+   "title": "Automated Cleaning of Point Clouds for Highway Retaining Wall Condition Assessment",
+   "publication_year": 2014,
+   "source": "International Conference on Computing in Civil and Building Engineering (ICCCBE)",
+   "type": "conference-paper",
+   "cited_by_count": 8,
+   "relevance_score": null,
+   "authors": [
+    "Pedram Oskouie",
+    "Bur\u00e7in Becerik-Gerber",
+    "L\u00facio Soibelman"
+   ],
+   "n_authors": 3,
+   "abstract": "Continuous condition monitoring and inspection of under-construction highway retaining walls is essential to ensure that construction performance criteria are met. The use of LIDAR systems by the construction industry has been significantly increased in recent years, especially for recording the as-built and as-is conditions of facilities. The high-precision, dense 3-D point clouds generated by 3-D laser scanners can facilitate the process of Asset Condition Assessment (ACA). ACA involves preprocessing the point cloud data, for which point clouds have to be cleaned of any unwanted or occluding objects and noises. As part of this research, the retaining wall point cloud data from an ongoing highway construction project was processed and analyzed. The project uses 3-D laser scanners for regular monitoring of mechanically stabilized earth walls that retain the soil supporting the highway alignment. The temporary steel and wooden brackets that hold formworks on top of the walls along with other construction materials are defined as unwanted objects. The authors have used a non-deterministic algorithm to remove the brackets and noises from the point clouds. Various settings of the algorithm have been analyzed using different sets of data. This paper presents the accuracy and performance of the tested algorithm and its evaluation when comparing the results with manually cleaned point clouds."
+  },
+  {
+   "id": "https://openalex.org/W1991163460",
+   "doi": "10.1177/0740277513494057",
+   "title": "Auctioning the Future of Work",
+   "publication_year": 2013,
+   "source": "World Policy Journal",
+   "type": "article",
+   "cited_by_count": 8,
+   "relevance_score": null,
+   "authors": [
+    "Phillip Brown",
+    "Hugh Lauder"
+   ],
+   "n_authors": 2,
+   "abstract": "The 2008 financial crisis wiped trillions of dollars off the value of the world\u2019s financial markets, but it did little to halt the explosion in college education. Families from all walks of life and governments of all political persuasions embrace the idea that investing in a college education offers students a route to middle-class prosperity. Difficult economic times in much of the world only reinforce the myth that education triggers economic growth and resolves problems of inequality.Meanwhile, China\u2019s new leadership has prioritized expanding the rising middle class. The country is committed to becoming an innovation economy by 2020, driven by an expansion of higher education. In 2009, there were about 98 million college graduates in China\u2019s workforce. By 2020, this figure is expected to rise to an astonishing 195 million. Every year, China is graduating almost three times the record number of college students graduating in the United States. Similar trends are evident in other countries as university enrollments around the world have more than doubled over the last decade. This vast mobilization of human learning is based on an educated guess\u2014that past trends are a good guide to the future prospects for educated labor.In emerging economies, it\u2019s assumed that investing in what economists call human capital offers a chance to break into the global competition for jobs as companies look to reduce production costs in mature economies, along with the hope of moving up the val"
+  },
+  {
+   "id": "https://openalex.org/W4406650094",
+   "doi": "10.1088/2631-8695/adaca9",
+   "title": "Road Layer Detection and Volume Calculation Using UAV Technologies and Artificial Intelligence",
+   "publication_year": 2025,
+   "source": "Engineering Research Express",
+   "type": "article",
+   "cited_by_count": 7,
+   "relevance_score": null,
+   "authors": [
+    "Muhammad Hammad Iqbal",
+    "Muhammad Junaid Iqbal",
+    "Tahir Saleem"
+   ],
+   "n_authors": 3,
+   "abstract": "Traditional methods for monitoring road construction often rely on manual measurements and visual inspections, which are time-consuming and prone to errors. This study introduces a novel approach that uses unmanned aerial vehicles (UAVs) and the You Only Look Once (YOLO) model (YOLOv11-seg) to significantly improve the accuracy and efficiency of road layer detection and volume calculation. By utilizing high-resolution images taken by the DJI Phantom 4 Pro drone, the model successfully identifies and segments crucial road layers, such as subgrade, asphalt, and aggregate base. The YOLOv11-seg model demonstrates remarkable classification accuracy, achieving 95% for both asphalt and aggregate base and 83% for subgrade. Additionally, the model reaches a maximum precision of 1.0 at the highest confidence level. Its F1 score is 0.92 at an optimal confidence threshold of 0.779, and it maintains a recall of 0.96 at lower confidence levels. For volumetric analysis, this study evaluates four software tools: Agisoft Metashape, CloudCompare, Civil 3D, and WebODM. It identifies WebODM as the most accurate, achieving volume accuracies of 99.85% for subgrade and asphalt and 99.9% for aggregate base. This application of drone imagery and object detection technology simplifies monitoring and significantly reduces labor and errors associated with traditional road construction monitoring methods."
+  },
+  {
+   "id": "https://openalex.org/W4372338330",
+   "doi": "10.1007/s41693-023-00099-2",
+   "title": "Projector-based augmented stacking framework for irregularly shaped objects",
+   "publication_year": 2023,
+   "source": "Construction Robotics",
+   "type": "article",
+   "cited_by_count": 7,
+   "relevance_score": null,
+   "authors": [
+    "Andrea Settimi",
+    "Qianqing Wang",
+    "Edward And\u00f2",
+    "Julien Gamerro",
+    "Katrin Beyer",
+    "Yves Weinand"
+   ],
+   "n_authors": 6,
+   "abstract": "Augmented reality in additive fabrication is predominantly applied to the manufacturing of structures from regularly shaped materials. Our work however embraces natural heterogeneity, by focusing on the assembly of irregularly shaped elements such as mineral scraps. We introduce a computer-aided framework with a 3D stacking engine and an augmented reality interface capable of guiding users through the balanced positioning of discrete and highly nonuniform objects according to an on-the-fly computed model and without prior trimming of the building unit. The pipeline is tested by the construction of two dry-stone structures (i.e., lacking any adhesives), and its accuracy is validated with a comparative study between the point cloud of the as-built digitized artifacts and the generated execution model, which shows an average 2.9 \u00b1 1.8 cm error between the stones of the two models. We finally show how the proposed framework could be improved both in terms of software and hardware. In the interests of reproducibility, all the methods are shared as open source with the community. Graphical abstract"
+  },
+  {
+   "id": "https://openalex.org/W4376614834",
+   "doi": "10.17576/jkukm-2018-si1(5)-04",
+   "title": "Auditing Road Maintenance Work Using Unmanned Aerial Vehicle",
+   "publication_year": 2018,
+   "source": "Jurnal Kejuruteraan",
+   "type": "article",
+   "cited_by_count": 7,
+   "relevance_score": null,
+   "authors": [
+    "Aimi Nadira Mohd Safie",
+    "Khairul Nizam Abdul Maulud",
+    "Othman Jaafar",
+    "Wan Shafrina Wan Mohd Jaafar",
+    "Abdul Aziz Ab Rahman",
+    "Faiz Arif"
+   ],
+   "n_authors": 7,
+   "abstract": "Road maintenance works performed by contractors require validation upon completion. Conventional methods are typically chosen to validate the works. Geographic Information System (GIS) is applied in this study to produce accurate data such that waste from road maintenance costs can be minimised. In this study, Unmanned Aerial Vehicle (UAV) was used to observe the images of two roads, namely Jalan Gelanggang and Jalan Temuan, both of which are under maintenance at the Universiti Kebangsaan Malaysia. The objectives of this study are; to determine the ability of UAV technology in supervision and verification of maintenance works, and the effectiveness of spatial works in road maintenance. This study then proceeds with analysing data by using ArcGIS and AutoCAD software to determine the width, perimeter, and area of the road that has been maintained. Comparisons were made between these two data which are the data that has been claimed and provided by the contractors (as-built data) and images data of the UAV whenever to get the percentage of the difference for several features of the road. Results from this study showed that the value for width, perimeter, and area of the as-built data for both roads are greater than the value of the image where the UAV data show percentage differences of shape area for Jalan Gelanggang is 3.27% and for perimeter is 1.35%. While percentage differences of shape area are for Jalan Temuan is 4.83% and for perimeter is 2.44%. Therefore, if UAV is use"
+  },
+  {
+   "id": "https://openalex.org/W4220921891",
+   "doi": "10.1061/9780784483961.073",
+   "title": "Application of Unmanned Aerial System (UAS) in Highway Construction Progress Monitoring Automation",
+   "publication_year": 2022,
+   "source": "ASCE Construction Research Congress (CRC)",
+   "type": "conference-paper",
+   "cited_by_count": 6,
+   "relevance_score": null,
+   "authors": [
+    "Reihaneh Samsami",
+    "Amlan Mukherjee",
+    "Colin Brooks"
+   ],
+   "n_authors": 3,
+   "abstract": "The objective of this research is to propose a highway construction progress monitoring system using Unmanned Aerial System (UAS) technologies, computer vision techniques, and data analytic tools to automatically: (1) estimate the construction operation production, and (2) monitor the progress relative to an as-planned 3D model. The motivation of this research is to assist project managers in automatically and efficiently monitoring construction project progress during the construction phase. The proposed progress monitoring process consists of three steps of (1) collection of orthophotographs of ongoing construction operations using UAS, (2) use of image processing to support automated feature extraction, and (3) development of as-planned vs. as-built progress estimates based on a comparison of as-planned model and as-built reports. The method is implemented and tested for pavement removal and concrete pavement construction operations for the Michigan Department of Transportation (MDOT) I-496 corridor reconstruction project. The main contribution of this paper is to further automation approaches into highway construction inspection workflows."
+  },
+  {
+   "id": "https://openalex.org/W4210530550",
+   "doi": "10.5194/isprs-archives-xlvi-5-w1-2022-69-2022",
+   "title": "DIGITISATION IN ROAD CONSTRUCTION: AUTOMATION OF AS-BUILT MODELS",
+   "publication_year": 2022,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 6,
+   "relevance_score": null,
+   "authors": [
+    "Heinder De Winter",
+    "Maarten Bassier",
+    "Maarten Vergauwen"
+   ],
+   "n_authors": 3,
+   "abstract": "The construction industry is still one of the least digitised sectors worldwide and digitisation in the road construction sector in particular is even more dire. To improve the efficiency of the sector, it is of the utmost importance that construction monitoring tasks, i.e. progress, quality and quantity analyses, are automated. The goal of the presented framework is the automation of the following three vital interconnected subjects: (1) The systematic capture of remote sensing data with low-cost UAVs, (2) the information extraction from survey data and (3) the interlinking and exchange of interoperable BIM data (design, survey and extracted information) using Linked Data technologies. In this paper, the needed data for proper road construction digitisation and the desired data structure is discussed. Additionally, the automation of Real Time Kinematic (RTK)-flight processing is presented. The feasibility of the proposed workflow is examined based on real-life test cases. As a consequence of automation, the homogeneity of data across projects will increase. This will form the basis for further automation in road construction."
+  },
+  {
+   "id": "https://openalex.org/W4394846620",
+   "doi": "10.31298/sl.148.3-4.3",
+   "title": "Capab\u0131l\u0131t\u0131es of us\u0131ng UAVs to determ\u0131ne forest road excavat\u0131on volumes \u0131n mounta\u0131nous areas",
+   "publication_year": 2024,
+   "source": "\u0160umarski list",
+   "type": "article",
+   "cited_by_count": 5,
+   "relevance_score": null,
+   "authors": [
+    "Y\u0131lmaz T\u00fcrk",
+    "Harun Canyurt"
+   ],
+   "n_authors": 2,
+   "abstract": "Decision support systems based on spatial data are widely used in some countries for planning production activitiesin forestry and designing forest roads. In recent years, Unmanned Aerial Vehicles (UAVs) have been playingan active role in the production of high resolution and accurate digital elevation models (DEMs) of forested areas.In the preparation of progress payments for forest road construction works, the workload is high, while the feethat has to be paid to the contractor company after the completion of the road construction is determined accordingto the final cost in the progress payment schedules. In this study, the applicability of UAV technology for determiningforest road cut volume and land classification was investigated. A 640-meter section of the forest roadcoded 001 of Ta\u015fl\u0131yayla Forest Management Sub-Directorate (Bolu/T\u00fcrkiye) was examined in the study. Flightswith an UAV (drone) were carried out in autonomous mode before and after the construction of the road examinedin the study. In addition, in order to determine the amount of cut, measurements of the geometric characteristicsof the road were made in the field after the road construction. As a result of the study, 2189 m\u00b3 cut volumewas found with the UAV data with an average error of 3 cm. According to the field measurement results, theamount of cut was determined as 2080 m\u00b3. A difference of +5% was found between the UAV data and the fieldmeasurement results. In addition, using the JavaScript coding langu"
+  },
+  {
+   "id": "https://openalex.org/W4390099487",
+   "doi": "10.1109/robio58561.2023.10355015",
+   "title": "Robot-Assisted After-Process Progress-Monitoring System Based on BIM and Computer Vision",
+   "publication_year": 2023,
+   "source": "IEEE International Conference on Robotics and Biomimetics (ROBIO)",
+   "type": "conference-paper",
+   "cited_by_count": 5,
+   "relevance_score": null,
+   "authors": [
+    "Haiou Liao",
+    "Bangzhen Huang",
+    "Kewei Dong",
+    "Zhenzhong Jia",
+    "Jing Wu"
+   ],
+   "n_authors": 5,
+   "abstract": "Progress monitoring is crucial for the construction industry. It directly impacts the construction period and affects project cost and quality. A lot of previous research focused on in-process progress monitoring. They compared the point cloud of the main structure with the BIM model to check the gap between as-built and as-planned status. This article proposes a BIM-based after-process progress monitoring system based on a visual method. It aims at indoor components after the main structure built. The robot can navigate to the installation sites automatically on a BIM-generated map and check the status of components. We propose a novel and lightweight method for object recognition and estimation of the three-dimensional position of objects relative to BIM coordinate. It is realized by RGB-D camera and deep learning. The semantic and geometric information of BIM is utilized to filter out false recognition of deep learning. The final detection results are compared with BIM to generate a progress-monitoring report. Finally, we build a real robot and check the installation status of four components in a corridor. And all the components are checked successfully."
+  },
+  {
+   "id": "https://openalex.org/W4367854066",
+   "doi": "10.1088/1755-1315/1169/1/012032",
+   "title": "Construction progress monitoring on toll road project using photogrammetry",
+   "publication_year": 2023,
+   "source": "IOP Conference Series Earth and Environmental Science",
+   "type": "conference-paper",
+   "cited_by_count": 5,
+   "relevance_score": null,
+   "authors": [
+    "G A Sentosa",
+    "R Agung",
+    "C V Marbun",
+    "Wildan Indra Kurniawan",
+    "Azka Fardany Ibady",
+    "A J Pierre"
+   ],
+   "n_authors": 9,
+   "abstract": "Unmanned Aerial Vehicle (UAV) equipped with photogrammetry has a significant impact on sustainability. Despite the advances in construction equipment and management techniques to control the complexity and dynamic nature of toll road projects, the documentation of changes which occur on site remains a prevalent issue. This research is concerned in the visualization techniques for progress monitoring that illustrates progress deviations through superimposition of four-dimensional as-planned model on surface models. The results from the digital survey into BIM Authoring Tools followed by the identification of BIM elements through surface modelling. The analysis is conducted using the parameter of the volume of land cuts and fills to quantify deviations. The data retrieved from UAV drones enriched with geospatial parameters proved to provide reliable construction records, allowing greater control of construction progress. The proposed methodology may ultimately allow project participants to adjust schedule and allocate resources in a more precise manner."
+  },
+  {
+   "id": "https://openalex.org/W4311881516",
+   "doi": "10.5194/isprs-archives-xlviii-2-w2-2022-23-2022",
+   "title": "AUTOMATIC CALCULATION OF VOLUME CHANGES IN ROAD CONSTRUCTION",
+   "publication_year": 2022,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 5,
+   "relevance_score": null,
+   "authors": [
+    "Heinder De Winter",
+    "Maarten Bassier",
+    "Sam De Geyter",
+    "Maarten Vergauwen"
+   ],
+   "n_authors": 4,
+   "abstract": "The construction industry is still one of the least digitized sectors in the world, and digitization in the road construction sector in particular is even more dire. To improve the efficiency of the sector, it is of utmost importance to automate construction monitoring tasks, i.e. progress, quality and quantity analyses. The goal of the presented framework is the automation of volume calculation in road construction, so the last branch, i.e. quantity analysis. This paper discusses volume calculations in road construction sites. These volume calculations will be done based on both as-design data and as-built data, where the former is modelled by considering the regulations formulated by the Agency of Roads and Traffic, Agentschap Wegen en Verkeer (AWV) of Flanders, and the latter is captured by using an RTK-UAV. The feasibility of the proposed workflow is examined using real test cases. As a result of the automation, the homogeneity of data across projects will increase and this forms the basis for further automation in road construction. By performing these checks on a regular basis at set intervals, one can obtain a clear overview of progress. In this way, possible delays or errors can be spotted quickly, resulting in higher quality and reduced failure costs."
+  },
+  {
+   "id": "https://openalex.org/W2531538355",
+   "doi": "10.22260/isarc2016/0027",
+   "title": "Automated Equipment Recognition and Classification from Scattered Point Clouds for Construction Management",
+   "publication_year": 2016,
+   "source": "International Symposium on Automation and Robotics in Construction (ISARC)",
+   "type": "conference-paper",
+   "cited_by_count": 5,
+   "relevance_score": null,
+   "authors": [
+    "Jingdao Chen",
+    "Yihai Fang",
+    "Yong K. Cho"
+   ],
+   "n_authors": 3,
+   "abstract": "Recognizing construction assets from as-is point cloud data of construction environment provides essential information for engineering and management applications including progress monitoring, safety management, supply-chain management, and quality control. This study proposes a fast and automated processing pipeline for construction target assets recognition from scattered as-is point clouds. The recognition tasks can be subdivided into object detection, which involves computing the bounding box around each construction equipment, and object classification, which involves labelling point cloud clusters from discrete equipment categories, such as backhoe loader, bulldozer, dump truck, excavator and front loader. The object detection step consists of point cloud down-sampling, segmentation and clustering. For the object classification step, machine learning methods were employed to determine class membership probability using features derived from the ESF (Ensemble of Shape Functions) descriptor. The classifiers were trained on synthetic point clouds generated from CAD (Computer-aided Design) models. The method was validated using laser scanned point clouds from an equipment yard. The test results demonstrate promising advancements towards semantic labelling and scene understanding of point cloud data."
+  },
+  {
+   "id": "https://openalex.org/W2129907794",
+   "doi": "10.1061/41202(423)230",
+   "title": "Application of Digital Photogrammetry in Trenchless Engineering",
+   "publication_year": 2011,
+   "source": null,
+   "type": "conference-paper",
+   "cited_by_count": 5,
+   "relevance_score": null,
+   "authors": [
+    "Jason S. Lueke",
+    "Pinghe Sun",
+    "Samuel T. Ariaratnam"
+   ],
+   "n_authors": 3,
+   "abstract": "This paper introduces the application of photogrammetric methods in trenchless engineering applications including construction jobsite monitoring and three-dimensional underground utility mapping. Accurate three-dimensional representations of buildings, roads, and other utilities on the jobsite can be easily obtained through the processing of digital photographs using photogrammetric software. This provides an avenue for assisting contractors in quality control of their construction processes. The existence of telecommunication, electrical, cable, water, wastewater, and gas pipelines provide potential strike hazards for trenchless methods such as horizontal directional drilling. Subsequently, it is imperative that accurate as-built maps be generated. This paper demonstrates the use of digital photogrammetric methods through field trail of mapping and monitoring applications."
+  },
+  {
+   "id": "https://openalex.org/W7162464621",
+   "doi": "10.3389/fbuil.2026.1828585",
+   "title": "From BIM to digital twins in public healthcare facility management: bridging the gap between technological potential and operational reality",
+   "publication_year": 2026,
+   "source": "Frontiers in Built Environment",
+   "type": "article",
+   "cited_by_count": 4,
+   "relevance_score": null,
+   "authors": [
+    "Avar Almukhtar",
+    "Muhammad Shahzad",
+    "J.H.M. Tah"
+   ],
+   "n_authors": 3,
+   "abstract": "Public healthcare estates across developed economies face escalating operational pressures that demand more robust approaches to asset information management and decision support. Ageing building stock, rising energy costs, increasingly complex technical systems, and persistent fiscal constraints place significant strain on traditional facility management (FM) practices (House of Commons, 2023), which often struggle to maintain performance whilst controlling operational expenditure (Lu et al., 2025;Schmitter et al., 2023;Sohet and Lavy, 2017). In response, digital technologies, most notably Building Information Modelling (BIM) and, more recently, Digital Twins (DTs) have been promoted as mechanisms for improving asset performance, maintenance efficiency, and lifecycle cost control.BIM is now well established within the design and construction phases of healthcare capital projects, supported by public-sector mandates and evidence of benefits in coordination, clash detection, and delivery certainty (Lovell et al., 2024). However, its translation into operational FM contexts remains limited. Systematic reviews consistently demonstrate that BIM use in FM is fragmented and immature, with weak alignment to facility managers' information needs and limited evidence of sustained operational value (Lovell et al., 2024;Chatsuwan et al., 2025). As a result, models frequently become static artefacts, detached from the evolving conditions of building operation.Digital Twins have emerged as"
+  },
+  {
+   "id": "https://openalex.org/W4416450389",
+   "doi": "10.1088/2631-8695/ae223c",
+   "title": "Applications of UAVs and AI in civil engineering: a systematic review of current uses and future directions in road construction",
+   "publication_year": 2025,
+   "source": "Engineering Research Express",
+   "type": "review",
+   "cited_by_count": 4,
+   "relevance_score": null,
+   "authors": [
+    "Muhammad Hammad Iqbal",
+    "Naveen Bachan",
+    "Muhammad Abdullah Khan",
+    "Mehmood Mushtaq Subhani"
+   ],
+   "n_authors": 4,
+   "abstract": "This review paper explores the combined use of unmanned aerial vehicles (UAVs) and artificial intelligence (AI), with a particular focus on the You Only Look Once (YOLO) algorithm in construction. It explores the current use of these technologies in the broader construction industry, highlighting that, while they are widely used across various construction tasks, their application in road construction remains quite limited. Through a systematic review of recent studies, this paper identifies how UAVs and AI are currently being used in areas such as real-time progress monitoring, pavement distress (PD) detection, and safety inspections. However, it also points out key areas that remain underexplored, such as volume calculation and the comprehensive inspection of road layers. The findings suggest that integrating UAVs with AI can significantly improve construction task\u2019s speed, accuracy, and automation, particularly in road projects. As the use of these technologies in road construction is still in its early stages, this paper also discusses potential directions for future research. By identifying current gaps and proposing new opportunities, this review aims to support the development of more efficient, precise, and cost-effective practices in the road construction industry."
+  },
+  {
+   "id": "https://openalex.org/W4415818187",
+   "doi": "10.3390/ijgi14110428",
+   "title": "Automated 3D Reconstruction of Interior Structures from Unstructured Point Clouds",
+   "publication_year": 2025,
+   "source": "ISPRS International Journal of Geo-Information",
+   "type": "article",
+   "cited_by_count": 4,
+   "relevance_score": null,
+   "authors": [
+    "Youssef Hany",
+    "Wael Ahmed",
+    "Adel El-Shazly",
+    "Ahmad M. Senousi",
+    "Walid Darwish"
+   ],
+   "n_authors": 5,
+   "abstract": "The automatic reconstruction of existing buildings has gained momentum through the integration of Building Information Modeling (BIM) into architecture, engineering, and construction (AEC) workflows. This study presents a hybrid methodology that combines deep learning with surface-based techniques to automate the generation of 3D models and 2D floor plans from unstructured indoor point clouds. The approach begins with point cloud preprocessing using voxel-based downsampling and robust statistical outlier removal. Room partitions are extracted via DBSCAN applied in the 2D space, followed by structural segmentation using the RandLA-Net deep learning model to classify key building components such as walls, floors, ceilings, columns, doors, and windows. To enhance segmentation fidelity, a density-based filtering technique is employed, and RANSAC is utilized to detect and fit planar primitives representing major surfaces. Wall-surface openings such as doors and windows are identified through local histogram analysis and interpolation in wall-aligned coordinate systems. The method supports complex indoor environments including Manhattan and non-Manhattan layouts, variable ceiling heights, and cluttered scenes with occlusions. The approach was validated using six datasets with varying architectural characteristics, and evaluated using completeness, correctness, and accuracy metrics. Results show a minimum completeness of 86.6%, correctness of 84.8%, and a maximum geometric error of "
+  },
+  {
+   "id": "https://openalex.org/W4410550023",
+   "doi": "10.1177/10692509251340464",
+   "title": "An automated workflow based on UAV imagery and Deep Learning methods for monitoring excavation area work",
+   "publication_year": 2025,
+   "source": "Integrated Computer-Aided Engineering",
+   "type": "article",
+   "cited_by_count": 4,
+   "relevance_score": null,
+   "authors": [
+    "Riccardo Rosati",
+    "Matteo Fabiani",
+    "Roberto Pierdicca",
+    "Adriano Mancini"
+   ],
+   "n_authors": 4,
+   "abstract": "The rapid advancement of Artificial Intelligence (AI) is transforming the construction sector, particularly in site monitoring and safety management. Real-time monitoring enables the automatic detection of work progress issues, anomalies, and hazardous situations. However, no existing Deep Learning (DL)-based system is specifically designed to utilize Unmanned Aerial Vehicles (UAVs) for excavation area monitoring. This study presents an automated workflow that integrates UAV imagery with DL architectures, featuring a 1D Convolutional Neural Network (1D-CNN) for classifying excavation work phases and a VGG16 network for detecting safety fences. These technologies are incorporated into a Decision Support System (DSS), which automates report generation and enhances decision-making by providing structured, data-driven insights. The system was validated in a real-world case study involving an oil and gas construction company, demonstrating its ability to streamline site management tasks and improve safety oversight. Compared to traditional monitoring methods, our approach leverages UAV technology and DL methodologies to provide higher accuracy, efficiency, and scalability in excavation site monitoring. This contribution supports the digital transformation of construction management, offering a practical and innovative solution for real-time progress tracking and compliance verification."
+  },
+  {
+   "id": "https://openalex.org/W2803659394",
+   "doi": "10.1007/978-3-319-91635-4_5",
+   "title": "Space Classification from Point Clouds of Indoor Environments Based on Reconstructed Topology",
+   "publication_year": 2018,
+   "source": "Lecture notes in computer science",
+   "type": "conference-paper",
+   "cited_by_count": 4,
+   "relevance_score": null,
+   "authors": [
+    "Wolfgang Huhnt",
+    "T. Hartmann",
+    "Georg Suter"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W7155030875",
+   "doi": "10.1038/s41598-026-49367-5",
+   "title": "Adaptive multi-sensor point cloud fusion for geometric reconstruction toward digital twin construction based on quality-driven weight optimization",
+   "publication_year": 2026,
+   "source": "Scientific Reports",
+   "type": "article",
+   "cited_by_count": 3,
+   "relevance_score": null,
+   "authors": [
+    "Liyuan Meng",
+    "Y Liu",
+    "Jie Zhu"
+   ],
+   "n_authors": 3,
+   "abstract": "Digital twin technology demands high-fidelity three-dimensional geometric representations, yet single-sensor acquisition systems suffer from limited coverage, uneven sampling density, and environmental susceptibility. This paper presents an adaptive weight allocation framework for multi-sensor point cloud fusion that dynamically evaluates sensor reliability based on local geometric features and statistical consistency measures. Unlike conventional fixed-weight or rule-based approaches, the proposed methodology computes spatially-varying fusion weights through multi-dimensional quality assessment encompassing geometric consistency, point density, outlier characteristics, and surface normal coherence. An octree-based spatial partitioning strategy enables efficient processing while maintaining sufficient local samples for statistically meaningful quality estimation. Experimental validation across manufacturing, architectural heritage, and infrastructure scenarios demonstrates 15\u201346% improvement over baseline methods\u201428\u201342% in absolute positional accuracy measured against laser tracker references in the manufacturing scenario, and 15\u201346% in cross-validated internal consistency across all three scenarios\u2014achieving mean positional errors below 2 mm and 96.7% coverage of sensor-accessible surfaces. Real-world deployment in manufacturing equipment monitoring and construction progress tracking detected dimensional deviations\u2014specifically a 0.8 mm spindle drift and 12\u201327 mm pipeline in"
+  },
+  {
+   "id": "https://openalex.org/W7134964951",
+   "doi": "10.3390/app16062673",
+   "title": "Developing a BIM\u2013GIS-Based Digital Twin for the Operation and Maintenance of an Urban Ring Road: The M-30 Case Study",
+   "publication_year": 2026,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 3,
+   "relevance_score": null,
+   "authors": [
+    "Jorge Jerez Cepa",
+    "Marcos Garc\u00eda Alberti"
+   ],
+   "n_authors": 2,
+   "abstract": "The implementation of digital twin (DTw) in infrastructure management is becoming increasingly important. Although digitalization in the Architecture, Engineering, Construction, and Operations (AECO) sector is progressing slowly, enabling technologies such as Building Information Modelling (BIM), Geographic Information Systems (GIS), Internet of Things (IoT) and data management allow for more informed and efficient management of ageing and highly complex assets. With the aim of improving the operation and maintenance (O&M) of transport infrastructure, the use of an integrated BIM\u2013GIS model is proposed as the basis for a future DTw for an existing highway, the M-30 urban ring road in Madrid. This study develops an as-built digital model based on real GIS data, point clouds and BIM (LOD 300), adapting it to existing management systems using a relational database with unique identifiers. The infrastructure is modelled in a segmented and georeferenced manner, incorporating roads, tunnels, bridges and equipment as independent entities. Access to the model is guaranteed through 3D GIS scenes, interactive panels and BIM viewers geared towards management. In addition, a cost\u2013benefit analysis is carried out using a Return On Investment (ROI) that evaluates the implementation of BIM in the management of this infrastructure."
+  },
+  {
+   "id": "https://openalex.org/W4206525022",
+   "doi": "10.1201/9781003191476-47",
+   "title": "Combining point-cloud-to-model-comparison with image recognition to automate progress monitoring in road construction",
+   "publication_year": 2021,
+   "source": "CRC Press eBooks",
+   "type": "book-chapter",
+   "cited_by_count": 3,
+   "relevance_score": null,
+   "authors": [
+    "A. Ellinger",
+    "R. J. Scherer",
+    "Christian W\u00f6rner",
+    "Tamara Vanessa Walther",
+    "Payal Vala"
+   ],
+   "n_authors": 5,
+   "abstract": "This paper proposes a method to recognize the current progress of a road construction site by combining geometric comparison of 3D CAD geometry to as-built point cloud data with image-based surface recognition. Recognizing the current status of road construction sites by purely geometric means is error-prone, since the individual road layers are relatively thin compared to possible deviations of the built road from the design geometry and possible inaccuracies in the z-dimension of the as-built point cloud. Recognizing the current state by purely visual means is prone to error if two or more layers look alike or if the appearance of a layer is distorted by e.g. dust. Therefore, we propose to merge the geometric and the visual evaluation into one hybrid probabilistic algorithm. The goal is not only to improve the accuracy of the progress recognition, but also to gain additional information about the confidence of the systems decision."
+  },
+  {
+   "id": "https://openalex.org/W2573166769",
+   "doi": "10.22260/isarc2017/0118",
+   "title": "Construction Inspection through Spatial Database",
+   "publication_year": 2017,
+   "source": "International Symposium on Automation and Robotics in Construction (ISARC)",
+   "type": "conference-paper",
+   "cited_by_count": 3,
+   "relevance_score": null,
+   "authors": [
+    "Ahmad Hasan",
+    "Ashraf Qadir",
+    "Ian Nordeng",
+    "Jeremiah J. Neubert"
+   ],
+   "n_authors": 4,
+   "abstract": "This paper presents a novel pipeline for development of an efficient set of tools for extracting information from the video of a structure, captured by an Unmanned Aircraft System (UAS) to produce as-built documentation to aid inspection of large multi-storied building during construction. Our system uses the output from a Simultaneous Localization and Mapping system and a 3D CAD model of the structure in order to construct a spatial database to store images into the 3D CAD model space. This allows the user to perform a spatial query for images through spatial indexing into the 3D CAD model space. The image returned by the spatial query is used to extract metric information. The spatial database is also used to generate a 3D textured model which provides a visual as-built documentation."
+  },
+  {
+   "id": "https://openalex.org/W2036638718",
+   "doi": "10.1177/0740277511425357",
+   "title": "Yemen: Descending into Despair",
+   "publication_year": 2011,
+   "source": "World Policy Journal",
+   "type": "article",
+   "cited_by_count": 3,
+   "relevance_score": null,
+   "authors": [
+    "Jennifer Steil"
+   ],
+   "n_authors": 1,
+   "abstract": "SANA\u2019A\u2014It\u2019s 2009. Dust from the recent bombings still hangs in the warm air of Sa\u2019dah, a city 113 miles north of Yemen\u2019s capital, just shy of the frontier with Saudi Arabia and the vast desert known as the Empty Quarter. A five-year-old girl stands crying in the street. Hungry, thirsty, and alone, she has been wandering in the ruins of her home, searching for her mother, father, or any other family members, all of whom have vanished in the devastating battles between the Houthi Shiite rebels and the government. She finds no one.At last, someone finds her. An old woman stops to help the weeping child but is unable to discover who she is. The traumatized girl cannot give her own name or the name of anyone in her family.\u201cI will be your grandmother,\u201d the woman, Mariam Hadi Ali, says to the girl. She calls her Hadiya, which means \u201cgift\u201d in Arabic. Together, the two flee Sa\u2019dah, seeking refuge from the bitter conflict. They land in nearby Amran, where UNICEF has set up a small transit camp. By then Hadiya is acutely malnourished and requires two months of treatment with Plumpy\u2019nut, a peanut-based, high-calorie paste created especially for famine victims.She has stabilized nutritionally.But her other afflictions will be slower to heal. Hadiya, now seven, is psychologically scarred, says Rajia Sharhan, a Yemeni pediatrician and nutrition officer with UNICEF Yemen. While she has begun to play a little bit in the camp, she hardly speaks and usually hides behind her new grandmother. She"
+  },
+  {
+   "id": "https://openalex.org/W7172429419",
+   "doi": "10.1016/j.autcon.2026.107159",
+   "title": "Deep learning framework for point cloud instance segmentation in construction sites",
+   "publication_year": 2026,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 2,
+   "relevance_score": null,
+   "authors": [
+    "Hongzhe Yue",
+    "Qian Wang",
+    "Chao Yin",
+    "Difeng Hu",
+    "Jingjing Yang",
+    "Zhenxu Guo"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W7170174077",
+   "doi": "10.3389/fbuil.2026.1839808",
+   "title": "An efficient deep learning framework for text detection and recognition in engineering drawings",
+   "publication_year": 2026,
+   "source": "Frontiers in Built Environment",
+   "type": "article",
+   "cited_by_count": 2,
+   "relevance_score": null,
+   "authors": [
+    "Dakan Ying",
+    "Lyu Guanghua",
+    "Zhengxu He",
+    "Rija Hasan",
+    "Syed Hadi Hussain Shah"
+   ],
+   "n_authors": 5,
+   "abstract": "The efficient digitization of engineering drawings is critical for automating construction workflows, including quantity takeoff, procurement, fabrication, inspection, BIM modeling, digital twin creation, and lifecycle information management. Manual extraction of steel reinforcement annotations is labor-intensive, error-prone, and impedes digital project delivery. To address this, we propose a deep learning-based text detection and recognition framework that accurately extracts rebar annotations from complex construction drawings. Our detection network uses an enhanced Differentiable Binarization Network (DBNet) with reduced computational complexity (3.8M parameters vs. 12.3M for standard DBNet detection pipeline), representing a 69% reduction in detection parameters. Combined with a Transformer-based recognition model (15.56M parameters), the system achieves high detection (94.2%) and recognition (96.3%) accuracy, even under challenging conditions such as noise, occlusion, and varied styles. By enabling automatic, accurate conversion of technical drawings into structured digital information, our method significantly advances construction automation. This contribution supports the broader goals of reducing manual processes, enhancing information reliability, and accelerating digital transformation in construction projects."
+  },
+  {
+   "id": "https://openalex.org/W4416305720",
+   "doi": "10.1080/15623599.2025.2585163",
+   "title": "Vision-based automated road construction progress monitoring: improved U-net segmentation approach",
+   "publication_year": 2025,
+   "source": "International Journal of Construction Management",
+   "type": "article",
+   "cited_by_count": 2,
+   "relevance_score": null,
+   "authors": [
+    "Tirth Patel",
+    "Brian H.W. Guo",
+    "Jacobus Daniel van der Walt",
+    "Hirakraj Bapat"
+   ],
+   "n_authors": 4,
+   "abstract": "Manual road construction progress monitoring (CPM) in road projects often leads to inefficiencies, delays, and cost overruns. While Unmanned Aerial Vehicle (UAV)-based photogrammetry has improved automated data collection, manual identification of as-built components and progress measurement still limits project control. This study introduces a UAV-based photogrammetry approach using deep learning segmentation to automate the detection and classification of road layers for automated road construction progress measurement. A road layer classifier, based on a pre-trained improved U-Net architecture with ResNet-34, was developed to classify and segment road layers, including the surface layer, base course, subbase course, and subgrade. To address the class imbalance, the classifier employs an inverse class frequency weighted cross-entropy loss, improving segmentation accuracy for underrepresented layers. The classifier achieved a validation accuracy of 97.87% with a loss of 8.08%. The method was validated with two real-world case studies through a web-based prototype, achieving high accuracies of 93.63 and 96.79% in automated progress measurement, confirming the feasibility of detecting pavement layers and measuring progress in real pavement construction projects. By automating critical aspects of road progress measurement, this approach significantly improves project control, enhances decision-making capabilities, and addresses the critical need for more efficient and reliable "
+  },
+  {
+   "id": "https://openalex.org/W4401391351",
+   "doi": "10.1007/s40436-024-00515-y",
+   "title": "Prototype pipeline modelling using interval scanning point clouds",
+   "publication_year": 2024,
+   "source": "Advances in Manufacturing",
+   "type": "article",
+   "cited_by_count": 2,
+   "relevance_score": null,
+   "authors": [
+    "Toa Pecur",
+    "Fr\u00e9d\u00e9ric Bosch\u00e9",
+    "Gabrielis Cerniauskas",
+    "FRANK G. MILL",
+    "Andrew Sherlock",
+    "Nan Yu"
+   ],
+   "n_authors": 6,
+   "abstract": "With the aid of computer aided design (CAD) and building information modelling (BIM), as-built to as-designed comparison has seen many developments in improving the workflow of manufacturing and construction tasks. Recently, evolution has been centred around automation of scene interpretation from three-dimensional (3D) scan data. The scope of this paper is to assess assemblies as the installation process progresses and inferring if arising deviations are problematic (complex task). The adequacy of utilising unorganised point clouds to compliance check are trialled with a real life down-scaled prototype model in conjunction with a synthetic dataset. This work aims to highlight areas where large rework could be avoided, in part by the detection of potential clashes of components early in the pipeline installation process. With the help of an extracted model in the form of a point cloud generated from a scanned physical model and a 3D CAD model representing the nominal geometry, an operator can be made visually aware of potential deviations and component clashes during a pipeline assembly process."
+  },
+  {
+   "id": "https://openalex.org/W4405467936",
+   "doi": "10.25236/ajets.2024.070607",
+   "title": "Research on the Application of BIM Technology in the Whole-Process Consulting of Municipal Engineering",
+   "publication_year": 2024,
+   "source": "Academic Journal of Engineering and Technology Science",
+   "type": "article",
+   "cited_by_count": 2,
+   "relevance_score": null,
+   "authors": [
+    "<p>Yu Haizhou<sup>1,2</sup>, Li Wenlong<sup>1</sup>, Gao Jianzhou<sup>2</sup>, Liao Yanxing<sup>1,3</sup></p>"
+   ],
+   "n_authors": 1,
+   "abstract": "Whole-process consulting spans the entire lifecycle of a project. By establishing BIM models for municipal engineering, a unified layout of underground pipelines can be achieved, effectively assisting in the design process. Additionally, conducting collision checks on pipelines helps optimize design solutions and allows for timely adjustments to the position and routing of pipelines. Site layout simulations enable the rational planning of construction areas, reducing the need for secondary transportation and handling, ultimately saving costs. Construction visualization simulations make complex processes like pipe jacking more intuitive and vivid during construction briefings. Real-time monitoring of the site can be achieved remotely through periodic drone flyover tours of the BIM model. Progress management is facilitated through the use of the model, and cost analysis is integrated with construction pricing information. Finally, the complete as-built model is handed over to the Smart Urban Construction CIM system, ensuring ease of future maintenance and management."
+  },
+  {
+   "id": "https://openalex.org/W2795825033",
+   "doi": "10.7319/kogsis.2018.26.1.069",
+   "title": "Efficient Extraction of Road Cross Section Using a UAV",
+   "publication_year": 2018,
+   "source": "Journal of Korean Society for Geospatial Information Science",
+   "type": "article",
+   "cited_by_count": 2,
+   "relevance_score": null,
+   "authors": [
+    "Tae\u2010Woo Kim",
+    "Soon Heon Hong",
+    "Hyun Choi",
+    "Kwang Ho Lee"
+   ],
+   "n_authors": 4,
+   "abstract": "(Road projector v5.0)\uc5d0 \uc801\uc6a9\ud558\ub294 \ubc29\ubc95\uc744 \uc81c\uc2dc\ud558\uc600\ub2e4. In Korea, 70% of the country is made up of mountains. The construction of roads in mountain areas is inevitable. Failure to secure the stability of slope during road construction may result in direct loss of life and property. For the stability of road slope, accurate survey of slope and review of collapse slope reinforcement method are needed. In this study, UAV is used to compare with slope occurrence point survey using existing GPS and total station. In this paper, we propose a method to utilize UAV to detect a space that is difficult for manpower to approach. Also, it is applied to the road project using the digital elevation model (DEM). We have proposed a method to reduce drawing editing time and improve precision. As a result of the study, the error measured by the UAV was a minor range as compared with the error of the earth volume calculation in the earthwork reconnaissance survey. UAV was used to shorten the measurement time dramatically, and it was possible to use the digital elevation model (DEM) as the basic data for the stability analysis. We also proposed a method to apply to road design program (Road Projector v5.0) by using digital elevation model."
+  },
+  {
+   "id": "https://openalex.org/W2693067783",
+   "doi": "10.24928/jc3-2017/0329",
+   "title": "Asphalt Road Layer Detection for Construction Progress Monitoring",
+   "publication_year": 2017,
+   "source": "Joint Conference on Computing in Construction (JC3)",
+   "type": "conference-paper",
+   "cited_by_count": 2,
+   "relevance_score": null,
+   "authors": [
+    "Steven Vick",
+    "Ioannis K. Brilakis"
+   ],
+   "n_authors": 2,
+   "abstract": "Transportation construction projects consistently underperform, with an estimated $82.6 billion globally in annual cost overruns. Logistical challenges associated with the size and location of transportation construction sites is a contributing factor, as is the inefficiency of current progress monitoring practice. A method that leverages the rich 3D information available in Civil Infrastructure Models (CIMs) and accurate 3D reality capture technologies, like LIDAR or photogrammetry, could address these shortfalls. An essential task in implementing such a progress monitoring approach is the detection of relatively thin design surface layers in 3D as-built data. This paper proposes a method for accomplishing this detection and presents experimental results on as-built data collected during the construction of a small residential road in Cambridge, UK. A total of 640 experiments were run for different combinations of parameters and classification rules, producing a peak accuracy of 86.62%, peak precision of 80.65%, and peak recall of 92.50%. The most balanced combination of parameters and classification rule produced an accuracy of 86.50%, precision of 68.17%, and recall of 60.99%."
+  },
+  {
+   "id": "https://openalex.org/W2012275000",
+   "doi": "10.2118/145513-ms",
+   "title": "Component Inspection and Repair Using 3D Modelling Photogrammetry Technology",
+   "publication_year": 2011,
+   "source": "SPE Offshore Europe Conference (Offshore Europe)",
+   "type": "conference-paper",
+   "cited_by_count": 2,
+   "relevance_score": null,
+   "authors": [
+    "Marie MacCormick",
+    "Anthony Hall",
+    "Alastair Trower"
+   ],
+   "n_authors": 3,
+   "abstract": "3D modelling photogrammetry technology uses high-quality digital still images to construct geometrically accurate 3D models suitable for detailed measurements, Finite Element Analysis, 3D printing, and comparison to as-built components. Model manipulation and construction of interior geometry can also be performed to generate alternative configurations if needed. Photographs are collected either subsea or topside, and pixels are matched between overlapping images to produce a 3D point cloud representing the component geometry. The point cloud is refined using the least squares method to achieve a model accuracy of better than 1mm under ideal conditions. Resulting models can be exported in a variety of formats that are compatible with 3D drafting or Finite Element Analysis software packages. Image overlay can be applied to the models to better identify points-of-interest. Welaptega has used this technology for a variety of applications, including: Riser corrosion: the surface of a topside section of a heavily corroded riser was 3D modeled to determine corrosion depth and evaluate the riser's fitness for operation. Flange alignment: Leaking mating pipe flanges were 3D modeled to determine if misalignment was the source of the leak. The relative orientations of the flanges were determined by aligning a plane with each flange. Pipeline curvature analysis: An18-inch natural gas pipeline was impacted and dragged by an anchor, resulting in a dent and an unknown degree of curvature. "
+  },
+  {
+   "id": "https://openalex.org/W7169519391",
+   "doi": "10.1061/jcemd4.coeng-18279",
+   "title": "Toward Automated SLAM-to-BIM for Digital Twin Applications: BIM-Assisted 360-Degree Camera-Based Visual SLAM Using Reference Point\u2013Based Bundle Adjustment",
+   "publication_year": 2026,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "Jeongbin Hwang",
+    "Shitikantha Bagh",
+    "Kevin K. Han"
+   ],
+   "n_authors": 3,
+   "abstract": "The construction industry faces poor productivity issues due to frequent design changes and other disruptions during construction progress. To improve productivity, many researchers have been exploring the adoption of digital twins in industry. For digital twins, accurately aligning scanned as-built data with as-designed data is essential. To further advance this movement, this study proposes a building information modeling (BIM)-assisted 360-degree visual simultaneous localization and mapping (SLAM) framework that simultaneously performs autonomous alignment between 360-degree visual SLAM and BIM, and reference point\u2013based refinement of camera pose estimation. To achieve this, BIM-registered reference points are directly incorporated into the bundle adjustment of a 360-degree visual SLAM pipeline, allowing camera poses to be estimated and optimized directly in the BIM coordinate system. Unlike post-hoc alignment methods, the proposed method integrated reference point information within SLAM optimization, allowing three-dimensional (3D) camera pose estimation and autonomous BIM alignment to be achieved simultaneously using only 360-degree video data and a limited number of reference points. Experimental results demonstrated that the proposed method achieves a 26.22% lower average root mean square error (RMSE) compared to a state-of-the-art 360-degree camera-based visual SLAM system, even without utilizing loop closure functionality, and a 39.54% lower average RMSE compared to"
+  },
+  {
+   "id": "https://openalex.org/W7167096289",
+   "doi": "10.31026/j.eng.2026.07.09",
+   "title": "Utilizing UAV Technology for Monitoring and Management of Road Construction Projects",
+   "publication_year": 2026,
+   "source": "Journal of Engineering",
+   "type": "article",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "Noor Yousif Ahmed",
+    "Farsat Heeto Abdulrahman"
+   ],
+   "n_authors": 2,
+   "abstract": "Unmanned Aerial Vehicles (UAVs) have emerged as an effective tool for spatial data acquisition in construction projects, offering high-resolution information suitable for monitoring earthwork operations and construction progress. The objectives of this study are to quantitatively assess the applicability and accuracy of UAV-based photogrammetry for monitoring the cut-and-fill activities in road construction projects in real-world conditions. A UAV survey was performed at an active urban road construction site with a multirotor platform featuring a high resolution RGB camera. The Structure from Motion (SfM) approach was used for photogrammetric processing to create dense point clouds, digital elevation models (DEMs) and Ortho mosaics. The geometric accuracy of geospatial products was ensured by collecting ground control points with Real-Time Kinematic Global Navigation Satellite System (RTK-GNSS). The created surface models were subsequently used in a civil engineering design environment to calculate cut-and-fill volumes and measure the construction progress. The findings showed that the UAV generated photogrammetric products could provide geometric accuracy of up to centimeters, when compared with the RTK-GNSS control, and provide a reliable estimation of earthworks volumes. The methodology suggested can be applied to make an objective comparison between the as-built and design surfaces, identifying substantial fill needs in the road corridor analyzed. The study contribution "
+  },
+  {
+   "id": "https://openalex.org/W7165849346",
+   "doi": "10.22260/isarc2026/0192",
+   "title": "BIM-Align: An Automatic Framework for BIM to As-Built Alignment with Multi-View Imagery and 3D Gaussian Splatting",
+   "publication_year": 2026,
+   "source": "International Symposium on Automation and Robotics in Construction (ISARC)",
+   "type": "conference-paper",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "Guangan Chen",
+    "Michiel Vlaminck",
+    "Gianni Allebosch",
+    "Wilfried Philips",
+    "Hiep Luong"
+   ],
+   "n_authors": 5,
+   "abstract": "Alignment between Building Information Models (BIM) and as-built representations is essential for automated construction progress monitoring. Existing pipelines that rely on images often require manual selection of correspondences or additional site instrumentation. Recent advances in differentiable scene representations, especially 3D Gaussian Splatting (3DGS), open new possibilities for automatic global BIM to as-built alignment through dense supervision from multi-view images. This paper presents BIM-Align, an automatic framework for global BIM to as-built alignment with multi-view imagery and 3DGS. The proposed framework initially estimates camera poses using Structure-from-Motion (SfM) and reconstructs a dense point cloud using multi-view stereo (MVS). Subsequently, the target building is extracted from the dense point cloud using DBSCAN clustering, and an initial BIM to as-built alignment is computed with classical geometric methods. The initial alignment is then refined with a coarse-to-fine strategy, where the coarse and fine stages each perform 3DGS optimization with a separate learnable Sim(3) transformation. Experimental results on construction site images show that the proposed approach achieves a mean reprojection RMSE within 2.13 pixels and a mean 3D alignment error within 9.18 cm of a manual baseline, demonstrating the feasibility of automatic BIM to as-built alignment from images with 3DGS."
+  },
+  {
+   "id": "https://openalex.org/W7162399370",
+   "doi": "10.5614/j.eng.technol.sci.2026.58.3.9",
+   "title": "Comparative Analysis of Photogrammetry Tools for Monitoring Trench and Pipeline Progress Towards Sustainable Construction",
+   "publication_year": 2026,
+   "source": "Journal of Engineering and Technological Sciences",
+   "type": "article",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "Muhammad Hassaan Farooq Khan",
+    "Wesam Salah Alaloul",
+    "Muhammad Ali Musarat",
+    "Abdul Mateen Khan",
+    "Socheatra Soeung"
+   ],
+   "n_authors": 5,
+   "abstract": "The construction of trenches and pipelines is essential to the infrastructure sector, but because of safety and technical concerns, progress monitoring is difficult. This study assesses how well photogrammetry, a cost-effective and adaptable Industry 4.0 technology, can improve safety and sustainability in construction monitoring. The graphical user interface, computational efficiency, point cloud density, model quality, percent completion, and noise in the produced 3D models were the criteria used to evaluate the six photogrammetry tools: Autodesk Recap Pro, Agisoft Metashape Pro, COLMAP, VisualSFM, Meshroom, and Regard 3D. Performance under specified conditions was examined using a trench and pipeline dataset. The results show that Agisoft Metashape Pro and Autodesk Recap Pro performed exceptionally well, offering thorough and precise 3D reconstructions with excellent models and low noise. This research promotes the use of photogrammetry by emphasizing its advantages over conventional methods in terms of affordability and sustainability. It highlights photogrammetry's contribution to resilient and sustainable practices and provides industry experts with advice on how to choose appropriate methods for tracking building progress. The results help stakeholders feel more confident about implementing photogrammetric technologies that are suited to various building settings."
+  },
+  {
+   "id": "https://openalex.org/W7148562384",
+   "doi": "10.3390/vehicles8040073",
+   "title": "Integrating UAVs into Highway Infrastructure Management Across the Life Cycle: A Systematic Review and Research Outlook",
+   "publication_year": 2026,
+   "source": "Vehicles",
+   "type": "review",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "Yangyang Luo",
+    "Junjie Li",
+    "Ruibao Jin",
+    "Shenghui Xu"
+   ],
+   "n_authors": 4,
+   "abstract": "Unmanned aerial vehicle (UAV) technology is becoming increasingly integrated into the full lifecycle management of expressways, emerging as a vital tool in the intelligent transformation of transportation infrastructure. However, existing research is fragmented, lacking systematic integration and in-depth exploration of common challenges. This paper uses a systematic literature review (SLR) to examine UAV application scenarios, technological advancements and implementation outcomes in expressway planning, design, construction, operation and maintenance. The findings reveal that UAVs have achieved critical applications in all phases, including topographic surveying, progress monitoring, identifying defects, and monitoring the structural health of infrastructure. This has significantly enhanced management efficiency. However, its large-scale deployment along long-distance linear infrastructure in open traffic environments faces systemic barriers, including inefficient data acquisition and processing, hardware limitations in endurance and payload, insufficient algorithm generalization under sparse distress patterns and complex backgrounds, operational uncertainties caused by meteorological and electromagnetic interference, and regulatory constraints related to airspace control and data compliance. Based on these findings, the paper proposes five future research directions: enhancing autonomous perception in complex environments; establishing lightweight, real-time processing fra"
+  },
+  {
+   "id": "https://openalex.org/W7165570743",
+   "doi": "10.1063/12.0044296",
+   "title": "Structural health monitoring of a railroad bridge in Tashkent (Uzbekistan) by using laser scanning",
+   "publication_year": 2026,
+   "source": "AIP conference proceedings",
+   "type": "conference-paper",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "Shakhzod M. Takhirov",
+    "\u0428\u0435\u0440\u043c\u0443\u0445\u0430\u043c\u0435\u0434\u043e\u0432 \u0423\u043b\u0443\u0433\u0431\u0435\u043a \u0417\u0430\u0431\u0438\u0445\u0443\u043b\u0430\u0435\u0432\u0438\u0447",
+    "Ibrakhim Mirzaev",
+    "Abdurakhim Abdullaev",
+    "Zukhritdin Ergashev",
+    "Sokhib Mavlyanov"
+   ],
+   "n_authors": 6,
+   "abstract": "The paper discussed the results of a structural health monitoring project conducted on a railroad bridge in the Sergeli region of Tashkent, Uzbekistan. The bridge was originally designed to support a double-track railroad line, consisting of two parallel tracks, one for trains traveling in each direction. At the time of the field study, only one railway line was constructed. The bridge was investigated using various methods, including laser scanning and measuring its dynamic response to both ambient and forced excitations. The results obtained from laser scanning are discussed in this paper. A terrestrial laser scanner was deployed to acquire the bridge\u2019s current geometry with high accuracy. As a result, a detailed 3D digital twin of the bridge was obtained. The bridge\u2019s point cloud was studied to analyze and identify any imperfections or anomalies. The collected information will be used (1) in assessing the quality of construction, (2) in finite element modeling based on the as-built geometry of the bridge, (3) as a reference for subsequent laser scanning projects to assess its condition after major earthquakes, and (4) in monitoring any possible changes due to the ongoing construction of another bridge next to the one studied in the paper."
+  },
+  {
+   "id": "https://openalex.org/W7117459502",
+   "doi": "10.3390/buildings16010140",
+   "title": "Steel and Concrete Segmentation in Construction Sites Using Data Fusion: A Literature Review",
+   "publication_year": 2025,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "Enrique Mart\u00edn Luna Guti\u00e9rrez",
+    "Osslan Os\u00edris Vergara Villegas",
+    "Vianey Guadalupe Cruz S\u00e1nchez",
+    "Humberto de Jes\u00fas Ochoa Dom\u00ednguez",
+    "Humberto Sossa"
+   ],
+   "n_authors": 5,
+   "abstract": "Construction progress monitoring remains predominantly manual, labor-intensive, and reliant on subjective human interpretation. Human dependence often leads to redundant or unreliable information, resulting in scheduling delays and increased costs. Advances in drones, point cloud generation, and multisensor data acquisition have expanded access to high-resolution as-built data. However, transforming data into reliable automated indicators of progress poses a challenge. A limitation is the lack of robust material-level segmentation, particularly for structural materials such as concrete and steel. Concrete and steel are crucial for verifying progress, ensuring quality, and facilitating construction management. Most studies in point cloud segmentation focus on object- or scene-level classification and primarily use geometric features, which limit their ability to distinguish materials with similar geometries but differing physical properties. A consolidated and systematic understanding of the performance of multispectral and multimodal segmentation methods for material-specific classification in construction environments remains unavailable. The systematic review addresses the existing gap by synthesizing and analyzing literature published from 2020 to 2025. The review focuses on segmentation methodologies, multispectral and multimodal data sources, performance metrics, dataset limitations, and documented challenges. Additionally, the review identifies research directions to fa"
+  },
+  {
+   "id": "https://openalex.org/W4408914556",
+   "doi": "10.1007/978-3-031-85390-6_57",
+   "title": "BIM As-Built Workflow for Road Infrastructure",
+   "publication_year": 2025,
+   "source": "Lecture notes in intelligent transportation and infrastructure",
+   "type": "conference-paper",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "Salvatore Antonio Biancardo",
+    "Mattia Intignano",
+    "Francesca Di Fonzo",
+    "Francesco Abbondati",
+    "Gianluca Dell\u2019Acqua"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4408335776",
+   "doi": "10.1002/cend.202400040",
+   "title": "Photogrammetric documentation in tunneling",
+   "publication_year": 2025,
+   "source": "Civil Engineering Design",
+   "type": "article",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "Andreas Zani",
+    "Ines Metzler",
+    "Thomas Marcher"
+   ],
+   "n_authors": 3,
+   "abstract": "Photogrammetric surveys for geological excavation documentation are standard practice in tunnel construction, benefiting from the sector's ongoing digitalization. However, the application of photogrammetry often remains confined to geological assessments. By creating comprehensive 3D models of excavated tunnels, it is also possible to evaluate engineering aspects. In this respect, the documentation of the as\u2010built condition is of particular interest, that is, the effectively applied shotcrete, which is a novelty application in the field of tunneling. This contribution presents the photogrammetric recording process used in the Angath test gallery, a scientifically monitored gallery that is part of a new railway line in Tyrol, Austria. The evaluation of the overall photogrammetric model and the findings obtained from it are highlighted."
+  },
+  {
+   "id": "https://openalex.org/W4410360672",
+   "doi": "10.1016/j.trpro.2025.04.068",
+   "title": "As-Built of Road Infrastructure: a workflow using the BIM-based tool OpenRoads Designer",
+   "publication_year": 2025,
+   "source": "Transportation research procedia",
+   "type": "article",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "Salvatore Antonio Biancardo",
+    "Mattia Intignano",
+    "Gianluca Dell\u2019Acqua"
+   ],
+   "n_authors": 3,
+   "abstract": "In the context of managing the vast amount of data that pertains to processes in the AECO (Architecture, Engineering, Construction, and Operation) industry, technologically advanced methods such as Internet-of-Things (IoT) and Big Data run alongside Building Information Modeling (BIM), a methodological approach that is also booming in the transportation infrastructure sector. This expansion is driven by the increasing necessity for BIM in the design and management of smart cities which lies in the digitization of its urban fabric, encompassing both its architectural and infrastructural elements alongside its service provisions. Central to this paradigm is the utilization of BIM as a pivotal tool, facilitating the creation of cities that are not only intelligent and interconnected but also sustainable and fundamentally livable. This study aims to delineate a systematic workflow for the generation of a digital twin of road infrastructure utilizing the BIM-centric software, Open Roads Design, developed by Bentley Systems. The originality of the research work is to propose a methodology to create the as-built of existing infrastructure, in absence of the required design project documentation and then using data from survey drones. Additionally, a bespoke interoperable asset manager is proposed which provides a decision-support tool by giving insight into project alternatives and the spatial context in which they fit, with up-to-date information that serves as a basis for managers"
+  },
+  {
+   "id": "https://openalex.org/W4395041942",
+   "doi": "10.2991/978-94-6463-398-6_32",
+   "title": "BIM Earthwork Calculation of Open Cut Section of Intercity Railway Based on BIM+GIS technology",
+   "publication_year": 2024,
+   "source": "Atlantis highlights in engineering/Atlantis Highlights in Engineering",
+   "type": "book-chapter",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "Mingliang Pan",
+    "Hanling Sun"
+   ],
+   "n_authors": 2,
+   "abstract": "To improve accuracy and efficiency, reduce labor intensity and labor costs, this article proposes a earthwork calculation process and method for the open excavation section of the road, which is used to guide the construction of the open excavation section of the road. Based on the research background of the volume calculation of the open cut section of the road in the hilly area of Shenzhen, the basic principle of earthwork volume acquisition is introduced. The concept of BIM+GIS is adopted, and the inclined photogrammetry technology is used to aerial survey the original surface of the open cut section of the road, obtaining a digital surface model (DSM). Using BIM technology to create a roadbed structure building information model, the above two data models are superimposed and fused to obtain a digital engineering model (DEM) for railway roadbed engineering. Then, according to the principle of numerical integration calculation, the volume of the open cut section of the road is quickly obtained. The comparison with traditional methods for obtaining and designing earthwork volume shows that the proposed earthwork calculation method has higher accuracy and faster speed, and can meet the construction needs of road open excavation sections in the hilly terrain environment of Shenzhen area. It has important reference significance for accurately and efficiently obtaining the earthwork volume of road open excavation sections."
+  },
+  {
+   "id": "https://openalex.org/W4391535668",
+   "doi": "10.5762/kais.2024.25.1.767",
+   "title": "Utilization of Drone LiDAR for Route Planning of Forest Road and Construction Inspection",
+   "publication_year": 2024,
+   "source": "Journal of the Korea Academia-Industrial cooperation Society",
+   "type": "article",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "Joon Kyu Park",
+    "Dae-Yong Um"
+   ],
+   "n_authors": 2,
+   "abstract": "Recently, the need and demand for forest roads has increased as forestry mechanization is promoted and the function for public purposes, such as public safety, health, and recreation, is increasing. In this study, data from a forest road construction site were acquired using drone LiDAR (Light Detection And Ranging). The data were generated, compared, and analyzed before and during construction. Using the drone LiDAR data, a DEM (Digital Elevation Model) with the trees removed was produced, and the amount of earthwork for forest road construction could be effectively calculated through a comparison with design data. Because the earthwork volume estimation using drone LiDAR can calculate the earthwork volume more accurately than existing digital topographic maps, it can be used in forest road route planning and design data. In addition, the accuracy of the drone LiDAR compared to the longitudinal design of the forest road was 0.08 cm and 0.09cm in the horizontal and vertical directions, respectively, satisfying the accuracy of earthwork surveying specified in the \u300cGeneral Survey Work Regulations\u300d. These results are consistent with the construction inspection of forest roads, highlighting the potential use of drone LiDAR. In the future, the application of digital technologies to the forest field, such as drones, LiDAR, and artificial intelligence, will contribute significantly to forest resource management by improving accuracy and work efficiency."
+  },
+  {
+   "id": "https://openalex.org/W3211956229",
+   "doi": "10.5281/zenodo.5705742",
+   "title": "CONSTRUCTION DIGITAL TWIN: A FRAMEWORK FOR A GENERAL CONTRACTOR",
+   "publication_year": 2021,
+   "source": "Zenodo (CERN European Organization for Nuclear Research)",
+   "type": "conference-paper",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "Iraj Esmaeili",
+    "Marco Lorenzo Agostino Trani",
+    "Luca Sivieri",
+    "Davide Simeone"
+   ],
+   "n_authors": 4,
+   "abstract": "Industry 4.0, as the fourth wave of the industrial revolution, offers ample benefits for various industries like manufacturing, aerospace, systems engineering, oil and gas, and construction. Digital Twin (DT), as one of the main concepts of Industry 4.0, introduces a new paradigm in the construction industry as a real-time virtual replica of a physical asset. Although many industries such as manufacturing, automotive, aviation, and healthcare are extensively using the concepts of Industry 4.0, the construction industry is lagging in terms of adopting and implementing Industry 4.0 principles and taking advantage of its benefits. To date, most of the construction industry studies have focused on the implementation of DT in operation and maintenance phases of facilities, and the use of DT in the construction phase has not been addressed sufficiently. A noticeable feature of the current monitoring technologies (e.g., range finders, laser scanning, GPS, RFID, Wi-Fi, UWB, smart sensors, etc.) used in the construction industry is that the gathered data is generally used in an isolated fashion with a single subject focus where there are very few cases of integrated use of more than one technology. There is also a lack of clarity on the potential technologies for higher levels of CDT in terms of integration with socio-technical platforms and using simulation, optimization, learning, and end-user engagement, mainly due to a lack of implementation and research at such levels of sophisti"
+  },
+  {
+   "id": "https://openalex.org/W2474171774",
+   "doi": null,
+   "title": "Appearance-based material classification after occlusion removal for operation-level construction progress monitoring",
+   "publication_year": 2015,
+   "source": "Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign)",
+   "type": "article",
+   "cited_by_count": 1,
+   "relevance_score": null,
+   "authors": [
+    "B Muthukumar"
+   ],
+   "n_authors": 1,
+   "abstract": "Today, the availability of a large number of smart devices on construction sites, has significantly interest popularity of appearance-based methods for automated construction progress using site photographs monitoring. These methods, however, face a number of technical challenges that limit their applicability including low spatial resolution of images, and static and dynamic occlusions due to the construction progress and moving resources (equipment, workers, scaffolding, etc). To address these limitations, this paper extends on an existing model-driven appearance-based material classification method for appearance-based construction progress monitoring using 4D BIM and site photologs. Specifically, it introduces a robust occlusion removal algorithm that can lower false positives in material recognition. The method leverages the depth information from the 4D BIM as well as the 3D point cloud created through Structure from Motion procedures. Once the occluded regions are removed, square-shape patches can be extracted from the back-projection of the BIM elements on site images. These improved image patches are then used in the material recognition pipeline to create a vector quantized histogram of all the material classes. The material class with the highest frequency is chosen as the material type for the element and this appearance information is used to infer the most updated state of progress for the elements. To validate, four existing incomplete and noisy point cloud mod"
+  },
+  {
+   "id": "https://openalex.org/W7234385274",
+   "doi": "10.3390/ijgi15110510",
+   "title": "Towards Fully Automated Scan-to-BIM: A Systematic Review of Automation Strategies Across a Four-Layer Functional Framework",
+   "publication_year": 2026,
+   "source": "ISPRS International Journal of Geo-Information",
+   "type": "article",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Zuohua Yuan",
+    "Zahra Gharineiat",
+    "Junjie Zhang"
+   ],
+   "n_authors": 3,
+   "abstract": "Building Information Modelling (BIM) is central to digital twin applications in the Architecture, Engineering, and Construction (AEC) sector, yet the automated generation of accurate as-built BIM models from point cloud data\u2014commonly referred to as Scan-to-BIM\u2014remains a major challenge. This paper presents a systematic review of automated Scan-to-BIM research published between 2022 and 2026, analysing 25 selected studies through a proposed four-layer functional framework comprising Data Preparation, Segmentation, Geometric Abstraction, and BIM Object Creation. For each layer, representative automation strategies are identified, levels of human intervention are assessed using explicit coding criteria, and key bottlenecks are discussed. Results show that segmentation, geometric abstraction, and BIM object generation are frequently automated, whereas data preparation remains the least automated and least reported layer; only 4 of the 25 studies reported high automation in all four layers. Critical barriers include sensitivity to occluded or noisy data, dependence on predefined family libraries, insufficient extraction of non-geometric attributes, and the loss of spatial topology during instance-level processing. Based on these findings, four priority research directions are proposed: semantics-aware data preparation, learning-based point cloud completion, multi-sensor fusion for multi-dimensional building information, and graph- or Large Language Model (LLM)-assisted topology re"
+  },
+  {
+   "id": "https://openalex.org/W7220999928",
+   "doi": "10.1117/12.3118606",
+   "title": "ALS-U beamline performance simulations with metrology data managed through the bluesky-tiled framework",
+   "publication_year": 2026,
+   "source": "Advances in Computational Methods for X-Ray Optics",
+   "type": "conference-paper",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Wei He",
+    "Antoine Wojdyla",
+    "Hugo Calderon-Delgado",
+    "Nicolas de Mateo Smith",
+    "Ian Lacey",
+    "Valeriy V. Yashchuk"
+   ],
+   "n_authors": 12,
+   "abstract": "The Advanced Light Source Upgrade (ALS-U) will deliver a diffraction-limited storage ring, which places stringent demands on beamline optics. We present a scripted simulation pipeline that predicts beamline performance from measured mirror figure errors and apply it to the COSMIC-U (7.0.1) and MAESTRO-U (7.0.2) insertion-device beamlines. Ray-tracing models built with shadow4 in OASYS 2.0 are exported as Python scripts and turned into parameterized builders, which bring the mirror metrology of the ALS X-Ray Optics Laboratory, retrieved by unique identifier from a Bluesky-Tiled server, and the measured influence functions of the adaptive x-ray optics (AXOs) into one pipeline. With ideal optics, energy scans across every grating agree with analytical estimates of the beam size and photon energy resolving power. Before the AXO correction, including the measured figure errors mainly shifts the horizontal focus away from the exit slit, while the resolving power stays above its design target at every energy; grating figure errors are not yet included. Fitting the AXO voltages directly to the beam at each photon energy keeps the horizontal width within 0.6% of ideal on COSMIC-U and slightly below it on MAESTRO-U, with no actuator above 300V. Including the measured figure errors and the AXO correction, both beamlines are therefore expected to perform close to their design. In general, this approach offers a reproducible way to use as-built optic data in performance predictions during"
+  },
+  {
+   "id": "https://openalex.org/W7214680391",
+   "doi": "10.5194/isprs-annals-xii-4-w1-2026-73-2026",
+   "title": "Enhancing semantic segmentation of construction scenes using IFC-derived synthetic point clouds for geometric Digital Twins",
+   "publication_year": 2026,
+   "source": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Inshu Chauhan",
+    "Druhin Abrol",
+    "Olli Sepp\u00e4nen"
+   ],
+   "n_authors": 3,
+   "abstract": "Accurate semantic segmentation of as-built point clouds is foundational for Digital Twin Construction, yet training deep learning models is constrained by data scarcity in the AEC sector. This study presents a method to create semantically labeled synthetic point clouds from IFC models, and employs geometric augmentation to bridge the domain shift to real-world LiDAR data. We developed an automated pipeline to generate semantically labeled synthetic point clouds directly from IFC models, and conducted a systematic hyperparameter search, testing the impact of point-level Gaussian noise (Jitter Standard Deviation) and maximum displacement (Clipping Range) on the Oneformer3D model\u2019s ability to segment complex Mechanical, Electrical, and Plumbing (MEP) components. Our results demonstrate that this augmentation approach significantly enhances segmentation performance compared to baseline model, particularly in real-world environments. The optimal configuration achieved a synthetic mIoU of 67.31% (up from 62.52%) and a real-world mIoU of 32.75% (improving significantly upon the 14.66% baseline). These results confirm that balancing high noise variance (for domain generalization) with strict displacement control (to retain feature integrity) is key to successful synthetic-to-real domain transfer. This approach offers a scalable alternative for generating the necessary training data for automated geometric Digital Twin realization."
+  },
+  {
+   "id": "https://openalex.org/W7204494070",
+   "doi": "10.1061/9780784486962.003",
+   "title": "Salt Pile Measurement for Winter Maintenance Using Modern Sensing Technologies: Toward Accurate and Cost-Effective Inventory Management",
+   "publication_year": 2026,
+   "source": "ASCE Construction Research Congress (CRC)",
+   "type": "conference-paper",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Abbas Mohammadi",
+    "Pouria Mohammadi",
+    "Biao Kuang",
+    "Gang Jiang",
+    "Abbas Rashidi",
+    "Jianli Chen"
+   ],
+   "n_authors": 7,
+   "abstract": "In construction, inaccurate measurement of bulk stockpiles such as aggregates, sand, and road salt drives pay-quantity disputes, disrupts site logistics, and inflates costs. This paper evaluates practical sensing options for routine volumetrics at active yards by testing close-range photogrammetry, terrestrial and mobile LiDAR, and stereo depth cameras across seven DOT storage sites representative of construction stockpiles. Using standardized capture and a common volume workflow, we benchmark accuracy against independent references and record labor, time, and operational constraints. Photogrammetry delivered the most complete and accurate models, typically within 1%\u20133% of reference, while remaining low-cost and crew-friendly for frequent quantity checks. A fixed LiDAR configuration provided automated, near-real-time inventory with \u00b12% error, best suited for high-throughput plants where continuous visibility offsets capital costs. Depth cameras were inconsistent on large, low-reflectivity piles. The findings translate directly to construction practice: (1) adopt photogrammetry for periodic pay-item verification, progress tracking, and reconciliation, (2) deploy facility-scale LiDAR where continuous monitoring is essential, and (3) avoid depth cameras for large piles. By improving quantity certainty and safety in confined stockpile enclosures, the recommended workflows reduce risk, rework, and material waste on construction projects."
+  },
+  {
+   "id": "https://openalex.org/W7203995748",
+   "doi": "10.5281/zenodo.22055963",
+   "title": "AI DESIGNER: End-to-End Neural Digital Pipeline & Operational Digital Twin System Architecture",
+   "publication_year": 2026,
+   "source": "Zenodo (CERN European Organization for Nuclear Research)",
+   "type": "article",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Zeinab Eid"
+   ],
+   "n_authors": 1,
+   "abstract": "AI DESIGNER presents a novel, end-to-end conceptual systems architecture designed to bridge typically siloed AEC (Architecture, Engineering, and Construction) lifecycle phases into a continuous, physics-informed neural digital pipeline. Moving beyond standard generative AI image synthesis, this system architecture establishes a rigorous framework that preserves design intent, engineering parameters, and project data integrity across the entire building lifecycle\u2014from initial concept to operational facility management. The system architecture is structured across an 11-Layer Core Pipeline:1. Multi-Format Site & CAD Intake Pipeline (DWG, SKP, Vector PDF, Spatial Metadata).2. Context-Aware Site & Environmental Synthesis (Solar, Wind, and Coastal Corrosion Mapping).3. Semantic Matrix & Knowledge Base Transformation Engine.4. Dynamic Multi-Modal Neural Diffusion & Spatial Reconstruction Engine.5. Automated Construction Documentation & Rule-Based Building Code Verification Engine (e.g., Egyptian Engineering Codes).6. Headless Autodesk Platform Services (APS) Cloud API Synchronization.7. Real-Time Physics & Structural Simulation via MATLAB/Simulink Engine API (SAP2000/ETABS Interoperability).8. Closed-Loop Engineering Optimization & Energy/HVAC Performance Feedback Loops.9. Dynamic BOQ & Automated Financial Quantity Takeoff Engine.10. Operational Digital Twin Transition with Real-Time IoT & BMS Sensor Feedback Integration.11. System Integrity, Quality Control, Microservices Security"
+  },
+  {
+   "id": "https://openalex.org/W7167340413",
+   "doi": "10.5194/isprs-annals-xi-2-2026-393-2026",
+   "title": "Occlusion-Robust SfM in Construction Sites via Geometry-Guided Foreground Segmentation",
+   "publication_year": 2026,
+   "source": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Chenxi Yin",
+    "Shaoming Zhang",
+    "Qin Ye",
+    "Junqi Luo"
+   ],
+   "n_authors": 4,
+   "abstract": "Accurate 3D reconstruction is a key enabler for construction progress monitoring and digital-twin maintenance. However, in tower-crane imagery, persistent dynamic occluders such as hooks and slings violate the static-scene assumption of conventional Structure-from-Motion (SfM), leading to feature mismatches and degraded reconstruction consistency. In this paper, we present a geometry-guided occlusion-handling pipeline for crane-mounted construction-site SfM. Our approach leverages geometric cues from reprojection errors and depth inconsistencies to identify outlier observations, clusters them into spatially coherent prompts, and uses these to guide a foundation segmentation model (SAM2). The resulting per-frame masks are integrated into mask-constrained SfM optimization, ensuring that only static background contributes to reconstruction. Experiments on three real-world crane-mounted sequences (30 m, 45 m, and 120 m) show consistent reductions in mean reprojection error relative to the unmasked baseline. In the most challenging case, the error decreases from 0.962 to 0.872 pixels (9.4%). Compared with a fixed rectangular masking strategy, the proposed masks yield similar reprojection errors while better preserving valid observations and sparse-point completeness. These results indicate that the proposed framework provides a practical geometry-guided strategy for improving internal reconstruction consistency in crane-mounted construction environments."
+  },
+  {
+   "id": "https://openalex.org/W7204145885",
+   "doi": "10.1109/icssit69151.2026.11656414",
+   "title": "AI-Driven BOA Automation and Computer Vision Framework for Construction Progress Monitoring",
+   "publication_year": 2026,
+   "source": "International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+   "type": "conference-paper",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Arin G S",
+    "R. Jayaraj"
+   ],
+   "n_authors": 2,
+   "abstract": "Accurate and consistent construction progress monitoring remains a persistent challenge in project management. Conventional methods\u2014site visits, written reports, and verbal updates\u2014are subjective, delay-prone, and fail to capture real-time site conditions. Advanced alternatives such as deep learning-based object detection, LiDAR-integrated BIM, and UAV photogrammetry deliver high accuracy but impose requirements for large annotated datasets, specialised hardware, or cloud infrastructure impractical for most small and medium-scale construction projects. This paper presents an integrated, training-free framework linking Bill of Activities (BOA) project scheduling with image-based site observation using the Structural Similarity Index Measure (SSIM). Site photographs from standard mobile cameras are conditioned through a four-step preprocessing pipeline\u2014spatial normalisation, grayscale conversion, Gaussian smoothing, and Contrast-Limited Adaptive Histogram Equalisation (CLAHE)\u2014and compared against baseline images to derive objective activity progress percentages. SSIM-derived estimates are automatically aligned with BOA timelines, enabling planned-versus-actual deviation reporting at the individual activity level. The system is deployed as a full-stack web application (Laravel, Python/OpenCV, MySQL) operable on commodity hardware without GPU or cloud resources. Evaluation on a real eight-week residential construction project (47 images, five BOA activities) demonstrates MAE of 2"
+  },
+  {
+   "id": "https://openalex.org/W7165877239",
+   "doi": "10.22260/isarc2026/0203",
+   "title": "Artificial Intelligence and Computer Vision for Construction Progress Monitoring: A Bibliometric and Thematic Review (2005-2026)",
+   "publication_year": 2026,
+   "source": "International Symposium on Automation and Robotics in Construction (ISARC)",
+   "type": "conference-paper",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Kevin Daniel Torres Garcia",
+    "Luis Angel Cristancho",
+    "Omar S\u00e1nchez",
+    "Rodrigo Fernando Herrera",
+    "Karen Casta\u00f1eda"
+   ],
+   "n_authors": 5,
+   "abstract": "Reliable and timely construction progress monitoring remains challenging due to the dynamic, spatially complex, and visually cluttered nature of jobsite environments, where conventional inspection- and report-based approaches often yield subjective and intermittent assessments. This paper maps the adoption of artificial intelligence and computer vision for construction progress monitoring through a bibliometric and thematic review of 103 publications spanning 2005-2026. Using performance analysis and science mapping in Bibliometrix, the study characterizes scientific production, leading contributors, thematic structures, and topic evolution. Results indicate a marked growth and concentration of research output, led by the United States (61 publications) and China (43), followed by the United Kingdom (19), Germany (14), Australia (13), and South Korea (13). The thematic map reveals four interrelated research fronts: (1) computer vision as a transversal methodological core (e.g., machine learning, activity recognition, image processing, real-time monitoring), (2) construction progress monitoring as the primary application theme (strongly associated with deep learning, point clouds, object detection, and semantic segmentation), (3) photogrammetry and reality-capture pipelines as mature enabling technologies, and (4) BIM as an integration layer connecting field inference to planning and control. Trend analysis suggests a transition from early recognition and as-built modeling tow"
+  },
+  {
+   "id": "https://openalex.org/W7165926433",
+   "doi": "10.22260/isarc2026/0250",
+   "title": "An Automatic Update Framework for As-designed Pipeline BIM Model Based on Laser Scanning Point Cloud",
+   "publication_year": 2026,
+   "source": "International Symposium on Automation and Robotics in Construction (ISARC)",
+   "type": "conference-paper",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Xinru Wang",
+    "Bin Yang",
+    "Tianjia Lu"
+   ],
+   "n_authors": 3,
+   "abstract": "Building Information Modeling (BIM) is widely used in construction management, particularly for mechanical, electrical, and plumbing (MEP) systems, where accurate pipeline information is critical for efficient operation and maintenance. In practice, however, as-built pipelines often deviate from the as-designed BIM models, and manually updating these models is time-consuming. This study proposes an automatic pipeline for BIM updating, which leverages laser-scanned point clouds together with as-designed BIM priors. The framework integrates point cloud semantic segmentation, parameter extraction, and spatial topology analysis to establish component correspondences and generate an updated BIM model. A case study in a complex MEP environment demonstrates that this framework can robustly update pipeline BIMs, reducing modeling time from 3-5 days to approximately 3 hours, thereby improving the efficiency of BIM-based MEP management."
+  },
+  {
+   "id": "https://openalex.org/W7163661098",
+   "doi": "10.36680/j.itcon.2026.030",
+   "title": "Automating construction site guardrail safety inspection using BIM and point cloud segmentation",
+   "publication_year": 2026,
+   "source": "Journal of Information Technology in Construction",
+   "type": "article",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Vimal Bharathi",
+    "Jochen Teizer"
+   ],
+   "n_authors": 2,
+   "abstract": "Due to the dynamic nature of construction sites, constant installation and removal of safety equipment is a required practice. This to date requires manual, thus infrequent and still time-consuming inspections to ensure the safety measures are correctly in place when needed. This paper introduces a novel end-to-end pipeline that integrates SafeConAI, UAV-collected point cloud data, and 4D BIM to automate safety inspections, overcoming the limitations of fragmented prior approaches by enabling real-time deviation mapping and comprehensive safety monitoring. This approach aims to bridge the gap between as-built data integration with autonomous navigation by providing location-aware compliance checking. Autonomous ground or aerial vehicles collect point clouds, and a segmentation model is trained to detect and segment safety guardrails and other essential building elements. The system is built and tested in a laboratory environment first by creating a typical fall-from-height protection case. The information generated from the point cloud segmentation is then compared with the original BIM to monitor and point out deviations, and finally provides an analysis report in a user-friendly SafeBIM. The method has been evaluated on several test cases from laboratory to real construction site settings. The results from this work indicate a promising method that can assist practitioners in (semi-) automating construction site safety inspection and making workplaces safer."
+  },
+  {
+   "id": "https://openalex.org/W7203696272",
+   "doi": "10.1109/eespe68405.2026.11649259",
+   "title": "Automated Progress Monitoring of Power Infrastructure Construction via YOLOv8 Detection, Iterative Closest Point Alignment, and BIM Integration",
+   "publication_year": 2026,
+   "source": "IEEE International Conference on Electronics, Energy Systems and Power Engineering (EESPE)",
+   "type": "conference-paper",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Yuliang Xiao"
+   ],
+   "n_authors": 1,
+   "abstract": "Accurate and timely progress monitoring of power infrastructure construction sites, including substations, wind turbine foundations, photovoltaic mounting arrays, and transmission tower assemblies, is essential for grid commissioning schedules and for safety critical quality control. Traditional manual inspection is slow, costly, and subjective. This work presents a computer vision and Building Information Modeling integration framework that replaces fully image based three dimensional reconstruction with a feature level pipeline of YOLOv8 detection, structure from motion keypoint recovery, and Iterative Closest Point registration to the BIM reference model. The iterative optimization of the rigid transform is formulated explicitly, and geometric and temporal deviation metrics are defined with associated confidence intervals. Experiments are conducted on a multi site dataset of 15,360 labeled images collected from a 220 kV substation, an onshore wind farm, and a 50 MW photovoltaic plant, with controlled diversity in lighting, occlusion, and viewpoint. The proposed pipeline attains a mean average precision at intersection over union 0.5 of 0.942, an average alignment error of 17.6 mm, and a project level schedule deviation index of 2.9 percent. A paired comparison against Mask R CNN, Faster R CNN, and SSD baselines shows statistically significant gains at the 0.01 level. Relative to manual inspection, the pipeline reduces daily labor from 180 to 45 minutes per site and reduces"
+  },
+  {
+   "id": "https://openalex.org/W7167088303",
+   "doi": "10.1007/978-3-032-18712-3_38",
+   "title": "Advanced Detection, Analysis, and Mitigation of Design Deviations and Construction Delays in Highway Infrastructure Using Integrated TLS-BIM: Case Study of Trans-Sumatra Toll Road Rest Area",
+   "publication_year": 2026,
+   "source": "Lecture notes in civil engineering",
+   "type": "conference-paper",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Aji Prasetyanti",
+    "Aditya Novendra Jaya",
+    "Razez Nugraha Erson",
+    "Ainul Mustafid",
+    "Naufal Nurrahim",
+    "Nur Itsnaini"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W7155545234",
+   "doi": "10.1117/12.3114232",
+   "title": "Real-time construction progress monitoring based on BIM-GIS integration via deep learning object detection",
+   "publication_year": 2026,
+   "source": "International Conference on Computer Application and Information Security (ICCAIS)",
+   "type": "conference-paper",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Yinan Guo",
+    "Weiye Cao",
+    "Jun Wang"
+   ],
+   "n_authors": 3,
+   "abstract": "This paper constructs a bridge construction site image dataset based on a BIM-GIS integrated system, combining ground monitoring with drone aerial photography. It employs the BiSeNet semantic segmentation model to achieve construction progress recognition and analysis. In the 7-span continuous box girder bridge project of Construction Section 2 on S3 Highway in City S, ground monitoring captured 7 views, yielding a test set PA of 0.989 and MIoU of 0.964. UAVs captured 8 views, yielding a test set PA of 0.994 and MIoU of 0.990. Construction completion (PoC) analysis showed average completion rates exceeding 80% for piers and cap beams, with bridge decks nearing 100%. This demonstrates the proposed method's capability to accurately capture construction milestone information and enable efficient progress monitoring."
+  },
+  {
+   "id": "https://openalex.org/W7135408463",
+   "doi": "10.1080/15623599.2026.2641186",
+   "title": "A Digital Twin Environment for integrated management of highway construction",
+   "publication_year": 2026,
+   "source": "International Journal of Construction Management",
+   "type": "article",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Chunhua Han",
+    "Heqin Zhou",
+    "Paul  M. Schonfeld",
+    "Shunbiao Xue",
+    "Yan Zhang"
+   ],
+   "n_authors": 5,
+   "abstract": "Highway construction management faces significant challenges due to spatial span and organizational complexity. Traditional models are constrained by the fragmentation and latency of heterogeneous data, hindering real-time situational awareness and scientific decision-making. To address these issues, this article proposes a Digital Twin Environment (DTE) for integrated highway construction management. We analyze the spatiotemporal characteristics of relevant spatial entities and establish a formalized five-tuple architecture as the logical foundation for multi-granularity spatiotemporal mapping of large-scale linear projects. A data-flow-driven update mechanism is developed to ensure continuous state synchronization within the digital environment. Utilizing open standards and SuperMap GIS, the DTE was validated through a highway interchange project. Results indicate that this environment enhances information transparency and provides technical support for progress tracking, quality traceability, and resource coordination. This study offers a systematic methodological framework for digital twin modeling of linear infrastructure and a practical reference for the digital transformation of highway construction management."
+  },
+  {
+   "id": "https://openalex.org/W7128694728",
+   "doi": "10.5194/isprs-archives-xlviii-2-w12-2026-159-2026",
+   "title": "Multiscale Digital Survey and HBIM-GIS Integration for the Conservation of the Kasbah of Mehdya (Morocco)",
+   "publication_year": 2026,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Elena Gigliarelli",
+    "Giovanni Cangi",
+    "Luciano Cessari",
+    "Stefano Cursi",
+    "Chadi El Khoury",
+    "Youssef El Ganadi"
+   ],
+   "n_authors": 11,
+   "abstract": "This paper presents the development and validation of a multiscale digital workflow to document and support the conservation of the Kasbah of Mehdya, a coastal fortified complex located at the mouth of the Sebou River (northern Morocco). Data acquisition integrates UAV survey (photogrammetry and aerial LiDAR) to capture site morphology and topography, SLAM-based mobile mapping for rapid point-cloud acquisition in GPS-denied or partially constrained areas, and high-resolution terrestrial imagery, including spherical panoramas, to enhance material and decay interpretation. The datasets are processed, filtered, and aligned to generate georeferenced orthophotos and dense point clouds that feed a scan-to-HBIM pipeline. HBIM models are structured as semantic repositories of construction phases (12th\u201317th centuries), traditional materials, and mapped decay patterns, and are exported through interoperable standards (e.g., IFC) to enable integration within a GIS geodatabase. The resulting HBIM\u2013GIS environment supports multiscale spatial queries, correlation analyses between observed pathologies and key coastal environmental drivers (e.g., sea-salt aerosol exposure and vegetation colonisation), and the progressive validation and refinement of pre-existing territorial datasets through \u201cas-built\u201d survey data. Beyond format-level interoperability, the approach treats geo-referencing consistency and data reliability as prerequisites for a transferable heritage digital twin bridging archite"
+  },
+  {
+   "id": "https://openalex.org/W7127612796",
+   "doi": "10.63824/jptsp.v13i1.416",
+   "title": "Penggunaan Drone Untuk Survei Photogrametri Pada Pekerjaan Konstruksi",
+   "publication_year": 2026,
+   "source": "JURNAL TEKNIK SIPIL PERTAHANAN",
+   "type": "article",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Syarifuddin",
+    "Abdul Ghofur",
+    "Siregar Siregar"
+   ],
+   "n_authors": 3,
+   "abstract": "A drone is an unmanned aerial vehicle equipped with sensors and cameras that can be used for documentation activities. However, drone technology has currently evolved into various applications, including aerial mapping surveys. Technological advancements have provided significant benefits, particularly in the construction industry, by enabling accurate and efficient spatial data collection for three-dimensional modeling, progress monitoring, and volume measurement. A literature review method was employed to discuss the comparison of productivity and accuracy among three different types of drones, namely the DJI Phantom 4 Pro V2, DJI Mavic 3 Enterprise + RTK, and WingtraOne Gen II. The application of photogrammetric survey technology in linear road projects is recommended to utilize portable drones equipped with PPK and/or RTK methods, with accuracy and productivity as the primary considerations. The results of this study provide insights into the optimal combination of drone platforms and geotagging methods for the effective use of photogrammetry in construction works, particularly road construction projects."
+  },
+  {
+   "id": "https://openalex.org/W7212281066",
+   "doi": "10.1515/comp-2025-0067",
+   "title": "Highway construction progress monitoring based on UAV remote sensing images and feature space",
+   "publication_year": 2026,
+   "source": "Open Computer Science",
+   "type": "article",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Jianyou Yu",
+    "Ming Zhang",
+    "Lin Wang",
+    "Yang Yang"
+   ],
+   "n_authors": 4,
+   "abstract": "Highway construction projects, characterized by large investments, extended durations, and scattered work sites, require accurate and dynamic progress monitoring to ensure cost control and safe execution. Traditional manual inspection methods suffer from inefficiency, data latency, and subjectivity, making them inadequate for modern intelligent transportation management. To address these limitations, this study proposes a novel monitoring method integrating unmanned aerial vehicle (UAV) remote sensing imagery with feature-space matching. The proposed framework involves collecting sequential site images via UAV oblique photography, generating high-precision 3D reality models through aerial triangulation and 3D reconstruction, determining optimal image segmentation scales using a multi-scale segmentation algorithm combined with the ESP2 tool, extracting construction targets via color-feature threshold segmentation and registration with BIM-based virtual models, and quantifying progress deviations through Boolean operations between 3D reality models and BIM envelopes. The primary objective is to establish a closed-loop workflow from data acquisition to progress quantification, enhancing monitoring accuracy and operational efficiency. Experimental results on a 30 km highway section over 42 days show a construction progress deviation of only 2.2 %, significantly lower than conventional methods. The proposed method provides an objective, quantitative, and visual monitoring solution"
+  },
+  {
+   "id": "https://openalex.org/W7134194023",
+   "doi": "10.66238/ijcbs32",
+   "title": "Automated Quality Assessment for Construction Progress Using Multi-View 3D Reconstruction and BIM Alignment",
+   "publication_year": 2025,
+   "source": "International Journal of Computational and Biological Sciences",
+   "type": "article",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Barbara Rodriguez"
+   ],
+   "n_authors": 1,
+   "abstract": "The construction industry increasingly relies on digital twins and building information modeling (BIM) to streamline project management; however, the discrepancy between the as-designed model and the as-built state remains a critical source of cost overruns and structural failures. This paper proposes a robust, automated framework for construction quality assessment (CQA) and progress monitoring by integrating multi-view stereo (MVS) 3D reconstruction with semantic BIM alignment. Unlike traditional manual inspections or expensive terrestrial laser scanning (TLS) methods, our approach utilizes cost-effective unmanned aerial vehicle (UAV) imagery to generate high-density point clouds. We introduce a novel semantic-aware registration pipeline that leverages deep learning-based segmentation to align noisy reconstruction data with pristine BIM geometries, effectively mitigating the challenges posed by dynamic construction environments and varying lighting conditions. By calculating the Euclidean deviations between the reconstructed mesh and the BIM elements, the system automatically classifies construction components into accurate, deviated, or missing categories. Experimental validation on complex high-rise construction datasets demonstrates that the proposed method achieves sub-centimeter accuracy in deviation detection and significantly outperforms conventional Iterative Closest Point (ICP) variations in alignment robustness. The results suggest that this pipeline can substanti"
+  },
+  {
+   "id": "https://openalex.org/W4416183404",
+   "doi": "10.1109/sibgrapi67909.2025.11223369",
+   "title": "A Novel Method for Detecting 3D Steel Structures in As-Built Point Clouds",
+   "publication_year": 2025,
+   "source": "SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)",
+   "type": "conference-paper",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Rog\u00e9rio Pinheiro de Souza",
+    "Jan Hurtado",
+    "C\u00e9sar A. Sierra-Franco",
+    "Romeu Ferreira de Oliveira",
+    "Alberto Barbosa Raposo"
+   ],
+   "n_authors": 5,
+   "abstract": "Building Information Modeling (BIM) integrates engineering data with 3D geometry, spatial relationships, and other properties to support construction projects throughout their entire lifecycle. Researchers have been focusing on how to automatically generate or update these models from 3D point clouds, considering existing buildings. Most of these studies have focused on recognizing planar structures (such as floors and walls) or cylindrical ones (such as pipelines). Only a few recent works have addressed the detection of steel structural elements, due to their particular geometry. In these approaches, the point cloud of each structural element was manually separated from the point cloud of the entire building. This practice poses a challenge, as manual segmentation of point clouds is a timeconsuming and subjective process. In this paper, we propose a new approach to automatically detect structural steel elements in 3D point clouds of existing buildings projects, without the need for prior segmentation and regardless of orientation. The proposed technique combines geometry processing algorithms with a machine learning strategy. The performance results demonstrate the effectiveness of our approach in detecting the desired elements. These results open up new possibilities for developing automated pipelines aimed at generating highly accurate 3D BIM models."
+  },
+  {
+   "id": "https://openalex.org/W4413785584",
+   "doi": "10.29007/s3k8",
+   "title": "Enhanced Curtain Wall Construction Progress Monitoring via Tower Crane Perspective and Integrated 3D Reconstruction",
+   "publication_year": 2025,
+   "source": "Kalpa publications in computing",
+   "type": "conference-paper",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Zhong Tao",
+    "Yujie Lu",
+    "Shuo Wang",
+    "Xuanjun Li"
+   ],
+   "n_authors": 4,
+   "abstract": "Urban development has driven the widespread proliferation of high-rise buildings, making curtain wall construction a critical aspect of progress management. However, the extensive surface areas of curtain walls and the severe perspective distortions present significant challenges to efficient construction progress monitoring. To address these challenges, a novel method is proposed for tracking curtain wall installation progress in high-rise buildings through integrated 3D reconstruction. Cameras are strategically mounted at the ends of adjacent tower crane booms, with multiple ground control points (GCPs) deployed on-site as hardware anchors. The process begins with capturing multi-view images using the crane-mounted cameras. The COLMAP 3D reconstruction pipeline is enhanced by incorporating GCPs to ensure accurate 3D reconstruction within a real-world coordinate system. The building structure is subsequently extracted from the site model, and rectified facade images are generated using projection techniques. The curtain wall installation progress is assessed at both the floor and overall building levels using the YOLOv8 image segmentation model. The proposed method was validated through a case study on a super high-rise construction site. This approach achieved decimeter-level accuracy in 3D reconstruction and a precision rate of 95.9% in curtain wall progress identification, meeting project requirements. These findings establish a robust framework for managing large-scale o"
+  },
+  {
+   "id": "https://openalex.org/W7128054870",
+   "doi": "10.22260/crc-csce-2025/0061",
+   "title": "Elevating Construction Progress Monitoring: A Comprehensive UAV-Based System for Long-Term Outdoor Construction Site Mapping",
+   "publication_year": 2025,
+   "source": null,
+   "type": "conference-paper",
+   "cited_by_count": 0,
+   "relevance_score": null,
+   "authors": [
+    "Dayou Mao",
+    "Yuchen Lin",
+    "Yuchen Hu",
+    "Mihir Gupta",
+    "Maxwell Lou",
+    "Farzad Jalaei"
+   ],
+   "n_authors": 10,
+   "abstract": "The construction industry is crucial to the global economy, yet project management and progress monitoring often suffer from delays and cost overruns. While many studies have examined RGB cameras, LiDAR scanners, and Computer Vision (CV) algorithms for tracking physical progress, most are project-specific, and a widely adopted data collection and processing system, along with a standard benchmark dataset, remains unavailable. Unmanned Aerial Vehicles (UAVs) have significantly advanced the methodology of construction site maps creation, activity recognition, and progress tracking, especially for indoor and static outdoor scenes. However, capturing dynamic outdoor environments over time with rich visual detail and processing large-scale data presents ongoing challenges, raising concerns about safety, quality, and consistency. To address these issues, this paper proposes a systematic and consistent data collection approach for outdoor construction sites, capturing RGB images, videos, and point clouds twice weekly starting September 27, 2024. To the best of our knowledge, we are the first to present a high-quality, safe, and repeatable workflow; our site mapping pipeline using DJI and CloudCompare; and alignment techniques using Umeyama and COLMAP. Key challenges include moving objects on site, occlusions causing incomplete point clouds, and acute weather conditions. Our dataset totals 20 successfully recorded and processed site maps by the time this paper was written. We also st"
+  }
+ ]
+}

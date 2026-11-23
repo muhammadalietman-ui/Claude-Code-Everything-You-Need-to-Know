@@ -1,0 +1,1737 @@
+{
+ "query_id": "C6-CIT",
+ "run_date": "2026-11-23",
+ "query_url": "https://api.openalex.org/works?filter=title_and_abstract.search%3A%28%22progress+payment%22+OR+%22interim+payment%22+OR+%22payment+application%22+OR+%22payment+certificate%22+OR+%22payment+certification%22+OR+invoice+OR+invoicing+OR+%22quantity+takeoff%22+OR+%22quantity+take-off%22+OR+%22quantity+surveying%22+OR+%22measurement+of+work%22+OR+%22progress+measurement%22+OR+%22as-built+quantities%22%29+AND+%28subcontractor+OR+subcontractors+OR+contractor+OR+%22construction+project%22+OR+construction%29+AND+%28automated+OR+automation+OR+verification+OR+digital+OR+dispute+OR+disputes+OR+claim+OR+claims+OR+%22payment+delay%22+OR+blockchain+OR+%22smart+contract%22%29%2Cfrom_publication_date%3A2010-01-01%2Ctype%3Aarticle%7Creview%7Cbook-chapter%7Cconference-paper%2Clanguage%3Aen&sort=cited_by_count%3Adesc&per-page=100&select=id%2Cdoi%2Ctitle%2Cdisplay_name%2Cpublication_year%2Cprimary_location%2Ctype%2Ccited_by_count%2Cauthorships%2Cabstract_inverted_index%2Crelevance_score",
+ "hits_total": 585,
+ "retrieved": 100,
+ "records": [
+  {
+   "id": "https://openalex.org/W2027285680",
+   "doi": "10.1016/j.autcon.2012.11.041",
+   "title": "Automated construction progress measurement using a 4D building information model and 3D data",
+   "publication_year": 2012,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 376,
+   "relevance_score": null,
+   "authors": [
+    "Changmin Kim",
+    "Hyojoo Son",
+    "Changwan Kim"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W1984410410",
+   "doi": "10.1061/(asce)me.1943-5479.0000096",
+   "title": "Causes of Delay in Road Construction Projects",
+   "publication_year": 2011,
+   "source": "Journal of Management in Engineering",
+   "type": "article",
+   "cited_by_count": 352,
+   "relevance_score": null,
+   "authors": [
+    "Ibrahim Mahamid",
+    "Amund Bruland",
+    "Nabil Dmaidi"
+   ],
+   "n_authors": 3,
+   "abstract": "The construction industry is one of the main sectors that provides important ingredients for the development of an economy. However, many projects experience extensive delays and thereby exceed initial time and cost estimates. Construction delay is considered to be one of the most recurring problems in the construction industry and it has an adverse effect on project success in terms of time, cost, quality, and safety. This study is conducted to investigate the time performance of road construction projects in the West Bank in Palestine to identify the causes of delay and their severity according to contractors and consultants through a questionnaire survey. The field survey included 34 contractors and 30 consultants. A total of 52 causes of delay were identified during the research. The survey concluded that the top five severe delay causes are political situation, segmentation of the West Bank and limited movement between areas, award project to lowest bid price, progress payment delay by owner, and shortage of equipment."
+  },
+  {
+   "id": "https://openalex.org/W1970382502",
+   "doi": "10.1016/j.autcon.2013.10.020",
+   "title": "BIM and ontology-based approach for building cost estimation",
+   "publication_year": 2013,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 342,
+   "relevance_score": null,
+   "authors": [
+    "Seulki Lee",
+    "Ka-Ram Kim",
+    "Jung-Ho Yu"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2942879347",
+   "doi": "10.1016/j.autcon.2019.03.019",
+   "title": "BIM-based Last Planner System tool for improving construction project management",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 307,
+   "relevance_score": null,
+   "authors": [
+    "Daniel Heigermoser",
+    "Borja Garc\u00eda de Soto",
+    "Ernest L. S. Abbott",
+    "David Kim Huat Chua"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2591597775",
+   "doi": "10.1016/j.autcon.2017.02.002",
+   "title": "Identifying potential opportunities of building information modeling for construction and demolition waste management and minimization",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 271,
+   "relevance_score": null,
+   "authors": [
+    "Jongsung Won",
+    "Jack C.P. Cheng"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3155464240",
+   "doi": "10.1109/access.2021.3072900",
+   "title": "Efficient Automated Processing of the Unstructured Documents Using Artificial Intelligence: A Systematic Literature Review and Future Directions",
+   "publication_year": 2021,
+   "source": "IEEE Access",
+   "type": "review",
+   "cited_by_count": 258,
+   "relevance_score": null,
+   "authors": [
+    "Dipali Baviskar",
+    "Swati N. Ahirrao",
+    "Vidyasagar M. Potdar",
+    "Ketan V. Kotecha"
+   ],
+   "n_authors": 4,
+   "abstract": "The unstructured data impacts 95% of the organizations and costs them millions of dollars annually. If managed well, it can significantly improve business productivity. The traditional information extraction techniques are limited in their functionality, but AI-based techniques can provide a better solution. A thorough investigation of AI-based techniques for automatic information extraction from unstructured documents is missing in the literature. The purpose of this Systematic Literature Review (SLR) is to recognize, and analyze research on the techniques used for automatic information extraction from unstructured documents and to provide directions for future research. The SLR guidelines proposed by Kitchenham and Charters were adhered to conduct a literature search on various databases between 2010 and 2020. We found that: 1. The existing information extraction techniques are template-based or rule-based, 2. The existing methods lack the capability to tackle complex document layouts in real-time situations such as invoices and purchase orders, 3. The datasets available publicly are task-specific and of low quality. Hence, there is a need to develop a new dataset that reflects real-world problems. Our SLR discovered that AI-based approaches have a strong potential to extract useful information from unstructured documents automatically. However, they face certain challenges in processing multiple layouts of the unstructured documents. Our SLR brings out conceptualization of"
+  },
+  {
+   "id": "https://openalex.org/W2047115781",
+   "doi": "10.1061/(asce)ei.1943-5541.0000193",
+   "title": "Status of BIM Adoption and the BIM Experience of Cost Consultants in Australia",
+   "publication_year": 2013,
+   "source": "Journal of Professional Issues in Engineering Education and Practice",
+   "type": "article",
+   "cited_by_count": 244,
+   "relevance_score": null,
+   "authors": [
+    "Ajibade A. Aibinu",
+    "Sudha Venkatesh"
+   ],
+   "n_authors": 2,
+   "abstract": "There is anecdotal evidence that the adoption of building information modeling (BIM) is on the increase. However, the extent to which quantity surveyors (QS) (also referred to as cost consultants or cost engineers) are now using BIM features is not clear. The research reported in this paper was aimed at understanding the BIM experience of QS firms and cost consultants in Australia as well as to understand the progress they have made towards the use of BIM features. Data collection was a web-based survey of 180 QS firms with 40 responses and two in-depth interviews. Findings from the study show that BIM features are not readily used by QS firms owing to uncertainties concerning the integrity of three-dimensional (3D) models issued by designers, incomplete information in models, lack of knowledge concerning new business processes to drive the use of BIM use, lack of demand by clients, cost of implementing BIM features within the existing practice and learning time required to adopt BIM features. It appears that most of the firms have experience in computer aided take-off with two-dimensional (2D) drawing in the project\u2019s front end tasks such as cost planning and bill of quantities. Most of them have little experience with automated extraction of quantities using 3D models. Only one experience the use of BIM features in contract administration duties. 3D computer-aided drawing (CAD) drawings are used only for visualization. In many BIM-based projects reported, cost consultants w"
+  },
+  {
+   "id": "https://openalex.org/W3036561977",
+   "doi": "10.1016/j.autcon.2020.103284",
+   "title": "Securing interim payments in construction projects through a blockchain-based framework",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 209,
+   "relevance_score": null,
+   "authors": [
+    "Moumita Das",
+    "Han Luo",
+    "Jack C.P. Cheng"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2141295269",
+   "doi": "10.1016/j.autcon.2010.12.001",
+   "title": "Integrating automated data acquisition technologies for progress reporting of construction projects",
+   "publication_year": 2011,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 206,
+   "relevance_score": null,
+   "authors": [
+    "Samir El\u2010Omari",
+    "Osama Moselhi"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2307011503",
+   "doi": "10.1016/j.aei.2016.03.001",
+   "title": "Ontology-based semantic approach for construction-oriented quantity take-off from BIM models in the light-frame building industry",
+   "publication_year": 2016,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 156,
+   "relevance_score": null,
+   "authors": [
+    "Hexu Liu",
+    "Ming Lu",
+    "Mohamed Al\u2010Hussein"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W161813856",
+   "doi": "10.1016/j.jcde.2014.11.002",
+   "title": "Open BIM-based quantity take-off system for schematic estimation of building frame in early design stage",
+   "publication_year": 2014,
+   "source": "Journal of Computational Design and Engineering",
+   "type": "article",
+   "cited_by_count": 154,
+   "relevance_score": null,
+   "authors": [
+    "Jungsik Choi",
+    "Han\u2010Saem Kim",
+    "Inhan Kim"
+   ],
+   "n_authors": 3,
+   "abstract": "Since construction projects are large and complex, it is especially important to provide concurrent construction process to BIM models with construction automation. In particular, the schematic Quantity Take-Off (QTO) estimation on the BIM models is a strategy, which can be used to assist decision making in just minutes, because 70\u201380% of construction costs are determined by designers' decisions in the early design stage [1]. This paper suggests a QTO process and a QTO prototype system within the building frame of Open BIM to improve the low reliability of estimation in the early design stage. The research consists of the following four steps: (1) analyzing Level of Detail (LOD) at the early design stage to apply to the QTO process and system, (2) BIM modeling for Open BIM based QTO, (3) checking the quality of the BIM model based on the checklist for applying to QTO and improving constructability, and (4) developing and verifying a QTO prototype system. The proposed QTO system is useful for improving the reliability of schematic estimation through decreasing risk factors and shortening time required."
+  },
+  {
+   "id": "https://openalex.org/W4220784738",
+   "doi": "10.3390/buildings12040396",
+   "title": "BIM and Digital Tools for State-of-the-Art Construction Cost Management",
+   "publication_year": 2022,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 146,
+   "relevance_score": null,
+   "authors": [
+    "Samad M. E. Sepasgozar",
+    "Aaron M. Costin",
+    "Reyhaneh Karimi",
+    "Sara Shirowzhan",
+    "Ezatollah Abbasian",
+    "Jinyun Li"
+   ],
+   "n_authors": 6,
+   "abstract": "Cost overrun has remained a key risk of construction projects that can be prevented by utilizing new technologies. This paper aims to identify the gap in the literature, which can potentially be addressed by using digital tools and technologies, by reviewing the current and state of the art practices. The paper presents the results of a systematic and critical content reviews on cost overruns, to address the question of what factors are affecting the cost overrun. This paper also reviews how building information modeling (BIM) in conjunction with other tools, such as the common tools in the Asia and Asia Pacific regions, are used for cost estimation and monitoring. The paper presents the results of the content review, including their contributions and limitations, which are also used to set key directions for future investigations. A total of 176 papers was identified to develop the construction cost management (CCM) dataset. The method was a mix of systematic reviews, including co-authorship network analyses, co-occurrence analytical map development covering 5671 keywords, and content analysis including theme identification and a critical review of selected papers. The paper critically reviewed 63 selected papers from CCM, which are divided into four clusters based on their scopes: BIM adoption for cost estimation and quantity surveying; BIM implementation for a bill of quantity, risk paths, and cost overruns; cost control and management; and, finally, BIM, virtual design, a"
+  },
+  {
+   "id": "https://openalex.org/W4225166100",
+   "doi": "10.1016/j.autcon.2022.104294",
+   "title": "BIM integrated smart contract for construction project progress payment administration",
+   "publication_year": 2022,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 128,
+   "relevance_score": null,
+   "authors": [
+    "Rifat S\u00f6nmez",
+    "Salar Ahmadisheykhsarmast",
+    "Asl\u0131 Ak\u00e7amete"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2137867863",
+   "doi": null,
+   "title": "A technical review of BIM based cost estimating in UK quantity surveying practice, standards and tools",
+   "publication_year": 2014,
+   "source": "Huddersfield Research Portal (University of Huddersfield)",
+   "type": "article",
+   "cited_by_count": 125,
+   "relevance_score": null,
+   "authors": [
+    "Song Wu",
+    "Gerard Wood",
+    "Kanchana Ginige",
+    "Siaw Wee Jong"
+   ],
+   "n_authors": 4,
+   "abstract": "ISG plc SUMMARY: In light of recent technological advancements over the decades especially with Information Technology (IT), the \u2018Building Information Modelling \u2019 (BIM) is one of those advancements that have attracted significant attentions in UK construction industry. The UK government has acknowledged this trend and is joining the radical movement of adopting BIM by also making it a prerequisite for all those involved in public sector projects to have BIM ready by 2016. For Quantity Surveying (QS) profession, BIM presents huge challenges and opportunities, particularly in the area of cost estimating and quantity take-off. BIM offers the capability to automatically generate quantity take-offs and measurement directly from a digital model of a building, a process that traditionally is very time consuming for quantity surveyors. However, there is little evidence that BIM is systematically introduced in quantity surveying profession in UK largely due to majority of the BIM based cost estimating or take-off tools developed outside UK and adopted the different practice and rules in quantification. In this paper, we examine the cost estimating practice and procedure in UK and the impact of the use of BIM. A number of key challenges have been identified in term of information exchange, model quality and UK standards. It also reviews the existing BIM based cost estimating tools in the context of UK quantity surveying"
+  },
+  {
+   "id": "https://openalex.org/W2154400911",
+   "doi": "10.1061/(asce)cp.1943-5487.0000141",
+   "title": "Automated Color Model\u2013Based Concrete Detection in Construction-Site Images by Using Machine Learning Algorithms",
+   "publication_year": 2011,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 115,
+   "relevance_score": null,
+   "authors": [
+    "Hyojoo Son",
+    "Changmin Kim",
+    "Changwan Kim"
+   ],
+   "n_authors": 3,
+   "abstract": "Concrete structural component detection in color images is a key pre-process in various applications such as construction progress measurement, structural health monitoring, and three-dimensional as-built modeling. The goal of this research was to identify an automated color model\u2013based concrete detection method that (by using a machine learning algorithm) can detect concrete structural components in color images with a high level of accuracy. A data set consisting of more than 87 million pixels was generated from 108 images of concrete surfaces with a variety of surfaces. Transformations from the RGB color space to non-RGB color spaces were performed to increase separability between concrete and background classes and to achieve robustness to changes in illumination. To find the optimal combination of color space and machine learning algorithm, the performance of three machine learning algorithms (e.g., a Gaussian mixture model, an artificial neural network model, and a support vector machine model) in two non-RGB color spaces (e.g., HSI and normalized RGB) was comparatively analyzed. The comparison showed that the combination of the support vector machine algorithm and the HSI color space is superior in detecting concrete structural components in color images, compared with the other five algorithm\u2013color space combinations. Performance was validated by experiments run on various images of actual construction-site scenes."
+  },
+  {
+   "id": "https://openalex.org/W3020380563",
+   "doi": "10.1061/(asce)ei.2643-9115.0000018",
+   "title": "Review of BIM Adoption in the Higher Education of AEC Disciplines",
+   "publication_year": 2020,
+   "source": "Journal of Civil Engineering Education",
+   "type": "article",
+   "cited_by_count": 111,
+   "relevance_score": null,
+   "authors": [
+    "Liyuan Wang",
+    "Meiping Huang",
+    "Xiaohua Zhang",
+    "Ruoyu Jin",
+    "Tong Yang"
+   ],
+   "n_authors": 5,
+   "abstract": "This Technical Note serves as one of the first review-based studies by analyzing existing trends of incorporating building information modeling (BIM) into the higher education of architecture, engineering, and construction (AEC)-related disciplines. Assisted by a scientometric review approach, this study identified mainstream journals and conference proceedings publishing BIM educational research outputs and analyzed existing research keywords. The results show that the Journal of Professional Issues in Engineering Education and Practice was ranked as the top journal measured by the number of publications and the total citations received by all articles related to BIM education. However, the Journal of Construction Engineering and Management was the journal with the highest average influence per article despite its small number of publications in BIM education. The keyword analysis through visualized mapping and quantitative analysis revealed that existing BIM educational studies had focused more on construction-related disciplines. Discipline-specific pedagogical activities were reported (e.g., interactive display in construction education), and there had been educational efforts to bridge different AEC disciplines through integrated and collaborative approaches. Several research trends were identified following the keyword analysis, such as the need of incorporating BIM at the program level by extending from a single course (e.g., quantity surveying) and integrating BIM wit"
+  },
+  {
+   "id": "https://openalex.org/W3201021139",
+   "doi": "10.1016/j.autcon.2021.103929",
+   "title": "Transformer machine learning language model for auto-alignment of long-term and short-term plans in construction",
+   "publication_year": 2021,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 98,
+   "relevance_score": null,
+   "authors": [
+    "Fouad Amer",
+    "Yoonhwa Jung",
+    "Mani Golparvar\u2010Fard"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2035561435",
+   "doi": "10.1016/j.jksues.2014.03.002",
+   "title": "Micro and macro level of dispute causes in residential building projects: Studies of Saudi Arabia",
+   "publication_year": 2014,
+   "source": "Journal of King Saud University - Engineering Sciences",
+   "type": "article",
+   "cited_by_count": 97,
+   "relevance_score": null,
+   "authors": [
+    "Ibrahim Mahamid"
+   ],
+   "n_authors": 1,
+   "abstract": "The objective of this research is to identify the common direct and indirect (micro and macro level) dispute causes in residential building projects in Saudi Arabia. The questionnaire method was used in this research. Randomly distributed questionnaire technique was applied to 120 contractors to evaluate the severity of the identified 29 direct dispute causes and 32 indirect dispute causes. The analysis of the identified causes indicates that the top five severe direct dispute causes are: delay in progress payment by owner, unrealistic contract duration, change orders, poor quality of completed works, and labor inefficiencies respectively. While the top five severe indirect dispute causes are: inadequate contractor\u2019s experience, lack of communication between construction parties, ineffective planning and scheduling of project by contractor, cash problems during construction, and poor estimation practices."
+  },
+  {
+   "id": "https://openalex.org/W3161239469",
+   "doi": "10.3390/su13105455",
+   "title": "BIM-Based Life Cycle Assessment of Buildings\u2014An Investigation of Industry Practice and Needs",
+   "publication_year": 2021,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 88,
+   "relevance_score": null,
+   "authors": [
+    "Regitze Kj\u00e6r Zimmermann",
+    "Simone Bruhn",
+    "Harpa Birgisd\u00f3ttir"
+   ],
+   "n_authors": 3,
+   "abstract": "The climate debate necessitates reducing greenhouse gas emissions from buildings. A common and standardized method of assessing this is life cycles assessment (LCA); however, time and costs are a barrier. Large efficiency potentials are associated with using data from building information models (BIM) for the LCA, but development is still at an early stage. This study investigates the industry practice and needs for BIM\u2013LCA, and if these are met through a prototype for the Danish context, using IFC and a 3D view. Eight qualitative in-depth interviews were conducted with medium and large architect, engineering, and contractor companies, covering a large part of the Danish AEC industry. The companies used a quantity take-off approach, and a few were developing plug-in approaches. Challenges included the lack of quality in the models, thus most companies supplemented model data with other data sources. Features they found valuable for BIM\u2013LCA included visual interface, transparency of data, automation, design evaluation, and flexibility. The 3D view of the prototype met some of the needs, however, there were mixed responses on the use of IFC, due to different workflow needs in the companies. Future BIM\u2013LCA development should include considerations on the lack of quality in models and should support different workflows."
+  },
+  {
+   "id": "https://openalex.org/W4388177368",
+   "doi": "10.1016/j.autcon.2023.105155",
+   "title": "Automated system for high-accuracy quantity takeoff using BIM",
+   "publication_year": 2023,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 86,
+   "relevance_score": null,
+   "authors": [
+    "Mojtaba Valinejadshoubi",
+    "Osama Moselhi",
+    "Ivanka Iordanova",
+    "Fernando Valdivieso",
+    "Ashutosh Bagchi"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4399800669",
+   "doi": "10.1016/j.autcon.2024.105549",
+   "title": "BIM-based quantity takeoff: Current state and future opportunities",
+   "publication_year": 2024,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 80,
+   "relevance_score": null,
+   "authors": [
+    "Shadi Alathamneh",
+    "Wesley Collins",
+    "Salman Azhar"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2937691380",
+   "doi": "10.1155/2019/1515808",
+   "title": "Excavation Safety Modeling Approach Using BIM and VPL",
+   "publication_year": 2019,
+   "source": "Advances in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 72,
+   "relevance_score": null,
+   "authors": [
+    "Numan Khan",
+    "Ahmed Khairadeen Ali",
+    "Miroslaw Jan Skibniewski",
+    "Doyeop Lee",
+    "Chansik Park"
+   ],
+   "n_authors": 5,
+   "abstract": "Soil excavation is a fundamental step of building and infrastructure development. Despite strong enforcement of construction best practices and regulations, accidents in construction industry are comparatively higher than other industries. Likewise, significant increase in injuries and fatalities are recently reported on geotechnical activities such as excavation pits and trenches. Academic researchers and industry professionals have currently devoted vital attention to acquire construction safety in preconstruction phase of the project. They have developed various algorithms to enhance safety in preconstruction phase such as automated generation of scaffolding and its potential risk analysis, checking BIM model for fall risks, and limited access zone allocation in wall masonry. However, safety in geotechnical works at preconstruction phase is yet unexplored. This paper proposed automatic safety rule compliance approach for excavation works leveraging algorithmic modeling tools and BIM technologies. The focused approach comprises of the following three modules: information extraction and logic design (IELD), information conversion and process integration (ICPI), and automodeling and safety plan generation (ASPG). Specifically, the scope of the paper is limited to major risks such as cave\u2010ins, fall, safety egress, and prohibited zones risks. A set of rules\u2010based algorithms was developed in commercially available software using visual programming language (VPL) that automatical"
+  },
+  {
+   "id": "https://openalex.org/W4289943285",
+   "doi": "10.1108/ecam-03-2022-0271",
+   "title": "A model-based smart contracts system via blockchain technology to reduce delays and conflicts in construction management processes",
+   "publication_year": 2022,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 71,
+   "relevance_score": null,
+   "authors": [
+    "Abdul Wahab",
+    "Jun Wang",
+    "Alireza Shojaei",
+    "Junfeng Ma"
+   ],
+   "n_authors": 4,
+   "abstract": "Purpose Smart contracts using blockchain technology (BCT) is a tool that decentralizes authority and makes it easier to upgrade the contract administration process by providing an efficient system. Current literature provides a good overview of contracts in the construction industry; however, the specific details of BCT's smart contracts applications in the three categories have not been addressed adequately: (1) information quality, (2) enhancing project schedule and progress payment time and (3) reducing conflicts among project stakeholders. Thus, this study aims to analyze smart contracts using BCT by creating a computerized contract model, specifically evaluating its impact on the three identified categories. Design/methodology/approach In this paper BCT-SmContract was developed through an automated program that utilizes blockchain to define the contractual agreements between different parties in a construction project. BCT-SmContract model provides a new technique to overcome the current challenges associated with factors identified in this study, i.e. (1) information quality, (2) enhancing project schedule and progress payment time and (3) reducing conflicts among project stakeholders. Afterward, the model was tested to ensure validity and reliability through a construction project. Findings The findings indicated that BCT-SmContract was approximately 90% faster to execute the contract and 100% accurate in reflecting the correct information about the project status, res"
+  },
+  {
+   "id": "https://openalex.org/W4313397433",
+   "doi": "10.1016/j.tust.2022.104920",
+   "title": "A framework for integrating embodied carbon assessment and construction feasibility in prefabricated stations",
+   "publication_year": 2022,
+   "source": "Tunnelling and Underground Space Technology",
+   "type": "article",
+   "cited_by_count": 70,
+   "relevance_score": null,
+   "authors": [
+    "Mengqi Huang",
+    "Xilin Chen",
+    "Jelena Nini\u0107",
+    "Yue Long Bai",
+    "Q.B. Zhang"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4288680550",
+   "doi": "10.1061/(asce)co.1943-7862.0002380",
+   "title": "Blockchain Technology in the Construction Industry: Current Status, Challenges, and Future Directions",
+   "publication_year": 2022,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 67,
+   "relevance_score": null,
+   "authors": [
+    "Haitao Wu",
+    "Pan Zhang",
+    "Heng Li",
+    "Botao Zhong",
+    "Ivan W. H. Fung",
+    "Yiu Yin Raymond Lee"
+   ],
+   "n_authors": 6,
+   "abstract": "The construction industry is becoming increasingly interested in blockchains, and relevant publications have blossomed in recent years. This study provided a state-of-the-art review of blockchain research in the industry in order to better comprehend the fast-evolving technology. A systematic method integrating quantitative and qualitative analyses was used to capture the research status, challenges, and future directions based on 141 publications published between 2017 and 2021. The distributions of 141 papers were quantitatively analyzed in terms of chronology, geography, journal, and research type. The majority of blockchain applications focused on the construction stage, while progress payment management and supply chain management were the top two topics. Different blockchain applications throughout the entire lifecycle of building projects were also introduced through qualitative analyses. Finally, this research indicated the challenges and future directions of blockchain research in the construction industry. This review provides valuable information to help construction researchers and practitioners understand blockchain research advances and better determine research opportunities."
+  },
+  {
+   "id": "https://openalex.org/W3196401129",
+   "doi": "10.1016/j.jobe.2021.103234",
+   "title": "Quantity surveying and BIM 5D. Its implementation and analysis based on a case study approach in Spain",
+   "publication_year": 2021,
+   "source": "Journal of Building Engineering",
+   "type": "article",
+   "cited_by_count": 67,
+   "relevance_score": null,
+   "authors": [
+    "Anna Baldrich Arag\u00f3",
+    "Jaume Roig Hernando",
+    "Francisco Javier LLovera S\u00e1ez",
+    "Josep Coll Bertr\u00e1n"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3034525365",
+   "doi": "10.1016/j.jobe.2020.101556",
+   "title": "Robot-based facade spatial assembly optimization",
+   "publication_year": 2020,
+   "source": "Journal of Building Engineering",
+   "type": "article",
+   "cited_by_count": 62,
+   "relevance_score": null,
+   "authors": [
+    "Ahmed Khairadeen Ali",
+    "One Jae Lee",
+    "Hayub Song"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4401820036",
+   "doi": "10.1016/j.plas.2024.100149",
+   "title": "Deep learning-based computer vision in project management: Automating indoor construction progress monitoring",
+   "publication_year": 2024,
+   "source": "Project Leadership and Society",
+   "type": "article",
+   "cited_by_count": 58,
+   "relevance_score": null,
+   "authors": [
+    "Biyanka Ekanayake",
+    "Johnny Kwok Wai Wong",
+    "Alireza Ahmadian Fard Fini",
+    "Peter Smith",
+    "Vishal Thengane"
+   ],
+   "n_authors": 5,
+   "abstract": "Progress monitoring is crucial for effective project management, particularly in construction projects. The adoption of computer vision with deep learning expedites automation, accuracy, and efficiency in construction progress monitoring by overcoming the challenges of laborious, and error prone manual methods. While there is growing attention on developing computer vision based deep learning models for construction progress monitoring, deployment platforms for project managers are lacking. Using computer vision, this study develops a Mask Recurrent Convolutional Neural Network deep learning model. It utilizes progress images of drywall construction from two indoor construction sites and tests the model on a third indoor site in Sydney, Australia. The model is capable of automated as-built visual detection and work-in-progress measurement. The study also provides an understanding on the deployment process of the deep learning model on a cloud-based platform called Streamlit. By developing a model tailored for automatically quantifying work-in-progress of indoor construction elements and detailing the process of deploying that model on a cloud-based platform, this study significantly advances digitalization of construction project management. Project managers, stand to benefit from these advancements by gaining access to more accurate and automated construction progress monitoring for better decision-making. \u2022 Progress monitoring is crucial for effective construction project m"
+  },
+  {
+   "id": "https://openalex.org/W3024720120",
+   "doi": "10.3390/su12104106",
+   "title": "Sustainable Application of Hybrid Point Cloud and BIM Method for Tracking Construction Progress",
+   "publication_year": 2020,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 57,
+   "relevance_score": null,
+   "authors": [
+    "Seung\u2010Ho Kim",
+    "Sangyong Kim",
+    "Dong\u2010Eun Lee"
+   ],
+   "n_authors": 3,
+   "abstract": "Compared to the past, the complexity of construction-project progress has increased as the size of structures has become larger and taller. This has resulted in many unexpected problems with an increasing frequency of occurrence, such as various uncertainties and risk factors. Recently, research was conducted to solve the problem via integration with data-collection automation tools of construction-project-progress measurement. Most of the methods used spatial sensing technology. Thus, this study performed a review of the representative technologies applied to construction-project-progress data collection and identified the unique characteristics of each technology. The basic principle of the progress proposed in this study is its execution through the point cloud and the attributes of BIM, which were studied in five stages: (1) Acquisition of construction completion data using a point cloud, (2) production of a completed 3D model, (3) interworking of an as-planned BIM model and as-built model, (4) construction progress tracking via overlap of two 3D models, and (5) verification by comparison with actual data. This has confirmed that the technical limitations of the construction progress tracking through the point cloud do not exist, and that a fairly high degree of progress data which contains efficiency and accuracy can be collected."
+  },
+  {
+   "id": "https://openalex.org/W3006956758",
+   "doi": "10.1016/j.autcon.2020.103142",
+   "title": "Automated modification of compound elements for accurate BIM-based quantity takeoff",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 56,
+   "relevance_score": null,
+   "authors": [
+    "Chavanont Khosakitchalert",
+    "Nobuyoshi Yabuki",
+    "Tomohiro Fukuda"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4212841192",
+   "doi": "10.1007/s42524-021-0184-y",
+   "title": "Blockchain-based smart contract for smart payment in construction: A focus on the payment freezing and disbursement cycle",
+   "publication_year": 2022,
+   "source": "Frontiers of Engineering Management",
+   "type": "article",
+   "cited_by_count": 55,
+   "relevance_score": null,
+   "authors": [
+    "Liupengfei Wu",
+    "Weisheng Lu",
+    "Jinying Xu"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2117744643",
+   "doi": "10.12691/ajcea-2-6-2",
+   "title": "Reducing Construction Disputes through Effective Claims Management",
+   "publication_year": 2014,
+   "source": "American journal of civil engineering and architecture",
+   "type": "article",
+   "cited_by_count": 55,
+   "relevance_score": null,
+   "authors": [
+    "Hossam H. Mohamed",
+    "Ahmed Hussein Ibrahim",
+    "Asmaa Ahmed Soliman"
+   ],
+   "n_authors": 3,
+   "abstract": "Reducing construction disputes appears to be the main goal for many researchers in the last decay. Each of them has attempted to clearly identify the expected causes of disputes. Construction claims can be considered as a main source of disputes. This paper aims to identify the most important causes that converting construction claims into disputes. A proposed system that can help to avoid converting construction claims into disputes was provided. Factors that causing disputable claims were identified through four stages. The first stage 140 factors that causing disputable claims were collected from international literature. The second stage a brainstorming was used to reduce the number of these factors and get the most common factors causing disputable claims. Hence 31 factors were only considered. These factors were divided into three major categories: behavioral, contractual and operational matters. Through third stage, the thirty one factors were subjected to a further survey to identify their importance index (relative significance). One hundred and two interviews were conducted and their results are employed to develop an importance index score for these disputable claims causes. Furthermore, the thirty one disputable claims causes were then ranked according to their relative importance. The fourth stage, The 80/20 rule applied to the causes identified to get the eight most important causes that represented about 25% of the causes. The most important eight factors were "
+  },
+  {
+   "id": "https://openalex.org/W4220922504",
+   "doi": "10.1061/(asce)cp.1943-5487.0001012",
+   "title": "Constructing Invariant Signatures for AEC Objects to Support BIM-Based Analysis Automation through Object Classification",
+   "publication_year": 2022,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 54,
+   "relevance_score": null,
+   "authors": [
+    "Jin Wu",
+    "Temitope Akanbi",
+    "Jiansong Zhang"
+   ],
+   "n_authors": 3,
+   "abstract": "Building information modeling (BIM) object classification is a key step in supporting the full automation of architecture, engineering, and construction (AEC) domain tasks such as cost estimation and building code compliance checking. A machine learning approach is designated to address any classification task without requiring the domain knowledge to be explicitly or manually specified in detail. The success of machine learning, however, relies on the quality and suitability of input features. In order to support seamless interoperability of BIM applications, the authors have proposed invariant signatures that uniquely define each AEC object and capture their intrinsic properties. In this paper, the authors combine the use of invariant signatures together with machine learning approach to address BIM object classification. The developed invariant signatures include geometric signatures, locational signatures, and metadata signatures. To test the robustness of their use as machine learning features, the authors created a new BIM object data set with 1,900 AEC objects in five major categories of building elements, including beams, columns, footings, slabs, and walls. The data were manually annotated by independent annotators to ensure the quality. Among those AEC objects in the data set, 1,330 objects (70% of the data) were used as training/development data and 570 objects (30% of the data) were used as testing data. The authors extracted the predefined invariant signatures as"
+  },
+  {
+   "id": "https://openalex.org/W3169395653",
+   "doi": "10.22260/isarc2020/0192",
+   "title": "Integrating BIM- and Cost-included Information Container with Blockchain for Construction Automated Payment using Billing Model and Smart Contracts",
+   "publication_year": 2020,
+   "source": "International Symposium on Automation and Robotics in Construction (ISARC)",
+   "type": "conference-paper",
+   "cited_by_count": 53,
+   "relevance_score": null,
+   "authors": [
+    "Xuling Ye",
+    "Katharina Sigalov",
+    "Markus K\u00f6nig"
+   ],
+   "n_authors": 3,
+   "abstract": "Payment issues are necessary in the construction industry, often manifested by high levels of arrears and long-term payment delays. An automated payment could be a solution to speed-up the payment process after successful completions. In this paper, a framework is proposed for the automated payment via Building Information Modeling (BIM), Linked Data, Smart Contract and Blockchain technologies. Geometrical and payment-related data are stored as BIM-based linked data. Linked Data technology connects a BIM model with its related Bill of Quantities (BoQ) and Quantity Take-Off (QTO). Based on the transparency, traceability and collaboration of the Blockchain technology, an automated payment can be secured. To integrate such an information container with Blockchain for the automated payment, an additional information model called Billing Model (BM) is proposed. Thereby, each Billing Unit (BU) stores one or more construction work tasks with a related payment and a related due date. Together with the corresponding Smart Contract rules, the BM can automate payment via a Blockchain. Several aspects of improvement and further development are discussed in the end."
+  },
+  {
+   "id": "https://openalex.org/W3025340219",
+   "doi": "10.1108/jedt-01-2020-0007",
+   "title": "Implementing 5D BIM on construction projects: contractor perspectives from the UK construction sector",
+   "publication_year": 2020,
+   "source": "Journal of Engineering Design and Technology",
+   "type": "article",
+   "cited_by_count": 53,
+   "relevance_score": null,
+   "authors": [
+    "Tochukwu Moses",
+    "David Heesom",
+    "David Oloke"
+   ],
+   "n_authors": 3,
+   "abstract": "Purpose The purpose of this paper is to report on primary research findings that sought to investigate and analyse salient issues on the implementation of 5D building information modelling (BIM) from the UK contractors\u2019 perspective. Previous research and efforts have predominantly focussed on the use of technologies for cost estimation and quantity takeoff within a more traditional-led procurement, with a paucity of research focussing on how 5D BIM could facilitate costing within contractor-led procurement. This study fills this current knowledge gap and enhances the understanding of the specific costing challenges faced by contractors in contractor-led projects, leading to the development of 5D framework for use in future projects. Design/methodology/approach To develop a fully detailed understanding of the challenges and issues being faced in this regard, a phenomenological, qualitative-based study was undertaken through interviews involving 21 participants from UK-wide construction organisations. A thematic data analytical process was applied to the data to derive key issues, and this was then used to inform the development of a 5D-BIM costing framework. Findings Multi-disciplinary findings reveal a range of issues faced by contractors when implementing 5D BIM. These exist at strategic, operational and technological levels which require addressing successful implementation of 5D BIM on contractor-led projects adhering to Level 2 BIM standards. These findings cut across the"
+  },
+  {
+   "id": "https://openalex.org/W3041160408",
+   "doi": "10.1061/(asce)cp.1943-5487.0000909",
+   "title": "Data-Driven Reverse Engineering Algorithm Development Method for Developing Interoperable Quantity Takeoff Algorithms Using IFC-Based BIM",
+   "publication_year": 2020,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 49,
+   "relevance_score": null,
+   "authors": [
+    "Temitope Akanbi",
+    "Jiansong Zhang",
+    "Yong-Cheol Lee"
+   ],
+   "n_authors": 3,
+   "abstract": "One main gap in the automation of construction quantity takeoff (QTO) is the lack of a systematic method to address building information models (BIMs) created from different BIM authoring tools and workflows. Even the Industry Foundation Classes (IFC), one of the ISO standard data schema, have been used in a variety of ways, some of which could be proprietary. To address this gap, the authors proposed a new data-driven reverse engineering algorithm development (D-READ) method for developing QTO algorithms based on IFC geometric analysis. The proposed method enables the development of QTO algorithms for IFC-based BIMs resulting from different BIM authoring tools and workflows, and therefore it enhances robustness of BIM-based QTO. It takes a novel bottom-up approach in QTO algorithm development compared to the traditional top-down approach. A model view definition (MVD) model for IFC model checking was developed and incorporated with the QTO algorithms. The proposed method was tested on nine different BIM instance models from different sources. A comparison with the state-of-the-art commercial software showed consistent QTO results, whereas the proposed D-READ method resulted in QTO algorithms that were more robust with regard to the different BIM authoring tools and workflows used."
+  },
+  {
+   "id": "https://openalex.org/W3123443697",
+   "doi": "10.1108/ecam-08-2020-0652",
+   "title": "Automated BIM schedule generation approach for solving time\u2013cost trade-off problems",
+   "publication_year": 2021,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 45,
+   "relevance_score": null,
+   "authors": [
+    "Mohamed ElMenshawy",
+    "Mohamed Mahdy Marzouk"
+   ],
+   "n_authors": 2,
+   "abstract": "Purpose Nowadays, building information modeling (BIM) represents an evolution in the architecture, engineering and construction (AEC) industries with its various applications. BIM is capable to store huge amounts of information related to buildings which can be leveraged in several areas such as quantity takeoff, scheduling, sustainability and facility management. The main objective of this research is to establish a model for automated schedule generation using BIM and to solve the time\u2013cost trade-off problem (TCTP) resulting from the various scenarios offered to the user. Design/methodology/approach A model is developed to use the quantities exported from a BIM platform, then generate construction activities, calculate the duration of each activity and finally the logic/sequence is applied in order to link the activities together. Then, multiobjective optimization is performed using nondominated sorting genetic algorithm (NSGA-II) in order to provide the most feasible solutions considering project duration and cost. The researchers opted NSGA-II because it is one of the well-known and credible algorithms that have been used in many applications, and its performances were tested in several comparative studies. Findings The proposed model is capable to select the near-optimum scenario for the project and export it to Primavera software. A case study is worked to demonstrate the use of the proposed model and illustrate its main features. Originality/value The proposed model ca"
+  },
+  {
+   "id": "https://openalex.org/W2408643379",
+   "doi": "10.1061/9780784479827.221",
+   "title": "Automation of Construction Quantity Take-Off: Using Building Information Modeling (BIM)",
+   "publication_year": 2016,
+   "source": "ASCE Construction Research Congress (CRC)",
+   "type": "conference-paper",
+   "cited_by_count": 44,
+   "relevance_score": null,
+   "authors": [
+    "Hosein Taghaddos",
+    "Ali Naghi Mashayekhi",
+    "Behnam Sherafat"
+   ],
+   "n_authors": 3,
+   "abstract": "Building information modeling (BIM) is a major upheaval in construction industry. Although BIM advantages in construction management has been proved in many papers reviewed, there are still many limitations that inhibit organizations to use BIM models efficiently. However, advancement of application programming interface (API) in the recent years has facilitated employing BIM in construction industry. This research contributes to the state of practice in construction management by developing API codes to automate estimation of construction. The developed API automatically filters items related to a particular discipline within a particular work area and facilitate systematical quantity take off in different work areas. This allows the planner to define proper 3D work areas and to estimate the required materials and man-hours in different work areas throughout the project. The results of the developed automated approach are compared with hand calculated results as well as the results calculated from the BIM software interface in special cases. Finally, the research has been validated by a case study of an actual petrochemical project."
+  },
+  {
+   "id": "https://openalex.org/W4224987878",
+   "doi": "10.1016/j.asej.2022.101813",
+   "title": "The major problems between main contractors and subcontractors in construction projects in Egypt",
+   "publication_year": 2022,
+   "source": "Ain Shams Engineering Journal",
+   "type": "article",
+   "cited_by_count": 42,
+   "relevance_score": null,
+   "authors": [
+    "Dalia A. Kshaf",
+    "Mohamed A. Mohamed",
+    "Karim Mohamed El-Dash"
+   ],
+   "n_authors": 3,
+   "abstract": "Projects usually need continuous coordination among the participants in terms of scope of work, quickness, and timing during the execution phase to be completed without delay. Sub-contracting is a common practice in civil engineering projects. Subcontractors carry out a large part of the work done in construction projects. Thus, selecting the right subcontractor basically contributes to the project\u2019s success. In this study, it was targeted to explore the causes of the mainconflicts between the contractor and subcontractors and the responsibility distribution of these causes. The basic columns of any project are main contractor and subcontractor, so the relationship between them must be good and effective in achieving the project's goals on time. A questionnaire was surveyed among the projects' parties (including the owner, the main contractor, the sub-contractor, and the consultant). The survey covered how to determine the party responsible for factors leading to dispute, and factors contributing to effective interface between main contractors and sub-contractors. Statistical analysis was carried out on the observations of the respondents of the survey using SPSS software. The mean score of each factor, degree of importance, and ranking was determined and the p-value was deduced using the Kruskal-wallis test to compare between the projects' parties. Also, the significance of each factor used in the questionnaire was determined. The conclusions of the study revealed factors th"
+  },
+  {
+   "id": "https://openalex.org/W2341465637",
+   "doi": "10.22452/jscp/vol5no1.4",
+   "title": "Capability of Building Information Modeling Application in Quantity Surveying Practice",
+   "publication_year": 2014,
+   "source": "Journal of Surveying Construction & Property",
+   "type": "article",
+   "cited_by_count": 42,
+   "relevance_score": null,
+   "authors": [
+    "Wong Phui Fung",
+    "Hafez Salleh",
+    "Faizul Azli Mohd Rahim"
+   ],
+   "n_authors": 3,
+   "abstract": "Building information modeling (BIM) application has the potential to revolutionize the quantity surveying practice. It appears that quantity surveyors are still lagging behind in BIM application compared to other professionals. Low adoption among quantity surveyors is due to lack of awareness of the potential of BIM application toward their profession. Quantity surveyors are still unsure of the capability of BIM in their practice. It is still generally underexplored how BIM application contributes to quantity surveyors performance improvement. This research attempts to identify the capabilities of BIM application in quantity surveying practice to increase awareness. The scope of this research limited to pre-construction stage. The potential capabilities are found through literatures and verify through interviews with eight quantity surveyors till achieve saturation. The findings indicated that there are 11 potential BIM capabilities that can enhance quantity surveyors\u2019 performance and majorities of them are confirmed by the interviewees. These findings provide clear understanding that BIM application has the capabilities to enhance quantity surveyors\u2019 performance where traditionally their works are known as time-consuming and error-prone."
+  },
+  {
+   "id": "https://openalex.org/W2224138610",
+   "doi": "10.22452/jscp.vol1no1.4",
+   "title": "Contractor\u2019s Right Of Action For Late Or Non-Payment By The Employer",
+   "publication_year": 2010,
+   "source": "Journal of Surveying Construction & Property",
+   "type": "article",
+   "cited_by_count": 42,
+   "relevance_score": null,
+   "authors": [
+    "Siti Suhana Judi",
+    "Rosli Abdul Rashid"
+   ],
+   "n_authors": 2,
+   "abstract": "Late or non-payment of interim payment to Contractors has been a major issue in theMalaysian Construction Industry. It has affected the performance of Contractors andhas caused several of them not being able to complete the work on time thus causingdelay in the completion of the project. In the worse scenario, they are forced toabandon their projects for lack of fund and some were on the brink of bankruptcy. Thisshould not be the case because it is clearly stated in the various standard formconstruction contract used in Malaysia i.e. the PWD203A (Rev 1/83), PAM 1998/2006and CIDB 2000, that the Contractors must be paid within 30 days, 14 days and 21 daysafter his receipt of the Interim Certificate respectively. Apart from arbitration, whatother remedies available to the Contractor when he is not paid on time or have not been paid at all by the Employer. This paper is written based on a master thesis entitled \u201cThe Contractor\u2019s Right of Action for Late or Non-Payment by the Employer\u201d. Theobjective of the research is to determine the various actions that a Contractor can takein the event of late or non-payment by the Employer. The research focuses only on theissue of late or non-payment of Interim Certificate. It is based on the study of the PWD203A (Rev 83), PAM 98/2006 and CIDB 2000, common law principles and case laws.This research carried out by adopting from combination of document analysis, case lawand review of act and statute. This study involve in legal matter, which can"
+  },
+  {
+   "id": "https://openalex.org/W2075529363",
+   "doi": "10.5130/ajceb.v11i2.1939",
+   "title": "From Disparity to Harmonisation of Construction Industry Payment Legislation in Australia: A Proposal for a Dual Process of Adjudication based upon Size of Progress Payment Claim",
+   "publication_year": 2011,
+   "source": "Construction Economics and Building",
+   "type": "article",
+   "cited_by_count": 40,
+   "relevance_score": null,
+   "authors": [
+    "Jeremy Coggins"
+   ],
+   "n_authors": 1,
+   "abstract": "Since the introduction of the Building and Construction Industry Security of Payment Act into New South Wales in 1999, construction industry payment legislation has progressively been enacted on a jurisdiction-by-jurisdiction basis throughout Australia. Of the eight Australian Acts, two distinct legislative models can be discerned \u2013 what have been termed the \u2018East Coast\u2019 and \u2018West Coast\u2019 models. This article compares the two models with respect to their payment systems and adjudication schemes, procedural justice afforded, incursion upon freedom of contract, uptake rates and efficiency. From this comparison, the strengths and weaknesses of the two models are identified. Finally, a dual process of adjudication based on progress payment claim size is proposed for a harmonised model, developed from previous proposals put forward by other authors, which aims to combine the strengths of the two existing models."
+  },
+  {
+   "id": "https://openalex.org/W4308143453",
+   "doi": "10.1108/ecam-04-2021-0324",
+   "title": "BIM in the Malaysian construction industry: a scientometric review and case study",
+   "publication_year": 2022,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "review",
+   "cited_by_count": 38,
+   "relevance_score": null,
+   "authors": [
+    "Bruno Lot Tanko",
+    "Wyom Paul Zakka",
+    "Wee Nie Heng"
+   ],
+   "n_authors": 3,
+   "abstract": "Purpose The purpose of this study is to explore existing literature on Building Information Modelling (BIM) in Malaysia and examine the perception of practitioners about the potential of BIM applications in reducing construction waste and enhancing productivity. Design/methodology/approach First, using 244 bibliographic data extracted from the Scopus database, the paper used scientometric analysis and VOSviewer mapping technique to assess the most impactful publication literature on BIM in Malaysia to identify the existing research gaps. Second, using a structured questionnaire, a total of 100 questionnaires were distributed to practising practitioners who incorporate BIM in the delivery of their projects. Descriptive analysis using cross-tabulation in SPSS software, radar chart, relative importance index and Pearson\u2019s correlation were used to analyze the data. Findings The research gaps are in the fields of construction projects, buildings, energy efficiency, lifecycle and housing. The findings of the survey indicate that quantity take-off, clash detection, site utilization planning, digital fabrication as well as 4D stimulation were the main BIM applications used among the practitioners in Johor and Selangor. Practical implications By assessing the state-of-the-art of BIM and BIM applications in this region, the practical implications of this study provide useful insights to construction stakeholders, funding organizations, policymakers, research institutions, professionals"
+  },
+  {
+   "id": "https://openalex.org/W2502920204",
+   "doi": null,
+   "title": "BIM educational framework for the quantity surveying students: the Malaysian perspective",
+   "publication_year": 2015,
+   "source": "Journal of Information Technology in Construction",
+   "type": "article",
+   "cited_by_count": 38,
+   "relevance_score": null,
+   "authors": [
+    "Kherun Nita Ali",
+    "Nur Emma Mustaffa",
+    "Jin Keat Quek",
+    "Wallace Imoudu Enegbuma"
+   ],
+   "n_authors": 4,
+   "abstract": "For the past few years, the wave of Building Information Modelling (BIM) has been hitting the shores of Malaysian construction industry. The unprecedented change it brings to the design responsibilities of construction professionals in Malaysia has led to a pre-emptive strategic focus for Quantity Surveying (QS) profession. The QS profession adheres to the 5th dimension of BIM, which invariably translates to the context of costing, offering the capability to generate quantity take-off, counts and measurement directly from a model. BIM digitalized data lead to accurate automated estimation which reduces variability in cost estimation. From the academic point of view, requirements to meet this paradigm shift to BIM requires an enhancement to the existing set of skills and knowledge available in Malaysian institutions of higher learning. The promotion of BIM educational framework for the QS graduates have been professional body led. This is carried out by the Royal Institution of Surveyors Malaysia (RISM) which has been actively involved in establishing the educational framework which in turn has been referred to by the higher institutions that offers quantity surveying program. This paper describes the educational framework for the QS in the context of BIM implementation that charts a route on how knowledge on BIM principles and its application can be imparted to the whole-life inter- disciplinary design and construction with prime focus on the QS scope of work. The primary aim"
+  },
+  {
+   "id": "https://openalex.org/W2025495938",
+   "doi": "10.6106/jcepm.2013.3.1.001",
+   "title": "Preparing a Construction Cash Flow Analysis Using Building Information Modeling (BIM) Technology",
+   "publication_year": 2013,
+   "source": "Journal of Construction Engineering and Project Management",
+   "type": "article",
+   "cited_by_count": 38,
+   "relevance_score": null,
+   "authors": [
+    "Hyunjoo Kim",
+    "Fran\u00e7ois Grobler"
+   ],
+   "n_authors": 2,
+   "abstract": "Construction is a competitive industry and successful contractors must be able to win bids to obtain projects. Cash flow analysis not only determines actual profit at the end of the project, but also estimates required cash resources or cash ballances at the end of every month. Cash flow analysis is important in managing a construction project; however, it requires extensive information that is not immediately available to the general contractor. Before contractors can perform cash flow analysis, they must first complete a series of pre-requisites such as the quantity take off, scheduling, and cost estimating, followed by accurate assessments of project costs incurred and billable progress made. Consequently, cash flow analysis is currently a lengthy, uncertain process. This paper suggests improved cash flow analysis can be developed using data extraction in Building Information Modeling (BIM). BIM models contain a wealth of information and tools have been developed to automate a series of process such as quantity takeoff, scheduling, and estimating. This paper describes a prototype tool to support BIM-based, automated cash flow analysis."
+  },
+  {
+   "id": "https://openalex.org/W2756066625",
+   "doi": "10.1088/1757-899x/236/1/012110",
+   "title": "Utilization of BIM for automation of quantity takeoffs and cost estimation in transport infrastructure construction projects in the Czech Republic",
+   "publication_year": 2017,
+   "source": "IOP Conference Series Materials Science and Engineering",
+   "type": "conference-paper",
+   "cited_by_count": 36,
+   "relevance_score": null,
+   "authors": [
+    "Stanislav Vit\u00e1sek",
+    "Petr Mat\u011bjka"
+   ],
+   "n_authors": 2,
+   "abstract": "The article deals with problematic parts of automated processing of quantity takeoff (QTO) from data generated in BIM model. It focuses on models of road constructions, and uses volumes and dimensions of excavation work to create an estimate of construction costs. The article uses a case study and explorative methods to discuss possibilities and problems of data transfer from a model to a price system of construction production when such transfer is used for price estimates of construction works. Current QTOs and price tenders are made with 2D documents. This process is becoming obsolete because more modern tools can be used. The BIM phenomenon enables partial automation in processing volumes and dimensions of construction units and matching the data to units in a given price scheme. Therefore price of construction can be estimated and structured without lengthy and often imprecise manual calculations. The use of BIM for QTO is highly dependent on local market budgeting systems, therefore proper push/pull strategy is required. It also requires proper requirements specification, compatible pricing database and software."
+  },
+  {
+   "id": "https://openalex.org/W2945154224",
+   "doi": "10.1016/j.aej.2019.05.001",
+   "title": "Prepare and analysis for claims in construction projects using Primavera Contract Management (PCM)",
+   "publication_year": 2019,
+   "source": "Alexandria Engineering Journal",
+   "type": "article",
+   "cited_by_count": 35,
+   "relevance_score": null,
+   "authors": [
+    "Hesham Abdelkhalek",
+    "Remon Fayek Aziz",
+    "Israa A. Abdellatif"
+   ],
+   "n_authors": 3,
+   "abstract": "Change management has a crucial importance in the project management field. Changes in the construction field can be consolidated directly or converted to a full process project claims. A lot of theories and area of concerns spotted claims consolidation methods and techniques to seek best practices to solve such problems between all construction project stakeholders. It is not easy to completely prohibit claims from arising in the construction project, but as the technology developing rapidly; it became easier to face arising claims with a fully documented project, as the good documentation is a fundamental requirement in a successful claim Lixia et al. [5] . Due to project complexity increasing and project cost rising, it is essential for companies to succeed in managing their project's budget and schedule. According to Oracle, 90% of projects overrun their assigned budget, which leads to a high percentage of failed projects in the construction field. Hence, a lot of software appeared to help claimers to manage their claims in the best effective way to reduce the time consumed in the hard preparation which needs a lot of effort and resources to be completed. In another way, the new software maintains focusing on how to win the claim not how documents prepared to go through a claim. One of this software is Oracle Primavera Contract Management (PCM) which is a web-based program includes many features such as document management, cost control, field monitoring and time manageme"
+  },
+  {
+   "id": "https://openalex.org/W2465462568",
+   "doi": "10.1051/matecconf/20166600060",
+   "title": "The Rise Of BIM in Malaysia And Its Impact Towards Quantity Surveying Practices",
+   "publication_year": 2016,
+   "source": "MATEC Web of Conferences",
+   "type": "conference-paper",
+   "cited_by_count": 35,
+   "relevance_score": null,
+   "authors": [
+    "Nurshuhada Zainon",
+    "Faizul Azli Mohd-Rahim",
+    "Hafez Salleh"
+   ],
+   "n_authors": 3,
+   "abstract": "Building Information Modeling (BIM) is a new buzzword that is gaining a momentum within the construction industry in Malaysia, and worldwide. BIM is a way of working that involves the automation of the entire project team using a 4D model that can do many of the traditional fuctions of a Quatity Surveyor (QS). As BIM is removing more of the traditional work of QS, there are rising fears that it could threaten the viability of the QS professions especially for small firms that still rely on producing bills of quantities. This paper aims to review the challenges and opportunities gained from BIM advancement in QS profession, especially in Malaysia. Despite of serious cost and commercial challenges of BIM implementation, BIM will work wonder as a tool that will cut the amount of time QS have to spend on analysis and provides opportunities to direct QS talents towards being more efficient. This is resulting to better project coordination with a lot less conflict, a more sustainable building in the final instance and also throughout the process, as less time is spent on each stage."
+  },
+  {
+   "id": "https://openalex.org/W4286499413",
+   "doi": "10.3390/buildings12071063",
+   "title": "Development and Application of an Integrated Management System for Off-Site Construction Projects",
+   "publication_year": 2022,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 34,
+   "relevance_score": null,
+   "authors": [
+    "YeEun Jang",
+    "Jae-Man Lee",
+    "JeongWook Son"
+   ],
+   "n_authors": 3,
+   "abstract": "The off-site construction (OSC) method has attracted the interest of experts to resolve productivity stagnation and lack of skilled workforce and to reduce greenhouse gas emissions in the construction industry. Due to the unique characteristics of OSC projects, wherein building elements are produced in a factory, transported, and installed in the field, a management approach that differs from the management techniques of previous construction projects is required. Accordingly, with this study, we examined the characteristics of OSC projects and derived key management items through literature review, case analysis, and expert meetings to develop an integrated management system for OSC projects (OSC-IMS). The proposed system, OSC-IMS, integrates the entire supply chain of the OSC project. It includes the following functions: drawing management, scheduling and planning, site installation planning, production planning, production monitoring, shipping and transportation, delivery and inspection, site installation monitoring, and progress payment management. To verify the applicability and effectiveness of OSC-IMS, it was implemented in four projects. The application of the system to the case studies demonstrated the improvements in work efficiency and accuracy and decreased waste time in every work step. The findings indicate that the system can enhance project performance. This study contributes to the identification of the features and key elements of OSC management such that th"
+  },
+  {
+   "id": "https://openalex.org/W2050367370",
+   "doi": "10.3846/13923730.2011.576806",
+   "title": "AN INTEGRATED WEB-BASED DATA WAREHOUSE AND ARTIFICIAL NEURAL NETWORKS SYSTEM FOR UNIT PRICE ANALYSIS WITH INFLATION ADJUSTMENT / INTEGRUOTA INTERNETIN\u0116 DUOMEN\u0172 SAUGYKLOS IR DIRBTINI\u0172 NEURONINI\u0172 TINKL\u0172 SISTEMA, SKIRTA VIENETO KAINAI ANALIZUOTI ATSI\u017dVELGIANT \u012e INFLIACIJ\u0104",
+   "publication_year": 2011,
+   "source": "Journal of Civil Engineering and Management",
+   "type": "article",
+   "cited_by_count": 32,
+   "relevance_score": null,
+   "authors": [
+    "Yousef Baalousha",
+    "Tahir \u00c7elik"
+   ],
+   "n_authors": 2,
+   "abstract": "Estimating is a fundamental part of construction projects. Accurate cost estimate is the single most important element involved in the series of events that leads to a profitable completion of a contract in construction industry. The success or failure of a project depends on the accuracy of cost estimation. A cost estimate becomes more difficult and more complicated under inflationary medium. An unpredictable inflation rate and long progress payment delay during this period makes the budgeting function very difficult, if not impossible. The cost estimation process uses lots of data. The availability of the appropriate data at the appropriate time is one of the main factors affecting the accuracy of the cost estimation. As the complexity of the estimating task increases computerized system becomes increasingly important. The estimator should develop a good system of estimating forms and procedures that exactly meet the requirements of the pro- ject, and that is understood and accessible by all team members. This system should provide the ability to define material, labor hour and equipment hour quantities required for the project. Material, labor, and equipment unit costs are then applied to the bill of quantities. This paper presents An Integrated Web-Based Data Warehouse and Artificial Neural Net- works Model for Unit Price Analysis with Inflation Adjustment system called \u201cDANUP\u201c. Web facilities and database management capabilities of Microsoft Visual Studio 2005 are applie"
+  },
+  {
+   "id": "https://openalex.org/W3035194390",
+   "doi": "10.1088/1755-1315/267/5/052041",
+   "title": "Building Information Modelling (BIM) Adoption by Quantity Surveyors: A Preliminary Survey from Malaysia",
+   "publication_year": 2019,
+   "source": "IOP Conference Series Earth and Environmental Science",
+   "type": "conference-paper",
+   "cited_by_count": 30,
+   "relevance_score": null,
+   "authors": [
+    "Noor Akmal Adillah Ismail",
+    "Hamimah Adnan",
+    "Nor Azmi Bakhary"
+   ],
+   "n_authors": 3,
+   "abstract": "Inefficiencies and ineffectiveness of delivering construction projects have negatively impacted the construction industry for decades. However, the emergence of BIM technology has influenced the construction process with its many benefits towards project success. Among the benefits offered by BIM are reduced project time and cost; and enhanced team collaboration and communication through the improvement of project quality and its performance. Consequently, BIM applications are claimed to provide more reliable working practice for Quantity Surveyors especially in establishing their cost estimates. Despite its well-known advantages that drive BIM employment worldwide, its usage in Malaysia is still at infancy level, with the lack of implementation by the Quantity Surveyors. Thus, this paper aims to explore BIM usage amongst Quantity Surveyors in Malaysia. A preliminary survey was undertaken to capture their views on BIM awareness, the application of BIM software, BIM usage by project stages, prospects of BIM and its importance. The findings from the survey show that BIM implementation amongst the professionals was still low. The application of BIM tools was used mostly for cost estimating and preparing Bills of Quantities (BQ) for tender documentation purpose only. Although BIM was mostly rated as important, most of the respondents were only aware of BIM but were not using it in their practice. However, they showed their interest in knowing more on how BIM would benefit their p"
+  },
+  {
+   "id": "https://openalex.org/W4408555001",
+   "doi": "10.1016/j.autcon.2025.106117",
+   "title": "Monitoring concrete pouring progress using knowledge graph-enhanced computer vision",
+   "publication_year": 2025,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 29,
+   "relevance_score": null,
+   "authors": [
+    "Fabian Pfitzner",
+    "Songbo Hu",
+    "Alexander Braun",
+    "Andr\u00e9 Borrmann",
+    "Yihai Fang"
+   ],
+   "n_authors": 5,
+   "abstract": "Accurate progress measurement in concrete pouring is essential to prevent project delays and material waste. This paper introduces a knowledge graph (KG)-enhanced computer vision (CV) method to improve the accuracy and generalizability of traditional methods used in concrete pouring monitoring, which often struggle to integrate contextual data. By combining object detection and extracting information from BIM models, the method creates a KG to represent spatial\u2013temporal relationships among building components and pouring-related resources ( e.g ., concrete mixer , bucket, hose, workers). Rule-based interpretation and Graph Neural Networks (GNN) classify pouring states and cycles, achieving 80.3% accuracy with the rule-based system and 89.2% with GNN in conducted experiments on ten samples across two construction sites. These findings demonstrate that the KG-enhanced CV method provides generalizability, offering data-driven support for site managers to efficiently coordinate processes. This approach lays the foundation for detailed process-oriented digital twinning of construction projects, enabling deeper insights and better decision-making."
+  },
+  {
+   "id": "https://openalex.org/W3037747016",
+   "doi": "10.48295/et.2020.77.10",
+   "title": "BIM for infrastructure: an efficient process to achieve 4D and 5D digital dimensions",
+   "publication_year": 2020,
+   "source": "European Transport/Trasporti Europei",
+   "type": "article",
+   "cited_by_count": 28,
+   "relevance_score": null,
+   "authors": [
+    "Fabrizio D\u2019Amico"
+   ],
+   "n_authors": 1,
+   "abstract": "Introduction of the Building Information Modeling (BIM) approach in Civil Engineering practices allows a design optimization through both an improved control of all the components of a project and an increased efficiency in the collaboration between all professionals involved. In Italy, major attention is being paid by scientists and professionals on this subject area, especially after the implementation of the national law DM 560/2017. This document will gradually rule the integration of BIM-based procedures for contractors in major public tenders. The present paper aims to propose a methodology for implementing an optimization dynamic model of time (4D) and costs (5D) across different project phases. To achieve this aim, the process relies on several authoring tools and 4D/5D modeling software, capable to incorporate a variety of project data in a unique and shared environment. The most effective methodology to maximize the interoperability between various codes will be presented. In this regard, a dynamic model involving an optimization-oriented approach for both the quantity surveying and the definition of the design management timeline is introduced. It is important to emphasize that these aspects are two of the major issues for the evaluation criteria in a civil engineering project. Also, this bidirectional process allows for a more accurate estimation of project costs as well as to achieve an optimized timeline of construction activities. Finally, it worth reminding th"
+  },
+  {
+   "id": "https://openalex.org/W4292440661",
+   "doi": "10.1007/s13369-022-07172-y",
+   "title": "Characteristics-Based Framework of Effective Automated Monitoring Parameters in Construction Projects",
+   "publication_year": 2022,
+   "source": "Arabian Journal for Science and Engineering",
+   "type": "article",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "Abdul Hannan Qureshi",
+    "Wesam Salah Alaloul",
+    "Wong Kai Wing",
+    "Syed Saad",
+    "Syed Ammad",
+    "Muhammad Altaf"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4220659750",
+   "doi": "10.3390/buildings12030354",
+   "title": "Towards Automated Construction Quantity Take-Off: An Integrated Approach to Information Extraction from Work Descriptions",
+   "publication_year": 2022,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "Shengxian Tang",
+    "Hexu Liu",
+    "Manea Almatared",
+    "Osama Y. Abudayyeh",
+    "Zhen Lei",
+    "Alvis C. M. Fong"
+   ],
+   "n_authors": 6,
+   "abstract": "Construction-oriented quantity take-off (QTO) refers to the process of determining the quantities for construction items or work packages in accordance with their descriptions. However, the current construction-oriented QTO practice relies on estimators\u2019 manual interpretation of work descriptions and manual processes to look up proper building objects for quantity calculation. Hence, this research aims to develop natural language processing (NLP) and rule-based algorithms to automate the information extraction (IE) from work descriptions for QTO in building construction. Specifically, several named entity recognition (NER) models, including Hidden Markov Model (HMM), Conditional Random Field (CRF), Bidirectional-Long Short-Term Memory (Bi-LSTM), and Bi-LSTM+CRF, were developed to identify construction activities, material, building component, product features, measurement unit, and additional information (e.g., work scope) from work descriptions. Cost items in the RSMeans database are used to evaluate the developed models in terms of F1 scores. HMM was found to achieve a 5% higher F1 score in the NER than the other three algorithms. Then, labeling rules and active learning strategies were applied along with the HMM model, which improved F1 score by 3% and reduced the labeling efforts by 26%. The results showed that the proposed IE method successfully interprets the desired information from the work description for QTO. This research contributed to the body of knowledge by the"
+  },
+  {
+   "id": "https://openalex.org/W3013150083",
+   "doi": "10.1016/j.jclepro.2020.121291",
+   "title": "Use and intensity of electronic invoices in firms: The example of Sweden",
+   "publication_year": 2020,
+   "source": "Journal of Cleaner Production",
+   "type": "article",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "Eva Hagsten",
+    "Martin Falk"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4283659391",
+   "doi": "10.3390/su14137797",
+   "title": "Design and Implementation of Quantity Calculation Method Based on BIM Data",
+   "publication_year": 2022,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 26,
+   "relevance_score": null,
+   "authors": [
+    "Binjin Chen",
+    "Shaohua Jiang",
+    "Ligang Qi",
+    "Yawu Su",
+    "Yufeng Mao",
+    "Meng Wang"
+   ],
+   "n_authors": 7,
+   "abstract": "Manual quantity takeoff using two-dimensional (2D) drawings and personal knowledge is error-prone and time-consuming. Theoretically, quantity can be automatically calculated from building information model more quickly and reliably by extracting geometric data and semantic attributes of building elements. Specific construction classification systems embedded in mainstream modeling software for building information modeling (BIM) make it difficult for countries adopting different systems to calculate quantity directly. This paper proposes a BIM-based quantity takeoff code mapping (BQTCM) method to solve the above issue, and develops a quantity takeoff code mapping plug-in (QTCMP) on a BIM modeling software based on the proposed BQTCM method to obtain an accurate bill of quantities directly and efficiently. Moreover, by conducting a statistical analysis and examining a case study, this paper verifies the accuracy and efficiency of quantity takeoff attained from the proposed BQTCM method and QTCMP."
+  },
+  {
+   "id": "https://openalex.org/W3085000931",
+   "doi": "10.1007/978-3-030-35533-3_4",
+   "title": "Quantity Take-Off Process Supported by Building Information Modeling (BIM) Methodology",
+   "publication_year": 2020,
+   "source": "Advances in Science, Technology & Innovation/Advances in science, technology & innovation",
+   "type": "book-chapter",
+   "cited_by_count": 26,
+   "relevance_score": null,
+   "authors": [
+    "Alc\u00ednia Zita Sampaio",
+    "Bernardo G. Antunes",
+    "Nuno Marques Almeida"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3035388834",
+   "doi": "10.1093/jeclap/lpaa026",
+   "title": "Application of Article 107(2)(b) TFEU to Covid-19 Measures: State Aid to Make Good the Damage Caused by an Exceptional Occurrence",
+   "publication_year": 2020,
+   "source": "Journal of European Competition Law & Practice",
+   "type": "article",
+   "cited_by_count": 26,
+   "relevance_score": null,
+   "authors": [
+    "Phedon A. Nicolaides"
+   ],
+   "n_authors": 1,
+   "abstract": "On 12 March 2020, the European Commission approved the first state aid measure to combat the Covid-19 pandemic (case SA.56685 notified by Denmark). Two months later the Commission authorised more than 120 measures, mostly in the form of grants and subsidies for loan guarantees and interest rates.1 The vast majority of those measures were authorised on the basis of Article 107(3)(b) TFEU which allows state aid to \u2018remedy a serious disturbance in the economy of a Member State\u2019. Only 10 measures were authorised on the basis of Article 107(2)(b) TFEU for the purpose of making \u2018good damage caused by a natural disaster or exceptional occurrence\u2019. Covid-19 is both an exceptional occurrence and a serious economic disturbance. This suggests that Member States could choose to notify their aid measures on the basis of either Article 107(2)(b) or Article 107(3)(b). In theory, they should have chosen Article 107(2)(b) because the discretion of the Commission in this instance is narrower than under Article 107(3)(b). The Treaty itself declares aid to make good the damage caused by an exceptional occurrence compatible with the internal market, whereas aid to remedy a serious disturbance may be compatible with the internal market. Therefore, the discretion of the Commission is much wider in assessing whether the latter is or is not compatible. More than 120 state aid measures have been implemented to combat Covid-19. Only 10 of those measures are based on Article 107(2)(b) TFEU which allows "
+  },
+  {
+   "id": "https://openalex.org/W4313467118",
+   "doi": "10.3390/buildings13010005",
+   "title": "Effective Motion Sensors and Deep Learning Techniques for Unmanned Ground Vehicle (UGV)-Based Automated Pavement Layer Change Detection in Road Construction",
+   "publication_year": 2022,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 25,
+   "relevance_score": null,
+   "authors": [
+    "Tirth Patel",
+    "Brian H.W. Guo",
+    "Jacobus Daniel van der Walt",
+    "Yang Zou"
+   ],
+   "n_authors": 4,
+   "abstract": "As-built progress of the constructed pavement should be monitored effectively to provide prompt project control. However, current pavement construction progress monitoring practices (e.g., data collection, processing, and analysis) are typically manual, time-consuming, tedious, and error-prone. To address this, this study proposes sensors mounted using a UGV-based methodology to develop a pavement layer change classifier measuring pavement construction progress automatically. Initially, data were collected using the UGV equipped with a laser ToF (time-of-flight) distance sensor, accelerometer, gyroscope, and GPS sensor in a controlled environment by constructing various scenarios of pavement layer change. Subsequently, four Long Short-Term Memory network variants (LSTMs) (LSTM, BiLSTM, CNN-LSTM, and ConvLSTM) were implemented on collected sensor data combinations for developing pavement layer change classifiers. The authors conducted the experiment to select the best sensor combinations for feature detection of the layer change classifier model. Subsequently, individual performance measures of each class with learning curves and confusion matrices were generated using sensor combination data to find out the best algorithm among all implemented algorithms. The experimental result demonstrates the (az + gx + D) sensor combination as the best feature detector with high-performance measures (accuracy, precision, recall, and F1 score). The result also confirms the ConvLSTM as the "
+  },
+  {
+   "id": "https://openalex.org/W3139723667",
+   "doi": "10.4186/ej.2021.25.1.155",
+   "title": "Assessing BIM Adoption towards Reliability in QS Cost Estimates",
+   "publication_year": 2021,
+   "source": "Engineering Journal",
+   "type": "article",
+   "cited_by_count": 25,
+   "relevance_score": null,
+   "authors": [
+    "Noor Akmal Adillah Ismail",
+    "Raja Rafidah Raja Muhammad Rooshdi",
+    "Shaza Rina Sahamir",
+    "Hazwani Ramli"
+   ],
+   "n_authors": 4,
+   "abstract": "BIM technology has been evolving around the world in recent years.As in Malaysia, the country has initiated BIM in its current Construction Industry Transformation Programme (CITP) 2016-2020.One of the CITP agenda is to encourage BIM usage to assist the construction players in improving their current practices towards better productivity, hence better sustainability within the construction industry.In quantity surveying field, the technology potentially helps the Quantity Surveyors to accelerate the process of taking-off building quantities, subsequently establishing more reliable and sustainable cost estimates.Although BIM is claimed to upgrade the conventional methods of the measurement tasks, there are still some limitations of BIM innovation, with previous studies lacking explanation in identifying those issues.Therefore, this study aims to investigate the effectiveness of using BIM to aid Malaysian Quantity Surveyors primarily in cost estimating towards composing sustainability elements in the construction industry.To achieve this, a series of focus group discussions were conducted amongst BIM and non-BIM users.Through content analysis, it resulted that the capabilities of estimators in occupying BIM is critical to accomplish the sustainable benefits of the technology.It engages skills in both technology usage and traditional methods of measurement to achieve holistic knowledge of building construction.Thus, it enhances the performance of the estimators to likely generat"
+  },
+  {
+   "id": "https://openalex.org/W3118571087",
+   "doi": "10.1108/ci-05-2020-0081",
+   "title": "Tracking major resources for automated progress monitoring of construction activities: masonry work case",
+   "publication_year": 2021,
+   "source": "Construction Innovation",
+   "type": "article",
+   "cited_by_count": 25,
+   "relevance_score": null,
+   "authors": [
+    "G\u00fcr\u015fans G\u00fcven",
+    "Esin Ergen"
+   ],
+   "n_authors": 2,
+   "abstract": "Purpose The purpose of this study is to monitor the progress of construction activities in an automated way by using sensor-based technologies for tracking multiple resources that are used in building construction. Design/methodology/approach An automated on-site progress monitoring approach was proposed and a proof-of-concept prototype was developed, followed by a field experimentation study at a high-rise building construction site. The developed approach was used to integrate sensor data collected from multiple resources used in different steps of an activity. It incorporated the domain-specific heuristics that were related to the site layout conditions and method of activity. Findings The prototype estimated the overall progress with 95% accuracy. More accurate and up-to-date progress measurement was achieved compared to the manual approach, and the need for visual inspections and manual data collection from the field was eliminated. Overall, the field experiments demonstrated that low-cost implementation is possible, if readily available or embedded sensors on equipment are used. Originality/value Previous studies either monitored one particular piece of equipment or the developed approaches were only applicable to limited activity types. This study demonstrated that it is technically feasible to determine progress at the site by fusing sensor data that are collected from multiple resources during the construction of building superstructure. The rule-based reasoning algo"
+  },
+  {
+   "id": "https://openalex.org/W234694332",
+   "doi": "10.1044/leader.ftr3.17032012.28",
+   "title": "A Growing Niche in Corporate America",
+   "publication_year": 2012,
+   "source": "ASHA Leader",
+   "type": "article",
+   "cited_by_count": 25,
+   "relevance_score": null,
+   "authors": [
+    "Marjorie Feinstein-Whittaker",
+    "Lynda Katz Wilner",
+    "Lorna D. Sikorski"
+   ],
+   "n_authors": 3,
+   "abstract": "You have accessThe ASHA LeaderFeature1 Mar 2012A Growing Niche in Corporate America Marjorie Feinstein-Whittaker, MS, CCC-SLP Lynda Katz Wilner, andMS, CCC-SLP Lorna D. SikorskiMA, CCC-SLP Marjorie Feinstein-Whittaker Google Scholar More articles by this author , MS, CCC-SLP, Lynda Katz Wilner Google Scholar More articles by this author , MS, CCC-SLP and Lorna D. Sikorski Google Scholar More articles by this author , MA, CCC-SLP https://doi.org/10.1044/leader.FTR3.17032012.28 SectionsAbout ToolsAdd to favorites ShareFacebookTwitterLinked In Many speech-language pathologists in the United States are discovering a niche market that\u2019s been around for more than 40 years but is growing: assisting highly educated non-native English speakers with their English communication skills, including accent modification. This market takes SLPs out of their traditional work settings\u2014schools, hospitals, rehabilitation centers, academia\u2014away from clients with speech and language disorders and into the corporate setting where there is great demand for communication services. This arena raises several questions: What skills are required? Are SLPs equipped to work in this area? What are the unique considerations for this group of service-seekers? Where do you get started and how? Read on to learn what we\u2019ve gleaned from our collective 69 years of experience in this niche. Brief History Several decades ago, non-native English speakers in corporate settings began contacting SLPs for help with their "
+  },
+  {
+   "id": "https://openalex.org/W4361028464",
+   "doi": "10.14525/jjce.v17i2.10",
+   "title": "Simplified Solution of Time-Cost Trade-off Problem for Building Constructions by Linear Scheduling",
+   "publication_year": 2023,
+   "source": "Jordan Journal of Civil Engineering",
+   "type": "article",
+   "cited_by_count": 24,
+   "relevance_score": null,
+   "authors": [
+    "\u00d6nder Halis Bettemir"
+   ],
+   "n_authors": 1,
+   "abstract": "Time-cost trade-off is an important optimization problem for contractors, because its optimum solution minimizes the total project cost. Formation of the time-cost trade-off problem causes an important workload, since the problem requires preparation of different construction cost and duration alternatives of the activities. Previous studies focused on the optimum solution of the problem and ignored the difficulties of the preparation of the different construction alternatives for the activities, which is a very difficult task for contractors. In this study, the creation of construction alternatives consisting of different time and cost values is automated. Quantity take-off of construction items is computed by user-defined dimensions of structural elements. Workmanship and material requirements are computed by pre-defined job descriptions and quantity take-off values. Different construction alternatives are formed by assigning different crew sizes and the corresponding construction durations are computed by estimating the job efficiency of the crew by regression models derived from the literature. Precedence relationships of the main construction items are pre-defined and the construction schedule is formed by a line of balance in terms of work days. The problem is optimized by a genetic algorithm the parameters of which are fine-tuned by experimental design. The developed approach is implemented on a spreadsheet application and the total optimization process including data "
+  },
+  {
+   "id": "https://openalex.org/W3122255187",
+   "doi": "10.2174/1874149502014010388",
+   "title": "Building Information Modeling (BIM) in Enhancing the Applying of Knowledge Areas in the Architecture, Engineering and Construction (AEC) Industry",
+   "publication_year": 2020,
+   "source": "The Open Civil Engineering Journal",
+   "type": "article",
+   "cited_by_count": 24,
+   "relevance_score": null,
+   "authors": [
+    "Mohammed N. Maliha",
+    "Bassam A. Tayeh",
+    "Yazan Issa Abu Aisheh"
+   ],
+   "n_authors": 3,
+   "abstract": "Background: The Architecture, Engineering, and Construction (AEC) industry is one of the sectors that contribute the most to the Palestinian economy. However, it now suffers from many problems, one of which is not adopting new innovations, such as Building Information Modeling (BIM). BIM recently achieved far reaching consideration in the AEC industry. Aim: This research aimed to understand the contribution of BIM to the enhancement and application of Knowledge Areas (KAs) in the AEC industry in Palestine. Methods: A quantitative survey was utilized in the pilot study. Thirty copies of the questionnaire were dispersed to respondents from the target group. The completed questionnaires were analyzed to test for statistical validity and reliability. After the pilot study, the questionnaire was validated and dispersed to the entire sample, comprising respondents from the target group who were selected by convenience sampling. Eighty copies of the questionnaire were dispersed, and 71 copies of the questionnaire were obtained from the respondents with a response rate of 88.8%. Results: To draw meaningful results, the gathered information was analyzed by utilizing quantitative data analysis techniques, including the RII, Pearson correlation analysis, and Factor analysis. Conclusion: The results illustrated the extent of enhancing the application of KAs in the AEC industry using BIM technology from the highest to lowest as follows: Cost Management (CM), Time Management (TM), Resource"
+  },
+  {
+   "id": "https://openalex.org/W3025743704",
+   "doi": "10.5772/intechopen.91221",
+   "title": "5D BIM Applications in Quantity Surveying: Dynamo and 3D Printing Technologies",
+   "publication_year": 2020,
+   "source": "IntechOpen eBooks",
+   "type": "book-chapter",
+   "cited_by_count": 23,
+   "relevance_score": null,
+   "authors": [
+    "Anqi Shi",
+    "Sara Shirowzhan",
+    "Samad M. E. Sepasgozar",
+    "Alireza Kaboli"
+   ],
+   "n_authors": 4,
+   "abstract": "Digital construction is increasingly introduced to the architecture, engineering, and construction (AEC) industry. The fifth dimension of Building Information Modeling (5D BIM) has a significant contribution to the AEC industry, such as managing time and costs and resources management. However, 5D BIM has not fulfilled its promise completely. The major challenge of implementing the 5D BIM technology and applications is the interoperability between technologies and the low accuracy of measurement estimations. Dynamo is adopted in this chapter for detailed quantity measurement. Three-dimensional printing (3DP) is one of the additive manufacturing technologies which is recommended to be used in construction. 3DP is aiming to create complex and customized geometries. This chapter demonstrates how to apply the Dynamo scripts of detailed quantity take-off for estimating the volume of elements created by 3DP. Dynamo as a quantity take-off Add-in in Revit is always used for detailed quantity take-off or precise model created. After the detailed quantity take-off from Revit, the data can be exported into Excel extension, which allows the quantity surveyors to insert the price per unit to the file and to generate a Bill of Quantity (BOQ). This chapter will offer a procedure for applying Dynamo through two selected case studies."
+  },
+  {
+   "id": "https://openalex.org/W4225151022",
+   "doi": "10.3390/app12094546",
+   "title": "Leveraging Quantity Surveying Data and BIM to Automate Mechanical and Electrical (M & E) Construction Planning",
+   "publication_year": 2022,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 22,
+   "relevance_score": null,
+   "authors": [
+    "Maroua Sbiti",
+    "Djaoued Beladjine",
+    "Karim Beddiar",
+    "B. Mazari"
+   ],
+   "n_authors": 4,
+   "abstract": "Despite the great potential of LPS and BIM to improve construction project productivity, the full integration of these modern production and information management systems at the data processing level is not yet achieved. After matching the literature to empirical studies in a Constructive Research Approach, it emerged that very few studies have investigated how buildings\u2019 data could be preserved and continuously evolve during the project lifecycle. Accordingly, we underline the potential role of data warehousing in rendering operational data as a strategic asset for decision making. These findings motivate the present research, which aims to capitalize on quantity surveying data in order to automate the generation of M & E installation schedules. This paper first introduces the system functional requirements. Then, it proposes a conceptual scheme for the planning data mart (a data warehouse subset dedicated to planning subject area). Furthermore, we shed light on the M & E fragnet standardization procedure and how data have been processed. Finally, we present the current software developments to demonstrate the feasibility of this concept."
+  },
+  {
+   "id": "https://openalex.org/W2977279162",
+   "doi": "10.1007/978-3-030-64837-4_8",
+   "title": "Security Reductions for White-Box Key-Storage in Mobile Payments",
+   "publication_year": 2020,
+   "source": "Lecture notes in computer science",
+   "type": "conference-paper",
+   "cited_by_count": 22,
+   "relevance_score": null,
+   "authors": [
+    "Estuardo Alp\u00edrez Bock",
+    "Chris Brzuska",
+    "Marc Fischlin",
+    "Christian Janson",
+    "Wil Michiels"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4408615942",
+   "doi": "10.3390/su17062729",
+   "title": "BIM Uses for Mitigating Deficiencies in Road Scheduling Planning",
+   "publication_year": 2025,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 21,
+   "relevance_score": null,
+   "authors": [
+    "Karen Casta\u00f1eda",
+    "Omar S\u00e1nchez",
+    "Carlos A. Pe\u00f1a",
+    "Rodrigo Fernando Herrera",
+    "Guillermo Mej\u00eda"
+   ],
+   "n_authors": 5,
+   "abstract": "Efficient scheduling is essential for successful and sustainable road construction projects. However, conventional planning approaches often lack adaptability, visualization, and integration with modern technologies, leading to schedule deficiencies and cost overruns. Therefore, this paper studies the influence of BIM uses in mitigating planning deficiencies in road construction scheduling. A four-stage research method was employed: (1) identification of BIM uses relevant to road projects, (2) determination of principal causes contributing to scheduling deficiencies, (3) cross-impact analysis to quantify BIM\u2019s influence on these deficiencies, and (4) expert interviews to characterize key BIM uses. Results highlight that 4D construction planning, quantity take-off and cost estimation, and traffic management planning positively impact road scheduling, reducing errors in work breakdown structures, resource allocation, and coordination between project stakeholders. BIM streamlines communication, supports proactive risk management, and enables real-time schedule adjustments by providing an integrated digital environment. This research shows the advantages of applying BIM in road construction to improve project planning, curtail scheduling setbacks, and encourage adopting innovative practices. The results provide information that planners can utilize to enhance the use of BIM in scheduling road construction projects."
+  },
+  {
+   "id": "https://openalex.org/W3199946722",
+   "doi": "10.24200/sci.2021.56668.4847",
+   "title": "Enhanced Automated Quantity Take-Off in Building Information Modeling Enhanced automated quantity take-off in building information modeling",
+   "publication_year": 2022,
+   "source": "Scientia Iranica",
+   "type": "article",
+   "cited_by_count": 21,
+   "relevance_score": null,
+   "authors": [
+    "Behnam Sherafat",
+    "Hosein Taghaddos",
+    "E. Shafaghat"
+   ],
+   "n_authors": 3,
+   "abstract": "Material quantity take-off is a necessary factor in estimating the cost of construction projects; accordingly, fast and precise estimations would better facilitate the overall construction process. In recent years, several Building Information Modeling (BIM) based applications (e.g., Autodesk Revit, Tekla Structure, Autodesk Navisworks Manage, and Solibri Model Checker) have emerged to assist in performing quantity take-off. Quantity take-off measurement using these applications is accurate when the elements length multiplies with their precise section area. Still, the process encounters errors when using element volumes or Industry Foundation Classes (IFC). In this study, the authors examined the embedded quantity take-off feature of these applications for sample steel and reinforced concrete structure and provided precautions in employing BIM properties. Consequently, an automated approach has been applied to facilitate an accurate quantity take-off by using an Application Program Interface (API) extracting information from a Navisworks model as well as database management systems. A case study is subsequently presented to demonstrate and validate the proposed methodology."
+  },
+  {
+   "id": "https://openalex.org/W3094209954",
+   "doi": "10.28991/cej-2020-03091596",
+   "title": "Building Information Modeling Strategy in Mitigating Variation Orders in Roads Projects",
+   "publication_year": 2020,
+   "source": "Civil Engineering Journal",
+   "type": "article",
+   "cited_by_count": 21,
+   "relevance_score": null,
+   "authors": [
+    "Musab Abuaddous",
+    "Ja\u2019far A. Aldiabat Al-Btoosh",
+    "Mohammed A.KA. Al-Btoush",
+    "Abdulrazzaq Jawish Alkherret"
+   ],
+   "n_authors": 4,
+   "abstract": "Most governmental projects in Jordan have cost overrun, it rises during the on-going stage to increase the cost and prolong the time of the project. Unfortunately, until this moment, there is no particular management system in Jordan construction industry to minimize cost overrun and variation order adopted by the government. In contrast, global construction industry has witnessed a huge transformation in terms of the use of digital technologies, particularly Building Information Modeling (BIM) which is a revolutionary digital technology and operation that is reshaping the Architecture, Engineering and Construction (AEC) industry. approach and objectives causes before of this paper are firstly to review the factors contributing to variation orders in governmental road projects in Jordan, secondly, to propose a BIM design applications strategy to minimize variation orders, to achieve the objectives a quantitative approach was followed by distributing a questionnaire, then the data was analyzed statistically using relative importance index, the results were as follow. Our findings suggests that the most important factors causing change orders were as follow: Inaccurate quantity take-off (0.66); Labours or material not meeting the specifications (0.63); Logistic delays (0.60); Internal politics (0.566); and the equipment and tools are not available (0.55). The results also indicate that Contract Parties, Consultant, Contractor and Other Variations had significant positive effect"
+  },
+  {
+   "id": "https://openalex.org/W3029803359",
+   "doi": "10.3390/infrastructures5060045",
+   "title": "Web-Based Architecture for Automating Quantity Surveying Construction Cost Calculation",
+   "publication_year": 2020,
+   "source": "Infrastructures",
+   "type": "article",
+   "cited_by_count": 21,
+   "relevance_score": null,
+   "authors": [
+    "Jabar H. Yousif",
+    "Saif N. Abdul Majeed",
+    "Fouad Jameel Ibrahim Alazzawi"
+   ],
+   "n_authors": 3,
+   "abstract": "Quantity Surveying (QS) is a process concerned with controlling and managing the costs of construction projects. QS Measurement relies on sophisticated measurement rules that are understood by experienced practitioners. Traditional QS systems, such as standard paperwork, are time-consuming and only approximate the cost estimate. This paper aims to design and deploy a web-based framework for automating the cost estimation of concrete construction, using ASP.NET. It introduces a user-friendly interface, which ensures that the work is completed in the chronological order of the construction phases. The proposed QS framework offers a reliable and time-efficient estimation method, in comparison to other methods (i.e., human labor using paper or Excel), which was tested using real data and was validated by experts and consultant companies. Furthermore, it automated the reading of project information from construction maps, which reduced errors when estimating costs. It could also automatically determine the project location using Google Maps and could quickly guide the user to the location. The proposed QS framework automated the manual and Excel work of cost computing with an accuracy of 99%, reducing human calculation errors. It also effectively reduced the calculation time to only three days (compared to 114 days of manual work or 19 days of Excel work). The comparison result of the Quantity Surveyor\u2019s average paid salary indicated that using web-based QS framework helps in redu"
+  },
+  {
+   "id": "https://openalex.org/W3103426399",
+   "doi": "10.1061/9780784482889.069",
+   "title": "Automated Design Information Extraction from Construction Specifications to Support Wood Construction Cost Estimation",
+   "publication_year": 2020,
+   "source": "ASCE Construction Research Congress (CRC)",
+   "type": "conference-paper",
+   "cited_by_count": 20,
+   "relevance_score": null,
+   "authors": [
+    "Temitope Akanbi",
+    "Jiansong Zhang"
+   ],
+   "n_authors": 2,
+   "abstract": "In achieving full automation of construction cost estimation, the complete processes involved in computing cost estimates must be automated. The typical processes involved in achieving cost estimates are: (1) classification and matching of model elements to their various categories; (2) taking off quantities from design documents or building information models; (3) retrieving unit cost from a cost database; and (4) applying the unit costs and quantities in computing the cost estimate. Although, the level of automation in quantity takeoff has been relatively high, most commercial software programs still require manual inputs from estimators to: (1) match materials of building elements to work items; and/or (2) fulfill essential information requirements that may be missing from design models for accurate cost estimate computations. These missing information are usually obtained from the construction specifications in supplement to the design models. Automating the process of design information extraction from construction specifications can help reduce: (1) the time and cost of the estimation, (2) the manual inputs required in cost estimation computations, and (3) human errors in cost estimates. This paper explores the use of natural language processing techniques to help process construction specifications and the authors propose a new algorithmic method for extracting the needed design information from construction specifications to support wood construction cost estimation. "
+  },
+  {
+   "id": "https://openalex.org/W1491968068",
+   "doi": "10.1108/bpmj-05-2012-0043",
+   "title": "Pareto-principle application in non-IT supported CRM processes: A case study of a Dutch manufacturing SME",
+   "publication_year": 2014,
+   "source": "Business Process Management Journal",
+   "type": "article",
+   "cited_by_count": 20,
+   "relevance_score": null,
+   "authors": [
+    "Ibrahim M. Elbeltagi",
+    "Thijs Kempen",
+    "Elaine Garcia"
+   ],
+   "n_authors": 3,
+   "abstract": "Purpose \u2013 This research covers a rather unexplored area of customer relationship management (CRM) by questioning the mechanism between on the one hand the Pareto-principle and on the other hand traditional non-IT supported operational CRM processes. Thus, the paper aims to explore whether a minority of processes and process-aspects deserves credit for achieving a majority of CRM goals. Design/methodology/approach \u2013 A qualitative approach is the most appropriate due to the assumption that access to the reality of a situation is only possible through social construction. A qualitative approach seeks to answer questions posed by studying different social settings. As noted by Berg, qualitative techniques make it possible for researchers to participate in understanding and perceiving others, as well as permitting them to discover how people structure their daily lives to make them more meaningful. Findings \u2013 The questioned mechanism of on the one hand traditional non-IT supported operational CRM process-aspects and on the other hand the Pareto-principle is confirmed by the majority of interviewees who answered affirmatively to small things making big differences in customer contact. Research limitations/implications \u2013 Regarding the limitations of this study, the results are hard to generalise as the research context depends on a single case study. However, the high levels of detail that allows for greater insight into manufacturing SMEs in HGV-Trailer that want to adopt non-IT su"
+  },
+  {
+   "id": "https://openalex.org/W203221753",
+   "doi": null,
+   "title": "Readiness of BIM: a case study of a quantity surveying organisation",
+   "publication_year": 2012,
+   "source": null,
+   "type": "article",
+   "cited_by_count": 20,
+   "relevance_score": null,
+   "authors": [
+    "Lei Zhou",
+    "Srinath Perera",
+    "Chika E. Udeaja",
+    "Charlotte Paul"
+   ],
+   "n_authors": 4,
+   "abstract": "Building Information Modelling (BIM), as an emerging enabling technology, is widely promoted in the UK. For Quantity Surveyor, BIM has the potential to remove many mundane elements of traditional quantity surveying, such as taking off and the production of Bills of Quantities (BoQ), by automating or assisting in these tasks removing human error, increasing efficiency and promoting collaboration. However implementation of BIM in the Construction Industry is not an easy task. This research aims to investigate the readiness of quantity surveying (QS) firms in the UK in implementation of BIM. The paper presents a case study of a SME QS organisation analysing its readiness to adopt BIM and evaluating perceived potential benefits. The case study is analysed at both organisation level and project level to explore the challenges the SME organisation facing inside and out. The key barriers are discussed and identified for SME quantity surveying organisations to implement BIM."
+  },
+  {
+   "id": "https://openalex.org/W4376142681",
+   "doi": "10.1108/jedt-01-2022-0043",
+   "title": "Improving quantity surveying education through continually updating curriculum digitalisation to meet industry requirements",
+   "publication_year": 2023,
+   "source": "Journal of Engineering Design and Technology",
+   "type": "article",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Andrew Ebekozien",
+    "Clinton Ohis Aigbavboa"
+   ],
+   "n_authors": 2,
+   "abstract": "Purpose The dynamic nature of the built environment and trending smart construction project complexities demand proactive needs tailored towards architecture, engineering and construction (AEC) education. It is a task for the built environment professionals (BEP) to prepare for the future, including the quantity surveying (QS) profession. Studies are scarce in preparing QS education from Nigeria\u2019s stakeholders\u2019 perspective regarding digital technology. Therefore, this paper aims to investigate how to improve QS education by continually updating curriculum digitalisation to meet the construction industry requirements. Design/methodology/approach Data were sourced from elite virtual interviews across Nigeria. A total of 40 key stakeholders knowledgeable in QS education, advocating a future template for the advancement of QS education in higher institutions, were engaged, and saturation was achieved. Findings Findings show that improving QS education through continually updating curriculum digitalisation to meet industry requirements cannot be over-emphasised in the 21st-century-built environment industry. The outcomes of the results led to the conclusion that the current QS education curriculum was not meeting the expectations of other BEP stakeholders. Thus, for competitiveness in the future, the QS education curriculum needs to infuse more related-digital technology modules/courses to assist in the sustainability and relevance of the profession within the BEP. Research limita"
+  },
+  {
+   "id": "https://openalex.org/W4382011937",
+   "doi": "10.36680/j.itcon.2023.017",
+   "title": "Reducing Reinforced Concrete Materials Waste in Construction Projects Using Building Information Modeling in Egypt",
+   "publication_year": 2023,
+   "source": "Journal of Information Technology in Construction",
+   "type": "article",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Suad Hosny",
+    "Ahmed Hussein Ibrahim",
+    "Yasmin Nabil"
+   ],
+   "n_authors": 3,
+   "abstract": "Reduced Reinforced Concrete Material Waste (RRCMW) is recognized as a major issue that must be controlled in building projects. The primary goal of the study is to demonstrate the significance of BIM in construction and the importance of BIM in reducing reinforced concrete material waste. To achieve the study's goal, a questionnaire survey is undertaken to estimate the benefit of using BIM in Egyptian building projects. According to the survey results, about 41% of respondents are believed that BIM may reduce project costs by 16% to 20% when compared to the traditional method. In addition, the proportion of variations in reinforced concrete amount survey between traditional methods (AutoCAD) and (Revit) is discovered to be 44%, with a range of 11% to 15%. Approximately 46% of respondents are believed that BIM eliminates design errors, with a percentage ranging from 21% to 25%, and about 51% are believed that BIM helps in reducing rework, with a total percentage ranging from 21% to 25%. Then, case studies of building (\"Residential projects\") and infrastructure (\"Bridges projects\") projects are analyzed to determine the difference between waste minimization using traditional methods and waste minimization using BIM. Waste management is a critical issue since it is the only approach to optimize waste throughout the project phases. As a result, factors managing (RRCMW) are extracted, and BIM software should be used to manage these factors in order to optimize waste. The relevant "
+  },
+  {
+   "id": "https://openalex.org/W4206975767",
+   "doi": "10.3390/buildings12020106",
+   "title": "High-Rise Building Construction Progress Measurement from Top View Based on Component Detection",
+   "publication_year": 2022,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Jingguo Xue",
+    "Xueliang Hou"
+   ],
+   "n_authors": 2,
+   "abstract": "The construction progress of a high-rise building is hidden by clutter such as formwork, wood slats, and rebar, making it difficult to measure its progress through existing automated techniques. In this paper, we propose a method to monitor the construction process of high-rise buildings. Specifically, by using the target detection technique, unfinished building components are identified from the top view, and then the identified components are registered to the BIM elements one by one. This is achieved by comparing the position relationship between the target detection results and the projection area of the BIM elements on the imaging plane. Finally, the overall construction progress is inferred by calculating the number of identified and registered components. The method was tested on a high-rise building construction site. The experimental results show that the method is promising and is expected to provide a solid basis for the successful automatic acquisition of the construction process. The use of top view reduces occlusion compared to similar methods, and the identification of the unfinished component makes the method more suitable for the actual construction sites of high-rise buildings. In addition, the combination of target detection and rough registration allows this method to take full advantage of the contextual information in the images and avoid errors caused by misidentification."
+  },
+  {
+   "id": "https://openalex.org/W4311902041",
+   "doi": "10.1061/jladah.ladr-859",
+   "title": "Development of a Proactive Preventive Late Payment and Underpayment Solution Model for the Construction Industry",
+   "publication_year": 2022,
+   "source": "Journal of Legal Affairs and Dispute Resolution in Engineering and Construction",
+   "type": "article",
+   "cited_by_count": 18,
+   "relevance_score": null,
+   "authors": [
+    "Siti Suhana Judi",
+    "Nur Emma Mustaffa"
+   ],
+   "n_authors": 2,
+   "abstract": "Payment issues can have a significant impact on construction projects if they are not properly addressed. Proactive preventive measures may help mitigate payment problems and ensure the prompt settlement of interim payment claims. Pursuant to that, a theoretical model called the proactive preventive late payment and underpayment solution (PPPS) model is proposed for the problem of the settlement of payments in the Malaysian construction industry. It comprises three main components for resolving payment problems, namely, the major factors in payment problems, the root causes, and proactive solutions for the settlement of interim payment. Data for the components of the model were gathered through a questionnaire survey and interviews. The PPPS Model, which is based theoretically on the rational choice (RC) model, was validated through an online survey by a group of experts who strongly concurred on its practicality. A qualitative analysis was conducted to derive the main components of this research model, namely, to provide quality staff, develop trust between parties, use appropriate contracts, enhance financial management, benchmark from the outside, and improve payment procedures. It is thus anticipated that this model will assist players in the Malaysian construction industry to have a better understanding of the risks arising from delayed interim payments at an early stage."
+  },
+  {
+   "id": "https://openalex.org/W2960930898",
+   "doi": "10.1061/(asce)la.1943-4170.0000309",
+   "title": "Administration of Construction Contract Interim Payments Based on Earned-Value Reduction Techniques",
+   "publication_year": 2019,
+   "source": "Journal of Legal Affairs and Dispute Resolution in Engineering and Construction",
+   "type": "article",
+   "cited_by_count": 18,
+   "relevance_score": null,
+   "authors": [
+    "Farah S. Demachkieh",
+    "Mohamed-Asem Uthman Abdul-Malak"
+   ],
+   "n_authors": 2,
+   "abstract": "Progress payment valuations and certifications represent a core construction contract administration function. If not attended to by the concerned contract administrators in accordance with prescribed provisions and in good faith, this vital function could end up being the seed for disputes to arise between contractors and owners. There are many reasons why work considered to have been accomplished by contractors ends up being denied certification by the contract engineer, thereby leading to the deferral of receipt, if not partial or full denial, of payment to the contractor. The aim of this paper is to address the conditions that could trigger potential withholding or setting off by the engineer of amounts that are otherwise viewed as due by the contractor. The adopted methodology includes (1) identifying of well-researched earned-value reduction methods, (2) investigating a suitable approach for incorporating them into the process of interim-payment certification, and (3) providing a proposed framework under which the application of such warranted earned-value reductions can be exercised in a fair and transparent manner. The research findings revealed several reasons that can be regarded as justifying the effectuating of reductions by the engineer, including quality of executed work, potential rework caused by the violation of the planned work execution sequence, and the inability to transfer the performed work to internal schedule\u2019s customers."
+  },
+  {
+   "id": "https://openalex.org/W4402323220",
+   "doi": "10.1108/jedt-04-2024-0252",
+   "title": "Integrated building information modeling and blockchain system for decentralized progress payments in construction projects",
+   "publication_year": 2024,
+   "source": "Journal of Engineering Design and Technology",
+   "type": "article",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Muhammad Asfund Khalid",
+    "Muhammad Usman Hassan",
+    "Fahim Ullah",
+    "Khursheed Ahmed"
+   ],
+   "n_authors": 4,
+   "abstract": "Purpose The debate around automation through digital technologies has gathered traction in line with the advancement of Industry 4.0. Blockchain-powered construction progress payment has emerged as an area that can benefit from such automation. However, the challenges inherent in real-time construction payment processes cannot be solely mitigated by blockchain. Including building information modeling (BIM)-based schedule information stored in decentralized storage linked with a smart contract (SC) can allow the efficient administration of payments. Accordingly, this study aims to present an integrated BIM-blockchain system (BBS) to administer decentralized progress payments in construction projects. Design/methodology/approach A mixed-method approach is adopted, including an extensive literature review, development of the integrated BBS, and a case study with 13 respondents to test and validate the BBS. This study proposes a BBS that extracts the invoices from BIM and pushes them to the decentralized app (dApp) for digital payment to the contractor through the Ethereum blockchain. The Solc npm package was used to compile the backend SC. Next.js was used to create the front end of the dApp. The Web3 npm package is paramount in developing a dApp. A total of 13 construction professionals working on the case study project were engaged through a questionnaire survey to comment on and validate the proposed BBS. A descriptive analysis was conducted on the case study data to apprehen"
+  },
+  {
+   "id": "https://openalex.org/W4395681671",
+   "doi": "10.1061/jladah.ladr-1112",
+   "title": "BIM-Enabled Claims Management Concept: Implications for Dispute Avoidance and Management",
+   "publication_year": 2024,
+   "source": "Journal of Legal Affairs and Dispute Resolution in Engineering and Construction",
+   "type": "article",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Falilat Giwa",
+    "Temitope Omotayo",
+    "Patr\u00edcia Tzortzopoulos",
+    "Chamindi Ishara Malalgoda"
+   ],
+   "n_authors": 4,
+   "abstract": "Investigating the implications of integrating building information modeling (BIM) with claims management and the consequent effect on quantity surveying practices is essential for advancing digitalization and for avoidance of disputes in construction. Based on primary semistructured interviews with eight construction professionals in the UK and 48 peer-reviewed articles (secondary data), BIM\u2019s potential to enhance collaboration, improve cost estimation, and streamline claims management processes using text mining was studied. Text mining collocation analysis was applied using RStudio to elicit BIM and claims management concepts. The findings suggested that although BIM integration offers considerable benefits, challenges\u2014such as resistance to change, lack of standardization, and the need for continuous upskilling\u2014may hinder its full implementation. These findings contribute to the emerging need for as-built intelligent BIM with claims management operations in the construction industry from a theoretical perspective. BIM\u2019s potential to redefine the role of construction professionals such as quantity surveyors may engender a collaborative construction sector because of the efficiency it brings to the construction industry."
+  },
+  {
+   "id": "https://openalex.org/W4387818973",
+   "doi": "10.1080/17452007.2023.2272623",
+   "title": "An automatic design-feedback process for structural prefabricated components quantity take-off calculation using BIM",
+   "publication_year": 2023,
+   "source": "Architectural Engineering and Design Management",
+   "type": "article",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Shaoqing Ren",
+    "Guofeng Qiang",
+    "Shu Tang",
+    "Cheng Zhang",
+    "Hyungjoon Seo",
+    "Keyao Wu"
+   ],
+   "n_authors": 6,
+   "abstract": "ABSTRACTPrefabricated construction is spreading widely for its various advantages like construction efficiency, quality assurance, and environmental protection. However, ensuring project cost-effectiveness under the ever-increasing demands of prefabrication rate requirements has become a challenge. There is a growing need for Quantity Take-off (QTO) feedback on building components for stakeholders in the initial stages of structural design. This paper aims to create an automated design-feedback workflow for the structural QTO using the BIM-assisted visual programming tool Dynamo. The workflow includes model construction, data analysis, unit price data encoding, and design automation. The proposed method demonstrates the pattern of data exchange between stakeholders and is automated by the created visual programming scripts, breaking the original technical limitations, and presenting timely QTO feedback to the clients in a straightforward format. This study contributes to the field of design communication while satisfying the client\u2019s requirements at the structural design stage.KEYWORDS: Building information modellingquantity take-offstructural designautomated design-feedbackdynamo Disclosure statementNo potential conflict of interest was reported by the author(s).Data availability statementRen, S, Tang, S. Data for An Automatic Design-feedback Process for Structural Prefabricated Components Quantity Take-off Calculation Using BIM. Menderely Data 2023;10. https://data.mendeley"
+  },
+  {
+   "id": "https://openalex.org/W2962392379",
+   "doi": "10.24928/2019/0152",
+   "title": "BIM-Based Construction Progress Measurement of Non-Repetitive HVAC Installation Works",
+   "publication_year": 2019,
+   "source": "Annual Conference of the International Group for Lean Construction",
+   "type": "conference-paper",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Patrick Dallasega",
+    "Andrea Revolti",
+    "Camilla Follini",
+    "Christoph Paul Schimanski",
+    "Dominik Tobias Matt"
+   ],
+   "n_authors": 5,
+   "abstract": "Construction projects are often delivered over time and over budget. Deviations are often identified only during the finishing stages when improvement actions to recover from delays become limited. Building Information Modeling (BIM) will transform the construction industry to come in line with more digitally developed industries like manufacturing. However, up to now, BIM has been mainly used to support the information flow of the construction design process and limited effort has been invested to investigate how it could support the management of the construction execution process. The paper shows how BIM can be used to schedule and monitor non-repetitive construction tasks. The proposed approach shows how important information needed for scheduling (like the number of pieces to be installed in a certain location) could be extracted from the BIM model. Moreover, it shows how BIM could support a quantitative monitoring of the reached progress and how this information can be displayed in an intuitive way to the user. The approach was developed during the project COCkPiT (Collaborative Construction Process Management) and especially by collaborating with a Heating Ventilation and Air Conditioning (HVAC) company using as a case study a medium sized hospital construction project located in Northern Italy."
+  },
+  {
+   "id": "https://openalex.org/W2783236223",
+   "doi": null,
+   "title": "Use of social media in construction industry: a case study.",
+   "publication_year": 2015,
+   "source": "Open Access Institutional Repository at Robert Gordon University (Robert Gordon University)",
+   "type": "conference-paper",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Srinath Perera",
+    "Michele Florencia Victoria",
+    "Samuel Brand"
+   ],
+   "n_authors": 3,
+   "abstract": "Social media evolved in the early 2000's with the birth of Facebook and Flickr in 2004. It is hard to ignore the current influence of social media upon modern lifestyle with the continuous development of many social media platforms over the past decade. On the other hand, the construction industry is often criticised for lack of communication and poor uptake of technology and innovation. Hence, this study reviewed and analysed the usage of social media in the UK construction industry focusing on quantity surveying practices. Three Quantity Surveying practices were selected for the study. Of the three cases, one organisation was selected as the principal case study within which a comprehensive questionnaire survey was conducted to investigate the level of understanding and knowledge of employees about social media within the organisation. The other two organisations were used for verification of findings from the main case study. The case study findings revealed a very low usage of social media within the organisations. Even though there was a mixture of positive and negative views on the commercial potential of social media for construction business, the questionnaire findings suggested that the social media platforms were poorly understood by the employees and its potential is underestimated."
+  },
+  {
+   "id": "https://openalex.org/W2776454635",
+   "doi": null,
+   "title": "Automated Cost Analysis of Concept Design BIM Models",
+   "publication_year": 2011,
+   "source": "Cumulative Index of Computer Aided Architectural Design",
+   "type": "article",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Sherif Morad Abdelmohsen",
+    "Eastman Chuck Lee Jinkook"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4404521919",
+   "doi": "10.1016/j.eiar.2024.107731",
+   "title": "A BIM-based carbon footprinting of earthworks in road construction process",
+   "publication_year": 2024,
+   "source": "Environmental Impact Assessment Review",
+   "type": "article",
+   "cited_by_count": 16,
+   "relevance_score": null,
+   "authors": [
+    "Baowen Lou",
+    "Freja Nygaard Rasmussen",
+    "Samson Abate Degago",
+    "Eivind Schnell Juvik",
+    "Rolf Andr\u00e9 Bohne"
+   ],
+   "n_authors": 5,
+   "abstract": "Carbon dioxide emissions are a major component of greenhouse gases and their evaluation during the life cycle of civil infrastructures is increasingly becoming a pivotal criterion for project tendering. During construction activities, the use of heavy-duty vehicles generally accounts for most of the energy consumption. However, the CO 2 emissions deriving from earthwork machines have not been thoroughly calculated yet due to the inner complexity of such task. In this regard, this research streamlines a quantitative assessment process of carbon dioxide leveraging digital tools and considering a bicycle lane project stretching approximately 3 km in Trondheim, Norway. Building Information Modelling (BIM) is adopted to define the necessary earthwork operations and provide accurate data to appraise quantity take-off volumes. Three earthwork tasks, namely excavation, transport and compaction, are investigated. The corresponding CO 2 emissions are subsequently quantified considering three operating modes for excavator (idling, moving and working), three types of transport vehicles (wheel dozer, tractor scraper and articulated dump truck) and two models of compaction machines (sheepsfoot and vibratory rollers). The results indicate that 75.5 t CO 2 emissions are generated from the on-site heavy machines. In particular, the transport activities contribute to the largest proportion of CO 2 emissions (56 %), half of which is produced while moving excess soil to the dump pit. Besides, th"
+  },
+  {
+   "id": "https://openalex.org/W4393871071",
+   "doi": "10.3390/su16072984",
+   "title": "Investigating the Gaps between Engineering Graduates and Quantity Surveyors of Construction Enterprises",
+   "publication_year": 2024,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 16,
+   "relevance_score": null,
+   "authors": [
+    "Ping Zhang",
+    "Shuai-Ge Ma",
+    "Ying Sun",
+    "Yue-Nan Zhao"
+   ],
+   "n_authors": 4,
+   "abstract": "Meeting the future workforce demands of the construction industry is defined as one of the main paths for sustainable engineering education. Quantity surveyors play a crucial role in driving the digital transformation of the construction industry. There is a pressing need to cultivate a significant number of engineering graduates who meet market demands to bolster the workforce of quantity surveyors for accomplishing this core mission. In this context, this study examined the main gaps existing between engineering graduates and quantity surveyors in terms of personal competencies needed to successfully value projects. Through the participation of 262 individuals (165 quantity surveyors and 97 engineering graduates), using a literature review, personal interviews, and a questionnaire survey, it was possible to assess five competencies (sustainable competency, budget competency, site management competency, engineering ethics, and settlement competency), and determine significant differences between both groups. All personal competencies\u2019 mean scores are higher for quantity surveyors than for engineering graduates. Four competencies are found to differ significantly between quantity surveyors and engineering graduates: sustainable competency, budget competency, site management competency, and settlement competency. As the conclusion derived from this study, it is recommended to introduce market-oriented mechanisms and establish a dynamic engineering talent model driven by market"
+  },
+  {
+   "id": "https://openalex.org/W4309908715",
+   "doi": "10.1061/jladah.ladr-843",
+   "title": "Disputes and Claim Management during the COVID-19 Crisis: The Lessons Learned",
+   "publication_year": 2022,
+   "source": "Journal of Legal Affairs and Dispute Resolution in Engineering and Construction",
+   "type": "article",
+   "cited_by_count": 16,
+   "relevance_score": null,
+   "authors": [
+    "AbdulLateef Olanrewaju",
+    "Paul Junior Anavhe",
+    "Hui Chen Chu"
+   ],
+   "n_authors": 3,
+   "abstract": "The COVID-19 crisis has presented the construction sector with challenges that the world has never seen before. Productivity is down, costs have increased, conflicts and claims are increasing, delays are high, health and safety practices are increasing, and profit margins have been reduced. The challenges require unprecedented, sudden, and unplanned changes to construction management practices and strategies. Through an open-ended survey questionnaire, this research investigated how COVID-19 causes disputes in construction projects and the measures that quantity surveying firms take to resolve the disputes in construction contracts due to the pandemic. The data revealed that disputes and claims have increased by some 80% due to the COVID-19 pandemic. In addition, the data revealed that the COVID-19 pandemic has increased project costs by more than 40%. Shortages of materials, compliance with standard operating procedures, social distance, fluctuation, and shortages of labor are the causes of disputes. Unlike prior to the COVID-19 crisis, disputes are not caused by variations, ambiguous contract clauses, mistakes, errors, and competencies of the parties to the contracts. To resolve COVID-19-induced claims, contract clauses, negotiations, conciliation, trust management, and contingency provisions are the most effective. This research provides new information on claim management during a crisis. From an ontological standpoint, the main findings of this study are generalizable to"
+  },
+  {
+   "id": "https://openalex.org/W4281759335",
+   "doi": "10.1109/iciccs53718.2022.9788224",
+   "title": "Food Ordering website \u201cCooked with care\u201d developed using MERN stack",
+   "publication_year": 2022,
+   "source": "International Conference on Intelligent Computing and Control Systems (ICICCS)",
+   "type": "conference-paper",
+   "cited_by_count": 16,
+   "relevance_score": null,
+   "authors": [
+    "Amit Shersingh Chauhan",
+    "Sushil Bhardwaj",
+    "Ruman Shaikh",
+    "Abhishek Mishra",
+    "Sunita Nandgave"
+   ],
+   "n_authors": 5,
+   "abstract": "Recent de velopments in wireless technologies and the internet have led consumers to conduct their business digitally. The digital transactions made through these systems can be monitored and carried out efficiently. This article focuses on the need for and construction of a digital web application system, which will help us establish a modern means to carry out the food business for homemakers. The main aim of our website \u201cCooked with Care Using MERN Stack\u201d is to provide a digital platform for homemakers and mess-owners to provide good and clean food to consumers such as students or employees. Cooked with care is a platform that will provide housewives and restaurant owners the means to sell their products and services online with customer feedback for the provided services. Homemakers and mess owners can use the ordering system to update menu presentations and set up the system in a wireless environment. This research work has utilised MERN as the tech stack, where M stands for \u201cMongoDB,\u201d our database for holding customer and management data. \" E is an abbreviation for \u201cExpressJS,\u201d which is utilised on our server. R is an abbreviation for \u201cReact,\u201d which is a front-end programming language. N is an abbreviation for \u201cNodeJS,\u201d which refers to the complete programming environment. To save photos of menu items, the proposed work has leveraged AWS cloud storage. The resultant bills and invoices are generated by using the \"react-to-print\" library, and entries in an excel sheet usi"
+  },
+  {
+   "id": "https://openalex.org/W2398602059",
+   "doi": null,
+   "title": "Building Information Modelling: Proposed Adoption Model For Quantity Surveying Firms",
+   "publication_year": 2015,
+   "source": null,
+   "type": "article",
+   "cited_by_count": 16,
+   "relevance_score": null,
+   "authors": [
+    "Julian Osman",
+    "Sharifah Mazlina Syed Khuzzan",
+    "Abdul RazakSapian"
+   ],
+   "n_authors": 3,
+   "abstract": "Building Information Modelling (BIM) represents the formation, utilisation and sharing of digital models between key stakeholders during the lifecycle of a facility. Academics and practitioners alike have advanced the idea of embracing BIM within the construction industry. Abundant of reports illustrating the benefits of BIM when deployed within design and construction phase such as better enhanced designs, more efficient construction processes, effective collaboration, cost and time savings. However despite receiving massive attention within the AEC industry, it appears that the adoption rate is not portraying such phenomenon. Inconsistency of adoption rate exists not only between countries but between industry key players as well. Surveys conducted showed that Quantity Surveyors (QSs) are among those who are least adopting BIM. Literature reviews reveal limited studies have been undertaken to investigate the key factors influencing BIM adoption in general, and among QSs specifically. As a result, this paper presents a model of BIM adoption factors based on the amalgamation of Technological- Organisation-Environmental framework, Diffusion of Innovation theory and Institutional theory."
+  },
+  {
+   "id": "https://openalex.org/W2330861677",
+   "doi": "10.1061/41182(416)22",
+   "title": "The Effective Acquisition and Processing of 3D Photogrammetric Data from Digital Photogrammetry for Construction Progress Measurement",
+   "publication_year": 2011,
+   "source": "ASCE International Conference on Computing in Civil Engineering (i3CE)",
+   "type": "conference-paper",
+   "cited_by_count": 16,
+   "relevance_score": null,
+   "authors": [
+    "Changhyeon Kim",
+    "Hyojoo Son",
+    "Changhyeon Kim"
+   ],
+   "n_authors": 3,
+   "abstract": "With the development of digital imaging technology, digital photogrammetry has found various engineering applications, such as architecture, automotive and aerospace engineering. Although digital photogrammetry allows the generation of 3D photogrammetric data with high density and resolution, it has not been as popular in construction as it has in other industries. In particular, acquisition and processing of 3D photogrammetric data from digital photogrammetry for construction progress measurement applications is at an early stage, and its feasibility has not been evaluated. The objective of this research is to propose a processing method for progress measurement application by utilizing acquisition of 3D as-built data using photogrammetry technology. For this purpose, a framework consisting of 3D photogrammetric data acquisition, 3D photogrammetric data refinement, and 3D structural components detection is presented. The effectiveness of the proposed method is verified by evaluating the quality of the processed 3D photogrammetric data with respect to the density. The preliminary experimental result shows that using processed 3D photogrammetric data for advanced and automated construction progress measurement applications is possible."
+  },
+  {
+   "id": "https://openalex.org/W4400223427",
+   "doi": "10.1108/ecam-01-2024-0020",
+   "title": "Unmanned ground vehicle (UGV) based automated construction progress measurement of road using LSTM",
+   "publication_year": 2024,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 15,
+   "relevance_score": null,
+   "authors": [
+    "Tirth Patel",
+    "Brian H.W. Guo",
+    "Jacobus Daniel van der Walt",
+    "Yang Zou"
+   ],
+   "n_authors": 4,
+   "abstract": "Purpose Current solutions for monitoring the progress of pavement construction (such as collecting, processing and analysing data) are inefficient, labour-intensive, time-consuming, tedious and error-prone. In this study, an automated solution proposes sensors prototype mounted unmanned ground vehicle (UGV) for data collection, an LSTM classifier for road layer detection, the integrated algorithm for as-built progress calculation and web-based as-built reporting. Design/methodology/approach The crux of the proposed solution, the road layer detection model, is proposed to develop from the layer change detection model and rule-based reasoning. In the beginning, data were gathered using a UGV with a laser ToF (time-of-flight) distance sensor, accelerometer, gyroscope and GPS sensor in a controlled environment. The long short-term memory (LSTM) algorithm was utilised on acquired data to develop a classifier model for layer change detection, such as layer not changed, layer up and layer down. Findings In controlled environment experiments, the classification of road layer changes achieved 94.35% test accuracy with 14.05% loss. Subsequently, the proposed approach, including the layer detection model, as-built measurement algorithm and reporting, was successfully implemented with a real case study to test the robustness of the model and measure the as-built progress. Research limitations/implications The implementation of the proposed framework can allow continuous, real-time monito"
+  },
+  {
+   "id": "https://openalex.org/W4386790876",
+   "doi": "10.1061/jaeied.aeeng-1447",
+   "title": "IFC-Based Algorithms for Automated Quantity Takeoff from Architectural Model: Case Study on Residential Development Project",
+   "publication_year": 2023,
+   "source": "Journal of Architectural Engineering",
+   "type": "article",
+   "cited_by_count": 15,
+   "relevance_score": null,
+   "authors": [
+    "Temitope Akanbi",
+    "Jiansong Zhang"
+   ],
+   "n_authors": 2,
+   "abstract": "The estimation of construction quantities is a critical aspect of any construction project, and accuracy in the quantity takeoff (QTO) process is an integral part in achieving project success. Accuracy can be improved by automating the QTO process. However, one of the gaps in automated QTO is found to be the lack of a platform-ignorant computing algorithm regarding different building information modeling (BIM) authoring tools. Available BIM-based commercial cost estimation software programs such as Autodesk Naviswork, Autodesk QTO, iTWO CostX, Innovaya Visual QTO, ConstrucSim, and so forth, are limited in terms of full automation, largely because full interoperability across all the different applications has not yet been achieved. This paper explores interoperable QTO algorithms using industry foundation classes (IFC)-based BIM. To evaluate the IFC-based QTO algorithms, a case study was conducted on a residential development project in Kalamazoo, MI. Comparing with commercial software used in practice, the IFC-based QTO algorithms showed consistent results, whereas were more powerful regarding their independence from BIM authoring tools in extracting the volumetric and areal quantities of building components. The IFC-based QTO algorithms processed the different types of building element configurations in the residential development project smoothly. Furthermore, the QTO algorithms are expected to reduce the manual input required in generating QTO through interfacing with IFC"
+  },
+  {
+   "id": "https://openalex.org/W4297888413",
+   "doi": "10.3390/su141811362",
+   "title": "Enriching BIM with Unmanned Aerial Systems Data for Enhancing Construction Management Operations",
+   "publication_year": 2022,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 15,
+   "relevance_score": null,
+   "authors": [
+    "Payam Rahnamayiezekavat",
+    "Mohamed Mourad",
+    "Sherif F. Mostafa",
+    "Sungkon Moon",
+    "Sepani Senaratne"
+   ],
+   "n_authors": 5,
+   "abstract": "The use of an unmanned aerial system (UAS) in construction project management (CPM) is an emerging methodology aimed at improving the performance of project management practices. Despite the different functions that an UAS offers, which are well covered in various sources ranging from isolated exploratory works to ad hoc case studies, construction practitioners still demonstrate little interest in UAS technology. The underwhelming interest is rooted in a lack of an understanding of the value of the data collected using UASs and their potential to enrich Building Information Modelling (BIM). This research presents the details of the UAS developed to check the accuracy of work performed, along with the generation of the corresponding progress payment reports as well as referencing and tracking information in real time, for a residential project. This study also discusses combining the data generated from the UAS and 5D BIM to develop a smart construction site. The UAS\u2013BIM combination enables the project stakeholders to be fully informed of the work\u2019s progress and quality to avoid mistakes that could lead to extra costs and delays. The paper identified the main obstacles to applying the UAS via interviews with the project managers and tradespersons involved in the selected project. Assuredly, a digital culture is essential for a smart construction site to shift the project team from a passive data user to a more proactive analyzer to improve performance and site safety. Other ob"
+  },
+  {
+   "id": "https://openalex.org/W3165137066",
+   "doi": "10.30880/ijscet.2021.12.01.019",
+   "title": "The Revolution of Quantity Surveying Profession in Building Information Modelling (BIM) Era: The Malaysian Perspective",
+   "publication_year": 2021,
+   "source": "International Journal of Sustainable Construction Engineering Technology",
+   "type": "article",
+   "cited_by_count": 15,
+   "relevance_score": null,
+   "authors": [
+    "Tee Yun Ying",
+    "Ernawati Mustafa Kamal"
+   ],
+   "n_authors": 2,
+   "abstract": "Building Information Modelling (BIM) has becoming the current trend in the construction industry where quantity surveying serves as important discipline. Undeniably, BIM adoption has brought many advantages due to automation of multidimensional model platform that helps Quantity Surveyors (QS) to reduce arithmetic errors and removes many tedious tasks in conventional approach such as tendering and the production of bills of quantities (BQ). BIM will soon replace the traditional measurement done by QS if the Standard Method of Measurements (SMM) could be integrated in BIM. As a result, it is concerning that unemployment of quantity surveyors might be an issue if there is no revolution or adaptation of quantity surveying practices with the blossoming of BIM implementation in Malaysia. Hence, this research is carried out to determine the new skills needed by a quantity surveyor in order to keep pace with the implementation of BIM in Malaysia. Qualitative research method is used in this study in which semi-structured interview was carried out with 20 experienced QS that applies BIM technology in their practices. Data abstracted from the transcript of interviews was then coded though NVivo 12 Pro and analyzed by using content analysis method. At the end of the study, the findings revealed that the QS must attain IT skills and BIM software knowledge to align with BIM drive. It is thus recommended that thorough provisions of integrating traditional methods of quantifying and costing"
+  },
+  {
+   "id": "https://openalex.org/W2946675769",
+   "doi": null,
+   "title": "ASSESSMENT OF AWARENESS ANDADOPTION OF LEAN PRACTICES IN THENIGERIAN BUILDING INDUSTRY",
+   "publication_year": 2018,
+   "source": "Covenant University Repository (Covenant University)",
+   "type": "article",
+   "cited_by_count": 15,
+   "relevance_score": null,
+   "authors": [
+    "Daniel Olatunde Babalola",
+    "Eziyi O. Ibem",
+    "I. C. Ezema"
+   ],
+   "n_authors": 3,
+   "abstract": "The construction industry globally is faced with challenges of time overrun, cost overrun, and material wastage. In order to address these challenges, the lean production approach has been adopted in the building industry, which is a subset of the construction industry. Although several studies have examined various aspects of lean practices in the different countries, studies on the adoption of lean principles and practices in Nigeria are grossly underrepresented in the research literature. This study investigated the levels of awareness and adoption of 32 lean practices by firms in the Nigerian building industry. A questionnaire survey was conducted in five cities of Abuja, Enugu, Kaduna, Lagos, and Port-Harcourt in five geo-political zones of Nigeria. Totally, 446 participants drawn from architectural, building consulting and contracting and quantity-surveying firms in the five aforementioned cities provided the data for this research. The data were analyzed using descriptive statistics, and the result shows that whereas around 67% of the respondents claimed that they are aware of lean practices in construction, about 47% of the firms have adopted one form of lean practices or the other. It was also observed that the three most adopted lean practices among the 32 investigated were Visual Design Construction (VDC), Total Quality Management (TQM) and Team Work/Partnering, respectively. This study implies that although there is a growing knowledge about lean practices among f"
+  },
+  {
+   "id": "https://openalex.org/W2625307166",
+   "doi": "10.1061/9780784480823.018",
+   "title": "Automated Wood Construction Cost Estimation",
+   "publication_year": 2017,
+   "source": "ASCE International Conference on Computing in Civil Engineering (i3CE)",
+   "type": "conference-paper",
+   "cited_by_count": 15,
+   "relevance_score": null,
+   "authors": [
+    "Temitope Akanbi",
+    "Jiansong Zhang"
+   ],
+   "n_authors": 2,
+   "abstract": "Manual cost estimation is a task that requires experience; it is tedious, cumbersome and error-prone. As a result, manual estimation results are influenced by each estimator\u2019s judgement or opinion. The use of computing technology can help automate this cost estimation process, reducing the subjectivity in estimation, improving the efficiency and the accuracy of cost estimation. This has been shown by the success of various building information modeling (BIM) software products. Nevertheless, existing cost estimation automation methods in these tools are still limited in terms of: (1) interoperability-in spite of their compliance with the industry foundation classes (IFC) schema, the detailed implementation in complying with IFC is largely proprietary; and (2) full automation-manual input is needed in various ways to fulfill the information need of the cost estimation automation. To address these two limitations, in this study, the authors developed a method and algorithms for fully automated cost estimation in wood construction, leveraging the fundamental geometric representation of wood building object representations in IFC models for quantity takeoff, and a price computation using a cost database generated from RSMeans Assemblies Cost Data 2015. The developed automated cost estimation method and algorithms were implemented in java programs and tested in a case study wood building project in Kalamazoo, MI, area. By comparing with estimates from existing BIM tools, improvemen"
+  },
+  {
+   "id": "https://openalex.org/W4383374885",
+   "doi": "10.1680/jsmic.22.00026",
+   "title": "Automated progress measurement using computer vision technology in UK construction",
+   "publication_year": 2023,
+   "source": "Proceedings of the Institution of Civil Engineers - Smart Infrastructure and Construction",
+   "type": "article",
+   "cited_by_count": 14,
+   "relevance_score": null,
+   "authors": [
+    "Abbas Bozorgzadeh",
+    "Tariq Umar"
+   ],
+   "n_authors": 2,
+   "abstract": "A critical concern with the UK\u2019s construction project progress monitoring and control techniques is their dependency on data collection, which is time consuming and unproductive and may lead to various circumstances in managing projects. However, collecting and accurately analysing information from construction sites requires the development of technologies. As key artificial intelligence (AI) technology, computer vision (CV) is a powerful tool for big data analysis that can address the aforementioned challenges. This study explores the status of CV-based construction progress monitoring (CV-CPM) adoption and the main barriers to and incentives for its adoption within the UK construction sites. In this respect, after an extensive review of the literature covering the AI technology in construction management and the concept, function and usage of CV and its integration with construction progress monitoring, including its benefits and drivers and technical challenges, a questionnaire was administered to UK construction professionals to collect their perceptions. The study results indicated that construction practitioners were relatively aware of CV-CPM but lacked competencies and skills. CV-CPM has been perceived to be relatively better than the traditional approach. Implications such as the cost of implementation, lack of expertise and resistance to change were the major challenges in CV-CPM adoption. Meanwhile, technological development, decision making and competitiveness we"
+  },
+  {
+   "id": "https://openalex.org/W4313825168",
+   "doi": "10.1108/ecam-07-2022-0636",
+   "title": "Challenges of industrial revolution 4.0: quantity surveying students' perspectives",
+   "publication_year": 2023,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 14,
+   "relevance_score": null,
+   "authors": [
+    "Melissa Li Wen Lim",
+    "Shi Yee Wong",
+    "Chu Sheng Ding"
+   ],
+   "n_authors": 3,
+   "abstract": "Purpose The industrial revolution 4.0 (IR4.0) signifies technological advancements and digitalization. The fragmented and labour-intensive nature of the construction industry inherently possesses difficulties for IR4.0 adoption compared to other industries. This paper aims to investigate the perspectives of quantity surveying students on the challenges of IR4.0 implementation in the construction industry. Design/methodology/approach A questionnaire survey were distributed to a population of 191 quantity surveying students, with 96 valid responses returned. Descriptive statistics and factor analysis were employed to analyse the collected data. Findings Factor analysis revealed eight components as the key challenges for IR4.0 implementation, which revolved around resistance to change, data security issues, etc. Practical implications The findings could provide a guideline to higher education institutions on certain IR4.0-related areas to be incorporated into the syllabus, in ensuring that the students are equipped with such skills and knowledge, in meeting market demands. The construction stakeholders' could look into the identified challenges for strategizing the organizations in moving towards IR4.0 adoption. Originality/value To the best of the authors\u2019 knowledge, this is the first study to investigate quantity surveying students' perspectives on the challenges of IR4.0 implementation in the construction industry by employing factor analysis method. The findings contribute t"
+  }
+ ]
+}

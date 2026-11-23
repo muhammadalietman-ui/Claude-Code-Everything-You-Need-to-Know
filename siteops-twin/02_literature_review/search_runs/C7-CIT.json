@@ -1,0 +1,1839 @@
+{
+ "query_id": "C7-CIT",
+ "run_date": "2026-11-23",
+ "query_url": "https://api.openalex.org/works?filter=title_and_abstract.search%3A%28IFC+OR+%22industry+foundation+classes%22+OR+LandXML+OR+%22ISO+19650%22+OR+%22OPC+UA%22+OR+OGC+OR+CityGML+OR+%223D+Tiles%22+OR+PODS+OR+%22pipeline+open+data+standard%22+OR+%22ISO+15143%22+OR+%22linked+data%22+OR+ontology+OR+%22application+programming+interface%22%29+AND+%28interoperability+OR+integration+OR+%22data+exchange%22+OR+schema%29+AND+%28construction+OR+infrastructure+OR+pipeline+OR+%22digital+twin%22%29%2Cfrom_publication_date%3A2010-01-01%2Ctype%3Aarticle%7Creview%7Cbook-chapter%7Cconference-paper%2Clanguage%3Aen&sort=cited_by_count%3Adesc&per-page=100&select=id%2Cdoi%2Ctitle%2Cdisplay_name%2Cpublication_year%2Cprimary_location%2Ctype%2Ccited_by_count%2Cauthorships%2Cabstract_inverted_index%2Crelevance_score",
+ "hits_total": 10435,
+ "retrieved": 100,
+ "records": [
+  {
+   "id": "https://openalex.org/W3035965352",
+   "doi": "10.1038/s41586-020-2649-2",
+   "title": "Array programming with NumPy",
+   "publication_year": 2020,
+   "source": "Nature",
+   "type": "review",
+   "cited_by_count": 35247,
+   "relevance_score": null,
+   "authors": [
+    "Charles R. Harris",
+    "K. Jarrod Millman",
+    "St\u00e9fan J. van der Walt",
+    "Ralf Gommers",
+    "Pauli Virtanen",
+    "David Cournapeau"
+   ],
+   "n_authors": 26,
+   "abstract": "Array programming provides a powerful, compact and expressive syntax for accessing, manipulating and operating on data in vectors, matrices and higher-dimensional arrays. NumPy is the primary array programming library for the Python language. It has an essential role in research analysis pipelines in fields as diverse as physics, chemistry, astronomy, geoscience, biology, psychology, materials science, engineering, finance and economics. For example, in astronomy, NumPy was an important part of the software stack used in the discovery of gravitational waves 1 and in the first imaging of a black hole 2 . Here we review how a few fundamental array concepts lead to a simple and powerful programming paradigm for organizing, exploring and analysing scientific data. NumPy is the foundation upon which the scientific Python ecosystem is constructed. It is so pervasive that several projects, targeting audiences with specialized needs, have developed their own NumPy-like interfaces and array objects. Owing to its central position in the ecosystem, NumPy increasingly acts as an interoperability layer between such array computation libraries and, together with its application programming interface (API), provides a flexible framework to support the next decade of scientific and industrial analysis."
+  },
+  {
+   "id": "https://openalex.org/W2040340473",
+   "doi": "10.1109/jproc.2014.2371999",
+   "title": "Software-Defined Networking: A Comprehensive Survey",
+   "publication_year": 2014,
+   "source": "Proceedings of the IEEE",
+   "type": "article",
+   "cited_by_count": 6218,
+   "relevance_score": null,
+   "authors": [
+    "Diego Kreutz",
+    "Fernando M. V. Ramos",
+    "Paulo Esteves Ver\u00edssimo",
+    "Christian Esteve Rothenberg",
+    "Siamak Azodolmolky",
+    "Steve Uhlig"
+   ],
+   "n_authors": 6,
+   "abstract": "The Internet has led to the creation of a digital society, where (almost) everything is connected and is accessible from anywhere. However, despite their widespread adoption, traditional IP networks are complex and very hard to manage. It is both difficult to configure the network according to predefined policies, and to reconfigure it to respond to faults, load, and changes. To make matters even more difficult, current networks are also vertically integrated: the control and data planes are bundled together. Software-defined networking (SDN) is an emerging paradigm that promises to change this state of affairs, by breaking vertical integration, separating the network's control logic from the underlying routers and switches, promoting (logical) centralization of network control, and introducing the ability to program the network. The separation of concerns, introduced between the definition of network policies, their implementation in switching hardware, and the forwarding of traffic, is key to the desired flexibility: by breaking the network control problem into tractable pieces, SDN makes it easier to create and introduce new abstractions in networking, simplifying network management and facilitating network evolution. In this paper, we present a comprehensive survey on SDN. We start by introducing the motivation for SDN, explain its main concepts and how it differs from traditional networking, its roots, and the standardization activities regarding this novel paradigm. Nex"
+  },
+  {
+   "id": "https://openalex.org/W2891078715",
+   "doi": "10.12688/wellcomeopenres.14826.1",
+   "title": "Open-access bacterial population genomics: BIGSdb software, the PubMLST.org website and their applications",
+   "publication_year": 2018,
+   "source": "Wellcome Open Research",
+   "type": "article",
+   "cited_by_count": 3837,
+   "relevance_score": null,
+   "authors": [
+    "Keith A. Jolley",
+    "James E. Bray",
+    "Martin C. J. Maiden"
+   ],
+   "n_authors": 3,
+   "abstract": "The PubMLST.org website hosts a collection of open-access, curated databases that integrate population sequence data with provenance and phenotype information for over 100 different microbial species and genera. Although the PubMLST website was conceived as part of the development of the first multi-locus sequence typing (MLST) scheme in 1998 the software it uses, the Bacterial Isolate Genome Sequence database (BIGSdb, published in 2010), enables PubMLST to include all levels of sequence data, from single gene sequences up to and including complete, finished genomes. Here we describe developments in the BIGSdb software made from publication to June 2018 and show how the platform realises microbial population genomics for a wide range of applications. The system is based on the gene-by-gene analysis of microbial genomes, with each deposited sequence annotated and curated to identify the genes present and systematically catalogue their variation. Originally intended as a means of characterising isolates with typing schemes, the synthesis of sequences and records of genetic variation with provenance and phenotype data permits highly scalable (whole genome sequence data for tens of thousands of isolates) means of addressing a wide range of functional questions, including: the prediction of antimicrobial resistance; likely cross-reactivity with vaccine antigens; and the functional activities of different variants that lead to key phenotypes. There are no limitations to the number "
+  },
+  {
+   "id": "https://openalex.org/W1866991274",
+   "doi": "10.1111/isj.12093",
+   "title": "Digital product innovation within four classes of innovation networks",
+   "publication_year": 2015,
+   "source": "Information Systems Journal",
+   "type": "article",
+   "cited_by_count": 1034,
+   "relevance_score": null,
+   "authors": [
+    "Kalle Lyytinen",
+    "Youngjin Yoo",
+    "Richard J. Boland"
+   ],
+   "n_authors": 3,
+   "abstract": "The increased digitization of organizational processes and products poses new challenges for understanding product innovation. It also opens new horizons for information systems research. We analyse how ongoing pervasive digitization of product innovation reshapes knowledge creation and sharing in innovation networks. We argue that advances in digital technologies (1) increase innovation network connectivity by reducing communication costs and increasing its reach and scope and (2) increase the speed and scope of digital convergence, which increases network knowledge heterogeneity and need for integration. These developments, in turn, stretch existing innovation networks by redistributing control and increasing the demand for knowledge coordination across time and space presenting novel challenges for knowledge creation, assimilation and integration. Based on this foundation, we distinguish four types of emerging innovation networks supported by digitalization: (1) project innovation networks; (2) clan innovation networks; (3) federated innovation networks; and (4) anarchic innovation networks. Each network involves different cognitive and social translations \u2013 or ways of identifying, sharing and assimilating knowledge. We describe the role of five novel properties of digital infrastructures in supporting each type of innovation network: representational flexibility, semantic coherence, temporal and spatial traceability, knowledge brokering and linguistic calibration. We iden"
+  },
+  {
+   "id": "https://openalex.org/W2035184119",
+   "doi": "10.1016/j.isprsjprs.2012.04.004",
+   "title": "CityGML \u2013 Interoperable semantic 3D city models",
+   "publication_year": 2012,
+   "source": "ISPRS Journal of Photogrammetry and Remote Sensing",
+   "type": "article",
+   "cited_by_count": 860,
+   "relevance_score": null,
+   "authors": [
+    "Gerhard Gr\u00f6ger",
+    "Lutz Pl\u00fcmer"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2557385283",
+   "doi": "10.1093/nar/gkw1039",
+   "title": "The Human Phenotype Ontology in 2017",
+   "publication_year": 2016,
+   "source": "Nucleic Acids Research",
+   "type": "review",
+   "cited_by_count": 851,
+   "relevance_score": null,
+   "authors": [
+    "Sebastian K\u00f6hler",
+    "Nicole Vasilevsky",
+    "Mark Engelstad",
+    "Erin D. Foster",
+    "Julie A. McMurry",
+    "S\u00e9gol\u00e8ne Aym\u00e9"
+   ],
+   "n_authors": 59,
+   "abstract": "Deep phenotyping has been defined as the precise and comprehensive analysis of phenotypic abnormalities in which the individual components of the phenotype are observed and described. The three components of the Human Phenotype Ontology (HPO; www.human-phenotype-ontology.org) project are the phenotype vocabulary, disease-phenotype annotations and the algorithms that operate on these. These components are being used for computational deep phenotyping and precision medicine as well as integration of clinical data into translational research. The HPO is being increasingly adopted as a standard for phenotypic abnormalities by diverse groups such as international rare disease organizations, registries, clinical labs, biomedical resources, and clinical software tools and will thereby contribute toward nascent efforts at global data exchange for identifying disease etiologies. This update article reviews the progress of the HPO project since the debut Nucleic Acids Research database article in 2014, including specific areas of expansion such as common (complex) disease, new algorithms for phenotype driven genomic discovery and diagnostics, integration of cross-species mapping efforts with the Mammalian Phenotype Ontology, an improved quality control pipeline, and the addition of patient-friendly terminology."
+  },
+  {
+   "id": "https://openalex.org/W2132551870",
+   "doi": "10.3389/fninf.2011.00004",
+   "title": "Informatics and Data Mining Tools and Strategies for the Human Connectome Project",
+   "publication_year": 2011,
+   "source": "Frontiers in Neuroinformatics",
+   "type": "article",
+   "cited_by_count": 765,
+   "relevance_score": null,
+   "authors": [
+    "Daniel S. Marcus",
+    "John Harwell",
+    "Timothy Olsen",
+    "Michael R. Hodge",
+    "Matthew F. Glasser",
+    "Fred Prior"
+   ],
+   "n_authors": 10,
+   "abstract": "The Human Connectome Project (HCP) is a major endeavor that will acquire and analyze connectivity data plus other neuroimaging, behavioral, and genetic data from 1,200 healthy adults. It will serve as a key resource for the neuroscience research community, enabling discoveries of how the brain is wired and how it functions in different individuals. To fulfill its potential, the HCP consortium is developing an informatics platform that will handle: (1) storage of primary and processed data, (2) systematic processing and analysis of the data, (3) open-access data-sharing, and (4) mining and exploration of the data. This informatics platform will include two primary components. ConnectomeDB will provide database services for storing and distributing the data, as well as data analysis pipelines. Connectome Workbench will provide visualization and exploration capabilities. The platform will be based on standard data formats and provide an open set of application programming interfaces (APIs) that will facilitate broad utilization of the data and integration of HCP services into a variety of external applications. Primary and processed data generated by the HCP will be openly shared with the scientific community, and the informatics platform will be available under an open source license. This paper describes the HCP informatics platform as currently envisioned and places it into the context of the overall HCP vision and agenda."
+  },
+  {
+   "id": "https://openalex.org/W2558586574",
+   "doi": "10.1093/nar/gkw1012",
+   "title": "MalaCards: an amalgamated human disease compendium with diverse clinical and genetic annotation and structured search",
+   "publication_year": 2016,
+   "source": "Nucleic Acids Research",
+   "type": "review",
+   "cited_by_count": 764,
+   "relevance_score": null,
+   "authors": [
+    "Noa Rappaport",
+    "Michal Twik",
+    "Inbar Plaschkes",
+    "Ron Nudel",
+    "Tsippi Iny Stein",
+    "Jacob Levitt"
+   ],
+   "n_authors": 10,
+   "abstract": "The MalaCards human disease database (http://www.malacards.org/) is an integrated compendium of annotated diseases mined from 68 data sources. MalaCards has a web card for each of \u223c20 000 disease entries, in six global categories. It portrays a broad array of annotation topics in 15 sections, including Summaries, Symptoms, Anatomical Context, Drugs, Genetic Tests, Variations and Publications. The Aliases and Classifications section reflects an algorithm for disease name integration across often-conflicting sources, providing effective annotation consolidation. A central feature is a balanced Genes section, with scores reflecting the strength of disease-gene associations. This is accompanied by other gene-related disease information such as pathways, mouse phenotypes and GO-terms, stemming from MalaCards' affiliation with the GeneCards Suite of databases. MalaCards' capacity to inter-link information from complementary sources, along with its elaborate search function, relational database infrastructure and convenient data dumps, allows it to tackle its rich disease annotation landscape, and facilitates systems analyses and genome sequence interpretation. MalaCards adopts a 'flat' disease-card approach, but each card is mapped to popular hierarchical ontologies (e.g. International Classification of Diseases, Human Phenotype Ontology and Unified Medical Language System) and also contains information about multi-level relations among diseases, thereby providing an optimal tool f"
+  },
+  {
+   "id": "https://openalex.org/W2083823098",
+   "doi": "10.1111/j.1468-4446.2009.01245.x",
+   "title": "Morphogenesis versus structuration: on combining structure and action 1",
+   "publication_year": 2010,
+   "source": "British Journal of Sociology",
+   "type": "article",
+   "cited_by_count": 692,
+   "relevance_score": null,
+   "authors": [
+    "Margaret Scotford Archer"
+   ],
+   "n_authors": 1,
+   "abstract": "The fundamental problem of linking human agency and social structure stalks through the history of sociological theory. Basically it concerns how to develop an adequate theoretical account which deals simultaneously with men constituting society and the social formation of human agents. For any theorist, except the holist, social structure is ultimately a human product, but for any theorist, except advocates of psychologism, this product in turn shapes individuals and influences their interaction. However successive theoretical developments have tilted either towards structure or towards action, a slippage which has gathered in momentum over time. Initially this meant that one element became dominant and the other subordinate: human agency had become pale and ghostly in mid-century functionalism, whilst structure betook an evanescent fragility in the re-flowering of phenomenology. Eventually certain schools of thought repressed the second element almost completely. On the one hand structuralist Marxism and normative functionalism virtually snuffed-out agency \u2013 the acting subject became increasingly lifeless whilst the structural or cultural components enjoyed a life of their own, self-propelling or self-maintaining. On the other hand interpretative sociology busily banished the structural to the realm of objectification and facticity \u2013 human agency became sovereign whilst social structure was reduced to supine plasticity because of its constructed nature. Although proponents "
+  },
+  {
+   "id": "https://openalex.org/W2218653053",
+   "doi": "10.1016/j.autcon.2015.12.003",
+   "title": "EXPRESS to OWL for construction industry: Towards a recommendable and usable ifcOWL ontology",
+   "publication_year": 2015,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 624,
+   "relevance_score": null,
+   "authors": [
+    "Pieter Pauwels",
+    "Walter Terkaj"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3028926798",
+   "doi": "10.1016/j.autcon.2020.103277",
+   "title": "Digital twin-enabled anomaly detection for built asset monitoring in operation and maintenance",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 623,
+   "relevance_score": null,
+   "authors": [
+    "Qiuchen Lu",
+    "Xiang Xie",
+    "Ajith Kumar Parlikad",
+    "Jennifer Mary Schooling"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4388615780",
+   "doi": "10.1093/nar/gkad1040",
+   "title": "DGIdb 5.0: rebuilding the drug\u2013gene interaction database for precision medicine and drug discovery platforms",
+   "publication_year": 2023,
+   "source": "Nucleic Acids Research",
+   "type": "article",
+   "cited_by_count": 620,
+   "relevance_score": null,
+   "authors": [
+    "Matthew J. Cannon",
+    "James Stevenson",
+    "Kathryn Stahl",
+    "Rohit Basu",
+    "Adam C. Coffman",
+    "Susanna Kiwala"
+   ],
+   "n_authors": 14,
+   "abstract": "The Drug-Gene Interaction Database (DGIdb, https://dgidb.org) is a publicly accessible resource that aggregates genes or gene products, drugs and drug-gene interaction records to drive hypothesis generation and discovery for clinicians and researchers. DGIdb 5.0 is the latest release and includes substantial architectural and functional updates to support integration into clinical and drug discovery pipelines. The DGIdb service architecture has been split into separate client and server applications, enabling consistent data access for users of both the application programming interface (API) and web interface. The new interface was developed in ReactJS, and includes dynamic visualizations and consistency in the display of user interface elements. A GraphQL API has been added to support customizable queries for all drugs, genes, annotations and associated data. Updated documentation provides users with example queries and detailed usage instructions for these new features. In addition, six sources have been added and many existing sources have been updated. Newly added sources include ChemIDplus, HemOnc, NCIt (National Cancer Institute Thesaurus), Drugs@FDA, HGNC (HUGO Gene Nomenclature Committee) and RxNorm. These new sources have been incorporated into DGIdb to provide additional records and enhance annotations of regulatory approval status for therapeutics. Methods for grouping drugs and genes have been expanded upon and developed as independent modular normalizers during "
+  },
+  {
+   "id": "https://openalex.org/W4210659358",
+   "doi": "10.1093/nar/gkw1104",
+   "title": "Ensembl 2017",
+   "publication_year": 2016,
+   "source": "Nucleic Acids Research",
+   "type": "article",
+   "cited_by_count": 588,
+   "relevance_score": null,
+   "authors": [
+    "Bronwen L. Aken",
+    "Premanand Achuthan",
+    "Wasiu A. Akanni",
+    "M Ridwan Amode",
+    "Friederike Bernsdorff",
+    "Jyothish N Nair Thulasee Bhai"
+   ],
+   "n_authors": 50,
+   "abstract": "Ensembl (www.ensembl.org) is a database and genome browser for enabling research on vertebrate genomes. We import, analyse, curate and integrate a diverse collection of large-scale reference data to create a more comprehensive view of genome biology than would be possible from any individual dataset. Our extensive data resources include evidence-based gene and regulatory region annotation, genome variation and gene trees. An accompanying suite of tools, infrastructure and programmatic access methods ensure uniform data analysis and distribution for all supported species. Together, these provide a comprehensive solution for large-scale and targeted genomics applications alike. Among many other developments over the past year, we have improved our resources for gene regulation and comparative genomics, and added CRISPR/Cas9 target sites. We released new browser functionality and tools, including improved filtering and prioritization of genome variation, Manhattan plot visualization for linkage disequilibrium and eQTL data, and an ontology search for phenotypes, traits and disease. We have also enhanced data discovery and access with a track hub registry and a selection of new REST end points. All Ensembl data are freely released to the scientific community and our source code is available via the open source Apache 2.0 license."
+  },
+  {
+   "id": "https://openalex.org/W4200415632",
+   "doi": "10.1080/00207543.2021.2014591",
+   "title": "The emergence of cognitive digital twin: vision, challenges and opportunities",
+   "publication_year": 2021,
+   "source": "International Journal of Production Research",
+   "type": "article",
+   "cited_by_count": 519,
+   "relevance_score": null,
+   "authors": [
+    "Xiaochen Zheng",
+    "Jinzhi Lu",
+    "Dimitris Kiritsis"
+   ],
+   "n_authors": 3,
+   "abstract": "As a key enabling technology of Industry 4.0, Digital Twin (DT) has been widely applied to various industrial domains covering different lifecycle phases of products and systems. To fully realize the Industry 4.0 vision, it is necessary to integrate multiple relevant DTs of a system according to a specific mission. This requires integrating all available data, information and knowledge related to the system across its entire lifecycle. It is a challenging task due to the high complexity of modern industrial systems. Semantic technologies such as ontology and knowledge graphs provide potential solutions by empowering DTs with augmented cognitive capabilities. The Cognitive Digital Twin (CDT) concept has been recently proposed which reveals a promising evolution of the current DT concept towards a more intelligent, comprehensive, and full lifecycle representation of complex systems. This paper reviews existing studies relevant to the CDT concept, and further explores its definitions and key features. To facilitate CDT development, a reference architecture is proposed based on the RAMI4.0 and some other existing architectures. Moreover, some key enabling technologies and several application scenarios of CDT are introduced. The challenges and opportunities are discussed in the end to boost future studies."
+  },
+  {
+   "id": "https://openalex.org/W2589813471",
+   "doi": "10.3390/ijgi6020053",
+   "title": "A State-of-the-Art Review on the Integration of Building Information Modeling (BIM) and Geographic Information System (GIS)",
+   "publication_year": 2017,
+   "source": "ISPRS International Journal of Geo-Information",
+   "type": "article",
+   "cited_by_count": 506,
+   "relevance_score": null,
+   "authors": [
+    "Xin Liu",
+    "Xiangyu Wang",
+    "Graeme Wright",
+    "Jack C.P. Cheng",
+    "Xiao Li",
+    "Rui Liu"
+   ],
+   "n_authors": 6,
+   "abstract": "The integration of Building Information Modeling (BIM) and Geographic Information System (GIS) has been identified as a promising but challenging topic to transform information towards the generation of knowledge and intelligence. Achievement of integrating these two concepts and enabling technologies will have a significant impact on solving problems in the civil, building and infrastructure sectors. However, since GIS and BIM were originally developed for different purposes, numerous challenges are being encountered for the integration. To better understand these two different domains, this paper reviews the development and dissimilarities of GIS and BIM, the existing integration methods, and investigates their potential in various applications. This study shows that the integration methods are developed for various reasons and aim to solve different problems. The parameters influencing the choice can be summarized and named as \u201cEEEF\u201d criteria: effectiveness, extensibility, effort, and flexibility. Compared with other methods, semantic web technologies provide a promising and generalized integration solution. However, the biggest challenges of this method are the large efforts required at early stage and the isolated development of ontologies within one particular domain. The isolation problem also applies to other methods. Therefore, openness is the key of the success of BIM and GIS integration."
+  },
+  {
+   "id": "https://openalex.org/W2903298154",
+   "doi": "10.1038/s41538-018-0032-6",
+   "title": "FoodOn: a harmonized food ontology to increase global food traceability, quality control and data integration",
+   "publication_year": 2018,
+   "source": "npj Science of Food",
+   "type": "article",
+   "cited_by_count": 498,
+   "relevance_score": null,
+   "authors": [
+    "Damion Dooley",
+    "Emma Griffiths",
+    "Gurinder Gosal",
+    "Pier Luigi Buttigieg",
+    "Robert Hoehndorf",
+    "Matthew C Lange"
+   ],
+   "n_authors": 9,
+   "abstract": "The construction of high capacity data sharing networks to support increasing government and commercial data exchange has highlighted a key roadblock: the content of existing Internet-connected information remains siloed due to a multiplicity of local languages and data dictionaries. This lack of a digital lingua franca is obvious in the domain of human food as materials travel from their wild or farm origin, through processing and distribution chains, to consumers. Well defined, hierarchical vocabulary, connected with logical relationships-in other words, an ontology-is urgently needed to help tackle data harmonization problems that span the domains of food security, safety, quality, production, distribution, and consumer health and convenience. FoodOn (http://foodon.org) is a consortium-driven project to build a comprehensive and easily accessible global farm-to-fork ontology about food, that accurately and consistently describes foods commonly known in cultures from around the world. FoodOn addresses food product terminology gaps and supports food traceability. Focusing on human and domesticated animal food description, FoodOn contains animal and plant food sources, food categories and products, and other facets like preservation processes, contact surfaces, and packaging. Much of FoodOn's vocabulary comes from transforming LanguaL, a mature and popular food indexing thesaurus, into a World Wide Web Consortium (W3C) OWL Web Ontology Language-formatted vocabulary that provi"
+  },
+  {
+   "id": "https://openalex.org/W2090950329",
+   "doi": "10.3389/fpls.2011.00034",
+   "title": "The iPlant Collaborative: Cyberinfrastructure for Plant Biology",
+   "publication_year": 2011,
+   "source": "Frontiers in Plant Science",
+   "type": "article",
+   "cited_by_count": 490,
+   "relevance_score": null,
+   "authors": [
+    "Stephen A. Goff",
+    "Matthew W. Vaughn",
+    "Sheldon McKay",
+    "Eric H. Lyons",
+    "Ann E. Stapleton",
+    "Damian D. G. Gessler"
+   ],
+   "n_authors": 65,
+   "abstract": "The iPlant Collaborative (iPlant) is a United States National Science Foundation (NSF) funded project that aims to create an innovative, comprehensive, and foundational cyberinfrastructure in support of plant biology research (PSCIC, 2006). iPlant is developing cyberinfrastructure that uniquely enables scientists throughout the diverse fields that comprise plant biology to address Grand Challenges in new ways, to stimulate and facilitate cross-disciplinary research, to promote biology and computer science research interactions, and to train the next generation of scientists on the use of cyberinfrastructure in research and education. Meeting humanity's projected demands for agricultural and forest products and the expectation that natural ecosystems be managed sustainably will require synergies from the application of information technologies. The iPlant cyberinfrastructure design is based on an unprecedented period of research community input, and leverages developments in high-performance computing, data storage, and cyberinfrastructure for the physical sciences. iPlant is an open-source project with application programming interfaces that allow the community to extend the infrastructure to meet its needs. iPlant is sponsoring community-driven workshops addressing specific scientific questions via analysis tool integration and hypothesis testing. These workshops teach researchers how to add bioinformatics tools and/or datasets into the iPlant cyberinfrastructure enabling pl"
+  },
+  {
+   "id": "https://openalex.org/W2092794624",
+   "doi": "10.1016/j.autcon.2012.09.010",
+   "title": "A framework for proactive construction defect management using BIM, augmented reality and ontology-based data collection template",
+   "publication_year": 2012,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 456,
+   "relevance_score": null,
+   "authors": [
+    "Chansik Park",
+    "Do-Yeop Lee",
+    "Oh-Seong Kwon",
+    "Xiangyu Wang"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2056186927",
+   "doi": "10.1016/j.aei.2010.06.003",
+   "title": "A review and outlook for a \u2018Building Information Model\u2019 (BIM): A multi-standpoint framework for technological development",
+   "publication_year": 2010,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 455,
+   "relevance_score": null,
+   "authors": [
+    "Tomo Cerov\u0161ek"
+   ],
+   "n_authors": 1,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W1491110638",
+   "doi": "10.3233/sw-2011-0052",
+   "title": "LinkedGeoData: A core for a web of spatial open data",
+   "publication_year": 2012,
+   "source": "Semantic Web",
+   "type": "article",
+   "cited_by_count": 446,
+   "relevance_score": null,
+   "authors": [
+    "Claus Stadler",
+    "Jens Lehmann",
+    "Konrad H\u00f6ffner",
+    "S\u00f6ren Auer"
+   ],
+   "n_authors": 4,
+   "abstract": "The Semantic Web eases data and information integration tasks by providing an infrastructure based on RDF and ontologies. In this paper, we contribute to the development of a spatial Data Web by elaborating on how the collaboratively collected OpenStreetMap data can be interactively transformed and represented adhering to the RDF data model. This transformation will simplify information integration and aggregation tasks that require comprehensive background knowledge related to spatial features such as ways, structures, and landscapes. We describe how this data is interlinked with other spatial data sets, how it can be made accessible for machines according to the Linked Data paradigm and for humans by means of several applications, including a faceted geo-browser. The spatial data, vocabularies, interlinks and some of the applications are openly available in the LinkedGeoData project."
+  },
+  {
+   "id": "https://openalex.org/W2157646602",
+   "doi": "10.1109/access.2015.2416657",
+   "title": "Toward Social Internet of Vehicles: Concept, Architecture, and Applications",
+   "publication_year": 2015,
+   "source": "IEEE Access",
+   "type": "article",
+   "cited_by_count": 439,
+   "relevance_score": null,
+   "authors": [
+    "Kazi Masudul Alam",
+    "Mukesh Kumar Saini",
+    "Abdulmotaleb El Saddik"
+   ],
+   "n_authors": 3,
+   "abstract": "The main vision of the Internet of Things (IoT) is to equip real-life physical objects with computing and communication power so that they can interact with each other for the social good. As one of the key members of IoT, Internet of Vehicles (IoV) has seen steep advancement in communication technologies. Now, vehicles can easily exchange safety, efficiency, infotainment, and comfort-related information with other vehicles and infrastructures using vehicular ad hoc networks (VANETs). We leverage on the cloud-based VANETs theme to propose cyber-physical architecture for the Social IoV (SIoV). SIoV is a vehicular instance of the Social IoT (SIoT), where vehicles are the key social entities in the machine-to-machine vehicular social networks. We have identified the social structures of SIoV components, their relationships, and the interaction types. We have mapped VANETs components into IoT-A architecture reference model to offer better integration of SIoV with other IoT domains. We also present a communication message structure based on automotive ontologies, the SAE J2735 message set, and the advanced traveler information system events schema that corresponds to the social graph. Finally, we provide the implementation details and the experimental analysis to demonstrate the efficacy of the proposed system as well as include different application scenarios for various user groups."
+  },
+  {
+   "id": "https://openalex.org/W566599098",
+   "doi": null,
+   "title": "THE IFC STANDARD - A REVIEW OF HISTORY, DEVELOPMENT, AND STANDARDIZATION",
+   "publication_year": 2012,
+   "source": "Helda - University of Helsinki Institutional Repository",
+   "type": "review",
+   "cited_by_count": 433,
+   "relevance_score": null,
+   "authors": [
+    "Mikael Laakso",
+    "AO Kiviniemi"
+   ],
+   "n_authors": 2,
+   "abstract": "IFC (Industry Foundation Classes) is an open and standardized data model intended to enable interoperability between building information modeling software applications in the AEC/FM industry. IFC has been in development by an industry consortium since 1994, and since the start of the effort, the evolving industry context, standardization organization, resource availability, and technology development have exposed the standardization process to a dynamic environment. While the overarching mission of IFC standardization has always been to enable interoperability between AEC/FM software applications, the approach for how best to operationalize that mission has changed over the years. Through a literature review supported by the general theory on IT standardization, this study follows the development process of the IFC standard from its origins in the early 1990s to its latest activities in 2012. The end result is both a descriptive review of the history of IFC standardization and the establishment of an initial connection to IT standardization research for the IFC standard by profiling the effort in accordance with existing IT standardization theories and typologies. The review highlights the evolution of IFC standardization through several distinct phases, and its gradual movement from emphasizing technical architecture development towards growing involvement in specifying the processes facilitating its use. The organization behind the standard has also seen changes in its mod"
+  },
+  {
+   "id": "https://openalex.org/W4297819817",
+   "doi": "10.1093/isr/viv031",
+   "title": "A Relational Theory of World Politics",
+   "publication_year": 2016,
+   "source": "International Studies Review",
+   "type": "article",
+   "cited_by_count": 431,
+   "relevance_score": null,
+   "authors": [
+    "Qin Yaqing"
+   ],
+   "n_authors": 1,
+   "abstract": "Culture matters in social theory construction because the metaphysical component of the theoretical hard core is primarily shaped by the background knowledge of a cultural community. Individual rationality, a key concept abstracted from Western culture, constitutes the nucleus for much of mainstream Western International Relations Theory. This article proposes a relational theory of world politics with relationality as the metaphysical component of its theoretical hard core. It conceives the International Relations (IR) world as one composed of ongoing relations, assumes international actors as actors-in-relations, and takes processes defined in terms of relations in motion as ontologically significant. It puts forward the logic of relationality, arguing that actors base their actions on relations in the first place. It uses the Chinese zhongyong dialectics as its epistemological schema for understanding relationships in an increasingly complex world. This theoretical framework may enable us to see the IR world from a different perspective, reconceptualize key elements such as power and governance, and make a broader comparison of international systems for the enrichment of the Global IR project."
+  },
+  {
+   "id": "https://openalex.org/W4283068318",
+   "doi": "10.1016/j.scs.2022.104009",
+   "title": "Study on city digital twin technologies for sustainable smart city design: A review and bibliometric analysis of geographic information system and building information modeling integration",
+   "publication_year": 2022,
+   "source": "Sustainable Cities and Society",
+   "type": "article",
+   "cited_by_count": 427,
+   "relevance_score": null,
+   "authors": [
+    "Haishan Xia",
+    "Zishuo Liu",
+    "Maria Efremochkina",
+    "Xiaotong Liu",
+    "Chunxiang Lin"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W1991111340",
+   "doi": "10.1145/2103354.2103373",
+   "title": "Crowdsourcing in the cultural heritage domain: opportunities and challenges",
+   "publication_year": 2011,
+   "source": "International Conference on Communities and Technologies (C&T)",
+   "type": "conference-paper",
+   "cited_by_count": 427,
+   "relevance_score": null,
+   "authors": [
+    "Johan Oomen",
+    "Lora M. Aroyo"
+   ],
+   "n_authors": 2,
+   "abstract": "Galleries, Libraries, Archives and Museums (short: GLAMs) around the globe are beginning to explore the potential of crowdsourcing, i. e. outsourcing specific activities to a community though an open call. In this paper, we propose a typology of these activities, based on an empirical study of a substantial amount of projects initiated by relevant cultural heritage institutions. We use the Digital Content Life Cycle model to study the relation between the different types of crowdsourcing and the core activities of heritage organizations. Finally, we focus on two critical challenges that will define the success of these collaborations between amateurs and professionals: (1) finding sufficient knowledgeable, and loyal users; (2) maintaining a reasonable level of quality. We thus show the path towards a more open, connected and smart cultural heritage: open (the data is open, shared and accessible), connected (the use of linked data allows for interoperable infrastructures, with users and providers getting more and more connected), and smart (the use of knowledge and web technologies allows us to provide interesting data to the right users, in the right context, anytime, anywhere -- both with involved users/consumers and providers). It leads to a future cultural heritage that is open, has intelligent infrastructures and has involved users, consumers and providers."
+  },
+  {
+   "id": "https://openalex.org/W2049916132",
+   "doi": "10.1016/j.ecoinf.2014.08.005",
+   "title": "Global biotic interactions: An open infrastructure to share and analyze species-interaction datasets",
+   "publication_year": 2014,
+   "source": "Ecological Informatics",
+   "type": "article",
+   "cited_by_count": 420,
+   "relevance_score": null,
+   "authors": [
+    "Jorrit H. Poelen",
+    "James D. Simons",
+    "Chris Mungall"
+   ],
+   "n_authors": 3,
+   "abstract": "An intricate network of interactions between organisms and their environment form the ecosystems that sustain life on earth. With a detailed understanding of these interactions, ecologists and biologists can make better informed predictions about the ways different environmental factors will impact ecosystems. Despite the abundance of research data on biotic and abiotic interactions, no comprehensive and easily accessible data collection is available that spans taxonomic, geospatial, and temporal domains. Biotic-interaction datasets are effectively siloed, inhibiting cross-dataset comparisons. In order to pool resources and bring to light individual datasets, specialized research tools are needed to aggregate, normalize, and integrate existing datasets with standard taxonomies, ontologies, vocabularies, and structured data repositories. Global Biotic Interactions (GloBI) provides such tools by way of an open, community-driven infrastructure designed to lower the barrier for researchers to perform ecological systems analysis and modeling. GloBI provides a tool that (a) ingests, normalizes, and aggregates datasets, (b) integrates interoperable data with accepted ontologies (e.g., OBO Relations Ontology, Uberon, and Environment Ontology), vocabularies (e.g., Coastal and Marine Ecological Classification Standard), and taxonomies (e.g., Integrated Taxonomic Information System and National Center for Biotechnology Information Taxonomy Database), (c) makes data accessible through an"
+  },
+  {
+   "id": "https://openalex.org/W3089558719",
+   "doi": "10.3233/sw-200385",
+   "title": "BOT: The building topology ontology of the W3C linked building data group",
+   "publication_year": 2020,
+   "source": "Semantic Web",
+   "type": "article",
+   "cited_by_count": 414,
+   "relevance_score": null,
+   "authors": [
+    "Mads Holten Rasmussen",
+    "Maxime Lefran\u00e7ois",
+    "Georg Ferdinand Schneider",
+    "Pieter Pauwels"
+   ],
+   "n_authors": 4,
+   "abstract": "Actors in the Architecture, Engineering, Construction, Owner and Operation (AECOO) industry traditionally exchange building models as files. The Building Information Modelling (BIM) methodology advocates the seamless exchange of all information between related stakeholders using digital technologies. The ultimate evolution of the methodology, BIM Maturity Level 3, envisions interoperable, distributed, web-based, interdisciplinary information exchange among stakeholders across the life-cycle of buildings. The World Wide Web Consortium Linked Building Data Community Group (W3C LBD-CG) hypothesises that the Linked Data models and best practices can be leveraged to achieve this vision in modern web-based applications. In this paper, we introduce the Building Topology Ontology (BOT) as a core vocabulary to this approach. It provides a high-level description of the topology of buildings including storeys and spaces, the building elements they contain, and their web-friendly 3D models. We describe how existing applications produce and consume datasets combining BOT with other ontologies that describe product catalogues, sensor observations, or Internet of Things (IoT) devices effectively implementing BIM Maturity Level 3. We evaluate our approach by exporting and querying three real-life large building models."
+  },
+  {
+   "id": "https://openalex.org/W2889161681",
+   "doi": "10.3233/sw-180320",
+   "title": "The modular SSN ontology: A joint W3C and OGC standard specifying the semantics of sensors, observations, sampling, and actuation",
+   "publication_year": 2018,
+   "source": "Semantic Web",
+   "type": "article",
+   "cited_by_count": 410,
+   "relevance_score": null,
+   "authors": [
+    "Armin Haller",
+    "Krzysztof Janowicz",
+    "Sim\u00f3n Cox",
+    "Maxime Lefran\u00e7ois",
+    "Kerry L. Taylor",
+    "Danh Le-Phuoc"
+   ],
+   "n_authors": 10,
+   "abstract": "The joint W3C (World Wide Web Consortium) and OGC (Open Geospatial Consortium) Spatial Data on the Web (SDW) Working Group developed a set of ontologies to describe sensors, actuators, samplers as well as their observations, actuation, and sampling activities. The ontologies have been published both as a W3C recommendation and as an OGC implementation standard. The set includes a lightweight core module called SOSA (Sensor, Observation, Sampler, and Actuator) available at: http://www.w3.org/ns/sosa/, and a more expressive extension module called SSN (Semantic Sensor Network) available at: http://www.w3.org/ns/ssn/. Together they describe systems of sensors and actuators, observations, the used procedures, the subjects and their properties being observed or acted upon, samples and the process of sampling, and so forth. The set of ontologies adopts a modular architecture with SOSA as a self-contained core that is extended by SSN and other modules to add expressivity and breadth. The SOSA/SSN ontologies are able to support a wide range of applications and use cases, including satellite imagery, large-scale scientific monitoring, industrial and household infrastructures, social sensing, citizen science, observation-driven ontology engineering, and the Internet of Things. In this paper we give an overview of the ontologies and discuss the rationale behind key design decisions, reporting on the differences between the new SSN ontology presented here and its predecessor [Web Semanti"
+  },
+  {
+   "id": "https://openalex.org/W4384201993",
+   "doi": "10.3390/su151410908",
+   "title": "Digital Twins in the Construction Industry: A Comprehensive Review of Current Implementations, Enabling Technologies, and Future Directions",
+   "publication_year": 2023,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 408,
+   "relevance_score": null,
+   "authors": [
+    "Hossein Omrany",
+    "Karam M. Al-Obaidi",
+    "Amreen Husain",
+    "Amirhosein Ghaffarianhoseini"
+   ],
+   "n_authors": 4,
+   "abstract": "This paper presents a comprehensive understanding of current digital twin (DT) implementations in the construction industry, along with providing an overview of technologies enabling the operation of DTs in the industry. To this end, 145 publications were identified using a systematic literature review. The results revealed eight key areas of DT implementation including (i) virtual design, (ii) project planning and management, (iii) asset management and maintenance, (iv) safety management, (v) energy efficiency and sustainability, (vi) quality control and management, (vii) supply chain management and logistics, and (viii) structural health monitoring. The findings demonstrate that DT technology has the capacity to revolutionise the construction industry across these areas, enabling optimised designs, improved collaboration, real-time monitoring, predictive maintenance, enhanced safety practices, energy performance optimisation, quality inspections, efficient supply chain management, and proactive maintenance. This study also identified several challenges that hinder the widespread implementation of DT in construction, including (i) data integration and interoperability, (ii) data accuracy and completeness, (iii) scalability and complexity, (iv) privacy and security, and (v) standards and governance. To address these challenges, this paper recommends prioritising standardised data formats, protocols, and APIs for seamless collaboration, exploring semantic data modelling and on"
+  },
+  {
+   "id": "https://openalex.org/W2462007197",
+   "doi": "10.1186/s13326-016-0088-7",
+   "title": "The Cell Ontology 2016: enhanced content, modularization, and ontology interoperability",
+   "publication_year": 2016,
+   "source": "Journal of Biomedical Semantics",
+   "type": "article",
+   "cited_by_count": 391,
+   "relevance_score": null,
+   "authors": [
+    "Alexander D. Diehl",
+    "Terrence F. Meehan",
+    "Yvonne M. Bradford",
+    "Matthew Brush",
+    "Wasila Dahdul",
+    "David S. Dougall"
+   ],
+   "n_authors": 15,
+   "abstract": "BACKGROUND: The Cell Ontology (CL) is an OBO Foundry candidate ontology covering the domain of canonical, natural biological cell types. Since its inception in 2005, the CL has undergone multiple rounds of revision and expansion, most notably in its representation of hematopoietic cells. For in vivo cells, the CL focuses on vertebrates but provides general classes that can be used for other metazoans, which can be subtyped in species-specific ontologies. CONSTRUCTION AND CONTENT: Recent work on the CL has focused on extending the representation of various cell types, and developing new modules in the CL itself, and in related ontologies in coordination with the CL. For example, the Kidney and Urinary Pathway Ontology was used as a template to populate the CL with additional cell types. In addition, subtypes of the class 'cell in vitro' have received improved definitions and labels to provide for modularity with the representation of cells in the Cell Line Ontology and Reagent Ontology. Recent changes in the ontology development methodology for CL include a switch from OBO to OWL for the primary encoding of the ontology, and an increasing reliance on logical definitions for improved reasoning. UTILITY AND DISCUSSION: The CL is now mandated as a metadata standard for large functional genomics and transcriptomics projects, and is used extensively for annotation, querying, and analyses of cell type specific data in sequencing consortia such as FANTOM5 and ENCODE, as well as for t"
+  },
+  {
+   "id": "https://openalex.org/W2900007277",
+   "doi": "10.1093/nar/gky1077",
+   "title": "RegulonDB v 10.5: tackling challenges to unify classic and high throughput knowledge of gene regulation inE. coliK-12",
+   "publication_year": 2018,
+   "source": "Nucleic Acids Research",
+   "type": "article",
+   "cited_by_count": 390,
+   "relevance_score": null,
+   "authors": [
+    "Alberto Santos-Zavaleta",
+    "Heladia Salgado",
+    "Socorro Gama\u2010Castro",
+    "Mishael S\u00e1nchez-P\u00e9rez",
+    "Laura G\u00f3mez-Romero",
+    "Daniela Ledezma-Tejeida"
+   ],
+   "n_authors": 17,
+   "abstract": "RegulonDB, first published 20 years ago, is a comprehensive electronic resource about regulation of transcription initiation of Escherichia coli K-12 with decades of knowledge from classic molecular biology experiments, and recently also from high-throughput genomic methodologies. We curated the literature to keep RegulonDB up to date, and initiated curation of ChIP and gSELEX experiments. We estimate that current knowledge describes between 10% and 30% of the expected total number of transcription factor- gene regulatory interactions in E. coli. RegulonDB provides datasets for interactions for which there is no evidence that they affect expression, as well as expression datasets. We developed a proof of concept pipeline to merge binding and expression evidence to identify regulatory interactions. These datasets can be visualized in the RegulonDB JBrowse. We developed the Microbial Conditions Ontology with a controlled vocabulary for the minimal properties to reproduce an experiment, which contributes to integrate data from high throughput and classic literature. At a higher level of integration, we report Genetic Sensory-Response Units for 200 transcription factors, including their regulation at the metabolic level, and include summaries for 70 of them. Finally, we summarize our research with Natural language processing strategies to enhance our biocuration work."
+  },
+  {
+   "id": "https://openalex.org/W2596272678",
+   "doi": "10.1016/j.autcon.2017.03.005",
+   "title": "Bibliometric analysis and review of Building Information Modelling literature published between 2005 and 2015",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 388,
+   "relevance_score": null,
+   "authors": [
+    "R\u00faben Santos",
+    "Ant\u00f3nio Aguiar Costa",
+    "Ant\u00f3nio Grilo"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2946885273",
+   "doi": "10.1016/j.ijinfomgt.2019.04.004",
+   "title": "Social media for intelligent public information and warning in disasters: An interdisciplinary review",
+   "publication_year": 2019,
+   "source": "International Journal of Information Management",
+   "type": "article",
+   "cited_by_count": 385,
+   "relevance_score": null,
+   "authors": [
+    "Cheng Zhang",
+    "Chao Hua Fan",
+    "Wenlin Yao",
+    "Xia Hu",
+    "Ali Mostafavi"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2115507180",
+   "doi": "10.1105/tpc.111.086272",
+   "title": "Recommendations for Reporting Metabolite Data",
+   "publication_year": 2011,
+   "source": "The Plant Cell",
+   "type": "article",
+   "cited_by_count": 366,
+   "relevance_score": null,
+   "authors": [
+    "Alisdair Robert Fernie",
+    "Asaph Aharoni",
+    "Lothar Willmitzer",
+    "Mark Stitt",
+    "Takayuki Tohge",
+    "Joachim Kopka"
+   ],
+   "n_authors": 10,
+   "abstract": "The last decade has witnessed dramatic advances in our ability to determine the levels of an ever broadening range of metabolites. That said, while transcriptomic approaches provide almost complete coverage (Gonz\u00e1lez-Ballester et al., 2010) and proteomics approaches are now capable of detecting upwards of 45% of the cellular protein complement (Baerenfaller et al., 2008), metabolomics is currently capable of determining only a small fraction of the metabolites found in any one cell (Saito and Matsuda, 2010). It has been estimated that at least 200,000 different metabolites occur across the plant kingdom, and between 7000 and 15,000 within an individual species (D'Auria and Gershenzon, 2005; Fernie, 2007). However, to date, even the most comprehensive methods detect only between 1000 and 2000 molecular features, which are putatively indicative of bona fide chemical entities synthesized in plant tissues (Aharoni et al., 2002; Giavalisco et al., 2009; Iijima et al., 2008). Metabolite measurements are further complicated by the chemical diversity of metabolites and their broad dynamic range in cellular abundance. These features currently prohibit the possibility of extracting and measuring all metabolites using single extraction and analytical procedures. Consequently, many different extraction techniques and combinations of analytical methods are employed in attempts to achieve adequate metabolite coverage (Lisec et al., 2006; De Vos et al., 2007; Kruger et al., 2008; Tohge and "
+  },
+  {
+   "id": "https://openalex.org/W2920876344",
+   "doi": "10.1016/j.autcon.2019.02.011",
+   "title": "Integration of LCA and LCC analysis within a BIM-based environment",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 364,
+   "relevance_score": null,
+   "authors": [
+    "R\u00faben Santos",
+    "Ant\u00f3nio Aguiar Costa",
+    "Jos\u00e9 Dinis Silvestre",
+    "Lincy Pyl"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2641905542",
+   "doi": "10.1038/nmeth.4326",
+   "title": "Image Data Resource: a bioimage data integration and publication platform",
+   "publication_year": 2017,
+   "source": "Nature Methods",
+   "type": "article",
+   "cited_by_count": 359,
+   "relevance_score": null,
+   "authors": [
+    "Eleanor M. Williams",
+    "Josh Moore",
+    "Simon Li",
+    "Gabriella Rustici",
+    "Aleksandra Tarkowska",
+    "Anatole Chessel"
+   ],
+   "n_authors": 13,
+   "abstract": "Access to primary research data is vital for the advancement of science. To extend the data types supported by community repositories, we built a prototype Image Data Resource (IDR) that collects and integrates imaging data acquired across many different imaging modalities. IDR links data from several imaging modalities, including high-content screening, super-resolution and time-lapse microscopy, digital pathology, public genetic or chemical databases, and cell and tissue phenotypes expressed using controlled ontologies. Using this integration, IDR facilitates the analysis of gene networks and reveals functional interactions that are inaccessible to individual studies. To enable re-analysis, we also established a computational resource based on Jupyter notebooks that allows remote access to the entire IDR. IDR is also an open source platform that others can use to publish their own image data. Thus IDR provides both a novel on-line resource and a software infrastructure that promotes and extends publication and re-analysis of scientific image data."
+  },
+  {
+   "id": "https://openalex.org/W2900848435",
+   "doi": "10.1016/j.autcon.2018.11.008",
+   "title": "Review of BIM's application in energy simulation: Tools, issues, and solutions",
+   "publication_year": 2018,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 352,
+   "relevance_score": null,
+   "authors": [
+    "Ehsan Kamel",
+    "Ali M. Memari"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W1970457529",
+   "doi": "10.1016/j.autcon.2012.02.003",
+   "title": "Exploring how information exchanges can be enhanced through Cloud BIM",
+   "publication_year": 2012,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 347,
+   "relevance_score": null,
+   "authors": [
+    "Alan Martin Redmond",
+    "Alan Hore",
+    "Mustafa Alshawi",
+    "Roger West"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2297040847",
+   "doi": "10.1080/00141844.2015.1107607",
+   "title": "Introduction: Infrastructures as Ontological Experiments",
+   "publication_year": 2016,
+   "source": "Ethnos",
+   "type": "article",
+   "cited_by_count": 345,
+   "relevance_score": null,
+   "authors": [
+    "Casper Bruun Jensen",
+    "Atsuro Morita"
+   ],
+   "n_authors": 2,
+   "abstract": "Infrastructures have conventionally been viewed as material substrates underlying social action. On this basis, cultural anthropology has engaged infrastructure as vehicles through which political values and symbols are made manifest. In contrast, this introduction, and the contributions that follow, specifies an orientation to infrastructures as ontological experiments. At issue is a view of infrastructures as experimental systems that integrate a multiplicity of disjunctive elements and spin out new relations between them. The result is the creation and transformation of different forms of practical, materialized ontologies, which give shape to culture, society, and politics. Given that these transformations are often slow and incremental, they often unfold under the radar of anthropological analysis. However, we argue that it is important for the anthropology of infrastructure to find ways of bringing their world-changing capacities into view. The paper ends with a brief introduction to the contributions of the special issue."
+  },
+  {
+   "id": "https://openalex.org/W2013486114",
+   "doi": "10.1016/j.future.2013.07.002",
+   "title": "The Earth System Grid Federation: An open infrastructure for access to distributed geospatial data",
+   "publication_year": 2013,
+   "source": "Future Generation Computer Systems",
+   "type": "article",
+   "cited_by_count": 341,
+   "relevance_score": null,
+   "authors": [
+    "L. Cinquini",
+    "Daniel J. Crichton",
+    "Chris A. Mattmann",
+    "John F. Harney",
+    "Galen M Shipman",
+    "Feiyi Wang"
+   ],
+   "n_authors": 20,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W1967250174",
+   "doi": "10.1016/j.autcon.2010.11.017",
+   "title": "A semantic rule checking environment for building performance checking",
+   "publication_year": 2010,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 338,
+   "relevance_score": null,
+   "authors": [
+    "Pieter Pauwels",
+    "Davy Van Deursen",
+    "Ruben Verstraeten",
+    "Jos De Roo",
+    "Ronald De Meyer",
+    "Rik Van De Walle"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2148499186",
+   "doi": "10.1093/database/bat018",
+   "title": "MalaCards: an integrated compendium for diseases and their annotation",
+   "publication_year": 2013,
+   "source": "Database",
+   "type": "article",
+   "cited_by_count": 332,
+   "relevance_score": null,
+   "authors": [
+    "Noa Rappaport",
+    "Noam Nativ",
+    "Gil Stelzer",
+    "Michal Twik",
+    "Yaron Guan\u2010Golan",
+    "Tsippi Iny Stein"
+   ],
+   "n_authors": 11,
+   "abstract": "Comprehensive disease classification, integration and annotation are crucial for biomedical discovery. At present, disease compilation is incomplete, heterogeneous and often lacking systematic inquiry mechanisms. We introduce MalaCards, an integrated database of human maladies and their annotations, modeled on the architecture and strategy of the GeneCards database of human genes. MalaCards mines and merges 44 data sources to generate a computerized card for each of 16 919 human diseases. Each MalaCard contains disease-specific prioritized annotations, as well as inter-disease connections, empowered by the GeneCards relational database, its searches and GeneDecks set analyses. First, we generate a disease list from 15 ranked sources, using disease-name unification heuristics. Next, we use four schemes to populate MalaCards sections: (i) directly interrogating disease resources, to establish integrated disease names, synonyms, summaries, drugs/therapeutics, clinical features, genetic tests and anatomical context; (ii) searching GeneCards for related publications, and for associated genes with corresponding relevance scores; (iii) analyzing disease-associated gene sets in GeneDecks to yield affiliated pathways, phenotypes, compounds and GO terms, sorted by a composite relevance score and presented with GeneCards links; and (iv) searching within MalaCards itself, e.g. for additional related diseases and anatomical context. The latter forms the basis for the construction of a dis"
+  },
+  {
+   "id": "https://openalex.org/W3112490946",
+   "doi": "10.1080/17508487.2020.1855597",
+   "title": "Automation, APIs and the distributed labour of platform pedagogies in Google Classroom",
+   "publication_year": 2020,
+   "source": "Critical Studies in Education",
+   "type": "article",
+   "cited_by_count": 330,
+   "relevance_score": null,
+   "authors": [
+    "Carlo Perrotta",
+    "Kalervo \u039d. Gulson",
+    "Ben Williamson",
+    "Kevin Witzenberger"
+   ],
+   "n_authors": 4,
+   "abstract": "Digital platforms have become central to interaction and participation in contemporary societies. New forms of \u2018platformized education\u2019 are rapidly proliferating across education systems, bringing logics of datafication, automation, surveillance, and interoperability into digitally mediated pedagogies. This article presents a conceptual framework and an original analysis of Google Classroom as an infrastructure for pedagogy. Its aim is to establish how Google configures new forms of pedagogic participation according to platform logics, concentrating on the cross-platform interoperability made possible by application programming interfaces (APIs). The analysis focuses on three components of the Google Classroom infrastructure and its configuration of pedagogic dynamics: Google as platform proprietor, setting the \u2018rules\u2019 of participation; the API which permits third-party integrations and data interoperability, thereby introducing automation and surveillance into pedagogic practices; and the emergence of new \u2018divisions of labour\u2019, as the working practices of school system administrators, teachers and guardians are shaped by the integrated infrastructure, while automated AI processes undertake the \u2018reverse pedagogy\u2019 of learning insights from the extraction of digital data. The article concludes with critical legal and practical ramifications of platform operators such as Google participating in education."
+  },
+  {
+   "id": "https://openalex.org/W4413801638",
+   "doi": "10.1056/aidbp2500144",
+   "title": "MedAgentBench: A Virtual EHR Environment to Benchmark Medical LLM Agents",
+   "publication_year": 2025,
+   "source": "NEJM AI",
+   "type": "article",
+   "cited_by_count": 321,
+   "relevance_score": null,
+   "authors": [
+    "Yixing Jiang",
+    "Kameron Collin Black",
+    "Gloria Geng",
+    "Danny Park",
+    "James Zou",
+    "Andrew Y. Ng"
+   ],
+   "n_authors": 7,
+   "abstract": "BACKGROUND: Recent large language models (LLMs) have demonstrated significant advancements, particularly in their ability to serve as agents, thereby surpassing their traditional role as chatbots. These agents can leverage their planning and tool utilization capabilities to address tasks specified at a high level. This suggests new potential to reduce the burden of administrative tasks and address current health care staff shortages. However, a standardized dataset to benchmark the agent capabilities of LLMs in medical applications is currently lacking, making it difficult to evaluate their performance on complex tasks in interactive health care environments. METHODS: To address this gap in the deployment of agentic artificial intelligence (AI) in health care, we introduce MedAgentBench, a broad evaluation suite designed to assess the agent capabilities of LLMs within medical records contexts. MedAgentBench encompasses 300 patient-specific clinically derived tasks from 10 categories written by human physicians, realistic profiles of 100 patients with over 700,000 data elements, a Fast Healthcare Interoperability Resources-compliant interactive environment, and an accompanying codebase. The environment uses standard application programming interfaces and communication infrastructure used in modern electronic health record (EHR) systems so that it can be easily migrated into live EHR systems. RESULTS: MedAgentBench presents an unsaturated agent-oriented benchmark at which curre"
+  },
+  {
+   "id": "https://openalex.org/W1519582095",
+   "doi": "10.1007/s10270-010-0178-4",
+   "title": "Model interoperability in building information modelling",
+   "publication_year": 2010,
+   "source": "Software & Systems Modeling",
+   "type": "article",
+   "cited_by_count": 318,
+   "relevance_score": null,
+   "authors": [
+    "Jim R. H. Steel",
+    "Robin Drogemuller",
+    "Bianca Toth"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3090689814",
+   "doi": "10.1093/nar/gkaa746",
+   "title": "The ModelSEED Biochemistry Database for the integration of metabolic annotations and the reconstruction, comparison and analysis of metabolic models for plants, fungi and microbes",
+   "publication_year": 2020,
+   "source": "Nucleic Acids Research",
+   "type": "article",
+   "cited_by_count": 315,
+   "relevance_score": null,
+   "authors": [
+    "Samuel M. D. Seaver",
+    "Filipe Liu",
+    "Qizhi Zhang",
+    "James G. Jeffryes",
+    "Jos\u00e9 P. Faria",
+    "Janaka N. Edirisinghe"
+   ],
+   "n_authors": 22,
+   "abstract": "For over 10 years, ModelSEED has been a primary resource for the construction of draft genome-scale metabolic models based on annotated microbial or plant genomes. Now being released, the biochemistry database serves as the foundation of biochemical data underlying ModelSEED and KBase. The biochemistry database embodies several properties that, taken together, distinguish it from other published biochemistry resources by: (i) including compartmentalization, transport reactions, charged molecules and proton balancing on reactions; (ii) being extensible by the user community, with all data stored in GitHub; and (iii) design as a biochemical 'Rosetta Stone' to facilitate comparison and integration of annotations from many different tools and databases. The database was constructed by combining chemical data from many resources, applying standard transformations, identifying redundancies and computing thermodynamic properties. The ModelSEED biochemistry is continually tested using flux balance analysis to ensure the biochemical network is modeling-ready and capable of simulating diverse phenotypes. Ontologies can be designed to aid in comparing and reconciling metabolic reconstructions that differ in how they represent various metabolic pathways. ModelSEED now includes 33,978 compounds and 36,645 reactions, available as a set of extensible files on GitHub, and available to search at https://modelseed.org/biochem and KBase."
+  },
+  {
+   "id": "https://openalex.org/W2162528766",
+   "doi": "10.1093/nar/gku1220",
+   "title": "OrthoDB v8: update of the hierarchical catalog of orthologs and the underlying free software",
+   "publication_year": 2014,
+   "source": "Nucleic Acids Research",
+   "type": "article",
+   "cited_by_count": 315,
+   "relevance_score": null,
+   "authors": [
+    "Evgenia V. Kriventseva",
+    "Fredrik Tegenfeldt",
+    "Tom J. Petty",
+    "Robert Michael Waterhouse",
+    "Felipe A. Sim\u00e3o",
+    "Igor A. Pozdnyakov"
+   ],
+   "n_authors": 8,
+   "abstract": "Orthology, refining the concept of homology, is the cornerstone of evolutionary comparative studies. With the ever-increasing availability of genomic data, inference of orthology has become instrumental for generating hypotheses about gene functions crucial to many studies. This update of the OrthoDB hierarchical catalog of orthologs (http://www.orthodb.org) covers 3027 complete genomes, including the most comprehensive set of 87 arthropods, 61 vertebrates, 227 fungi and 2627 bacteria (sampling the most complete and representative genomes from over 11,000 available). In addition to the most extensive integration of functional annotations from UniProt, InterPro, GO, OMIM, model organism phenotypes and COG functional categories, OrthoDB uniquely provides evolutionary annotations including rates of ortholog sequence divergence, copy-number profiles, sibling groups and gene architectures. We re-designed the entirety of the OrthoDB website from the underlying technology to the user interface, enabling the user to specify species of interest and to select the relevant orthology level by the NCBI taxonomy. The text searches allow use of complex logic with various identifiers of genes, proteins, domains, ontologies or annotation keywords and phrases. Gene copy-number profiles can also be queried. This release comes with the freely available underlying ortholog clustering pipeline (http://www.orthodb.org/software)."
+  },
+  {
+   "id": "https://openalex.org/W1971828295",
+   "doi": "10.1118/1.4754659",
+   "title": "SlicerRT: Radiation therapy research toolkit for 3D Slicer",
+   "publication_year": 2012,
+   "source": "Medical Physics",
+   "type": "article",
+   "cited_by_count": 313,
+   "relevance_score": null,
+   "authors": [
+    "Csaba Pint\u00e9r",
+    "Andr\u00e1s Lass\u00f3",
+    "An Wang",
+    "David Anthony Jaffray",
+    "Gabor Fichtinger"
+   ],
+   "n_authors": 5,
+   "abstract": "PURPOSE: Interest in adaptive radiation therapy research is constantly growing, but software tools available for researchers are mostly either expensive, closed proprietary applications, or free open-source packages with limited scope, extensibility, reliability, or user support. To address these limitations, we propose SlicerRT, a customizable, free, and open-source radiation therapy research toolkit. SlicerRT aspires to be an open-source toolkit for RT research, providing fast computations, convenient workflows for researchers, and a general image-guided therapy infrastructure to assist clinical translation of experimental therapeutic approaches. It is a medium into which RT researchers can integrate their methods and algorithms, and conduct comparative testing. METHODS: SlicerRT was implemented as an extension for the widely used 3D Slicer medical image visualization and analysis application platform. SlicerRT provides functionality specifically designed for radiation therapy research, in addition to the powerful tools that 3D Slicer offers for visualization, registration, segmentation, and data management. The feature set of SlicerRT was defined through consensus discussions with a large pool of RT researchers, including both radiation oncologists and medical physicists. The development processes used were similar to those of 3D Slicer to ensure software quality. Standardized mechanisms of 3D Slicer were applied for documentation, distribution, and user support. The testi"
+  },
+  {
+   "id": "https://openalex.org/W2806377715",
+   "doi": "10.1186/s40965-018-0046-7",
+   "title": "3DCityDB - a 3D geodatabase solution for the management, analysis, and visualization of semantic 3D city models based on CityGML",
+   "publication_year": 2018,
+   "source": "Open Geospatial Data Software and Standards",
+   "type": "article",
+   "cited_by_count": 300,
+   "relevance_score": null,
+   "authors": [
+    "Zhihang Yao",
+    "Claus Nagel",
+    "Felix Kunde",
+    "Gy\u00f6rgy Hudra",
+    "Philipp Willkomm",
+    "Andreas Donaubauer"
+   ],
+   "n_authors": 8,
+   "abstract": "Over the last decade, more and more cities and even countries worldwide are creating semantic 3D city models of their physical environment based on the international CityGML standard issued by the Open Geospatial Consortium (OGC). CityGML is an open data model and XML-based data exchange format describing the most relevant urban and landscape objects along with their spatial and non-spatial attributes, relations, and their complex hierarchical structures in five levels of detail. 3D city models, which are structured according to CityGML, are often used for various complex GIS simulation and analysis tasks, which go far beyond pure 3D visualization. Due to the large size and complexity of the sometimes country-wide 3D geospatial data, the GIS software vendors and service providers face many challenges when building 3D spatial data infrastructures for realizing the efficient storage, analysis, management, interaction, and visualization of the 3D city models based on the CityGML standard. Hence, there has been strong demand for an open and comprehensive software solution that can provide full support of the aforementioned functionalities. The \u20183D City Database\u2019 (3DCityDB) is a free 3D geo-database solution for CityGML-based 3D city models. 3DCityDB has been developed as an Open Source and platform-independent software suite to facilitate the development and deployment of 3D city model applications. The 3DCityDB software package consists of a database schema for spatially enhance"
+  },
+  {
+   "id": "https://openalex.org/W2685500084",
+   "doi": "10.1137/110845537",
+   "title": "Quasi-Monte Carlo Finite Element Methods for a Class of Elliptic Partial Differential Equations with Random Coefficients",
+   "publication_year": 2012,
+   "source": "SIAM Journal on Numerical Analysis",
+   "type": "article",
+   "cited_by_count": 300,
+   "relevance_score": null,
+   "authors": [
+    "Frances Y. Kuo",
+    "Christoph Schwab",
+    "Ian H. Sloan"
+   ],
+   "n_authors": 3,
+   "abstract": "In this paper quasi-Monte Carlo (QMC) methods are applied to a class of elliptic partial differential equations (PDEs) with random coefficients, where the random coefficient is parametrized by a countably infinite number of terms in a Karhunen--Lo\u00e8ve expansion. Models of this kind appear frequently in numerical models of physical systems, and in uncertainty quantification. The method uses a QMC method to estimate expected values of linear functionals of the exact or approximate solution of the PDE, with the expected value considered as an infinite dimensional integral in the parameter space corresponding to the randomness induced by the random coefficient. The error analysis, arguably the first rigorous application of the modern theory of QMC in weighted spaces, exploits the regularity with respect to both the physical variables (the variables in the physical domain) and the parametric variables (the parameters corresponding to randomness). In the weighted-space theory of QMC methods, \u201cweights,\u201d describing the varying difficulty of different subsets of the variables, are introduced in order to make sure that the high-dimensional integration problem is tractable. It turns out that the weights arising from the present analysis are of a nonstandard kind, being of neither product nor order dependent form, but instead a hybrid of the two---we refer to these as \u201cproduct and order dependent weights,\u201d or \u201cPOD weights\u201d for short. These POD weights are of a simple enough form to permit"
+  },
+  {
+   "id": "https://openalex.org/W3030149940",
+   "doi": "10.2196/13598",
+   "title": "ACTION-EHR: Patient-Centric Blockchain-Based Electronic Health Record Data Management for Cancer Care",
+   "publication_year": 2020,
+   "source": "Journal of Medical Internet Research",
+   "type": "article",
+   "cited_by_count": 295,
+   "relevance_score": null,
+   "authors": [
+    "Alevtina Dubovitskaya",
+    "Furqan Baig",
+    "Zhigang Xu",
+    "Rohit Shukla",
+    "Pratik Sushil Zambani",
+    "Arun Swaminathan"
+   ],
+   "n_authors": 15,
+   "abstract": "BACKGROUND: With increased specialization of health care services and high levels of patient mobility, accessing health care services across multiple hospitals or clinics has become very common for diagnosis and treatment, particularly for patients with chronic diseases such as cancer. With informed knowledge of a patient's history, physicians can make prompt clinical decisions for smarter, safer, and more efficient care. However, due to the privacy and high sensitivity of electronic health records (EHR), most EHR data sharing still happens through fax or mail due to the lack of systematic infrastructure support for secure, trustable health data sharing, which can also cause major delays in patient care. OBJECTIVE: Our goal was to develop a system that will facilitate secure, trustable management, sharing, and aggregation of EHR data. Our patient-centric system allows patients to manage their own health records across multiple hospitals. The system will ensure patient privacy protection and guarantee security with respect to the requirements for health care data management, including the access control policy specified by the patient. METHODS: We propose a permissioned blockchain-based system for EHR data sharing and integration. Each hospital will provide a blockchain node integrated with its own EHR system to form the blockchain network. A web-based interface will be used for patients and doctors to initiate EHR sharing transactions. We take a hybrid data management approac"
+  },
+  {
+   "id": "https://openalex.org/W2160357890",
+   "doi": "10.1093/ije/dyv072",
+   "title": "Data Resource Profile: Accessible Resource for Integrated Epigenomic Studies (ARIES)",
+   "publication_year": 2015,
+   "source": "International Journal of Epidemiology",
+   "type": "article",
+   "cited_by_count": 293,
+   "relevance_score": null,
+   "authors": [
+    "Caroline L. Relton",
+    "Tom R. Gaunt",
+    "Wendy L. McArdle",
+    "Karen M. Ho",
+    "Aparna Duggirala",
+    "Hashem A. Shihab"
+   ],
+   "n_authors": 19,
+   "abstract": "ARIES is a population-based resource of DNA methylation data accessible by the research community, established with the aim of improving our understanding of the determinants and consequences of epigenetic variation, in particular the role of DNA methylation in health and development. To this end, ARIES has profiled genome-wide DNA methylation on samples selected from approximately 1000 mother-child pairs at three time points in children and two time points in their mothers. ARIES has also profiled a wide range of fetal and adult tissues for reference purposes, with which to compare cord blood and peripheral blood DNA methylation patterns. A web portal has been constructed to allow openly accessible browsing of aggregate ARIES DNA methylation data in the context of other publicly available data on many aspects of gene function, using a custom-built data integration system (ARIES-Explorer). ARIES is a sub-study of the Avon Longitudinal Study of Parents and Children (ALSPAC).1,2 A sub-set of 1018 mother-offspring pairs were included in ARIES and were selected based on availability of DNA samples at two time- for the mother (at an antenatal clinic and at a follow-up clinic when their offspring were mean age 15.5 years) and three time points for the offspring [at birth, childhood, (mean age 7.5 years) and adolescence at mean age 15.5 years]. Figure 1 provides a schematic of the ALSPAC participants and time points profiled as part of ARIES. Schematic of the ALSPAC participants inc"
+  },
+  {
+   "id": "https://openalex.org/W2154331071",
+   "doi": "10.1093/nar/gkt977",
+   "title": "The International Mouse Phenotyping Consortium Web Portal, a unified point of access for knockout mice and related phenotyping data",
+   "publication_year": 2013,
+   "source": "Nucleic Acids Research",
+   "type": "article",
+   "cited_by_count": 291,
+   "relevance_score": null,
+   "authors": [
+    "Gautier Koscielny",
+    "Gagarine Yaikhom",
+    "Vivek Iyer",
+    "Terrence F. Meehan",
+    "Hugh Morgan",
+    "Juli\u00e1n Atienza-Herrero"
+   ],
+   "n_authors": 33,
+   "abstract": "The International Mouse Phenotyping Consortium (IMPC) web portal (http://www.mousephenotype.org) provides the biomedical community with a unified point of access to mutant mice and rich collection of related emerging and existing mouse phenotype data. IMPC mouse clinics worldwide follow rigorous highly structured and standardized protocols for the experimentation, collection and dissemination of data. Dedicated 'data wranglers' work with each phenotyping center to collate data and perform quality control of data. An automated statistical analysis pipeline has been developed to identify knockout strains with a significant change in the phenotype parameters. Annotation with biomedical ontologies allows biologists and clinicians to easily find mouse strains with phenotypic traits relevant to their research. Data integration with other resources will provide insights into mammalian gene function and human disease. As phenotype data become available for every gene in the mouse, the IMPC web portal will become an invaluable tool for researchers studying the genetic contributions of genes to human diseases."
+  },
+  {
+   "id": "https://openalex.org/W2614948710",
+   "doi": "10.1093/eurheartj/ehx254",
+   "title": "UK Biobank: opportunities for cardiovascular research",
+   "publication_year": 2017,
+   "source": "European Heart Journal",
+   "type": "article",
+   "cited_by_count": 290,
+   "relevance_score": null,
+   "authors": [
+    "Thomas J. Littlejohns",
+    "Cathie L. M. Sudlow",
+    "Naomi E. Allen",
+    "Rory Collins"
+   ],
+   "n_authors": 4,
+   "abstract": "Cardiovascular diseases are a major cause of morbidity and mortality, accounting for 45% of all deaths in European countries in 20161 and almost a third of deaths worldwide in 2013.2 A similar pattern is observed in the UK where cardiovascular diseases were responsible for 27% of deaths in 2014, with coronary heart disease resulting in the largest number of deaths attributable to a single cause (n = \u223c69 000) whilst stroke is the third biggest cause (n = \u223c39 000).3 Although age-standardized cardiovascular disease mortality rates are decreasing worldwide, the total deaths and burden as measured through disability-adjusted life years of cardiovascular diseases are increasing.4 , 5 Furthermore, in the UK, cardiovascular risk factors such as high blood pressure and high cholesterol are among the leading causes of disease burden.6 Epidemiological studies have historically played an essential role in identifying the causes and consequences of cardiovascular disease and have resulted in improvements in prevention and treatment. The seminal US-based Framingham Heart Study which recruited 5200 participants between 1948 and 1952, was integral in identifying a range of important risk factors for cardiovascular disease, such as high blood pressure, a high cholesterol level, cigarette smoking, obesity and physical inactivity, and consequently shifted the focus from management to preventative strategies for cardiovascular disease.7 This, together with findings from other epidemiological stu"
+  },
+  {
+   "id": "https://openalex.org/W2151068025",
+   "doi": "10.1136/amiajnl-2013-002428",
+   "title": "Electronic health records-driven phenotyping: challenges, recent advances, and perspectives",
+   "publication_year": 2013,
+   "source": "Journal of the American Medical Informatics Association",
+   "type": "article",
+   "cited_by_count": 288,
+   "relevance_score": null,
+   "authors": [
+    "Jyotishman Pathak",
+    "Abel Kho",
+    "Joshua C. Denny"
+   ],
+   "n_authors": 3,
+   "abstract": "With the completion of the Human Genome Project1 as well as recent advances in genomic science and comparative biological studies, a new era of individualized medicine is evolving where novel biomedical discoveries are leading to more effective prevention, treatment, and diagnosis of disease. Although altered phenotypes are one of the most reliable manifestations of altered gene functions, research in extracting, representing, and analyzing phenotype\u2013genotype relationships is still evolving. This has led to the emergence of a trans-discipline field, called \u2018Phenomics,\u20192 that aims to capitalize on high-throughput computation and informatics technologies for the systematic study of phenotypes and how they might influence personal genomics.3 Many comparative phenomics studies in the recent past4,5 have demonstrated the power of positively correlating phenotypes with several measures of gene functions. However, despite the advances, research in phenomics is presented with various challenges, including (i) developing approaches for high-throughput extraction and representation of phenotypes, (ii) building techniques for storing, integrating, and querying phenotype data, and (iii) advancing phenotypic-driven analysis to derive phenotype\u2013genotype associations. A significant barrier in the discovery of new genetic variants is the requirement to obtain the large sample sizes needed for an effective study (since variants may be rare within a population) leading to time-consuming and on"
+  },
+  {
+   "id": "https://openalex.org/W2997736338",
+   "doi": "10.1093/biosci/biz140",
+   "title": "The Extended Specimen Network: A Strategy to Enhance US Biodiversity Collections, Promote Research and Education",
+   "publication_year": 2019,
+   "source": "BioScience",
+   "type": "article",
+   "cited_by_count": 287,
+   "relevance_score": null,
+   "authors": [
+    "James Colin Lendemer",
+    "Barbara M. Thiers",
+    "Anna Monfils",
+    "Jennifer M. Zaspel",
+    "Elizabeth R. Ellwood",
+    "Andrew C. Bentley"
+   ],
+   "n_authors": 19,
+   "abstract": "For more than two centuries, biodiversity collections have served as the foundation for scientific investigation of and education about life on Earth (Melber and Abraham 2002, Cook et al. 2014, Funk 2018). The collections that have been assembled in the past and continue to grow today are a cornerstone of our national heritage that have been treated as such since the founding of the United States (e.g., Jefferson 1799, Goode 1901a, 1901b, Meisel 1926). A diverse array of institutions throughout the United States, from museums and botanical gardens to universities and government agencies, maintain our biodiversity collections as part of their research and education missions. Collectively, these institutions and their staff are stewards for at least 1 billion biodiversity specimens that include such diverse objects as dinosaur bones, pressed plants, dried mushrooms, fish preserved in alcohol, pinned insects, articulated skeletons, eggshells, and microscopic pollen grains. In turn, these collections are a premier resource for exploring life, its forms, interactions, and functions, across evolutionary, temporal, and spatial scales (Bebber et al. 2010, Monfils et al. 2017, Schindel and Cook 2018). Biodiversity collections have historically consisted of physical objects and the infrastructure to support those objects (Bradley et al. 2014). However, the last two decades have witnessed a remarkable wave of digitization that has reshaped the collections paradigm to include digital dat"
+  },
+  {
+   "id": "https://openalex.org/W1659163511",
+   "doi": "10.3233/sw-2012-0057",
+   "title": "WebProt\u00e9g\u00e9: A collaborative ontology editor and knowledge acquisition tool for the Web",
+   "publication_year": 2013,
+   "source": "Semantic Web",
+   "type": "article",
+   "cited_by_count": 280,
+   "relevance_score": null,
+   "authors": [
+    "Tania Tudorache",
+    "Csongor I. Nyulas",
+    "Natalya Fridman Noy",
+    "Mark A. Musen"
+   ],
+   "n_authors": 4,
+   "abstract": "In this paper, we present WebProt\u00e9g\u00e9-a lightweight ontology editor and knowledge acquisition tool for the Web. With the wide adoption of Web 2.0 platforms and the gradual adoption of ontologies and Semantic Web technologies in the real world, we need ontology-development tools that are better suited for the novel ways of interacting, constructing and consuming knowledge. Users today take Web-based content creation and online collaboration for granted. WebProt\u00e9g\u00e9 integrates these features as part of the ontology development process itself. We tried to lower the entry barrier to ontology development by providing a tool that is accessible from any Web browser, has extensive support for collaboration, and a highly customizable and pluggable user interface that can be adapted to any level of user expertise. The declarative user interface enabled us to create custom knowledge-acquisition forms tailored for domain experts. We built WebProt\u00e9g\u00e9 using the existing Prot\u00e9g\u00e9 infrastructure, which supports collaboration on the back end side, and the Google Web Toolkit for the front end. The generic and extensible infrastructure allowed us to easily deploy WebProt\u00e9g\u00e9 in production settings for several projects. We present the main features of WebProt\u00e9g\u00e9 and its architecture and describe briefly some of its uses for real-world projects. WebProt\u00e9g\u00e9 is free and open source. An online demo is available at http://webprotege.stanford.edu."
+  },
+  {
+   "id": "https://openalex.org/W3036067204",
+   "doi": "10.1016/j.autcon.2020.103310",
+   "title": "Knowledge graph for identifying hazards on construction sites: Integrating computer vision with ontology",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 269,
+   "relevance_score": null,
+   "authors": [
+    "Weili Fang",
+    "Ling Ma",
+    "Peter E.D. Love",
+    "Hanbin Luo",
+    "Lieyun Ding",
+    "Ao Zhou"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4405928941",
+   "doi": "10.1016/j.rcim.2024.102937",
+   "title": "Reviewing human-robot collaboration in manufacturing: Opportunities and challenges in the context of industry 5.0",
+   "publication_year": 2024,
+   "source": "Robotics and Computer-Integrated Manufacturing",
+   "type": "article",
+   "cited_by_count": 262,
+   "relevance_score": null,
+   "authors": [
+    "Mandeep Dhanda",
+    "Benedict A. Rogers",
+    "Stephanie Hall",
+    "Elies A. Dekoninck",
+    "Vimal G. Dhokia"
+   ],
+   "n_authors": 5,
+   "abstract": "Industry 4.0 (I4.0) has been characterized by the increasing use of automation, artificial intelligence , and big data in manufacturing. It has brought different machines, tools, robots and devices together through integration with cyber-physical systems as well as Internet of Things and computer systems . This has dramatically improved efficiency, productivity, and flexibility of automated systems, but it has also raised concerns about the impact of automation on jobs, the ethical considerations and the future of work in general. Industry 5.0 (I5.0) is the next manufacturing paradigm evolution and builds on I4.0 with the addition of \u2018people\u2019, in which robots will be designed to work alongside humans in a safe and efficient manner. Human-robot collaboration (HRC) is its key enabler. In manufacturing, HRC has the potential to improve safety, efficiency, and productivity by allowing humans to focus on tasks that require creativity, judgment, and flexibility, while robots perform more repetitive and dangerous tasks. This paper explores the concept of HRC and its advancement within 21st century industry. It identifies the opportunities and challenges arising from the interactions between robots and humans in manufacturing applications, assembly, and inspection. It also highlights the significance of HRC in I4.0 and its potential in I5.0. In addition, the role of artificial intelligence, machine learning , large language models , information modelling (ontologies) and new emerging"
+  },
+  {
+   "id": "https://openalex.org/W2795807894",
+   "doi": "10.1016/j.rser.2018.03.064",
+   "title": "Building information modeling for energy retrofitting \u2013 A review",
+   "publication_year": 2018,
+   "source": "Renewable and Sustainable Energy Reviews",
+   "type": "article",
+   "cited_by_count": 253,
+   "relevance_score": null,
+   "authors": [
+    "Lu\u00eds Sanhudo",
+    "Nuno Ramos",
+    "Jo\u00e3o Po\u00e7as Martins",
+    "Ricardo M. S. F. Almeida",
+    "Eva Barreira",
+    "M. Lurdes Sim\u00f5es"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2980539212",
+   "doi": "10.1111/1755-0998.13106",
+   "title": "EnTAP : Bringing faster and smarter functional annotation to non\u2010model eukaryotic transcriptomes",
+   "publication_year": 2019,
+   "source": "Molecular Ecology Resources",
+   "type": "article",
+   "cited_by_count": 251,
+   "relevance_score": null,
+   "authors": [
+    "Alexander J. Hart",
+    "Samuel Ginzburg",
+    "Muyang Xu",
+    "Cera R. Fisher",
+    "Nasim Rahmatpour",
+    "Jeffry B. Mitton"
+   ],
+   "n_authors": 8,
+   "abstract": "EnTAP (Eukaryotic Non-Model Transcriptome Annotation Pipeline) was designed to improve the accuracy, speed, and flexibility of functional gene annotation for de novo assembled transcriptomes in non-model eukaryotes. This software package addresses the fragmentation and related assembly issues that result in inflated transcript estimates and poor annotation rates of protein-coding transcripts. Following filters applied through assessment of true expression and frame selection, open-source tools are leveraged to functionally annotate the reduced set of translated proteins. Downstream features include fast similarity search across five repositories, protein domain assignment, orthologous gene family assessment, and Gene Ontology (GO) term assignment. The final annotation integrates across multiple databases and selects an optimal assignment from a combination of weighted metrics describing similarity search score, taxonomic relationship, and informativeness. Researchers have the option to include additional filters to identify and remove contaminants, identify associated pathways, and prepare the transcripts for enrichment analysis. This fully featured pipeline is easy to install, configure, and runs significantly faster than comparable annotation packages. EnTAP is optimized to generate extensive functional information for the gene space of organisms with limited or poorly characterized genomic resources."
+  },
+  {
+   "id": "https://openalex.org/W1583948418",
+   "doi": "10.1111/mice.12128",
+   "title": "Semantic Enrichment for Building Information Modeling",
+   "publication_year": 2015,
+   "source": "Computer-Aided Civil and Infrastructure Engineering",
+   "type": "article",
+   "cited_by_count": 245,
+   "relevance_score": null,
+   "authors": [
+    "Michael Belsky",
+    "Rafael Sacks",
+    "Ioannis K. Brilakis"
+   ],
+   "n_authors": 3,
+   "abstract": "Significant difficulties remain in exchanging information between building information modeling (BIM) tools. The industry foundation classes (IFC) exchange schema is too generic to capture the full semantic meaning needed for direct use by different construction project stakeholders\u2019 BIM tools. Although BIM standards that prescribe model view definitions (MVD) for domain-specific exchanges are under development, insufficient semantic definition of exchanges prevents achievement of the full potential of BIM through seamless interoperability. We propose an innovative approach for supplementing an IFC exchange file with semantically useful concepts inferred from the explicit and implicit information contained in the building model. A prototype software was implemented to test the applicability of the approach. It consists of a rule-processing engine and allows composition of inference rule-sets that can be tailored for different domains. The tests demonstrate semantic enrichment with precast concrete building models, adding inferred joint, slab aggregation and connection concepts."
+  },
+  {
+   "id": "https://openalex.org/W2547861573",
+   "doi": "10.1016/j.culher.2016.09.010",
+   "title": "Architectural heritage knowledge modelling: An ontology-based framework for conservation process",
+   "publication_year": 2016,
+   "source": "Journal of Cultural Heritage",
+   "type": "article",
+   "cited_by_count": 243,
+   "relevance_score": null,
+   "authors": [
+    "Marta Acierno",
+    "Stefano Cursi",
+    "Davide Simeone",
+    "Donatella Fiorani"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2124282646",
+   "doi": "10.3897/bdj.2.e1079",
+   "title": "The Encyclopedia of Life v2: Providing Global Access to Knowledge About Life on Earth",
+   "publication_year": 2014,
+   "source": "Biodiversity Data Journal",
+   "type": "article",
+   "cited_by_count": 243,
+   "relevance_score": null,
+   "authors": [
+    "Cynthia Sims Parr",
+    "Nathan Wilson",
+    "Patrick R. Leary",
+    "Katja S. Schulz",
+    "Lans Kristen",
+    "Walley Lisa"
+   ],
+   "n_authors": 12,
+   "abstract": "The Encyclopedia of Life (EOL, http://eol.org) aims to provide unprecedented global access to a broad range of information about life on Earth. It currently contains 3.5 million distinct pages for taxa and provides content for 1.3 million of those pages. The content is primarily contributed by EOL content partners (providers) that have a more limited geographic, taxonomic or topical scope. EOL aggregates these data and automatically integrates them based on associated scientific names and other classification information. EOL also provides interfaces for curation and direct content addition. All materials in EOL are either in the public domain or licensed under a Creative Commons license. In addition to the web interface, EOL is also accessible through an Application Programming Interface. In this paper, we review recent developments added for Version 2 of the web site and subsequent releases through Version 2.2, which have made EOL more engaging, personal, accessible and internationalizable. We outline the core features and technical architecture of the system. We summarize milestones achieved so far by EOL to present results of the current system implementation and establish benchmarks upon which to judge future improvements. We have shown that it is possible to successfully integrate large amounts of descriptive biodiversity data from diverse sources into a robust, standards-based, dynamic, and scalable infrastructure. Increasing global participation and the emergence of E"
+  },
+  {
+   "id": "https://openalex.org/W4226343570",
+   "doi": "10.1109/jiot.2022.3163606",
+   "title": "Knowledge-Based Fault Diagnosis in Industrial Internet of Things: A Survey",
+   "publication_year": 2022,
+   "source": "IEEE Internet of Things Journal",
+   "type": "article",
+   "cited_by_count": 242,
+   "relevance_score": null,
+   "authors": [
+    "Yuanfang Chi",
+    "Yanjie Dong",
+    "Z. Jane Wang",
+    "Fei Richard Yu",
+    "Victor C. M. Leung"
+   ],
+   "n_authors": 5,
+   "abstract": "Industrial Internet of Things (IIoT) systems connect a plethora of smart devices, such as sensors, actuators, and controllers, to enable efficient industrial productions in manners observable and controllable by human beings. Plain model-based and data-driven diagnosis approaches can be used for fault detection and isolation of specific IIoT components. However, the physical models, signal patterns, and machine learning algorithms need to be carefully designed to describe system faults. Besides, the ever-increasing level of connectivity among devices can induce exponential complexity. Knowledge-based fault diagnosis approaches improve interoperability via ontologies so that high-level reasoning and inquiry response can be provided to nonexpert users. Therefore, knowledge-based fault diagnosis approaches are preferred over plain model-based and data-driven diagnosis approaches in recent IIoT systems. In the context of IIoT systems, this work reviews the recent progress on the construction of knowledge bases via ontologies and deductive/inductive reasoning for knowledge-based fault diagnosis. Besides, general inductive reasoning methods are discussed to shed light on their successful applications in knowledge-based fault diagnosis for IIoT systems. Following the trend of large-system decentralization, future fault diagnosis also requires decentralized implementations. Therefore, we conclude this survey by discussing several interesting open problems for decentralized knowledge-"
+  },
+  {
+   "id": "https://openalex.org/W2066538598",
+   "doi": "10.1016/j.aei.2012.01.005",
+   "title": "Semantics of model views for information exchanges using the industry foundation class schema",
+   "publication_year": 2012,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 239,
+   "relevance_score": null,
+   "authors": [
+    "Manu Venugopal",
+    "Charles M. Eastman",
+    "Rafael Sacks",
+    "Jochen Teizer"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3013934869",
+   "doi": "10.3390/su12072670",
+   "title": "BIM-Based End-of-Lifecycle Decision Making and Digital Deconstruction: Literature Review",
+   "publication_year": 2020,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 237,
+   "relevance_score": null,
+   "authors": [
+    "Arghavan Akbarieh",
+    "Laddu Bhagya Jayasinghe",
+    "Dani\u00e8le Waldmann",
+    "Felix Norman Teferle"
+   ],
+   "n_authors": 4,
+   "abstract": "This article is the second part of a two-part study, which explored the extent to which Building Information Modelling (BIM) is used for End-of-Lifecycle (EoL) scenario selection to minimise the Construction and Demolition Waste (CDW). The conventional literature review presented here is based on the conceptual landscape that was obtained from the bibliometric and scientometric analysis in the first part of the study. Seven main academic research directions concerning the BIM-based EoL domain were found, including social and cultural factors, BIM-based Design for Deconstruction (DfD), BIM-based deconstruction, BIM-based EoL within LCA, BIM-aided waste management, Material and Component Banks (M/C Banks), off-site construction, interoperability and Industry Foundation Classes (IFC). The analysis highlights research gaps in the path of raw materials to reusable materials, i.e., from the deconstruction to M/C banks to DfD-based designs and then again to deconstruction. BIM-based EoL is suffering from a lack of a global framework. The existing solutions are based on local waste management policies and case-specific sustainability criteria selection. Another drawback of these ad hoc but well-developed BIM-based EoL prototypes is their use of specific proprietary BIM tools to support their framework. This disconnection between BIM tools and EoL tools is reportedly hindering the BIM-based EoL, while no IFC classes support the EoL phase information exchange."
+  },
+  {
+   "id": "https://openalex.org/W4392600686",
+   "doi": "10.1093/genetics/iyae027",
+   "title": "The Arabidopsis Information Resource in 2024",
+   "publication_year": 2024,
+   "source": "Genetics",
+   "type": "article",
+   "cited_by_count": 236,
+   "relevance_score": null,
+   "authors": [
+    "Leonore Reiser",
+    "Erica G. Bakker",
+    "Sabarinath Subramaniam",
+    "Xingguo Chen",
+    "Swapnil Sawant",
+    "Kartik Khosa"
+   ],
+   "n_authors": 8,
+   "abstract": "Since 1999, The Arabidopsis Information Resource (www.arabidopsis.org) has been curating data about the Arabidopsis thaliana genome. Its primary focus is integrating experimental gene function information from the peer-reviewed literature and codifying it as controlled vocabulary annotations. Our goal is to produce a \u201cgold standard\u201d functional annotation set that reflects the current state of knowledge about the Arabidopsis genome. At the same time, the resource serves as a nexus for community-based collaborations aimed at improving data quality, access, and reuse. For the past decade, our work has been made possible by subscriptions from our global user base. This update covers our ongoing biocuration work, some of our modernization efforts that contribute to the first major infrastructure overhaul since 2011, the introduction of JBrowse2, and the resource's role in community activities such as organizing the structural reannotation of the genome. For gene function assessment, we used gene ontology annotations as a metric to evaluate: (1) what is currently known about Arabidopsis gene function and (2) the set of \u201cunknown\u201d genes. Currently, 74% of the proteome has been annotated to at least one gene ontology term. Of those loci, half have experimental support for at least one of the following aspects: molecular function, biological process, or cellular component. Our work sheds light on the genes for which we have not yet identified any published experimental data and have no"
+  },
+  {
+   "id": "https://openalex.org/W2743245152",
+   "doi": "10.1111/cts.12501",
+   "title": "Progress in Rare Diseases Research 2010\u20132016: An IRDiRC Perspective",
+   "publication_year": 2017,
+   "source": "Clinical and Translational Science",
+   "type": "review",
+   "cited_by_count": 232,
+   "relevance_score": null,
+   "authors": [
+    "Hugh J. S. Dawkins",
+    "Ruxandra Draghia",
+    "Paul F. Lasko",
+    "Lilian Pek Lian Lau",
+    "Anneliene Hechtelt Jonker",
+    "Christine M. Cutillo"
+   ],
+   "n_authors": 14,
+   "abstract": "Rare diseases by definition are conditions that affect small numbers of people. The prevalence threshold that designates a disease as rare varies in different countries. Generally, diseases with prevalence fewer than 5 in 10,000 people are considered rare.1 Many rare diseases affect far fewer people worldwide, with some having a single identified case and others with cases numbering from tens to low hundreds of people.2 However, collectively, they are common. There are \u223c6,000\u20138,000 rare diseases, with 250\u2013280 new diseases described annually, affecting an estimated 6\u20138% of the human population.3-6 The rarity of these diseases individually creates significant challenges for affected patients, their families, and for clinicians attempting to achieve a confirmed diagnosis and implement best care.7, 8 Obtaining a correct diagnosis is frequently a difficult and lengthy process, as physicians and caregivers often lack appropriate expertise in a disease that they rarely encounter.4 Effective therapeutics are lacking for the large majority of these diseases, and when they exist, they are often very expensive because of scientific and manufacturing challenges, and small potential markets for such products; this creates barriers to access that are frequently difficult to resolve.3 Rare diseases are chronic and often severely disabling, thus treating these patients places a substantial burden on healthcare budgets. For example, one recent study from Western Australia concluded that in 20"
+  },
+  {
+   "id": "https://openalex.org/W2984212254",
+   "doi": "10.1016/j.landusepol.2019.104302",
+   "title": "Working on the boundaries\u2014How do science use and interpret the nature-based solution concept?",
+   "publication_year": 2019,
+   "source": "Land Use Policy",
+   "type": "article",
+   "cited_by_count": 231,
+   "relevance_score": null,
+   "authors": [
+    "Helena I. Hanson",
+    "Bj\u00f6rn Wickenberg",
+    "Johanna Alkan Olsson"
+   ],
+   "n_authors": 3,
+   "abstract": "Nature-based solutions (NBS) is the latest contribution to the green concept family. NBS is defined as actions based in nature addressing societal challenges. In this study, we lean on the concept boundary object, broken down into three analytical categories: use, core ideas and granularities, to explore the cohesive and fragmenting powers of the NBS concept, and discuss its future role in green space governance. The study is based on a structured, qualitative review of 112 scientific peer-reviewed publications that use the term NBS. Most publications are from 2017 or later, highlighting the novelty of the NBS concept. The concept has a strong footing in the European urban context. Flood mitigation and functional ecosystems and biodiversity conservation are the most targeted sustainability goals in the publications, and a diversity of solutions are considered. There is a close link between the NBS concept, green infrastructure, and the ecosystem service concept, indicating a path dependency in its uptake and use. The publications demonstrate a low level of integration of the NBS concept (i.e. it is commonly used as a buzz word). Most empirical studies focus solely on environmental benefits delivered by NBS, and few studies assess social, economic, and environmental benefits together, which is a central ambition of the concept. We conclude that the NBS concept is working on the boundaries between different scientific disciplines and between science and policy. Depending on how"
+  },
+  {
+   "id": "https://openalex.org/W3013348729",
+   "doi": "10.1016/j.autcon.2020.103183",
+   "title": "Semi-automatic geometric digital twinning for existing buildings based on images and CAD drawings",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 219,
+   "relevance_score": null,
+   "authors": [
+    "Qiuchen Lu",
+    "Long Chen",
+    "Shuai Li",
+    "Michael Pitt"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3153745755",
+   "doi": "10.1016/j.autcon.2021.103720",
+   "title": "Development of BIM-integrated construction robot task planning and simulation system",
+   "publication_year": 2021,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 216,
+   "relevance_score": null,
+   "authors": [
+    "Sungjin Kim",
+    "Matthew Peavy",
+    "Pei-Chi Huang",
+    "Kyungki Kim"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4312281791",
+   "doi": "10.1109/access.2022.3229370",
+   "title": "Toward Smart-Building Digital Twins: BIM and IoT Data Integration",
+   "publication_year": 2022,
+   "source": "IEEE Access",
+   "type": "article",
+   "cited_by_count": 212,
+   "relevance_score": null,
+   "authors": [
+    "Dagimawi D. Eneyew",
+    "Miriam A. M. Capretz",
+    "Girma Bitsuamlak"
+   ],
+   "n_authors": 3,
+   "abstract": "Smart-building digital twins aim to virtually replicate the static and dynamic building characteristics through real-time connectivity between the virtual and physical counterparts. The virtual replica of the building can then be leveraged to monitor the current state, predict the future state, and take proactive measures to ensure optimal operation. Despite its potential, smart-building digital twin research is at an early stage compared to manufacturing and aerospace fields. One of the major impediments to adopting digital twin technology in smart buildings is the lack of interoperability, primarily between Building Information Modeling (BIM) and Internet of Things (IoT) data sources. Consequently, this paper presents a novel multi-layer digital twin architecture for smart buildings called BIM-IoT Data Integration (BIM-IoTDI) to enable semantic interoperability among smart-building digital twin applications. A detailed framework is presented based on the newly developed architecture, introducing an ontology-based query mediation method that provides integrated data access. An experimental evaluation model is developed to characterize the feasibility of the BIM-IoTDI architecture and framework. Furthermore, the performance of the new query mediation method is evaluated and compared to an existing BIM-IoT data integration approach. According to the evaluation results, the BIM-IoTDI architecture and framework are better suited to supporting the envisioned smart-building digita"
+  },
+  {
+   "id": "https://openalex.org/W3134781396",
+   "doi": "10.3390/app11052167",
+   "title": "Interoperability between Building Information Modelling (BIM) and Building Energy Model (BEM)",
+   "publication_year": 2021,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 208,
+   "relevance_score": null,
+   "authors": [
+    "Gabriela Bastos Porsani",
+    "Kattalin Del Valle de Lersundi",
+    "Ana S\u00e1nchez-Ostiz Guti\u00e9rrez",
+    "Carlos Fern\u00e1ndez Bandera"
+   ],
+   "n_authors": 4,
+   "abstract": "Building information modelling (BIM) is the first step towards the implementation of the industrial revolution 4.0, in which virtual reality and digital twins are key elements. At present, buildings are responsible for 40% of the energy consumption in Europe and, so, there is a growing interest in reducing their energy use. In this context, proper interoperability between BIM and building energy model (BEM) is paramount for integrating the digital world into the construction sector and, therefore, increasing competitiveness by saving costs. This paper evaluates whether there is an automated or semi-automated BIM to BEM workflow that could improve the building design process. For this purpose, a residential building and a warehouse are constructed using the same BIM authoring tool (Revit), where two open schemas were used: green building extensible markup language (gbXML) and industry foundation classes (IFC). These transfer files were imported into software compatible with the EnergyPlus engine\u2014Design Builder, Open Studio, and CYPETHERM HE\u2014in which simulations were performed. Our results showed that the energy models were built up to 7.50% smaller than in the BIM and with missing elements in their thermal envelope. Nevertheless, the materials were properly transferred to gbXML and IFC formats. Moreover, the simulation results revealed a huge difference in values between the models generated by the open schemas, in the range of 6 to 900 times. Overall, we conclude that there e"
+  },
+  {
+   "id": "https://openalex.org/W123614706",
+   "doi": "10.1093/hepl/9780198737315.003.0007",
+   "title": "7. Social Constructivism and European Integration",
+   "publication_year": 2018,
+   "source": "Oxford University Press eBooks",
+   "type": "book-chapter",
+   "cited_by_count": 208,
+   "relevance_score": null,
+   "authors": [
+    "Thomas Risse"
+   ],
+   "n_authors": 1,
+   "abstract": "The chapter presents a short overview on social constructivism as a distinct research programme and shows what it contributes to the study of European integration. Social constructivism represents a meta-theory or an ontology, not one more substantive theory of European integration. The substantive contribution of social constructivism to the various theories of European integration is to insist on taking meaning construction, discourse, and language seriously, and to point out the mutual constitution of agency and structure. Moreover, social constructivism emphasizes the constitutive features of social institutions including the EU as not just constraining behaviour, but also affecting the identities, interests, and preferences of actors. The chapter then uses the question of European identity to illustrate empirically social constructivism \u2018at work\u2019. A constructivist account of the euro and the migration crises demonstrates that European political leaders reacted largely to the mobilization of exclusive-nationalist identities by (mostly) right-wing populist parties and movements. In sum, the social constructivist research programme in EU studies has quickly left the stage of meta-theorizing and concern for ontology and epistemology behind, and has now entered the realm of concrete empirical work dealing with real puzzles of European political life."
+  },
+  {
+   "id": "https://openalex.org/W2621237074",
+   "doi": "10.1016/j.culher.2017.05.004",
+   "title": "Knowledge-based data enrichment for HBIM: Exploring high-quality models using the semantic-web",
+   "publication_year": 2017,
+   "source": "Journal of Cultural Heritage",
+   "type": "article",
+   "cited_by_count": 208,
+   "relevance_score": null,
+   "authors": [
+    "Ramona Quattrini",
+    "Roberto Pierdicca",
+    "Christian Morbidoni"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W1979524861",
+   "doi": "10.1016/j.isprsjprs.2013.05.003",
+   "title": "Advances in Geographic Object-Based Image Analysis with ontologies: A review of main contributions and limitations from a remote sensing perspective",
+   "publication_year": 2013,
+   "source": "ISPRS Journal of Photogrammetry and Remote Sensing",
+   "type": "article",
+   "cited_by_count": 208,
+   "relevance_score": null,
+   "authors": [
+    "Damien Arvor",
+    "Laurent Durieux",
+    "Samuel Andr\u00e9s",
+    "Marie\u2010Ang\u00e9lique Laporte"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2001323649",
+   "doi": "10.1111/j.1467-9671.2010.01186.x",
+   "title": "Semantic Enablement for Spatial Data Infrastructures",
+   "publication_year": 2010,
+   "source": "Transactions in GIS",
+   "type": "article",
+   "cited_by_count": 208,
+   "relevance_score": null,
+   "authors": [
+    "Krzysztof Janowicz",
+    "Sven Schade",
+    "Arne Br\u00f6ring",
+    "Carsten Ke\u00dfler",
+    "Patrick Mau\u00e9",
+    "Christoph Stasch"
+   ],
+   "n_authors": 6,
+   "abstract": "Building on abstract reference models, the Open Geospatial Consortium (OGC) has established standards for storing, discovering, and processing geographical information. These standards act as a basis for the implementation of specific services and Spatial Data Infrastructures (SDI). Research on geo-semantics plays an increasing role to support complex queries and retrieval across heterogeneous information sources, as well as for service orchestration, semantic translation, and on-the-fly integration. So far, this research targets individual solutions or focuses on the Semantic Web, leaving the integration into SDI aside. What is missing is a shared and transparent Semantic Enablement Layer for SDI which also integrates reasoning services known from the Semantic Web. Instead of developing new semantically enabled services from scratch, we propose to create profiles of existing services that implement a transparent mapping between the OGC and the Semantic Web world. Finally, we point out how to combine SDI with linked data."
+  },
+  {
+   "id": "https://openalex.org/W2617438516",
+   "doi": "10.1215/23289252-3814949",
+   "title": "We Got Issues",
+   "publication_year": 2017,
+   "source": "TSQ Transgender Studies Quarterly",
+   "type": "article",
+   "cited_by_count": 207,
+   "relevance_score": null,
+   "authors": [
+    "Treva Ellison",
+    "Kai M. Green",
+    "Matt Richardson",
+    "C. Riley Snorton"
+   ],
+   "n_authors": 4,
+   "abstract": "We are in a time labeled the \"transgender tipping point,\" a period characterized by the scaling up of legal protections, visibility, rights, and politics centered on transgender people. The contemporary visual landscape is populated with the bodies of Black women. How does the language and discourse of the tipping point elide the presence of a saturation of Black bodies? In academia this elision has taken the shape of the expansion and institutionalization of transgender studies as a discipline. We are interested in what happens to the category of transgender as it becomes routed through the logics and power lines of institutionality and the metrics of administration. This special issue of TSQ: Transgender Studies Quarterly is the product and process of our attempt to think through how the institutionalization of transgender studies as a discipline functions as a scene of subjection for blackness\u2014for Black people and places.We have engaged multiple fields in this issue, and these various intellectual quandaries all signal the simultaneous institutionalization of transgender studies alongside the heightened visibility of transgender people in our current popular and political landscapes. We are interested in the ways that these two simultaneous occurrences affect one another. Black transwomen and transwomen of color have sparked the interests of many because of popular figures like Laverne Cox and Janet Mock; at the same time, there has also been a lot more awareness around Bl"
+  },
+  {
+   "id": "https://openalex.org/W2364251480",
+   "doi": "10.1016/j.aei.2016.04.007",
+   "title": "BIM-oriented indoor network model for indoor and outdoor combined route planning",
+   "publication_year": 2016,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 206,
+   "relevance_score": null,
+   "authors": [
+    "Tee\u2010Ann Teo",
+    "Kuan-Hsun Cho"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4382788326",
+   "doi": "10.3390/digital3030011",
+   "title": "Unlocking the Power of Digital Commons: Data Cooperatives as a Pathway for Data Sovereign, Innovative and Equitable Digital Communities",
+   "publication_year": 2023,
+   "source": "Digital",
+   "type": "article",
+   "cited_by_count": 203,
+   "relevance_score": null,
+   "authors": [
+    "Michael Max B\u00fchler",
+    "Igor Calzada",
+    "Isabel Cane",
+    "Thorsten Jelinek",
+    "Astha Kapoor",
+    "Morshed Mannan"
+   ],
+   "n_authors": 16,
+   "abstract": "Network effects, economies of scale, and lock-in-effects increasingly lead to a concentration of digital resources and capabilities, hindering the free and equitable development of digital entrepreneurship, new skills, and jobs, especially in small communities and their small and medium-sized enterprises (\u201cSMEs\u201d). To ensure the affordability and accessibility of technologies, promote digital entrepreneurship and community well-being, and protect digital rights, we propose data cooperatives as a vehicle for secure, trusted, and sovereign data exchange. In post-pandemic times, community/SME-led cooperatives can play a vital role by ensuring that supply chains to support digital commons are uninterrupted, resilient, and decentralized. Digital commons and data sovereignty provide communities with affordable and easy access to information and the ability to collectively negotiate data-related decisions. Moreover, cooperative commons (a) provide access to the infrastructure that underpins the modern economy, (b) preserve property rights, and (c) ensure that privatization and monopolization do not further erode self-determination, especially in a world increasingly mediated by AI. Thus, governance plays a significant role in accelerating communities\u2019/SMEs\u2019 digital transformation and addressing their challenges. Cooperatives thrive on digital governance and standards such as open trusted application programming interfaces (\u201cAPIs\u201d) that increase the efficiency, technological capabilit"
+  },
+  {
+   "id": "https://openalex.org/W2160979062",
+   "doi": "10.1093/cjip/poq007",
+   "title": "International Society as a Process: Institutions, Identities, and China's Peaceful Rise",
+   "publication_year": 2010,
+   "source": "The Chinese Journal of International Politics",
+   "type": "article",
+   "cited_by_count": 203,
+   "relevance_score": null,
+   "authors": [
+    "Qin Yaqing"
+   ],
+   "n_authors": 1,
+   "abstract": "As China continues rapidly to develop, the question remains, \u2018Is it possible for China to rise peacefully?\u2019 It is generally agreed that China\u2019s rise from 1979 to the present has been quite successful, but there is still worry, or at least widespread uncertainty, about its peaceful rise. Realists argue that a rising power will sooner or later challenge the hegemon and the existing international order, probably through violent, systemic war.1 Liberals worry about China\u2019s political system and ideology. Although they believe that international institutions permeated with liberal ideas and norms will greatly incorporate China and constrain its behavior, uncertainty nonetheless exists owing to the anarchical nature of the international system,2 the limitations of international institutions, and China\u2019s domestic political and socio-economic processes. The English School, with its key concept of international society, has similar concerns from a different angle. They are more about identity, i.e. China\u2019s identity vis-\u00e0-vis the English School definition of international society.3 Barry Buzan\u2019s article, \u2018China in International Society: Is Peaceful Rise Possible?\u2019 reflects this perspective and highlights the English School international society approach to the question of a rising power like China.4 This is a distinct perspective because it homes in on the fundamentally important issue of the institutions of international society institutions, especially the so-called primary institutio"
+  },
+  {
+   "id": "https://openalex.org/W2128831025",
+   "doi": "10.1007/s11306-015-0810-y",
+   "title": "COordination of Standards in MetabOlomicS (COSMOS): facilitating integrated metabolomics data access",
+   "publication_year": 2015,
+   "source": "Metabolomics",
+   "type": "article",
+   "cited_by_count": 202,
+   "relevance_score": null,
+   "authors": [
+    "Reza M. Salek",
+    "Steffen Neumann",
+    "Daniel Schober",
+    "Jan Hummel",
+    "Kenny Billiau",
+    "Joachim Kopka"
+   ],
+   "n_authors": 39,
+   "abstract": "Metabolomics has become a crucial phenotyping technique in a range of research fields including medicine, the life sciences, biotechnology and the environmental sciences. This necessitates the transfer of experimental information between research groups, as well as potentially to publishers and funders. After the initial efforts of the metabolomics standards initiative, minimum reporting standards were proposed which included the concepts for metabolomics databases. Built by the community, standards and infrastructure for metabolomics are still needed to allow storage, exchange, comparison and re-utilization of metabolomics data. The Framework Programme 7 EU Initiative 'coordination of standards in metabolomics' (COSMOS) is developing a robust data infrastructure and exchange standards for metabolomics data and metadata. This is to support workflows for a broad range of metabolomics applications within the European metabolomics community and the wider metabolomics and biomedical communities' participation. Here we announce our concepts and efforts asking for re-engagement of the metabolomics community, academics and industry, journal publishers, software and hardware vendors, as well as those interested in standardisation worldwide (addressing missing metabolomics ontologies, complex-metadata capturing and XML based open source data exchange format), to join and work towards updating and implementing metabolomics standards."
+  },
+  {
+   "id": "https://openalex.org/W1496151093",
+   "doi": "10.1111/mice.12151",
+   "title": "A Natural\u2010Language\u2010Based Approach to Intelligent Data Retrieval and Representation for Cloud BIM",
+   "publication_year": 2015,
+   "source": "Computer-Aided Civil and Infrastructure Engineering",
+   "type": "article",
+   "cited_by_count": 198,
+   "relevance_score": null,
+   "authors": [
+    "Jia\u2010Rui Lin",
+    "Zhen Hu",
+    "Jianping Zhang",
+    "Fangqiang Yu"
+   ],
+   "n_authors": 4,
+   "abstract": "As the information from diverse disciplines continues to integrate during the whole life cycle of an Architecture, Engineering, and Construction (AEC) project, the BIM (Building Information Model/Modeling) becomes increasingly large. This condition will cause users difficulty in acquiring the information they truly desire on a mobile device with limited space for interaction. The situation will be even worse for personnel without extensive knowledge of Industry Foundation Classes (IFC) or for nonexperts of the BIM software. To improve the value of the big data of BIM, an approach to intelligent data retrieval and representation for cloud BIM applications based on natural language processing was proposed. First, strategies for data storage and query acceleration based on the popular cloud-based database were explored to handle the large amount of BIM data. Then, the concepts \u201ckeyword\u201d and \u201cconstraint\u201d were proposed to capture the key objects and their specifications in a natural-language-based sentence that expresses the requirements of the user. Keywords and constraints can be mapped to IFC entities or properties through the International Framework for Dictionaries (IFD). The relationship between the user's requirement and the IFC-based data model was established by path finding in a graph generated from the IFC schema, enabling data retrieval and analysis. Finally, the analyzed and summarized results of BIM data were represented based on the structure of the retrieved data. "
+  },
+  {
+   "id": "https://openalex.org/W1973822881",
+   "doi": "10.1109/tsmcc.2010.2059012",
+   "title": "Toward Self-Reconfiguration of Manufacturing Systems Using Automation Agents",
+   "publication_year": 2010,
+   "source": "IEEE Transactions on Systems Man and Cybernetics Part C (Applications and Reviews)",
+   "type": "article",
+   "cited_by_count": 194,
+   "relevance_score": null,
+   "authors": [
+    "Wilfried Lepuschitz",
+    "Alois Zoitl",
+    "Mathieu Vall\u00e9e",
+    "Munir Merdan"
+   ],
+   "n_authors": 4,
+   "abstract": "The reconfiguration of control software is regarded as an important ability to enhance the effectiveness and efficiency in future manufacturing systems. Agent technology is considered as a promising approach to provide reconfiguration abilities, but existing work has been focused mainly on the reconfiguration of higher layers concerned with production scheduling and planning. In this paper, we present an automation agent architecture for controlling physical components that integrates \u201con the fly\u201d reconfiguration abilities on the low-level layer. Our approach is combined with an ontological representation of the low-level functionality at the high-level control layer, which is able to reason and initiate reconfiguration processes to modify the low-level control (LLC). As current control systems are mostly based on standards and principles that do not support reconfiguration, leading to rigid control software architectures, we base our approach on the promising Standard IEC 61499 for the LLC, extended by an innovative reconfiguration infrastructure. We demonstrate this approach with a case study of a reconfiguration process that modifies the LLC functionality provided by the automation agent of a physical component. Thereby, we obtain the ability to support numerous different LLC configurations without increasing the LLC's complexity. By applying our automation agent architecture, we enhance not only the flexibility of each component's control software, but also achieve the pr"
+  },
+  {
+   "id": "https://openalex.org/W3196974186",
+   "doi": "10.1017/dce.2021.10",
+   "title": "Universal Digital Twin - A Dynamic Knowledge Graph",
+   "publication_year": 2021,
+   "source": "Data-Centric Engineering",
+   "type": "article",
+   "cited_by_count": 193,
+   "relevance_score": null,
+   "authors": [
+    "Jethro Akroyd",
+    "Sebastian Mosbach",
+    "Amit N. Bhave",
+    "Markus Kraft"
+   ],
+   "n_authors": 4,
+   "abstract": "This paper introduces a dynamic knowledge-graph approach for digital twins and illustrates how this approach is by design naturally suited to realizing the vision of a Universal Digital Twin. The dynamic knowledge graph is implemented using technologies from the Semantic Web. It is composed of concepts and instances that are defined using ontologies, and of computational agents that operate on both the concepts and instances to update the dynamic knowledge graph. By construction, it is distributed, supports cross-domain interoperability, and ensures that data are connected, portable, discoverable, and queryable via a uniform interface. The knowledge graph includes the notions of a \u201cbase world\u201d that describes the real world and that is maintained by agents that incorporate real-time data, and of \u201cparallel worlds\u201d that support the intelligent exploration of alternative designs without affecting the base world. Use cases are presented that demonstrate the ability of the dynamic knowledge graph to host geospatial and chemical data, control chemistry experiments, perform cross-domain simulations, and perform scenario analysis. The questions of how to make intelligent suggestions for alternative scenarios and how to ensure alignment between the scenarios considered by the knowledge graph and the goals of society are considered. Work to extend the dynamic knowledge graph to develop a digital twin of the UK to support the decarbonization of the energy system is discussed. Important d"
+  },
+  {
+   "id": "https://openalex.org/W2988699795",
+   "doi": "10.1162/99608f92.fc14bf2d",
+   "title": "Uses and Reuses of Scientific Data: The Data Creators\u2019 Advantage",
+   "publication_year": 2019,
+   "source": "Harvard Data Science Review",
+   "type": "article",
+   "cited_by_count": 192,
+   "relevance_score": null,
+   "authors": [
+    "Irene V. Pasquetto",
+    "Christine L. Borgman",
+    "Morgan F. Wofford"
+   ],
+   "n_authors": 3,
+   "abstract": "Open access to data, as a core principle of open science, is predicated on assumptions that scientific data can be reused by other researchers. We test those assumptions by asking where scientists find reusable data, how they reuse those data, and how they interpret data they did not collect themselves. By conducting a qualitative meta-analysis of evidence on two long-term, distributed, interdisciplinary consortia, we found that scientists frequently sought data from public collections and from other researchers for comparative purposes such as \u201cground-truthing\u201d and calibration. When they sought others\u2019 data for reanalysis or for combining with their own data, which was relatively rare, most preferred to collaborate with the data creators. We propose a typology of data reuses ranging from comparative to integrative. Comparative data reuse requires interactional expertise, which involves knowing enough about the data to assess their quality and value for a specific comparison such as calibrating an instrument in a lab experiment. Integrative reuse requires contributory expertise, which involves the ability to perform the action, such as reusing data in a new experiment. Data integration requires more specialized scientific knowledge and deeper levels of epistemic trust in the knowledge products. Metadata, ontologies, and other forms of curation benefit interpretation for any kind of data reuse. Based on these findings, we theorize the data creators\u2019 advantage, that those who c"
+  },
+  {
+   "id": "https://openalex.org/W2762959207",
+   "doi": "10.3732/ajb.1700281",
+   "title": "Digitization of herbaria enables novel research",
+   "publication_year": 2017,
+   "source": "American Journal of Botany",
+   "type": "article",
+   "cited_by_count": 191,
+   "relevance_score": null,
+   "authors": [
+    "Pamela S. Soltis"
+   ],
+   "n_authors": 1,
+   "abstract": "As botanists, we recognize that herbarium specimens document spatial and temporal patterns of plant diversity. But they may also tell stories beyond the plants themselves\u2014about how a specimen may have languished for decades in obscurity until a botanist with a keen eye recognized it as a new species (Ziziphus celata; see, e.g., Judd and Hall, 1984; for image, see https://www.floridamuseum.ufl.edu/scripts/dbs/herbs_project/herbsproject/herbs_pub_proc.asp?accno=136888&FamSys=A&output_style=Report_type&trys=2) or of the heroics required to relocate a species in nature (e.g., Shortia galacifolia; https://www.idigbio.org/content/portal-curiosities-asa-gray-and-quest-shortia-galacifolia-%E2%80%93-case-study-importance) or of the metamorphosing nature of collections themselves, with specimens yielding data undreamt of when they were collected (e.g., Inga umbellifera; Hart et al., 2016; for image, see http://elmer.rbge.org.uk/bgbase/vherb/bgbasevherb.php?cfg=bgbase/vherb/fulldetails.cfg&specimens_specimen__num=369514). These specimens of Ziziphus (or Pseudoziziphus!), Shortia, and Inga represent just a handful of the estimated 350,000,000 herbarium specimens deposited in the world's 3400 herbaria (Index Herbariorum, http://sciweb.nybg.org/Science2/IndexHerbariorum.asp). Collected over the past four centuries, herbarium specimens document the world's vegetation, including how it has changed in response to human activities and population expansion, and provide the basis for scientific "
+  },
+  {
+   "id": "https://openalex.org/W1946510417",
+   "doi": "10.1111/tgis.12162",
+   "title": "Automatic conversion of IFC datasets to geometrically and semantically correct CityGML LOD3 buildings",
+   "publication_year": 2015,
+   "source": "Transactions in GIS",
+   "type": "article",
+   "cited_by_count": 191,
+   "relevance_score": null,
+   "authors": [
+    "Sjors Donkers",
+    "Hugo Ledoux",
+    "Junqiao Zhao",
+    "Jantien Stoter"
+   ],
+   "n_authors": 4,
+   "abstract": "Although the international standard CityGML has five levels of detail (LODs), the vast majority of available models are the coarse ones (up to LOD2, i.e. block\u2010shaped buildings with roofs). LOD3 and LOD4 models, which contain architectural details such as balconies, windows and rooms, rarely exist because, unlike coarser LODs, their construction requires several datasets that must be acquired with different technologies, and often extensive manual work is needed. In this article we investigate an alternative to obtaining CityGML LOD3 models: the automatic conversion from already existing architectural models (stored in the IFC format). Existing conversion algorithms mostly focus on the semantic mappings and convert all the geometries, which yields CityGML models having poor usability in practice (spatial analysis, for instance, is not possible). We present a conversion algorithm that accurately applies the correct semantics from IFC models and that constructs valid CityGML LOD3 buildings by performing a series of geometric operations in 3D. We have implemented our algorithm and we demonstrate its effectiveness with several real\u2010world datasets. We also propose specific improvements to both standards to foster their integration in the future."
+  },
+  {
+   "id": "https://openalex.org/W2070028875",
+   "doi": "10.1016/j.autcon.2015.02.012",
+   "title": "Extending BIM interoperability to preconstruction operations using geospatial analyses and semantic web services",
+   "publication_year": 2015,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 191,
+   "relevance_score": null,
+   "authors": [
+    "Ebrahim Parvaresh Karan",
+    "Javier Irizarry"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4376872075",
+   "doi": "10.2196/40213",
+   "title": "Social Prescription Interventions Addressing Social Isolation and Loneliness in Older Adults: Meta-Review Integrating On-the-Ground Resources",
+   "publication_year": 2023,
+   "source": "Journal of Medical Internet Research",
+   "type": "review",
+   "cited_by_count": 189,
+   "relevance_score": null,
+   "authors": [
+    "Catherine Paquet",
+    "Jocelyne C. Whitehead",
+    "Rishabh Shah",
+    "Alayne Mary Adams",
+    "Damion Dooley",
+    "R. Nathan Spreng"
+   ],
+   "n_authors": 8,
+   "abstract": "BACKGROUND: Social prescription programs represent a viable solution to linking primary care patients to nonmedical community resources for improving patient well-being. However, their success depends on the integration of patient needs with local resources. This integration could be accelerated by digital tools that use expressive ontology to organize knowledge resources, thus enabling the seamless navigation of diverse community interventions and services tailored to the needs of individual users. This infrastructure bears particular relevance for older adults, who experience a range of social needs that impact their health, including social isolation and loneliness. An essential first step in enabling knowledge mobilization and the successful implementation of social prescription initiatives to meet the social needs of older adults is to incorporate the evidence-based academic literature on what works, with on-the-ground solutions in the community. OBJECTIVE: This study aims to integrate scientific evidence with on-the-ground knowledge to build a comprehensive list of intervention terms and keywords related to reducing social isolation and loneliness in older adults. METHODS: A meta-review was conducted using a search strategy combining terms related to older adult population, social isolation and loneliness, and study types relevant to reviews using 5 databases. Review extraction included intervention characteristics, outcomes (social [eg, loneliness, social isolation, an"
+  },
+  {
+   "id": "https://openalex.org/W2158743996",
+   "doi": "10.1093/database/bar065",
+   "title": "MEDIC: a practical disease vocabulary used at the Comparative Toxicogenomics Database",
+   "publication_year": 2012,
+   "source": "Database",
+   "type": "article",
+   "cited_by_count": 189,
+   "relevance_score": null,
+   "authors": [
+    "Allan Peter Davis",
+    "Thomas C. Wiegers",
+    "Michael C. Rosenstein",
+    "Carolyn J. Mattingly"
+   ],
+   "n_authors": 4,
+   "abstract": "The Comparative Toxicogenomics Database (CTD) is a public resource that promotes understanding about the effects of environmental chemicals on human health. CTD biocurators manually curate a triad of chemical-gene, chemical-disease and gene-disease relationships from the scientific literature. The CTD curation paradigm uses controlled vocabularies for chemicals, genes and diseases. To curate disease information, CTD first had to identify a source of controlled terms. Two resources seemed to be good candidates: the Online Mendelian Inheritance in Man (OMIM) and the 'Diseases' branch of the National Library of Medicine's Medical Subject Headers (MeSH). To maximize the advantages of both, CTD biocurators undertook a novel initiative to map the flat list of OMIM disease terms into the hierarchical nature of the MeSH vocabulary. The result is CTD's 'merged disease vocabulary' (MEDIC), a unique resource that integrates OMIM terms, synonyms and identifiers with MeSH terms, synonyms, definitions, identifiers and hierarchical relationships. MEDIC is both a deep and broad vocabulary, composed of 9700 unique diseases described by more than 67 000 terms (including synonyms). It is freely available to download in various formats from CTD. While neither a true ontology nor a perfect solution, this vocabulary has nonetheless proved to be extremely successful and practical for our biocurators in generating over 2.5 million disease-associated toxicogenomic relationships in CTD. Other external"
+  },
+  {
+   "id": "https://openalex.org/W2050664394",
+   "doi": "10.1093/ahr/117.5.1461",
+   "title": "Imaginary Futures and Colonial Internationalisms",
+   "publication_year": 2012,
+   "source": "The American Historical Review",
+   "type": "article",
+   "cited_by_count": 188,
+   "relevance_score": null,
+   "authors": [
+    "Manu Goswami"
+   ],
+   "n_authors": 1,
+   "abstract": "Manu Goswami is an Associate Professor of History at New York University. She is the author of Producing India: From Colonial Economy to National Space (University of Chicago Press, 2004). During 2010\u20132011, she was a member of the School of Social Science at the Institute for Advanced Study in Princeton, New Jersey. Internationalism is commonly heralded as a central political force of the twentieth century. Yet its status as an analytical and historical category is profoundly ambiguous. While its valence stems from Karl Marx's institution of the First International in 1864, the year the term entered the Oxford English Dictionary, its subsequent career has largely derived as a \u201cback construction,\u201d through reference to its semantic other, namely, nationalism.1The Communist Manifesto, a founding text of political modernism, helped instill the idea that anti-systemic politics required conjuring an alternate world order. The temporal referent of radical politics was the future. The specific content of the manifesto's imagined future, and of later liberal internationalisms associated with John Hobson and Woodrow Wilson, lost effective purchase during the cataclysmic decades of the interwar era. In Europe and North America, internationalism devolved into a residual category, an object, by turns, of moralizing judgment and regressive nostalgia.2 This conceptual framing\u2014figuring internationalism as the failed negation of nationalism and in normative rather than analytical terms\u2014refrac"
+  },
+  {
+   "id": "https://openalex.org/W2006719549",
+   "doi": "10.1007/s00335-012-9421-3",
+   "title": "The Mammalian Phenotype Ontology as a unifying standard for experimental and high-throughput phenotyping data",
+   "publication_year": 2012,
+   "source": "Mammalian Genome",
+   "type": "article",
+   "cited_by_count": 187,
+   "relevance_score": null,
+   "authors": [
+    "Cynthia L. Smith",
+    "Janan T. Eppig"
+   ],
+   "n_authors": 2,
+   "abstract": "The Mammalian Phenotype Ontology (MP) is a structured vocabulary for describing mammalian phenotypes and serves as a critical tool for efficient annotation and comprehensive retrieval of phenotype data. Importantly, the ontology contains broad and specific terms, facilitating annotation of data from initial observations or screens and detailed data from subsequent experimental research. Using the ontology structure, data are retrieved inclusively, i.e., data annotated to chosen terms and to terms subordinate in the hierarchy. Thus, searching for \"abnormal craniofacial morphology\" also returns annotations to \"megacephaly\" and \"microcephaly,\" more specific terms in the hierarchy path. The development and refinement of the MP is ongoing, with new terms and modifications to its organization undergoing continuous assessment as users and expert reviewers propose expansions and revisions. A wealth of phenotype data on mouse mutations and variants annotated to the MP already exists in the Mouse Genome Informatics database. These data, along with data curated to the MP by many mouse mutagenesis programs and mouse repositories, provide a platform for comparative analyses and correlative discoveries. The MP provides a standard underpinning to mouse phenotype descriptions for existing and future experimental and large-scale phenotyping projects. In this review we describe the MP as it presently exists, its application to phenotype annotations, the relationship of the MP to other ontologi"
+  },
+  {
+   "id": "https://openalex.org/W3177015224",
+   "doi": "10.3390/rs13132511",
+   "title": "Construction and Application of a Knowledge Graph",
+   "publication_year": 2021,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 185,
+   "relevance_score": null,
+   "authors": [
+    "Xuejie Hao",
+    "Zheng Ji",
+    "Xiuhong Li",
+    "Lizeyan Yin",
+    "Lu Liu",
+    "Meiying Sun"
+   ],
+   "n_authors": 8,
+   "abstract": "With the development and improvement of modern surveying and remote-sensing technology, data in the fields of surveying and remote sensing have grown rapidly. Due to the characteristics of large-scale, heterogeneous and diverse surveys and the loose organization of surveying and remote-sensing data, effectively obtaining information and knowledge from data can be difficult. Therefore, this paper proposes a method of using ontology for heterogeneous data integration. Based on the heterogeneous, decentralized, and dynamic updates of large surveying and remote-sensing data, this paper constructs a knowledge graph for surveying and remote-sensing applications. First, data are extracted. Second, using the ontology editing tool Prot\u00e9g\u00e9, a knowledge graph mode level is constructed. Then, using a relational database, data are stored, and a D2RQ tool maps the data from the mode level\u2019s ontology to the data layer. Then, using the D2RQ tool, a SPARQL protocol and resource description framework query language (SPARQL) endpoint service is used to describe functions such as query and reasoning of the knowledge graph. The graph database is then used to display the knowledge graph. Finally, the knowledge graph is used to describe the correlation between the fields of surveying and remote sensing."
+  },
+  {
+   "id": "https://openalex.org/W3156682932",
+   "doi": "10.3390/su13084496",
+   "title": "BIM and IoT Sensors Integration: A Framework for Consumption and Indoor Conditions Data Monitoring of Existing Buildings",
+   "publication_year": 2021,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 185,
+   "relevance_score": null,
+   "authors": [
+    "Giuseppe Desogus",
+    "Emanuela Quaquero",
+    "Giulia Rubiu",
+    "Gianluca Gatto",
+    "Cristian Perra"
+   ],
+   "n_authors": 5,
+   "abstract": "The low accessibility to the information regarding buildings current performances causes deep difficulties in planning appropriate interventions. Internet of Things (IoT) sensors make available a high quantity of data on energy consumptions and indoor conditions of an existing building that can drive the choice of energy retrofit interventions. Moreover, the current developments in the topic of the digital twin are leading the diffusion of Building Information Modeling (BIM) methods and tools that can provide valid support to manage all data and information for the retrofit process. This paper shows the aim and the findings of research focused on testing the integrated use of BIM methodology and IoT systems. A common data platform for the visualization of building indoor conditions (e.g., temperature, luminance etc.) and of energy consumption parameters was carried out. This platform, tested on a case study located in Italy, is developed with the integration of low-cost IoT sensors and the Revit model. To obtain a dynamic and automated exchange of data between the sensors and the BIM model, the Revit software was integrated with the Dynamo visual programming platform and with a specific Application Programming Interface (API). It is an easy and straightforward tool that can provide building managers with real-time data and information about the energy consumption and the indoor conditions of buildings, but also allows for viewing of the historical sensor data table and creati"
+  },
+  {
+   "id": "https://openalex.org/W2564982803",
+   "doi": "10.1038/srep39447",
+   "title": "Lotus Base: An integrated information portal for the model legume Lotus japonicus",
+   "publication_year": 2016,
+   "source": "Scientific Reports",
+   "type": "article",
+   "cited_by_count": 185,
+   "relevance_score": null,
+   "authors": [
+    "Terry Mun",
+    "Asger Bachmann",
+    "Vikas Gupta",
+    "Jens Stougaard",
+    "Stig Uggerh\u00f8j Andersen"
+   ],
+   "n_authors": 5,
+   "abstract": "Lotus japonicus is a well-characterized model legume widely used in the study of plant-microbe interactions. However, datasets from various Lotus studies are poorly integrated and lack interoperability. We recognize the need for a comprehensive repository that allows comprehensive and dynamic exploration of Lotus genomic and transcriptomic data. Equally important are user-friendly in-browser tools designed for data visualization and interpretation. Here, we present Lotus Base, which opens to the research community a large, established LORE1 insertion mutant population containing an excess of 120,000 lines, and serves the end-user tightly integrated data from Lotus, such as the reference genome, annotated proteins, and expression profiling data. We report the integration of expression data from the L. japonicus gene expression atlas project, and the development of tools to cluster and export such data, allowing users to construct, visualize, and annotate co-expression gene networks. Lotus Base takes advantage of modern advances in browser technology to deliver powerful data interpretation for biologists. Its modular construction and publicly available application programming interface enable developers to tap into the wealth of integrated Lotus data. Lotus Base is freely accessible at: https://lotus.au.dk."
+  },
+  {
+   "id": "https://openalex.org/W4389903881",
+   "doi": "10.1016/j.future.2023.12.013",
+   "title": "Ontologies in digital twins: A systematic literature review",
+   "publication_year": 2023,
+   "source": "Future Generation Computer Systems",
+   "type": "review",
+   "cited_by_count": 183,
+   "relevance_score": null,
+   "authors": [
+    "Erkan Karabulut",
+    "Salvatore F. Pileggi",
+    "Paul Groth",
+    "Viktoriya Degeler"
+   ],
+   "n_authors": 4,
+   "abstract": "Digital Twins (DT) facilitate monitoring and reasoning processes in cyber\u2013physical systems. They have progressively gained popularity over the past years because of intense research activity and industrial advancements. Cognitive Twins is a novel concept, recently coined to refer to the involvement of Semantic Web technology in DTs. Recent studies address the relevance of ontologies and knowledge graphs in the context of DTs, in terms of knowledge representation, interoperability and automatic reasoning. However, there is no comprehensive analysis of how semantic technologies, and specifically ontologies, are utilized within DTs. This Systematic Literature Review (SLR) is based on the analysis of 82 research articles, that either propose or benefit from ontologies with respect to DT. The paper uses different analysis perspectives, including a structural analysis based on a reference DT architecture, and an application-specific analysis to specifically address the different domains, such as Manufacturing and Infrastructure. The review also identifies open issues and possible research directions on the usage of ontologies and knowledge graphs in DTs."
+  },
+  {
+   "id": "https://openalex.org/W2768308516",
+   "doi": "10.1093/nar/gkx1111",
+   "title": "Gramene 2018: unifying comparative genomics and pathway resources for plant research",
+   "publication_year": 2017,
+   "source": "Nucleic Acids Research",
+   "type": "article",
+   "cited_by_count": 182,
+   "relevance_score": null,
+   "authors": [
+    "Marcela Karey Tello-Ruiz",
+    "Sushma Naithani",
+    "Joshua C. Stein",
+    "Parul Gupta",
+    "Michael Campbell",
+    "Andrew J. Olson"
+   ],
+   "n_authors": 39,
+   "abstract": "Gramene (http://www.gramene.org) is a knowledgebase for comparative functional analysis in major crops and model plant species. The current release, #54, includes over 1.7 million genes from 44 reference genomes, most of which were organized into 62,367 gene families through orthologous and paralogous gene classification, whole-genome alignments, and synteny. Additional gene annotations include ontology-based protein structure and function; genetic, epigenetic, and phenotypic diversity; and pathway associations. Gramene's Plant Reactome provides a knowledgebase of cellular-level plant pathway networks. Specifically, it uses curated rice reference pathways to derive pathway projections for an additional 66 species based on gene orthology, and facilitates display of gene expression, gene-gene interactions, and user-defined omics data in the context of these pathways. As a community portal, Gramene integrates best-of-class software and infrastructure components including the Ensembl genome browser, Reactome pathway browser, and Expression Atlas widgets, and undergoes periodic data and software upgrades. Via powerful, intuitive search interfaces, users can easily query across various portals and interactively analyze search results by clicking on diverse features such as genomic context, highly augmented gene trees, gene expression anatomograms, associated pathways, and external informatics resources. All data in Gramene are accessible through both visual and programmatic interfa"
+  },
+  {
+   "id": "https://openalex.org/W4385164309",
+   "doi": "10.1016/j.aei.2023.102114",
+   "title": "An ontology-based methodology to establish city information model of digital twin city by merging BIM, GIS and IoT",
+   "publication_year": 2023,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 181,
+   "relevance_score": null,
+   "authors": [
+    "Jianyong Shi",
+    "Zeyu Pan",
+    "Liu Jiang",
+    "Xiaohui Zhai"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  }
+ ]
+}

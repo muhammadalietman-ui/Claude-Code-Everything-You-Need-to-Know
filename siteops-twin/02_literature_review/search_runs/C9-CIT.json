@@ -1,0 +1,1764 @@
+{
+ "query_id": "C9-CIT",
+ "run_date": "2026-11-23",
+ "query_url": "https://api.openalex.org/works?filter=title_and_abstract.search%3A%28%22technology+adoption%22+OR+%22technology+acceptance%22+OR+TAM+OR+UTAUT+OR+%22diffusion+of+innovation%22+OR+%22resistance+to+change%22+OR+%22change+management%22+OR+%22digital+transformation%22%29+AND+%28construction+OR+contractor+OR+%22construction+industry%22+OR+%22construction+site%22%29+AND+%28digital+OR+BIM+OR+%22digital+twin%22+OR+drone+OR+UAV+OR+IoT+OR+wearable+OR+tracking+OR+%22mobile+application%22%29%2Cfrom_publication_date%3A2010-01-01%2Ctype%3Aarticle%7Creview%7Cbook-chapter%7Cconference-paper%2Clanguage%3Aen&sort=cited_by_count%3Adesc&per-page=100&select=id%2Cdoi%2Ctitle%2Cdisplay_name%2Cpublication_year%2Cprimary_location%2Ctype%2Ccited_by_count%2Cauthorships%2Cabstract_inverted_index%2Crelevance_score",
+ "hits_total": 8586,
+ "retrieved": 100,
+ "records": [
+  {
+   "id": "https://openalex.org/W3113152109",
+   "doi": "10.1016/j.autcon.2020.103517",
+   "title": "Roles of artificial intelligence in construction engineering and management: A critical review and future trends",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 1688,
+   "relevance_score": null,
+   "authors": [
+    "Yue Pan",
+    "Limao Zhang"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2921359895",
+   "doi": "10.1016/j.autcon.2019.02.005",
+   "title": "Blockchain in the built environment and construction industry: A systematic review, conceptual models and practical use cases",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "review",
+   "cited_by_count": 822,
+   "relevance_score": null,
+   "authors": [
+    "Jennifer Li",
+    "David J. Greenwood",
+    "Mohamad Kassem"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2124713825",
+   "doi": "10.1016/j.autcon.2010.09.016",
+   "title": "Technology adoption in the BIM implementation for lean architectural practice",
+   "publication_year": 2010,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 752,
+   "relevance_score": null,
+   "authors": [
+    "Yusuf Aray\u0131c\u0131",
+    "P. Coates",
+    "Lauri Koskela",
+    "Mike Kagioglou",
+    "C. Usher",
+    "K. O'Reilly"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W1992987985",
+   "doi": "10.1108/09699981211277531",
+   "title": "Roadmap for implementation of BIM in the UK construction industry",
+   "publication_year": 2012,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 604,
+   "relevance_score": null,
+   "authors": [
+    "Farzad Khosrowshahi",
+    "Yusuf Aray\u0131c\u0131"
+   ],
+   "n_authors": 2,
+   "abstract": "Purpose Building information modelling (BIM) implementation is a major change management task, involving diversity of risk areas. The identification of the challenges and barriers is therefore an imperative precondition of this change process. This paper aims to diagnose UK's construction industry to develop a clear understanding about BIM adoption and to form an imperative step of consolidating collective movements towards wider BIM implementation and to provide strategies and recommendations for the UK construction industry for BIM implementation. Design/methodology/approach Through comprehensive literature review, the paper initially establishes BIM maturity concept, which paves the way for the analysis via qualitative and quantitative methods: interviews are carried out with high profile organisations in Finland to gauge the best practice before combining the results with the analysis of survey questionnaire amongst the major contractors in the UK. Findings The results are established in the form of the initial phase of a sound BIM implementation guidance at strategic and operational levels. The findings suggest three structured patterns to systematically tackle technology, process and people issues in BIM implementation. These are organisational culture, education and training, and information management. The outcome is expressed as a roadmap for the implementation of BIM in the UK entailing issues that require consideration for organisations to progress on the BIM matur"
+  },
+  {
+   "id": "https://openalex.org/W4200361158",
+   "doi": "10.3390/su132313448",
+   "title": "Examining Teachers\u2019 Perspectives on School Principals\u2019 Digital Leadership Roles and Technology Capabilities during the COVID-19 Pandemic",
+   "publication_year": 2021,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 599,
+   "relevance_score": null,
+   "authors": [
+    "Turgut Karak\u00f6se",
+    "Hakan Polat",
+    "Stamatios Papadakis"
+   ],
+   "n_authors": 3,
+   "abstract": "The current study investigates the perspectives and experiences of teachers regarding their school principal\u2019s digital leadership roles and technology capabilities during the COVID-19 pandemic. The research was conducted using a case study-based qualitative approach, and with a study group consisting of 89 teachers holding a Master\u2019s degree. Maximum diversity sampling, one of the purposive sampling methods, was preferred in the determination of the study group, and the data obtained from the research were analyzed through content analysis. The five main themes determined based on the perceptions and experiences of the participants are listed as: \u201cDigital technology usage, support for the digital transformation, support for technology-based professional development, support for digital learning culture, and digital leadership skills\u201d. The results of the research revealed that the level of use of digital technologies by school principals during the COVID-19 pandemic was perceived as adequate by teachers. In addition, it was determined that school principals support digital transformation and technology-based professional development in schools. Furthermore, within the scope of the research, it was determined that school principals contribute to the construction of a digital learning culture in schools. The results of the study revealed that school principals\u2019 digital leadership skills were clustered under three categories: technology use, managerial skills, and individual skill"
+  },
+  {
+   "id": "https://openalex.org/W3127614346",
+   "doi": "10.1109/mcom.001.2000343",
+   "title": "Digital Twin for 5G and Beyond",
+   "publication_year": 2021,
+   "source": "IEEE Communications Magazine",
+   "type": "article",
+   "cited_by_count": 518,
+   "relevance_score": null,
+   "authors": [
+    "Huan Xuan Nguyen",
+    "Ramona Trestian",
+    "Duc To",
+    "Mallik Tatipamula"
+   ],
+   "n_authors": 4,
+   "abstract": "Although many countries have started the initial phase of rolling out 5G, it is still in its infancy with researchers from both academia and industry facing the challenges of developing it to its full potential. With the support of artificial intelligence, development of digital transformation through the notion of a digital twin has been taking off in many industries such as smart manufacturing, oil and gas, construction, bio-engineering, and automotive. However, digital twins remain relatively new for 5G/6G networks, despite the obvious potential in helping develop and deploy the complex 5G environment. This article looks into these topics and discusses how digital twin could be a powerful tool to fulfill the potential of 5G networks and beyond."
+  },
+  {
+   "id": "https://openalex.org/W3150590266",
+   "doi": "10.3390/buildings11040151",
+   "title": "Differentiating Digital Twin from Digital Shadow: Elucidating a Paradigm Shift to Expedite a Smart, Sustainable Built Environment",
+   "publication_year": 2021,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 484,
+   "relevance_score": null,
+   "authors": [
+    "Samad M. E. Sepasgozar"
+   ],
+   "n_authors": 1,
+   "abstract": "Construction projects and cities account for over 50% of carbon emissions and energy consumption. Industry 4.0 and digital transformation may increase productivity and reduce energy consumption. A digital twin (DT) is a key enabler in implementing Industry 4.0 in the areas of construction and smart cities. It is an emerging technology that connects different objects by utilising the advanced Internet of Things (IoT). As a technology, it is in high demand in various industries, and its literature is growing exponentially. Previous digital modeling practices, the use of data acquisition tools, human\u2013computer\u2013machine interfaces, programmable cities, and infrastructure, as well as Building Information Modeling (BIM), have provided digital data for construction, monitoring, or controlling physical objects. However, a DT is supposed to offer much more than digital representation. Characteristics such as bi-directional data exchange and real-time self-management (e.g., self-awareness or self-optimisation) distinguish a DT from other information modeling systems. The need to develop and implement DT is rising because it could be a core technology in many industrial sectors post-COVID-19. This paper aims to clarify the DT concept and differentiate it from other advanced 3D modeling technologies, digital shadows, and information systems. It also intends to review the state of play in DT development and offer research directions for future investigation. It recommends the development of"
+  },
+  {
+   "id": "https://openalex.org/W4323351923",
+   "doi": "10.1016/j.iref.2023.02.019",
+   "title": "Does enterprise digital transformation contribute to the carbon emission reduction? Micro-level evidence from China",
+   "publication_year": 2023,
+   "source": "International Review of Economics & Finance",
+   "type": "article",
+   "cited_by_count": 466,
+   "relevance_score": null,
+   "authors": [
+    "Yuping Shang",
+    "Syed Ali Raza",
+    "Zhe Huo",
+    "Umer Shahzad",
+    "Xin Zhao"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3101958851",
+   "doi": "10.3390/buildings10110204",
+   "title": "A Systematic Review of Digital Technology Adoption in Off-Site Construction: Current Status and Future Direction towards Industry 4.0",
+   "publication_year": 2020,
+   "source": "Buildings",
+   "type": "review",
+   "cited_by_count": 453,
+   "relevance_score": null,
+   "authors": [
+    "Mudan Wang",
+    "Cynthia Wang",
+    "Samad M. E. Sepasgozar",
+    "Sisi Zlatanova"
+   ],
+   "n_authors": 4,
+   "abstract": "Off-site construction (OSC) is known as an efficient construction method that could save time and cost, reduce waste of resources, and improve the overall productivity of projects. Coupled with digital technologies associated with the Industry 4.0 concept, OSC can offer a higher rate of productivity and safety. While there is a rich literature focusing on both OSC and Industry 4.0, the implementation of associated digital technologies in the OSC context has not been fully evaluated. This paper intends to evaluate the current literature of digital technology applications in OSC. Scientometric analyses and a systematic review were carried out evaluating fifteen typical digital technologies adopted by OSC projects, including building information modelling (BIM), radio frequency identification devices (RFID), global positioning systems (GPS), the Internet of Things (IoT), geographic information systems (GIS), sensors, augmented reality (AR), virtual reality (VR), photogrammetry, laser scanning, artificial intelligence (AI), 3D printing, robotics, big data, and blockchain. This review formulates a clear picture of the current practice of these digital technologies and summarizes the main area of application and limitations of each technology when utilized in OSC. The review also points out their potential and how they can be better adopted to improve OSC practice in the future."
+  },
+  {
+   "id": "https://openalex.org/W3111162339",
+   "doi": "10.1016/j.tust.2020.103677",
+   "title": "BIM, machine learning and computer vision techniques in underground construction: Current status and future perspectives",
+   "publication_year": 2020,
+   "source": "Tunnelling and Underground Space Technology",
+   "type": "article",
+   "cited_by_count": 450,
+   "relevance_score": null,
+   "authors": [
+    "Mengqi Huang",
+    "Jelena Nini\u0107",
+    "Qianbing Zhang"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2937741206",
+   "doi": "10.1016/j.jobe.2019.100764",
+   "title": "Perceived benefits of and barriers to Building Information Modelling (BIM) implementation in construction: The case of Hong Kong",
+   "publication_year": 2019,
+   "source": "Journal of Building Engineering",
+   "type": "article",
+   "cited_by_count": 445,
+   "relevance_score": null,
+   "authors": [
+    "Daniel W.M. Chan",
+    "Timothy Oluwatosin Olawumi",
+    "Alfred M.L. Ho"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3198946543",
+   "doi": "10.1016/j.autcon.2021.103955",
+   "title": "Applications of distributed ledger technology (DLT) and Blockchain-enabled smart contracts in construction",
+   "publication_year": 2021,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 381,
+   "relevance_score": null,
+   "authors": [
+    "Jennifer Li",
+    "Mohamad Kassem"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4388098648",
+   "doi": "10.1016/j.eneco.2023.107135",
+   "title": "Effect of Digital Economy Development on Enterprises\u2019 Green Innovation: Empirical Evidence from Listed Companies in China",
+   "publication_year": 2022,
+   "source": "Energy Economics",
+   "type": "article",
+   "cited_by_count": 355,
+   "relevance_score": null,
+   "authors": [
+    "Maogang Tang",
+    "Yinlin Liu",
+    "Fengxia Hu",
+    "Baijun Wu"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2969950285",
+   "doi": "10.1061/(asce)co.1943-7862.0001708",
+   "title": "Wearable Sensing Technology Applications in Construction Safety and Health",
+   "publication_year": 2019,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 346,
+   "relevance_score": null,
+   "authors": [
+    "Changbum R. Ahn",
+    "Sang Hyun Lee",
+    "Cenfei Sun",
+    "Houtan Jebelli",
+    "Kanghyeok Yang",
+    "Byungjoo Choi"
+   ],
+   "n_authors": 6,
+   "abstract": "The advent of wearable sensing technologies has produced unprecedented opportunities for the near real-time collection and analysis of workers\u2019 safety and health data. To encourage the proactive safety management these opportunities present, extensive research efforts have explored using various wearable sensing technologies\u2014including motion sensors (e.g., inertial measurement units) and physiological sensors (e.g., heart-rate sensors, electrodermal-activity sensors, skin-temperature sensors, eye trackers, and brainwave monitors)\u2014to detect potential safety hazards and to continuously monitor a worker\u2019s health on a construction jobsite. However, these efforts tend to be piecemeal or fragmented, which presents a challenge for both the practitioners and the researchers who wish to fully understand the current developments in this area. In this context, this paper provides a critical review of the state of the art of wearable applications in construction safety and health. The review first identifies five general applications within the literature: preventing musculoskeletal disorders, preventing falls, assessing physical workload and fatigue, evaluating hazard-recognition abilities, and monitoring workers\u2019 mental status. Second, this study identifies the challenges impeding further development and deployment of wearable applications, specifically, signal artifacts and noise in wearable-sensors\u2019 field measurements, variable standards for personal safety and health risks in constr"
+  },
+  {
+   "id": "https://openalex.org/W2075763198",
+   "doi": "10.1061/(asce)me.1943-5479.0000252",
+   "title": "BIM Acceptance Model in Construction Organizations",
+   "publication_year": 2013,
+   "source": "Journal of Management in Engineering",
+   "type": "article",
+   "cited_by_count": 314,
+   "relevance_score": null,
+   "authors": [
+    "Seulki Lee",
+    "Jung-Ho Yu",
+    "David Jeong"
+   ],
+   "n_authors": 3,
+   "abstract": "Substantial research has been performed on the data standards and exchanges in the Architectural, Engineering, Construction/Facility Management (AEC/FM) industry over the past several years. The growing popularity of building information modeling (BIM) technology is based heavily upon the perception that it can facilitate the sharing and reuse of information during a project life cycle. Although many researchers and practitioners are in agreement about the potential applicability and benefit of BIM in construction, it is still unclear why BIM is adopted, and what factors enhance implementation of BIM. Thus, BIM acceptance and use remains a central concern of BIM research and practice. Therefore, we propose an acceptance model for BIM in construction organizations using structural equation modeling (SEM). The key components, including the BIM acceptance model (BAM), are identified through a literature review about technology acceptance-behavior related theories, and was then consolidated by interviews and pilot studies with professionals in the construction industry. Based on the components, a questionnaire was designed and sent out to workers in construction organizations (such as contractors, architects, construction managers, and engineers) in South Korea. A total of 114 completed questionnaires were retrieved. We used SEM for hypothesis testing. The validated BAM can serve as a foundation for positioning and comparing BIM acceptance research and provides users with a frame"
+  },
+  {
+   "id": "https://openalex.org/W4283784269",
+   "doi": "10.1016/j.autcon.2022.104421",
+   "title": "Towards Civil Engineering 4.0: Concept, workflow and application of Digital Twins for existing infrastructure",
+   "publication_year": 2022,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 312,
+   "relevance_score": null,
+   "authors": [
+    "Maria Pregnolato",
+    "Sam Gunner",
+    "Elia Voyagaki",
+    "Raffaele De Risi",
+    "Neil Carhart",
+    "G. Gavriel"
+   ],
+   "n_authors": 10,
+   "abstract": "Digital Twins (DTs) are forecasted to be used in two-thirds of large industrial companies in the next decade. In the Architecture, Engineering and Construction (AEC) sector, their actual application is still largely at the prototype stage. Industry and academia are currently reconciling many competing definitions and unclear processes for developing DTs. There is a compelling need to establish DTs as practice in AEC by developing common procedures and standards tailored to the sector's procedures and use cases. This paper proposes a step-by-step workflow process for developing a DT for an existing asset in the built environment, providing a proof-of-concept case study based on the Clifton Suspension Bridge in Bristol (UK). To achieve its aim, this paper (i) reviews the state-of-the-art of DTs in Civil Engineering, (ii) proposes a working DT-based workflow framework for the built environment applicable to existing assets, (iii) applies the framework and develops of the physical-virtual architecture to a case study of bridge management, and finally ( iv ) discusses insights from the application. The main novelty lies in the development of a versatile methodological framework that can be applied to the broad context of civil infrastructure. This paper's importance resides in the knowledge challenge, value proposition and operation dictated by developing a DT workflow for the built environment, which ultimately represents a relevant use case for the digital transformation of nati"
+  },
+  {
+   "id": "https://openalex.org/W2755650259",
+   "doi": "10.1109/jiot.2017.2750765",
+   "title": "Comprehensive Approaches to User Acceptance of Internet of Things in a Smart Home Environment",
+   "publication_year": 2017,
+   "source": "IEEE Internet of Things Journal",
+   "type": "article",
+   "cited_by_count": 309,
+   "relevance_score": null,
+   "authors": [
+    "Eunil Park",
+    "Yongwoo Cho",
+    "Jinyoung Han",
+    "Sang Jib Kwon"
+   ],
+   "n_authors": 4,
+   "abstract": "With rapid improvements in communication technologies and infrastructure, the Internet of Things (IoT) has become a promising sector within the global information and communication technology industry. Various fields are employing the concept of IoT for their traditional products and services for convenient use by consumers. In the construction industry, the majority of leading companies and organizations are using IoT technologies in a smart home environment. However, only few studies have focused on the user experience of IoT technologies in such an environment. Thus, the current study explores the key determinants of user acceptance of IoT technologies in a smart home environment, and investigates a research model integrated with five potential user factors and a technology acceptance model. The results of the collected data, which were investigated using a structural equation modeling method, show that three positive motivations, compatibility, connectedness, and control, and a negative hindrance, cost, are significant determinants of the technology acceptance behavior of users. The current study can serve as a foundation for future studies on improving IoT technologies in a smart home environment by considering the user experience."
+  },
+  {
+   "id": "https://openalex.org/W2873600772",
+   "doi": "10.1016/j.jobe.2018.06.017",
+   "title": "Barriers to the integration of BIM and sustainability practices in construction projects: A Delphi survey of international experts",
+   "publication_year": 2018,
+   "source": "Journal of Building Engineering",
+   "type": "article",
+   "cited_by_count": 288,
+   "relevance_score": null,
+   "authors": [
+    "Timothy Oluwatosin Olawumi",
+    "Daniel W.M. Chan",
+    "Johnny Kwok Wai Wong",
+    "Albert P.C. Chan"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2001676321",
+   "doi": "10.1016/j.autcon.2014.10.012",
+   "title": "What drives the adoption of building information modeling in design organizations? An empirical investigation of the antecedents affecting architects' behavioral intentions",
+   "publication_year": 2014,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 278,
+   "relevance_score": null,
+   "authors": [
+    "Hyojoo Son",
+    "Sungwook Lee",
+    "Changwan Kim"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2165191554",
+   "doi": "10.15623/ijret.2013.0208060",
+   "title": "EXPLORING THE ADOPTION OF BUILDING INFORMATION MODELLING (BIM) IN THE MALAYSIAN CONSTRUCTION INDUSTRY: A QUALITATIVE APPROACH",
+   "publication_year": 2013,
+   "source": "International Journal of Research in Engineering and Technology",
+   "type": "article",
+   "cited_by_count": 273,
+   "relevance_score": null,
+   "authors": [
+    "Zakaria Zahrizan"
+   ],
+   "n_authors": 1,
+   "abstract": "The construction industry believes that Building In \\nformation Modelling (BIM) is a platform that has th \\ne potential to promote \\ncollaborative activities in the construction indust \\nry. Thus, clients are gradually enforcing the use o \\nf BIM in their projects, resulting in \\nmany construction companies investing in BIM techno \\nlogy in order to fulfill clients' needs. Therefore, \\nthe goal of this study is to \\nexplore the process and the level of BIM implementa \\ntion in the Malaysian construction industry. This s \\ntudy was conducted as an \\nexploratory study through literature review and int \\nerviewing the organisations that have had BIM exper \\nience. The result reveals that \\nMalaysian construction industry players are having \\ndifficulties to implement BIM because they do not k \\nnow where, when and how to \\nstart as there is no national BIM standard and guid \\neline for them to follow. Lack of government involv \\nement worsens the current \\nsituation besides having the resistance to change f \\nrom people. To reduce the resistance from people, m \\nost of the companies came out \\nwith their own strategy such as developing new BIM \\nunit, developing training and education program, ch \\nanging management style \\nand developing new roles and responsibilities. Thes \\ne activities could facilitate people and the organi \\nsations in adopting BIM because \\nBIM is not only a technology but it is also involve \\nd in changing the current practices and processes i \\nncluding "
+  },
+  {
+   "id": "https://openalex.org/W4224007317",
+   "doi": "10.1016/j.jclepro.2022.131604",
+   "title": "Promoting digital transformation in waste collection service and waste recycling in Moscow (Russia): Applying a circular economy paradigm to mitigate climate change impacts on the environment",
+   "publication_year": 2022,
+   "source": "Journal of Cleaner Production",
+   "type": "article",
+   "cited_by_count": 263,
+   "relevance_score": null,
+   "authors": [
+    "Aleksandra Maiurova",
+    "Tonni Agustiono Kurniawan",
+    "Marina Kustikova",
+    "Elena Bykovskaia",
+    "Mohd Hafiz Dzarfan Othman",
+    "Deepak Singh"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2586745620",
+   "doi": "10.24251/hicss.2017.509",
+   "title": "Toward the Development of a Maturity Model for Digitalization within the Manufacturing Industrys Supply Chain",
+   "publication_year": 2017,
+   "source": "Hawaii International Conference on System Sciences (HICSS)",
+   "type": "conference-paper",
+   "cited_by_count": 262,
+   "relevance_score": null,
+   "authors": [
+    "Christoph Kl\u00f6tzer",
+    "Alexander Pflaum"
+   ],
+   "n_authors": 2,
+   "abstract": "The aim of this paper is the scientific development of a maturity model concerning the digital transformation of companies within the manufacturing industry\u2019s supply chain. The rather \u201cbroad\u201d and dispersed \u201cmega-trend\u201d of digitalization is expected to play an increasingly important role for companies as well as for the (digital) supply chain of the future. Such a model comprises the objective of addressing fundamental components, complementary innovations and relevant terminologies, like smart products, Cyber-Physical Systems (CPS) and Big Data Analytics. Scientific rigor is achieved through conducting grounded theory research and in-depth interviews as methods of data collection and evaluation. Furthermore, relevant aspects concerning the development and construction of maturity models are discussed, before a suitable and scientifically elaborated maturity model concerning digitalization emerges from the course of investigation and its value for economic practice as well as for the scientific community is specified."
+  },
+  {
+   "id": "https://openalex.org/W3157032715",
+   "doi": "10.1108/ecam-12-2020-1059",
+   "title": "Investigating major challenges for industry 4.0 adoption among construction companies",
+   "publication_year": 2021,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 259,
+   "relevance_score": null,
+   "authors": [
+    "Sevilay Demirkesen",
+    "Algan Tezel"
+   ],
+   "n_authors": 2,
+   "abstract": "Purpose The purpose of this study is to explore the challenges hindering the adoption of Industry 4.0 (I4.0) among construction companies. Design/methodology/approach The construction industry needs innovative technologies due to its complex and dynamic nature. In this respect, the latest trends such as digitalization, building information modeling (BIM), Internet of things (IoT) are of utmost importance in terms of fostering the change in managing projects and encouraging industry practitioners to adopt the change for better performance. This paper focuses on I4.0adoption among construction companies. In this respect, a questionnaire was designed and administered to construction professionals to reveal the challenges in I4.0 adoption among construction firms. The respondents were requested to fill in the questionnaire on the I4.0 efforts of their companies. The questionnaire was intended to collect the perceptions of industry practitioners working at large construction companies. Based on these, the challenges listed were ranked based on their relative importance and success indices. Finally, the Mann\u2013Whitney U test was conducted to test whether statistically significant responses exist among groups of respondents (i.e. young and old companies, large and small, high and low revenue and main area of expertise). Findings The results of the study indicated that resistance to change, unclear benefits and gains and cost of implementation are the major important challenges in term"
+  },
+  {
+   "id": "https://openalex.org/W4319967909",
+   "doi": "10.1016/j.enbuild.2023.112851",
+   "title": "Digital twin with Machine learning for predictive monitoring of CO2 equivalent from existing buildings",
+   "publication_year": 2023,
+   "source": "Energy and Buildings",
+   "type": "article",
+   "cited_by_count": 256,
+   "relevance_score": null,
+   "authors": [
+    "Arva Arsiwala",
+    "Faris Elghaish",
+    "Mohammed Zoher"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2167665169",
+   "doi": "10.1080/21573727.2011.569929",
+   "title": "Messy talk and clean technology: communication, problem-solving and collaboration using Building Information Modelling",
+   "publication_year": 2011,
+   "source": "Engineering Project Organization Journal",
+   "type": "article",
+   "cited_by_count": 252,
+   "relevance_score": null,
+   "authors": [
+    "Carrie Sturts Dossick",
+    "Gina Neff"
+   ],
+   "n_authors": 2,
+   "abstract": "We studied the organizational practices around Building Information Modelling, or BIM, in inter-organizational collaborations among architects, engineers and construction professionals in order to theorize how communication supports technology adoption. Using ethnographic observation and one-on-one interviews with project participants, we observed five teams on three different commercial and institutional building projects that each collaborated over periods of 8\u201310 months. In this paper, we argue that the dynamic complexity of design and construction processes requires what we call \u2018messy talk\u2019\u2014conversations neither about topics on meeting agendas, nor on specified problems or specific queries for expertise. In messy talk interactions, AEC professionals contributed to innovation and project cohesion by raising and addressing issues not known by others. The communicative \u2018affordances and constraints\u2019 of BIM structured meeting conversations away from less structured, open-ending problem-solving and towards..."
+  },
+  {
+   "id": "https://openalex.org/W3203002385",
+   "doi": "10.1061/(asce)me.1943-5479.0000986",
+   "title": "Challenges and Strategies for the Adoption of Smart Technologies in the Construction Industry: The Case of Singapore",
+   "publication_year": 2021,
+   "source": "Journal of Management in Engineering",
+   "type": "article",
+   "cited_by_count": 249,
+   "relevance_score": null,
+   "authors": [
+    "Bon\u2010Gang Hwang",
+    "Jasmine Ngo",
+    "Jeremy Zhen Kang Teo"
+   ],
+   "n_authors": 3,
+   "abstract": "Although smart technologies associated with the Fourth Industrial Revolution have the potential to improve the performance of industries by optimizing work processes and enhancing the work environment, the adoption of these technologies in the construction industry is still in its nascent stage. Hence, this study aims to (1) investigate the challenges in adopting smart technologies, (2) propose effective strategies to promote adoption of smart technologies, and (3) investigate whether there are significant differences in the perceptions of the challenges and strategies by organizations\u2019 sizes and years of experience in the construction industry. To achieve the objectives, a comprehensive literature review and pilot interviews with industry experts were first conducted, followed by a survey and postsurvey interviews. The findings revealed that the top challenges faced are data and information sharing, regulatory compliance, and data ownership, while the most effective strategies are training of skilled construction workforce, provision of government incentives, and communication and change management. Furthermore, the criticality of regulatory challenges was perceived differently between organizations of different sizes. The findings provide a better understanding of the challenges faced and the strategies that have been perceived as effective by industry practitioners, which are essential starting points to develop a data-driven roadmap to drive the adoption of smart technolo"
+  },
+  {
+   "id": "https://openalex.org/W2969571197",
+   "doi": "10.1016/j.autcon.2019.102930",
+   "title": "The \u2018how\u2019 of benefits management for digital technology: From engineering to asset management",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 245,
+   "relevance_score": null,
+   "authors": [
+    "Peter E.D. Love",
+    "Jane Matthews"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2910481530",
+   "doi": "10.1080/24725838.2018.1561557",
+   "title": "Potential of Exoskeleton Technologies to Enhance Safety, Health, and Performance in Construction: Industry Perspectives and Future Research Directions",
+   "publication_year": 2019,
+   "source": "IISE Transactions on Occupational Ergonomics and Human Factors",
+   "type": "article",
+   "cited_by_count": 236,
+   "relevance_score": null,
+   "authors": [
+    "Sunwook Kim",
+    "Albert Moore",
+    "Divya Srinivasan",
+    "Abiola Abosede Akanmu",
+    "Alan B. Barr",
+    "Carisa Harris Adamson"
+   ],
+   "n_authors": 8,
+   "abstract": "OCCUPATIONAL APPLICATIONSWork-related musculoskeletal injuries and disorders remain an important problem in the construction industry. Exoskeletons are an emerging wearable technology that assists or augments a user\u2019s physical activity or capacity. This technology is a potential solution to reduce the physical demands and fatigue experienced by construction workers and help improve worker safety, health, and performance. As a first step towards enabling exoskeleton use in construction, we captured the perspectives of construction industry stakeholders regarding adopting exoskeletons and continued use in practice. Stakeholder responses highlighted several important questions and concerns, which were grouped using qualitative content analysis into three categories: (1) expected benefits, (2) exoskeleton technology adoption factors, and (3) perceived barriers to use. Uncertainties were expressed about the practical value and usability of exoskeleton technologies, and the impact of this technology on worker safety. Given this, and the limited state of current evidence, we summarize important research gaps that need to be addressed in future for successful adoption and use of exoskeleton technologies in the construction industry."
+  },
+  {
+   "id": "https://openalex.org/W4289308573",
+   "doi": "10.1080/17538947.2022.2038291",
+   "title": "Immersive virtual reality for extending the potential of building information modeling in architecture, engineering, and construction sector: systematic review",
+   "publication_year": 2022,
+   "source": "International Journal of Digital Earth",
+   "type": "review",
+   "cited_by_count": 235,
+   "relevance_score": null,
+   "authors": [
+    "Saeed Safikhani",
+    "Stephan Keller",
+    "Gerald Schweiger",
+    "Johanna Pirker"
+   ],
+   "n_authors": 4,
+   "abstract": "The field of architecture, engineering, and construction (AEC) is continually striving to use resources efficiently and manage complex processes. Now more than ever, there is a strong need for digital transformation in AEC. The improvement in the accessibility of consumer-based head-mounted displays (HMD) is attracting different entertainment and research fields to immersive virtual reality (VR) applications. Building Information Modeling (BIM) is known as a promising technology in AEC. The full potential of BIM is not yet employed to empower this field, however, and this could be a result of some barriers still to be surmounted by BIM in both technological and management perspectives. One of these barriers is the communication and collaboration between design, construction, operation, and maintenance phases. VR can fill this gap by providing additional capabilities for BIM which either were not available before or were not possible to employ in practical ways. In this paper, we systematically review recent research around the application of VR in BIM and discuss the results using the PRISMA flowchart. We discuss the most commonly used technologies, software, and evaluation methods and the various applications of VR in the reviewed papers. Finally, we extend the discussion by summarizing the potential future work in this area."
+  },
+  {
+   "id": "https://openalex.org/W2061908336",
+   "doi": "10.1016/j.ijproman.2015.01.008",
+   "title": "Overcoming resistance to change in engineering and construction: Change management factors for owner organizations",
+   "publication_year": 2015,
+   "source": "International Journal of Project Management",
+   "type": "article",
+   "cited_by_count": 235,
+   "relevance_score": null,
+   "authors": [
+    "Brian C. Lines",
+    "Kenneth Timothy Sullivan",
+    "Jake B. Smithwick",
+    "Joshua Mischung"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4311387182",
+   "doi": "10.1108/jkm-09-2022-0757",
+   "title": "How an industrial internet platform empowers the digital transformation of SMEs: theoretical mechanism and business model",
+   "publication_year": 2022,
+   "source": "Journal of Knowledge Management",
+   "type": "article",
+   "cited_by_count": 233,
+   "relevance_score": null,
+   "authors": [
+    "Honglei Li",
+    "Ziyu Yang",
+    "Chunhua Jin",
+    "Jinxia Wang"
+   ],
+   "n_authors": 4,
+   "abstract": "Purpose The purpose of this paper is to reveal the inner mechanisms of the role of industrial internet platforms in empowering the digital transformation of SMEs. This ROOTCLOUD-based case study shows that knowledge integration and knowledge sharing and driving play essential empowering roles in the impact of industrial internet platforms on the digital transformation of SMEs. The industrial internet platform promotes knowledge integration on the supply side, empowers cross-domain knowledge sharing and shapes the knowledge-driven digital supply chain system in the digital transformation processes of SMEs. Design/methodology/approach This paper presents a qualitative analysis of the knowledge empowerment role played by industrial internet platforms in the digital transformation process of SMEs. Based on theoretical sampling, this paper selects ROOTCLOUD as a typical case to analyse the implementation mechanism of the industrial internet platform in solving the digital transformation problems and challenges faced by SMEs. Findings Knowledge management (knowledge integration, sharing and driving) plays an important intermediary role between the empowerment of industrial internet platform and the digital transformation of SMEs. Specifically, the industrial internet platform empowers SMEs with knowledge, empowers supply-side knowledge integration, empowers cross-domain knowledge sharing and facilitates the formation of knowledge-driven supply chain systems. Research limitations/im"
+  },
+  {
+   "id": "https://openalex.org/W4391070176",
+   "doi": "10.1016/j.irfa.2024.103079",
+   "title": "The stages of enterprise digital transformation and its impact on internal control: Evidence from China",
+   "publication_year": 2024,
+   "source": "International Review of Financial Analysis",
+   "type": "article",
+   "cited_by_count": 229,
+   "relevance_score": null,
+   "authors": [
+    "Weixuan Cheng",
+    "Cheng Li",
+    "Tianjiao Zhao"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3041848504",
+   "doi": "10.1016/j.compind.2020.103264",
+   "title": "Peeking into the void: Digital twins for construction site logistics",
+   "publication_year": 2020,
+   "source": "Computers in Industry",
+   "type": "article",
+   "cited_by_count": 228,
+   "relevance_score": null,
+   "authors": [
+    "Toni Greif",
+    "Nikolai Stein",
+    "Christoph M. Flath"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4389216323",
+   "doi": "10.1016/j.autcon.2023.105212",
+   "title": "Digital technologies in architecture, engineering, and construction",
+   "publication_year": 2023,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 226,
+   "relevance_score": null,
+   "authors": [
+    "Johannes Georg Brozovsky",
+    "Nathalie Labonnote",
+    "Olli Vigren"
+   ],
+   "n_authors": 3,
+   "abstract": "Digitalization in the architecture, engineering, and construction (AEC) sector is slow due to significant challenges in technology adoption. The study aims to promote technology adoption by advancing the understanding of digital technologies in the AEC sector. This article presents the findings from a quantitative scoping review, encompassing 3950 technology-related abstracts retrieved from the Scopus database, providing a preliminary assessment of literature size, geographic innovation hotspots, research gaps, and key concepts in the AEC field. The results show that Building Information Modelling (1852 studies) dominates the literature, while topics like 3D Printing (311) and Internet of Things (227) are gaining traction. China (687 publications) and the United States (566) produce most research articles. Despite the increasing interest in emerging technologies, their implementation often necessitates acquiring specific skill sets. Academia needs to put a stronger focus on these technologies in education and tighter collaboration with the industry is needed."
+  },
+  {
+   "id": "https://openalex.org/W3201150582",
+   "doi": "10.1007/s42452-021-04776-1",
+   "title": "Corporate digital responsibility (CDR) in construction engineering\u2014ethical guidelines for the application of digital transformation and artificial intelligence (AI) in user practice",
+   "publication_year": 2021,
+   "source": "SN Applied Sciences",
+   "type": "article",
+   "cited_by_count": 226,
+   "relevance_score": null,
+   "authors": [
+    "Bianca Christina Weber-Lewerenz"
+   ],
+   "n_authors": 1,
+   "abstract": "Digitization is developing fast and has become a powerful tool for digital planning, construction and operations, for instance digital twins. Now is the right time for constructive approaches and to apply ethics-by-design in order to develop and implement a safe and efficient artificial intelligence (AI) application. So far, no study has addressed the key research question: Where can corporate digital responsibility (CDR) be allocated, and how shall an adequate ethical framework be designed to support digital innovations in order to make full use of the potentials of digitization and AI? Therefore, the research on how best practices meet their corporate responsibility in the digital transformation process and the requirements of the EU for trustworthy AI and its human-friendly use is essential. Its transformation bears a high potential for companies, is critical for success and thus, requires responsible handling. This study generates data by conducting case studies and interviewing experts as part of the qualitative method to win profound insights into applied practice. It provides an assessment of demands stated in the Sustainable Development Goals by the United Nations (SDGs), White Papers on AI by international institutions, European Commission and German Government requesting the consideration and protection of values and fundamental rights, the careful demarcation between machine (artificial) and human intelligence and the careful use of such technologies. The study dis"
+  },
+  {
+   "id": "https://openalex.org/W3000885171",
+   "doi": "10.1016/j.autcon.2020.103086",
+   "title": "BIM compatibility and its differentiation with interoperability challenges as an innovation factor",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 221,
+   "relevance_score": null,
+   "authors": [
+    "Sara Shirowzhan",
+    "Samad M. E. Sepasgozar",
+    "David John Edwards",
+    "Heng Li",
+    "Wang Chen"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2074895768",
+   "doi": "10.1016/j.autcon.2010.09.009",
+   "title": "Teaching construction project management with BIM support: Experience and lessons learned",
+   "publication_year": 2010,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 221,
+   "relevance_score": null,
+   "authors": [
+    "Forest Peterson",
+    "T. Hartmann",
+    "Renate Fruchter",
+    "Martin A Fischer"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2553874948",
+   "doi": "10.1016/j.ijproman.2016.10.012",
+   "title": "Addressing individual perceptions: An application of the unified theory of acceptance and use of technology to building information modelling",
+   "publication_year": 2016,
+   "source": "International Journal of Project Management",
+   "type": "article",
+   "cited_by_count": 220,
+   "relevance_score": null,
+   "authors": [
+    "Robert Glenn Howard",
+    "Luis Restrepo",
+    "Chen\u2010Yu Chang"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4391092266",
+   "doi": "10.1016/j.iref.2024.01.046",
+   "title": "Research on the impact of digital transformation on the production efficiency of manufacturing enterprises: Institution-based analysis of the threshold effect",
+   "publication_year": 2024,
+   "source": "International Review of Economics & Finance",
+   "type": "article",
+   "cited_by_count": 218,
+   "relevance_score": null,
+   "authors": [
+    "Di Wang",
+    "Xuefeng Shao"
+   ],
+   "n_authors": 2,
+   "abstract": "Digital transformation is the core strategic orientation in the digital economy era and is evolving into a pivotal competitive advantage among countries, industries and enterprises. Based on the analysis of its mechanism, this paper focuses on the data of A-share listed manufacturing enterprises in China from 2011 to 2021; measures and analyses the variables relating to the impact of digital transformation on the production efficiency of manufacturing enterprises; and conducts empirical tests. The research shows that digital transformation plays a significant role in promoting the production efficiency of manufacturing enterprises, and the promotion effect is more obvious for high-tech enterprises and non-state-owned enterprises than for non-high-tech enterprises and state-owned enterprises; digital transformation has a greater promotional effect on the production efficiency of manufacturing enterprises with formal institutions or informal institutions switching from low value intervals to high value intervals. Accordingly, this paper proposes accelerating the digital transformation process of manufacturing enterprises and adopting targeted policies in accordance with the principle of resource endowment. Moreover, from the perspective of institutional environment optimization in digital transformation, this paper proposes building a proper formal institutional environment and strengthening the construction of informal institutions. Our study provides new ideas for constructin"
+  },
+  {
+   "id": "https://openalex.org/W2947034807",
+   "doi": "10.1108/ci-04-2017-0030",
+   "title": "An overview of benefits and challenges of building information modelling (BIM) adoption in UK residential projects",
+   "publication_year": 2019,
+   "source": "Construction Innovation",
+   "type": "article",
+   "cited_by_count": 218,
+   "relevance_score": null,
+   "authors": [
+    "Maria Christina Georgiadou"
+   ],
+   "n_authors": 1,
+   "abstract": "Purpose This paper aims to present a state-of-the-art review of building information modelling (BIM) in the UK construction practice. In particular, the aim is to examine the scope, value and practical implications of BIM implementation in residential projects by evaluating practitioners\u2019 perspectives working in the Greater London Area (GLA). Design/methodology/approach The paper outlines the general status quo of BIM adoption and maturity in the UK. It then discusses the feasibility of BIM use in residential projects drawing on an online survey and complementary semi-structured interviews with building professionals. The cross-comparison between the evidence base and literature review uncovers the specific benefits, challenges and risks to BIM implementation in the house building sector. Findings BIM is an evaluation methodology that helps the management of digital information throughout the project lifecycle. At a conceptual level, a BIM-enabled project offers quality assurance and on-time delivery, collaboration and communication improvement, visual representation and clash detection and whole lifecycle value. The findings, however, suggest that the most frequently reported benefits are related to collaboration and the blend of product (software) and process innovation, whilst lifecycle thinking and waste reduction are often overlooked. At present, there is widespread awareness on BIM but with a financial barrier to invest in developing digital capabilities, particularly f"
+  },
+  {
+   "id": "https://openalex.org/W4313185505",
+   "doi": "10.1109/jiot.2022.3222521",
+   "title": "A Survey of Blockchain and Intelligent Networking for the Metaverse",
+   "publication_year": 2022,
+   "source": "IEEE Internet of Things Journal",
+   "type": "article",
+   "cited_by_count": 216,
+   "relevance_score": null,
+   "authors": [
+    "Yuchuan Fu",
+    "Changle Li",
+    "Fei Richard Yu",
+    "Tom H. Luan",
+    "Pincan Zhao",
+    "Sha Liu"
+   ],
+   "n_authors": 6,
+   "abstract": "The virtual world created by the development of the Internet, computers, artificial intelligence (AI), and hardware technologies have brought various degrees of digital transformation to people\u2019s lives. With multiple demands for virtual reality increasing, the metaverse, a new type of social ecology that can connect the physical and virtual worlds, is booming. However, with the rapid growth of data volume and value, the continuous evolution of the metaverse faces the demands and challenges of privacy, security, high synchronization, and low latency. Fortunately, the ever-evolving blockchain and intelligent networking technologies can be used to satisfy the trusted construction, continuous data interaction, and computing demands of the metaverse. Therefore, it is necessary to conduct an in-depth review of the role and gains of blockchain, intelligent networking, and the combination of both in providing the immersive experiences of the metaverse. In this survey, we first discuss the development trend, characteristics, and architecture of the metaverse. Then, the existing work on blockchain, networking, and the combination of the two technologies are reviewed, including overviews, applications, and challenges. Next, applications of the metaverse are summarized, emphasizing the importance of the metaverse and the fields of development. Finally, we discuss some open issues, challenges, and future research directions."
+  },
+  {
+   "id": "https://openalex.org/W3082670201",
+   "doi": "10.1108/sasbe-06-2020-0077",
+   "title": "Toward digitalization in the construction industry with immersive and drones technologies: a critical literature review",
+   "publication_year": 2020,
+   "source": "Smart and Sustainable Built Environment",
+   "type": "article",
+   "cited_by_count": 208,
+   "relevance_score": null,
+   "authors": [
+    "Faris Elghaish",
+    "Sandra T. Matarneh",
+    "Saeed Talebi",
+    "Mike Kagioglou",
+    "M. Reza Hosseini",
+    "Sepehr Abrishami"
+   ],
+   "n_authors": 6,
+   "abstract": "Purpose In this study, a critical literature review was utilized in order to provide a clear review of the relevant existing studies. The literature was analyzed using the meta-synthesis technique to evaluate and integrate the findings in a single context. Design/methodology/approach Digital transformation in construction requires employing a wide range of various technologies. There is significant progress of research in adopting technologies such as unmanned aerial vehicles (UAVs), also known as drones, and immersive technologies in the construction industry over the last two decades. The purpose of this research is to assess the current status of employing UAVs and immersive technologies toward digitalizing the construction industry and highlighting the potential applications of these technologies, either individually or in combination and integration with each other. Findings The key findings are: (1) UAVs in conjunction with 4D building information modeling (BIM) can be used to assess the project progress and compliance checking of geometric design models, (2) immersive technologies can be used to enable controlling construction projects remotely, applying/checking end users\u2019 requirements, construction education and team collaboration. Practical implications A detailed discussion around the application of UAVs and immersive technologies is provided. This is expected to support gaining an in-depth understanding of the practical applications of these technologies in the in"
+  },
+  {
+   "id": "https://openalex.org/W3043789292",
+   "doi": "10.1080/17452007.2020.1793721",
+   "title": "Building Information Modelling (BIM) adoption and implementation enablers in AEC firms: a systematic literature review",
+   "publication_year": 2020,
+   "source": "Architectural Engineering and Design Management",
+   "type": "review",
+   "cited_by_count": 206,
+   "relevance_score": null,
+   "authors": [
+    "Behzad Abbasnejad",
+    "Madhav Prasad Nepal",
+    "Alireza Ahankoob",
+    "Araz Nasirian",
+    "Robin Drogemuller"
+   ],
+   "n_authors": 5,
+   "abstract": "Building Information Modelling (BIM) has gained much attention in recent years, as both a new innovation and methodology. Many architecture, engineering and construction (AEC) firms have reported significant competitive advantages following its implementation. Despite the variety of benefits that BIM offers, its potential has not yet been fully realised. A key reason for this can be located in the difficulties of implementation at the organisational level; a process that demands significant changes in organisational business structure. However, there exists little extensive study on the analysis and synthesis of the literature surrounding organisational BIM implementation. This paper presents a systematic literature review (SLR) on studies from 2004 to July 2019 to allow for a thorough synthesis of the existing BIM literature, innovation management, and information technology domains to identify BIM adoption and implementation enablers. Of the 80 selected studies, 27 enablers were identified to contribute to a more comprehensive utilisation of BIM at the organisational level. These included strategic initiatives, cultural readiness, learning capacity, knowledge capability and IT leveragability, network relationships, process and performance management, and change management practices. The role each implementation enabler has in IT-equipped innovations generally and to BIM implementation specifically is discussed throughout. The results of this paper seek to aid AEC firms in g"
+  },
+  {
+   "id": "https://openalex.org/W3162999172",
+   "doi": "10.3390/app11094276",
+   "title": "An Adapted Model of Cognitive Digital Twins for Building Lifecycle Management",
+   "publication_year": 2021,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 204,
+   "relevance_score": null,
+   "authors": [
+    "\u0130brahim Yitmen",
+    "Sepehr Alizadehsalehi",
+    "\u0130lknur Ak\u0131ner",
+    "Muhammed Ernur Ak\u0131ner"
+   ],
+   "n_authors": 4,
+   "abstract": "In the digital transformation era in the Architecture, Engineering, and Construction (AEC) industry, Cognitive Digital Twins (CDT) are introduced as part of the next level of process automation and control towards Construction 4.0. CDT incorporates cognitive abilities to detect complex and unpredictable actions and reason about dynamic process optimization strategies to support decision-making in building lifecycle management (BLM). Nevertheless, there is a lack of understanding of the real impact of CDT integration, Machine Learning (ML), Cyber-Physical Systems (CPS), Big Data, Artificial Intelligence (AI), and Internet of Things (IoT), all connected to self-learning hybrid models with proactive cognitive capabilities for different phases of the building asset lifecycle. This study investigates the applicability, interoperability, and integrability of an adapted model of CDT for BLM to identify and close this gap. Surveys of industry experts were performed focusing on life cycle-centric applicability, interoperability, and the CDT model\u2019s integration in practice besides decision support capabilities and AEC industry insights. The evaluation of the adapted model of CDT model support approaching the development of CDT for process optimization and decision-making purposes, as well as integrability enablers confirms progression towards Construction 4.0."
+  },
+  {
+   "id": "https://openalex.org/W3014438724",
+   "doi": "10.3846/jcem.2020.12176",
+   "title": "USING A TAM-TOE MODEL TO EXPLORE FACTORS OF BUILDING INFORMATION MODELLING (BIM) ADOPTION IN THE CONSTRUCTION INDUSTRY",
+   "publication_year": 2020,
+   "source": "Journal of Civil Engineering and Management",
+   "type": "article",
+   "cited_by_count": 202,
+   "relevance_score": null,
+   "authors": [
+    "Qin Xuan",
+    "Ye Shi",
+    "Kuncan Lyu",
+    "Yiyi Mo"
+   ],
+   "n_authors": 4,
+   "abstract": "Building Information Modelling (BIM) has been adopted as the main technology in the construction industry in many developed countries due to its notable advantages. However, its applications in developing countries are limited. This paper aims to investigate factors which impact on BIM adoption in the construction industry. Twelve external variables were identified by an integrated TAM (Technology Acceptance Model) and TOE (Technology Organization Environment) framework and a systematic review of past studies. A survey was conducted in development, construction, design and consulting companies to investigate the impacts of these 12 external variables on BIM adoption. Using the interval Decision Making Trial and Evaluation Laboratory (DEMATEL) method, retrieved 120 completed questionnaires were analysed. The \u201cRequirements from national policies\u201d was found to be the most significant driving variable of BIM adoption by investigated companies. A further simulation analysis revealed that the \u201cIntention to Use\u201d BIM varied significantly with the change of \u201cRequirements from national policies\u201d, \u201cStandardization of BIM\u201d, and \u201cPopularity of BIM in the industry\u201d. The results lead to the conclusion that government incentives play critical roles in BIM adoption in China. Policy makers could put more efforts into motivation strategies, standardization measures, and BIM culture cultivation to promote BIM applications in the construction industry."
+  },
+  {
+   "id": "https://openalex.org/W2987434258",
+   "doi": "10.1080/01587919.2019.1680272",
+   "title": "Digital transformation in higher education: critiquing the five-year development plans (2016-2020) of 75 Chinese universities",
+   "publication_year": 2019,
+   "source": "Distance Education",
+   "type": "article",
+   "cited_by_count": 202,
+   "relevance_score": null,
+   "authors": [
+    "Junhong Xiao"
+   ],
+   "n_authors": 1,
+   "abstract": "This study examined how the role of digitalization is framed in the strategic development plans of 75 top universities in China. Findings show that digitalization as perceived by these universities features instrumentality (e-campus construction and application) and modernization (sustaining and efficiency innovations in teaching and learning), a situation also seen in other countries. On the other hand, there seems to be not enough incentive for them to use digital technologies to serve a wider community and to build technology-enhanced research capacity. There is also scanty evidence of open, flexible, distributed, and disaggregated learning encouraged in these plans. Finally, unique to Chinese higher education institutions are the goals of building a positive online ethos and developing political and ideological education via digital means. Influence of national policies and strategies on institutional digital strategies is also discussed."
+  },
+  {
+   "id": "https://openalex.org/W2883974322",
+   "doi": "10.32732/jcec.2018.7.2.107",
+   "title": "Barriers to Implementation of Building Information Modeling (BIM) to the Construction Industry: A Review",
+   "publication_year": 2018,
+   "source": "Journal of Civil Engineering and Construction",
+   "type": "article",
+   "cited_by_count": 201,
+   "relevance_score": null,
+   "authors": [
+    "Shakil Ahmed"
+   ],
+   "n_authors": 1,
+   "abstract": "Construction industry is one of the largest economic sector in the world in 2017. And Building Information Modeling (BIM) is the powerful set of technology to design, construction and management has been strengthen the construction industry. BIM has significant benefits for the project lifecycle even after it\u2018s lifecycle but this benefits can\u2018t gain by the project because of failure to successful implementation of BIM technology to the construction industry. The main objectives of this study is to identify the most crucial barrier to implementation of BIM and develop a relative rank with their relative impact on this issue. The study was conducted by a comprehensive literature review and necessary data was collected by literature review also. A set of barrier was developed by the literature review containing 37 barrier which curb the implementation of BIM technology to the construction sector. Relative rank based on their frequency and relative impact was calculate for each barrier identified in the literature review. The five most crucial barrier to the implementation of BIM are B17 (Social and habitual resistance to change), B19 (Traditional methods of contracting), B3 (Training expenses and the learning curve are too expensive), B20 (High cost of software purchasing) and B33 (Lack of awareness about BIM). And the five most impactful barrier are B19 (Traditional methods of contracting), B17 (Social and habitual resistance to change), B33 (Lack of awareness about BIM), B2 (U"
+  },
+  {
+   "id": "https://openalex.org/W4390350136",
+   "doi": "10.1016/j.clet.2023.100715",
+   "title": "Circular economy in construction: The digital transformation perspective",
+   "publication_year": 2023,
+   "source": "Cleaner Engineering and Technology",
+   "type": "article",
+   "cited_by_count": 200,
+   "relevance_score": null,
+   "authors": [
+    "Saeed Banihashemi",
+    "Senada Meskin",
+    "Moslem Sheikhkhoshkar",
+    "Saeed Reza Mohandes",
+    "Aso Hajirasouli",
+    "Khuong Le Nguyen"
+   ],
+   "n_authors": 6,
+   "abstract": "This systematic review critically examines the intersection of digital transformation and circular economy (CE) principles within the built environment. While digitalisation has been shown to enhance efficiency, safety, and sustainability in construction, its role in fostering circularity is less established. This study analyzes literature from 2010 to 2022, focusing on how digital technologies such as open-BIM, digital twins, material passports, blockchain, RFID, and gamification can integrate into and enhance the circular building lifecycle. The findings reveal that while digital tools are pivotal in design and construction phases, their application to existing structures is less straightforward, with challenges including the absence of digital twins for demolished structures, the high costs of retrofit digitalisation, and the predominant focus on environmental benefits over practical implementation. The review also highlights the need for a unified digital transformation strategy and greater cross-industry collaboration. Future research directions are proposed, including the development of localized material banks, the application of RFID in circularity, the scope of Design for Disassembly (DfD) tools, digital inventory of existing buildings, the circularity of Life Cycle Assessment (LCA) databases, and policy implications for promoting circular construction practices."
+  },
+  {
+   "id": "https://openalex.org/W4320523434",
+   "doi": "10.1016/j.autcon.2022.104736",
+   "title": "Digital twin enhanced BIM to shape full life cycle digital transformation for bridge engineering",
+   "publication_year": 2023,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 200,
+   "relevance_score": null,
+   "authors": [
+    "Honghong Song",
+    "Gang Yang",
+    "Haijiang Li",
+    "Tian Zhang",
+    "Jiang Annan"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3046106589",
+   "doi": "10.1016/j.jbi.2020.103516",
+   "title": "Mapping the intellectual structure of research on surgery with mixed reality: Bibliometric network analysis (2000\u20132019)",
+   "publication_year": 2020,
+   "source": "Journal of Biomedical Informatics",
+   "type": "review",
+   "cited_by_count": 199,
+   "relevance_score": null,
+   "authors": [
+    "Jieun Han",
+    "Hyo\u2010Jin Kang",
+    "Minjung Kim",
+    "Gyu Hyun Kwon"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2913199453",
+   "doi": "10.1016/j.ijproman.2019.01.010",
+   "title": "Organising and Managing boundaries: A structurational view of collaboration with Building Information Modelling (BIM)",
+   "publication_year": 2019,
+   "source": "International Journal of Project Management",
+   "type": "article",
+   "cited_by_count": 199,
+   "relevance_score": null,
+   "authors": [
+    "Eleni Papadonikolaki",
+    "Clarine Joanne van Oel",
+    "Mike Kagioglou"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3009899245",
+   "doi": "10.36680/j.itcon.2020.010",
+   "title": "Technology acceptance model for Augmented Reality and Building Information Modeling integration in the construction industry",
+   "publication_year": 2020,
+   "source": "Journal of Information Technology in Construction",
+   "type": "article",
+   "cited_by_count": 197,
+   "relevance_score": null,
+   "authors": [
+    "Abdalrahman Elshafey",
+    "Chai Chang Saar",
+    "Eeydzah Binti Aminudin",
+    "Masoud Gheisari",
+    "Abdul Rahman Ahsan Usmani"
+   ],
+   "n_authors": 5,
+   "abstract": "The digitalization of the construction industry has immense potential for dramatically improving the industry\u2019s practices. Concerning current measures in construction project management, the industry is still dependent on traditional construction methods. However, the application of fully automated techniques within the construction industry has not yet been a widespread practice. Thus, this may explain why there is a slow adaption of digital growth within the construction industry and specifically in developing countries. This study is aiming to investigate the acceptance of Building Information Modeling (BIM) and Augmented Reality (AR) integration in the construction industry. To achieve this aim, Technology Acceptance Model 3 (TAM3) was utilized. The scope was narrowed down to four developing counties (Malaysia, Egypt, Saudi Arabia, and Turkey) and a questionnaire survey was developed and distributed between construction professionals in those countries for data collection purposes. Exploratory Factor Analysis (EFA) was used to develop the TAM, and a regression analysis is used to validate it. The developed TAM3 showed that users control over BIM-AR and perception of easiness of use has the highest influence on their perception of the system usefulness, which would positively affect their intention to use the system. Additionally, unlike the findings of the original TAM3, three variables of Image, Perception of External Control, and Voluntariness illustrate new relations w"
+  },
+  {
+   "id": "https://openalex.org/W3207885496",
+   "doi": "10.1016/j.aei.2021.101428",
+   "title": "Understanding digital transformation in advanced manufacturing and engineering: A bibliometric analysis, topic modeling and research trend discovery",
+   "publication_year": 2021,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 195,
+   "relevance_score": null,
+   "authors": [
+    "Ching\u2010Hung Lee",
+    "Chien\u2010Liang Liu",
+    "Amy J.C. Trappey",
+    "John P.T. Mo",
+    "Kevin C. Desouza"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4318477864",
+   "doi": "10.3390/su15032466",
+   "title": "Digital Transformation and Technological Innovation on Higher Education Post-COVID-19",
+   "publication_year": 2023,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 192,
+   "relevance_score": null,
+   "authors": [
+    "\u00c1ngel Deroncele-Acosta",
+    "Madeleine Lourdes Palacios-N\u00fa\u00f1ez",
+    "Alexander Toribio-L\u00f3pez"
+   ],
+   "n_authors": 3,
+   "abstract": "The university is an important pillar in sustainable development; however, COVID-19 imposed new dynamics that called for rethinking university praxis to achieve this mission, and although the systematization of good practices is a powerful mechanism for understanding educational success, this perspective of positive change has been little developed. Hence, the present study aimed to identify positive cores of faculty in their successful post-COVID-19 performance. A qualitative methodological approach was deployed, with the Netnography method, complemented with elements of positive psychology, appreciative inquiry, and management of formative potentialities. The online community consisted of 1238 university teachers from 10 Latin American countries, who participated for two months in an appreciative interview as an asynchronous journey of constructive proposals, for the active co-construction of post-COVID-19 success factors. The findings reveal multiple affirmative topics grouped into nine positive cores, identifying two target categories: digital transformation and technological innovation, as well as the processes directly associated with their dynamization. Finally, the epistemic implications of the findings in theory and practice, and their relevance in the creation of a formative agenda of positive change for Latin American Higher Education, are presented."
+  },
+  {
+   "id": "https://openalex.org/W3162026467",
+   "doi": "10.3390/su13095040",
+   "title": "Digitalization as a Strategic Means of Achieving Sustainable Efficiencies in Construction Management: A Critical Review",
+   "publication_year": 2021,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 192,
+   "relevance_score": null,
+   "authors": [
+    "Bahareh Nikmehr",
+    "M. Reza Hosseini",
+    "Igor Martek",
+    "Edmundas Kazimieras Zavadskas",
+    "Jurgita Antuchevi\u010dien\u0117"
+   ],
+   "n_authors": 5,
+   "abstract": "Construction is a complex activity, characterized by high levels of capital investment, relatively long delivery durations, multitudinous risks and uncertainties, as well as requiring the integration of multiple skills delivering a huge volume of tasks and processes. All of these must be coordinated carefully if time, cost, and quality constraints are to be met. At the same time, construction is renowned for performing poorly regarding sustainability metrics. Construction activity generates high volumes of waste, requires vast amounts of resources and materials, while consuming a significant proportion of total energy generated. Digitalization of the construction workplace and construction activities has the potential of improving construction performance both in terms of business results as well as sustainability outcomes. This is because, to put it simply, reduced energy usage, for example, impacts economic and \u201cgreen\u201d performance, simultaneously. Firms tinkering with digitalization, however, do not always achieve the hoped-for outcomes. The challenge faced is that a digital transition of construction firms must be carried out at a strategic level\u2014requiring a comprehensive change management protocol. What then does a digital strategy entail? This study puts forward an argument for the combined economic and sustainability dividends to be had from digitizing construction firm activities. It outlines the requirements for achieving digitalization. The elements of a comprehensiv"
+  },
+  {
+   "id": "https://openalex.org/W4306894657",
+   "doi": "10.1016/j.scs.2022.104266",
+   "title": "Disentangling the complex impacts of urban digital transformation and environmental pollution: Evidence from smart city pilots in China",
+   "publication_year": 2022,
+   "source": "Sustainable Cities and Society",
+   "type": "article",
+   "cited_by_count": 191,
+   "relevance_score": null,
+   "authors": [
+    "Desheng Wu",
+    "Yu Xie",
+    "Shoujun Lyu"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W1759378810",
+   "doi": "10.1111/j.2151-6952.2009.00006.x",
+   "title": "Digital: Museum as Platform, Curator as Champion, in the Age of Social Media",
+   "publication_year": 2010,
+   "source": "Curator The Museum Journal",
+   "type": "article",
+   "cited_by_count": 189,
+   "relevance_score": null,
+   "authors": [
+    "Nancy Proctor"
+   ],
+   "n_authors": 1,
+   "abstract": "As I set out to write my first column as Digital Editor, a good friend suggested I examine the question of curatorial voice. What is it in these changing times? What roles do or should curators play in the age of social media? It seemed an appropriate topic through which to find my own role and voice in what is\u2014for me\u2014a new \u201cplatform\u201d: Curator: The Museum Journal. I come to this topic from more than a decade of developing digital solutions for delivering interpretation in museums and online. In my days as a doctoral student in art history, I also curated a few exhibitions and presented my films in galleries and alternative spaces in England. Today\u2014as I work with curators and others as head of New Media Initiatives for the Smithsonian American Art Museum\u2014I find myself increasingly questioning where the boundaries lie between digital and analog, in-gallery and online, curator, interpreter, and agent of social media. Curator David Allison is chair of Information Technology and Communication, a curatorial department concerned with the history of IT, at the National Museum of American History, Smithsonian Institution. During a strategic planning meeting at the Smithsonian in 2009, Allison produced lists of what\u2019s \u201cin\u201d and \u201cout\u201d as the Institution enters the age of social media. I have borrowed a few items from his lists to point to the proximate future of museums and curating: Popular adoption of Web 2.0 and its progeny has coincided in the early twenty-first century with the deve"
+  },
+  {
+   "id": "https://openalex.org/W4282593313",
+   "doi": "10.3389/fbuil.2022.834671",
+   "title": "Digital Twins in the Construction Industry: A Perspective of Practitioners and Building Authority",
+   "publication_year": 2022,
+   "source": "Frontiers in Built Environment",
+   "type": "article",
+   "cited_by_count": 187,
+   "relevance_score": null,
+   "authors": [
+    "Ashtarout Ammar",
+    "Hala Nassereddine",
+    "Nadine AbdulBaky",
+    "Anwar AbouKansour",
+    "Juliano Tannoury",
+    "Harald Urban"
+   ],
+   "n_authors": 7,
+   "abstract": "As the notion of data-driven analytics and turning data into action is becoming more salient in the construction industry, researchers and practitioners have recently devoted considerable effort to investigate the digital transformation of the industry. Along this journey, Digital Twin has been introduced to the industry as a concept that holds the promise to challenge the status-quo and address long standing problems of productivity, efficiency, and value. While this concept is becoming more familiar among practitioners, there is a lack of universal definitions of what the Digital Twin of a construction project is. Additionally, while identifying the purpose of Digital Twin is recognized as the first step in implementing Digital Twins, there is little discussion on the perception of construction practitioners of the extent to which Digital Twin can deliver value. To address these research gaps and building on the existing work on Digital Twins in the context of the construction industry, this paper first proposes a definition of the Digital Twin of a construction project. Next, a series of semi-structured interviews are conducted with nine construction practitioners to understand their perceptions on the use and challenges of Digital Twins. Thematic analysis is then used to analyze interview data and summarize Digital Twins applications, capabilities, and challenges. Forty direct applications were identified and grouped into seven capabilities. Digital Twins capabilities of "
+  },
+  {
+   "id": "https://openalex.org/W2029133895",
+   "doi": "10.1016/j.autcon.2013.12.004",
+   "title": "Users-orientated evaluation of building information model in the Chinese construction industry",
+   "publication_year": 2014,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 186,
+   "relevance_score": null,
+   "authors": [
+    "Huier Xu",
+    "Jingchun Feng",
+    "LI Shou-de"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3119324126",
+   "doi": "10.1080/10548408.2020.1862023",
+   "title": "Innovative marketing strategies for the successful construction of drone food delivery services: Merging TAM with TPB",
+   "publication_year": 2021,
+   "source": "Journal of Travel & Tourism Marketing",
+   "type": "article",
+   "cited_by_count": 185,
+   "relevance_score": null,
+   "authors": [
+    "Ja Young Choe",
+    "Jinkyung Jenny Kim",
+    "Jinsoo Hwang"
+   ],
+   "n_authors": 3,
+   "abstract": "This study merged the technology acceptance model (TAM) with the theory of planned behavior (TPB) to examine how to form behavioral intentions in the context of drone food delivery services. The results of data analysis showed that all six hypotheses within the model that merged the TAM and the TPB were statistically supported. In addition, product innovativeness moderated the relationship between the subjective norm and behavioral intentions. In the latter part of this study, implications for the food service industry as well as implications for the tourism industry were presented."
+  },
+  {
+   "id": "https://openalex.org/W2401836005",
+   "doi": "10.1016/j.proeng.2016.04.144",
+   "title": "Exploring the Adoption of BIM in the UAE Construction Industry for AEC Firms",
+   "publication_year": 2016,
+   "source": "Procedia Engineering",
+   "type": "conference-paper",
+   "cited_by_count": 175,
+   "relevance_score": null,
+   "authors": [
+    "Donya Mehran"
+   ],
+   "n_authors": 1,
+   "abstract": "Rate of development of the United Arab Emirates (UAE) economy has increased remarkably during the last 25 years with a marked boom in the construction industry. However, the UAE construction industry is encountering several problems as delays and cost overruns. Adoption of the Building Information Modeling (BIM) solution is expected to enhance performance and profitability for the construction industry. This paper looks at the BIM adoption in UAE due to its mandate by the Dubai Municipality in 2015 which was followed by a BIM mandate in UK in 2016. A questionnaire survey was used to assess awareness of, and use and adoption of BIM in the UAE. The survey was distributed to academics and construction professionals working on BIM projects in UAE. The research result reveals three critical barriers in BIM implementation: Lack of BIM Standards, Lack of BIM Awareness and Resistance to change. A synthesis is presented of the state of past and current studies on BIM implementation and future research directions are recommended."
+  },
+  {
+   "id": "https://openalex.org/W4307125514",
+   "doi": "10.1016/j.infoecopol.2022.101007",
+   "title": "Impact of digitalization and environmental regulation on total factor productivity",
+   "publication_year": 2022,
+   "source": "Information Economics and Policy",
+   "type": "article",
+   "cited_by_count": 174,
+   "relevance_score": null,
+   "authors": [
+    "Huwei Wen",
+    "Changyong Wen",
+    "Chien\u2010Chiang Lee"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4293570571",
+   "doi": "10.1108/ecam-05-2022-0383",
+   "title": "From Industry 4.0 to Construction 4.0: barriers to the digital transformation of engineering and construction sectors",
+   "publication_year": 2022,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 173,
+   "relevance_score": null,
+   "authors": [
+    "Kaiyang Wang",
+    "Fangyu Guo",
+    "Cheng Zhang",
+    "Dirk Schaefer"
+   ],
+   "n_authors": 4,
+   "abstract": "Purpose The purpose of this study is to systematically identify, assess, and categorize the barriers to digital transformation (DT) in the engineering and construction sectors, and thus to better understand the impact and how these sectors might be overcome. Design/methodology/approach This study adopted a sequential mixed qualitative and quantitative data collection and analysis approach. DT barriers were first identified from relevant literature and verified by an expert panel. Then, a questionnaire survey assessing the impacts of the identified DT barriers was distributed to construction professionals in China, and 192 valid responses were retrieved. Further, the data obtained were analyzed using ranking analysis, exploratory factor analysis (EFA), and partial least squares-structural equation modeling (PLS-SEM). Findings Based on the ranking analysis, the top three barriers are \u201clack of industry-specific standards and laws,\u201d \u201clack of clear vision, strategy and direction for DT,\u201d and \u201clack of support from top management for DT.\u201d EFA enabled the grouping of the 26 barriers into 3 categories: (1) lack of laws and regulations (LLR), (2) lack of support and leadership (LSL), and (3) lack of resources and professionals (LRP). The PLS-SEM analysis revealed that LLR, LSL, and LRP were found to have significant negative impacts on DT. Originality/value These findings contribute to the body of knowledge on DT in the construction industry and help construction firms and government b"
+  },
+  {
+   "id": "https://openalex.org/W3167008453",
+   "doi": "10.1080/01446193.2021.1930080",
+   "title": "A taxonomy of digital leadership in the construction industry",
+   "publication_year": 2021,
+   "source": "Construction Management and Economics",
+   "type": "article",
+   "cited_by_count": 173,
+   "relevance_score": null,
+   "authors": [
+    "Sambo Lyson Zulu",
+    "Farzad Khosrowshahi"
+   ],
+   "n_authors": 2,
+   "abstract": "Businesses in the construction industry are experiencing pressure to modernize by embracing digital technologies. Like any other change initiative, digital transformation requires that leaders are at the forefront of their organizations\u2019 pursuit for digital innovation. Therefore, the purpose of this study was to explore the different leadership approaches exhibited by construction industry leaders in influencing their organizations\u2019 digital paths. Qualitative data collected from 41 construction industry professionals were analysed using an inductive thematic analysis approach. The main finding was a taxonomy of digital leadership types characterized under six themes: proactive and forward-thinking; supportive; uncoordinated; cautious; resistant and visionless and undriven leaders. These themes provide an insight into how leaders influence the digital transformation paths in organizations. As far as the authors are aware, this study is the first that developed a taxonomy of digital leadership approaches in the construction industry. This is a valuable step in understanding leaders\u2019 influence in driving digital transformation in the construction industry. Thus, the taxonomy of digital leadership can be used to evaluate leadership styles and attitude towards digitalization. The findings are also a platform for further studies on digital leadership in construction."
+  },
+  {
+   "id": "https://openalex.org/W4362672587",
+   "doi": "10.1016/j.enbuild.2023.113025",
+   "title": "Quantification process of carbon emissions in the construction industry",
+   "publication_year": 2023,
+   "source": "Energy and Buildings",
+   "type": "article",
+   "cited_by_count": 171,
+   "relevance_score": null,
+   "authors": [
+    "Ke En Lai",
+    "Nafisah Binti Abdul Rahiman",
+    "Norazam Othman",
+    "Kherun Nita Ali",
+    "Yaik-Wah Lim",
+    "Farzaneh Moayedi"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4220841420",
+   "doi": "10.1155/2022/1607020",
+   "title": "Digital Finance Development and the Digital Transformation of Enterprises: Based on the Perspective of Financing Constraint and Innovation Drive",
+   "publication_year": 2022,
+   "source": "Journal of Mathematics",
+   "type": "article",
+   "cited_by_count": 171,
+   "relevance_score": null,
+   "authors": [
+    "Si Luo"
+   ],
+   "n_authors": 1,
+   "abstract": "In the context of the digital economy, the digital transformation of enterprises, as an important accelerator of new economic and social development, cannot be separated from the support of financial resources. Based on the data of China\u2019s A\u2010share listed companies from 2011 to 2020, this paper studies the influence of digital finance development on the digital transformation of enterprises and its mechanism of action. The empirical results demonstrate that digital finance development plays a significant role in promoting the digital transformation of enterprises, and the promotion effect is stronger for nonstate\u2010owned enterprises, but the promotion effect of digital finance development on the digital transformation of enterprises is weaker in western regions and peripheral cities than that in eastern and central regions and central cities. Digital finance development can alleviate the financing constraint of enterprises, thus facilitating the digital transformation of enterprises. Digital finance development can drive enterprise innovation, thus promoting the digital transformation of enterprises. Therefore, this paper suggests that the government should steadily advance digital finance development. Meanwhile, financial institutions should speed up the construction of digital platforms and strengthen their support for innovative projects. In addition, enterprises should actively seize the opportunities brought by digital finance development and accelerate the construction of "
+  },
+  {
+   "id": "https://openalex.org/W4400405288",
+   "doi": "10.1016/j.techfore.2024.123570",
+   "title": "The impact of digital government on corporate green innovation: Evidence from China",
+   "publication_year": 2024,
+   "source": "Technological Forecasting and Social Change",
+   "type": "article",
+   "cited_by_count": 170,
+   "relevance_score": null,
+   "authors": [
+    "Xiaoli Hao",
+    "Erxiang Miao",
+    "Qingyu Sun",
+    "Ke Li",
+    "Shufang Wen",
+    "Yan Xue"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2885961948",
+   "doi": "10.1108/ecam-05-2017-0091",
+   "title": "Bridging the digital divide gap in BIM technology adoption",
+   "publication_year": 2018,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 170,
+   "relevance_score": null,
+   "authors": [
+    "Kudirat Olabisi Ayinla",
+    "Zulfikar Aliyu Adamu"
+   ],
+   "n_authors": 2,
+   "abstract": "Purpose In the architecture, engineering and construction (AEC) industry, a \u201cdigital divide\u201d exists in technology adoption because SMEs (who often form the bulk of AEC organisations in most countries) are thought to be \u201cLate Majority\u201d and \u201cLaggards\u201d in the adoption of Building information modelling (BIM) technology. Larger organisations not saddled with financial and socio-technical constraints might be considered as being among the \u201cEarly Majority\u201d or \u201cInnovators\u201d. It is crucial to understand how these organisations differ in their speed of BIM technology adoption and the rationale for this difference. The purpose of this paper is to investigate the potential causes of the digital divide and suggest solutions for bridging the gap. Design/methodology/approach Using mixed research method, data were collected through online questionnaire survey of over 240 global respondents as well as a semi-structured interview with nine experts for which statistical and thematic analyses were used, respectively. Findings Organisations can be zoned into \u201clayers\u201d and \u201clevels\u201d of BIM technology adoption and their size is not always significant in terms of the speed at which they adopt BIM. The digital divide is unequal across layers/levels and large organisations utilise technologies across the BIM maturity levels depending on project circumstances. A conceptual model for BIM technology was developed to aid identification of the \u201cLaggards\u201d and \u201cLate Majority\u201d from the \u201cInnovators\u201d through which"
+  },
+  {
+   "id": "https://openalex.org/W4290471338",
+   "doi": "10.1002/bse.3189",
+   "title": "Can low\u2010carbon development force enterprises to make digital transformation?",
+   "publication_year": 2022,
+   "source": "Business Strategy and the Environment",
+   "type": "article",
+   "cited_by_count": 164,
+   "relevance_score": null,
+   "authors": [
+    "Wen Chen"
+   ],
+   "n_authors": 1,
+   "abstract": "Enterprises need to innovate business strategies to deal with the negative effects of low\u2010carbon development, among which digital transformation is an important breakthrough technology. This paper discusses the impact of low\u2010carbon development on enterprises' digital transformation. Theoretical analysis shows that environmental regulations driven by low\u2010carbon development have the compensatory effect of stimulating enterprise digital transformation to mitigate misallocation of capital and labor, especially for enterprises with higher productivity. In addition, both the construction of network infrastructure and the development of digital finance can strengthen the incentives for enterprises' digital transformation. The empirical tests based on Chinese A\u2010share listed enterprises show that the degree of enterprises' digital transformation increases by 0.0122 standard deviation for every one standard deviation reduction in regional carbon emission intensity. These results deepen the understanding of the relationship between green development and microenterprise digitalization."
+  },
+  {
+   "id": "https://openalex.org/W2997918385",
+   "doi": "10.15458/ebr.92",
+   "title": "Construction 4.0 \u2013 Digital Transformation of One of the Oldest Industries",
+   "publication_year": 2019,
+   "source": "Economic and business review",
+   "type": "article",
+   "cited_by_count": 163,
+   "relevance_score": null,
+   "authors": [
+    "Robert Klinc",
+    "\u017diga Turk"
+   ],
+   "n_authors": 2,
+   "abstract": "In the early 2010s, the German industry started their reform and revival under the keyword \"Industrie Vier Punkt Null\". The European Union\u2019s strategies adopted most of the ideas and member states followed. The European construction industry too stared to explore how to benefit from it. In this review paper, we explain the ideas behind Industry 4.0. We present aspects of Industry 4.0: what it means for the customer, business and industry as a whole. Based on that framework we analysed the potentials of Industry 4.0 in the construction industry and where \u2013 due to some specifics of the industry \u2013 construction is actually ahead in adopting the Industry 4.0 concepts."
+  },
+  {
+   "id": "https://openalex.org/W2794235685",
+   "doi": "10.1080/14778238.2018.1445427",
+   "title": "Reconciling digital transformation and knowledge protection: a research agenda",
+   "publication_year": 2018,
+   "source": "Knowledge Management Research & Practice",
+   "type": "article",
+   "cited_by_count": 163,
+   "relevance_score": null,
+   "authors": [
+    "Ilona Ilvonen",
+    "Stefan Thalmann",
+    "Markus Manhart",
+    "Christian Sillaber"
+   ],
+   "n_authors": 4,
+   "abstract": "Digital transformation revolutionises the way people work not only in office settings but also in physical work settings such as manufacturing or construction. New ways of combining digital and physical innovations and intensified inter-organisational collaborations are key characteristics for success. Knowledge sharing becomes increasingly important, but its inter-organisational nature and the blurring of organisational boundaries create new challenges for the protection of knowledge. Existing research on knowledge protection mostly focuses on single organisations or on dyadic relationships. Complex sharing arrangements and especially sharing in networks has received little attention so far. This paper presents a literature review, integrating the perspectives of the base domains of knowledge, strategy, innovation, and information security management with the goal to identify knowledge protection requirements in the era of digital transformation. Five avenues for future research on knowledge protection to support organisations coping with challenges imposed by digital transformation are presented."
+  },
+  {
+   "id": "https://openalex.org/W4399654270",
+   "doi": "10.1016/j.plas.2024.100138",
+   "title": "Driving digital transformation in construction: Strategic insights into building information modelling adoption in developing countries",
+   "publication_year": 2024,
+   "source": "Project Leadership and Society",
+   "type": "article",
+   "cited_by_count": 162,
+   "relevance_score": null,
+   "authors": [
+    "Sonam Rinchen",
+    "Saeed Banihashemi",
+    "Suhair Zaid Alkilani"
+   ],
+   "n_authors": 3,
+   "abstract": "The construction industry in developing countries faces significant challenges, including limited resources, infrastructure constraints, and varying levels of technological readiness, which hinder the adoption of Building Information Modelling. Despite the recognized benefits in enhancing project efficiency, reducing costs, and improving collaboration, there is a lack of comprehensive understanding and tailored strategies for Building Information Modelling implementation in these contexts. This study aims to address these gaps by systematically reviewing Building Information Modelling adoption literature from 2013 to 2023 and developing a model specifically designed to guide its integration in developing nations. It categorizes nations by demographic and economic parameters and employs thematic analysis to explore benefits, challenges, and strategies. The study develops a tailored Building Information Modelling adoption model, by highlighting the dynamic interplay between adoption, contextual and strategic factors, technological advancement and socio-economic development and synthesizing key insights from academic literature and empirical findings. It offers strategic recommendations for nations at different Building Information Modelling integration stages, addressing their unique socio-economic and environmental contexts. The study identifies trends in utilization and highlights significant gaps, particularly in empirical, educational and strategic initiatives on digital co"
+  },
+  {
+   "id": "https://openalex.org/W4283793781",
+   "doi": "10.1016/j.autcon.2022.104464",
+   "title": "Construction and maintenance of urban underground infrastructure with digital technologies",
+   "publication_year": 2022,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 162,
+   "relevance_score": null,
+   "authors": [
+    "Mingzhu Wang",
+    "Xianfei Yin"
+   ],
+   "n_authors": 2,
+   "abstract": "Urban underground infrastructure is a critical component in cities to provide essential services to residents. Research efforts have been made to facilitate different activities of underground infrastructure projects using various methods, particularly digital technologies. To obtain deeper insights from existing research and provide directions for future research, this study conducts a comprehensive review of research on underground infrastructure construction and Operation & Maintenance (O&M) with a focus on digital technologies. The in-depth review was conducted based on 145 publications from the perspective of locating and mapping, construction and coordination, as well as O&M. Consequently, critical limitations and challenges are revealed, such as the lack of as-built and as-is information, the requirement of data quality and quantity for deep learning methods, the lack of fully automated robotic systems, etc. Afterwards, a status matrix was presented to identify the level of different digital technologies being studied and their future application potential for key activities of underground infrastructure projects. In the end, future research trends are proposed, including (1) digital twinning of underground infrastructure, (2) quality and uncertainty of inspection data, (3) data generation and semi-supervised learning, (4) predictive maintenance, and (5) fully automated robotic systems for inspection and maintenance. This study contributes to the body of knowledge by i"
+  },
+  {
+   "id": "https://openalex.org/W4220969267",
+   "doi": "10.1061/(asce)me.1943-5479.0001040",
+   "title": "Effects of Digital Technology Adoption on Sustainability Performance in Construction Projects: The Mediating Role of Stakeholder Collaboration",
+   "publication_year": 2022,
+   "source": "Journal of Management in Engineering",
+   "type": "article",
+   "cited_by_count": 162,
+   "relevance_score": null,
+   "authors": [
+    "Ying Li",
+    "Hua Feng Sun",
+    "Dakun Li",
+    "Jian tao Song",
+    "Ronggui Ding"
+   ],
+   "n_authors": 5,
+   "abstract": "Emerging digital technologies such as building information modeling (BIM) and the Internet of Things (IoT) have been widely adopted in construction projects and have attracted great attention from researchers and practitioners in the architecture, engineering, and construction (AEC) industry. To better understand the benefits of adopting digital technologies in construction projects from the sustainability perspective, this research investigated the impact of digital technology adoption on sustainability performance and proposed the mediating role of stakeholder collaboration based on organizational information processing theory (OIPT). Survey data were collected from managers and members of Chinese construction projects, and the partial least squares structural equation modeling (PLS-SEM) method was used to test the hypothesized relationships. The results show that digital technology adoption has direct effects on economic, environmental, and social performance and that stakeholder collaboration can directly influence only economic and environmental performance. Additionally, stakeholder collaboration partially mediates the relationship between digital technology adoption and economic and environmental performance. These findings enrich the current research on digital transformation and project sustainability management and provide managerial implications for how to realize the benefits of digital technology adoption in the AEC industry."
+  },
+  {
+   "id": "https://openalex.org/W4402416065",
+   "doi": "10.3390/smartcities7050101",
+   "title": "Digital Twin Technology in Built Environment: A Review of Applications, Capabilities and Challenges",
+   "publication_year": 2024,
+   "source": "Smart Cities",
+   "type": "article",
+   "cited_by_count": 161,
+   "relevance_score": null,
+   "authors": [
+    "Yalda Mousavi",
+    "Zahra Gharineiat",
+    "Armin Agha Karimi",
+    "Kevin McDougall",
+    "Adriana Rossi",
+    "Sara Gonizzi Barsanti"
+   ],
+   "n_authors": 6,
+   "abstract": "Digital Twin (DT) technology is a pivotal innovation within the built environment industry, facilitating digital transformation through advanced data integration and analytics. DTs have demonstrated significant benefits in building design, construction, and asset management, including optimising lifecycle energy use, enhancing operational efficiency, enabling predictive maintenance, and improving user adaptability. By integrating real-time data from IoT sensors with advanced analytics, DTs provide dynamic and actionable insights for better decision-making and resource management. Despite these promising benefits, several challenges impede the widespread adoption of DT technology, such as technological integration, data consistency, organisational adaptation, and cybersecurity concerns. Addressing these challenges requires interdisciplinary collaboration, standardisation of data formats, and the development of universal design and development platforms for DTs. This paper provides a comprehensive review of DT definitions, applications, capabilities, and challenges within the Architecture, Engineering, and Construction (AEC) industries. This paper provides important insights for researchers and professionals, helping them gain a more comprehensive and detailed view of DT. The findings also demonstrate the significant impact that DTs can have on this sector, contributing to advancing DT implementations and promoting sustainable and efficient building management practices. Ultima"
+  },
+  {
+   "id": "https://openalex.org/W2803763131",
+   "doi": "10.3390/buildings8060074",
+   "title": "Construction Technology Adoption Cube: An Investigation on Process, Factors, Barriers, Drivers and Decision Makers Using NVivo and AHP Analysis",
+   "publication_year": 2018,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 161,
+   "relevance_score": null,
+   "authors": [
+    "Samad M. E. Sepasgozar",
+    "Steven Davis"
+   ],
+   "n_authors": 2,
+   "abstract": "Due to the complexity, high-risk and conservative character of construction companies, advanced digital technologies do not become widely adopted in the short term, while vendors make determined efforts to overcome this and disseminate their technologies. This paper presents the methods of an investigation addressing the extremely complex issues related to the current practices of digital technology adoption in construction. It discusses how construction companies follow a specific logical process linked to need, project objectives, the characteristics of the adopting organization and the characteristics of the new technology to be adopted. The study aims to demonstrate a novel method of data collection and analysis, such as data and methodological triangulation techniques, including the use of NVivo and AHP to explore how companies make the decision to uptake new technology (e.g., advanced crane, tunnel boring machine or drones) by focusing on customer and vendor activities, their interactions, contributing factors and people involved in the process. The major original contribution of this paper is developing an innovative methodological cube for investigating the Construction Technology Adoption Process (CTAP) covering technology adoption, acceptance, diffusion and implementation concepts. CTAP is a framework that delineates the phases of the process that customer organizations use when deciding to adopt a new digital technology and the parallel vendor activities. The signi"
+  },
+  {
+   "id": "https://openalex.org/W3178826682",
+   "doi": "10.3389/fbuil.2021.660758",
+   "title": "Facilitating Digital Transformation in Construction\u2014A Systematic Review of the Current State of the Art",
+   "publication_year": 2021,
+   "source": "Frontiers in Built Environment",
+   "type": "review",
+   "cited_by_count": 159,
+   "relevance_score": null,
+   "authors": [
+    "Ayokunle Olubunmi Olanipekun",
+    "Monty Sutrisna"
+   ],
+   "n_authors": 2,
+   "abstract": "There is increasing implementation of digital technologies in construction. However, the transformation effects encompassing digital technology implementation are yet to be fully comprehended within the context of construction. Therefore, this study was aimed to provide a holistic understanding of digital transformation in construction. The study drew on extant literature by studying 36 journal publications published between 2016 when digital transformation emerged in construction from the information systems field and 2020. This led to the development of an inductive framework using a grounded theory methodology (GTM) to highlight digital transformation in construction as a process where the implementation of digital technologies creates transformation effects that trigger strategic considerations for putting in place the enablers that facilitate transformation effects and for suppressing the barriers to it. Building on the framework, this study described and presented the strategic considerations for facilitating specific enablers and those for suppressing specific barriers as digital transformation guideline in construction. This study demonstrated how the implementation of digital technologies has increased the understanding of and provided the basis for digital transformation in construction."
+  },
+  {
+   "id": "https://openalex.org/W2116915517",
+   "doi": "10.1016/j.autcon.2012.05.002",
+   "title": "A BIM- and sensor-based tower crane navigation system for blind lifts",
+   "publication_year": 2012,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 158,
+   "relevance_score": null,
+   "authors": [
+    "Ghang Lee",
+    "Joonbeom Cho",
+    "Sungil Ham",
+    "Taekwan Lee",
+    "Gaang Lee",
+    "Seok-Heon Yun"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4391855027",
+   "doi": "10.1109/access.2024.3365934",
+   "title": "A Systematic Review of the Digital Transformation of the Building Construction Industry",
+   "publication_year": 2024,
+   "source": "IEEE Access",
+   "type": "review",
+   "cited_by_count": 157,
+   "relevance_score": null,
+   "authors": [
+    "Khalid K. Naji",
+    "Murat G\u00fcnd\u00fcz",
+    "Fahid Hamad Alhenzab",
+    "Hamed Al-Hababi",
+    "Abdulla Al-Qahtani"
+   ],
+   "n_authors": 5,
+   "abstract": "Construction sector spending makes a significant contribution to the global economy, with approximately $10 trillion being spent on building and construction activities annually. However, the construction industry has traditionally been perceived as slow to adapt to new technologies compared to other sectors. Recently, the construction industry has experienced a substantial shift towards Digital Transformation. As new technologies have emerged, the construction industry has begun to realize the importance of Digital Transformation in the pre-construction, construction, and facility management phases. A high degree of Digital Transformation has been seen regarding site monitoring, wearables, sensors, and identifying hazards. This paper intends to sketch a global picture of digital technologies implemented in the construction industry throughout the entire project lifecycle. By fully analyzing more than 200 papers, the paper finds that various aspects of the construction industry, including technologies, policies, regulations, and infrastructures, are still in the early stages of Digital Transformation. The findings from this review will help researchers and practitioners in the construction industry understand the global picture of digital technology implementation and where the construction industry stands in the Digital Transformation process. This paper also serves as a starting point for future work on Digital Transformation in the construction industry. The research paper"
+  },
+  {
+   "id": "https://openalex.org/W3161154623",
+   "doi": "10.1061/(asce)co.1943-7862.0002103",
+   "title": "Factors Influencing Adoption and Integration of Construction Robotics and Automation Technology in the US",
+   "publication_year": 2021,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 157,
+   "relevance_score": null,
+   "authors": [
+    "Fopefoluwa M. Bademosi",
+    "Raja R. A. Issa"
+   ],
+   "n_authors": 2,
+   "abstract": "Robotics and automation technology (RAT) has emerged as one of the most important drivers of the Industry 4.0 digital transformation of industrial operations. Although RAT has been explored in construction over the last several decades, its applications in the field have been limited, despite its potential and rise in application opportunities. Prior studies have focused on the resistance factors that impact the adoption of RAT. However, there is limited work that simultaneously identifies the positive and negative factors that influence the decision of construction companies to adopt RAT. This study aims to identify, through semistructured interviews with prominent experts in the US, the positive and negative factors of adopting RAT and then use these adoption factors in a survey to allow these same experts to pairwise compare their importance. The survey results were prioritized based on their perceived impact on construction companies\u2019 decision-making using the analytic hierarchy process (AHP). The results indicated that the intention to use RAT is primarily positively affected by long-term cost savings and adversely affected mainly by the initial investment costs. Because construction professionals are inclined to make decisions on the adoption of RAT based mainly on costs, the understanding gained in this study of the other factors impacting RAT adoption decisions allows companies to improve how they manage their RAT adoption efforts."
+  },
+  {
+   "id": "https://openalex.org/W4320169429",
+   "doi": "10.1002/mde.3831",
+   "title": "The effects of government support on enterprises' digital transformation: Evidence from China",
+   "publication_year": 2023,
+   "source": "Managerial and Decision Economics",
+   "type": "article",
+   "cited_by_count": 156,
+   "relevance_score": null,
+   "authors": [
+    "Siwei Wang",
+    "Xin Li",
+    "Zibiao Li",
+    "Yongwei Ye"
+   ],
+   "n_authors": 4,
+   "abstract": "Digital transformation has become a general trend for enterprises, and it is necessary to investigate the impact of government support on enterprises' digital transformation from the perspective of policy instruments. But so far, there is less empirical evidence on their relationship. Based on Chinese firm\u2010level data, we investigate the effects of government subsidies and tax incentives on enterprises' digital transformation. The results show that two forms of government support both positively promote enterprises' digital transformation. Moreover, we analyze which factors mediate the observed effects. We demonstrate that easing financial constraints, increasing Research and Development (R&D) investment, and improving risk\u2010taking ability are underlying mechanisms. Heterogeneity analysis indicates that enterprises that are non\u2010state\u2010owned, with higher technology level and higher absorptive capacity, have higher digital transformation. The higher the level of digital finance development and network infrastructure construction in a region, the greater the positive effect of government support on enterprises' digital transformation. The results provide clearer guidance for governments to provide government support so as to stimulate enterprises' digital transformation."
+  },
+  {
+   "id": "https://openalex.org/W4318472649",
+   "doi": "10.3390/informatics10010014",
+   "title": "Barriers to the Adoption of Digital Twin in the Construction Industry: A Literature Review",
+   "publication_year": 2023,
+   "source": "Informatics",
+   "type": "article",
+   "cited_by_count": 156,
+   "relevance_score": null,
+   "authors": [
+    "De-Graft Joe Opoku",
+    "Srinath Perera",
+    "Robert Osei\u2010Kyei",
+    "Maria Rashidi",
+    "Keivan Bamdad",
+    "Tosin Famakinwa"
+   ],
+   "n_authors": 6,
+   "abstract": "Digital twin (DT) has gained significant recognition among researchers due to its potential across industries. With the prime goal of solving numerous challenges confronting the construction industry (CI), DT in recent years has witnessed several applications in the CI. Hence, researchers have been advocating for DT adoption to tackle the challenges of the CI. Notwithstanding, a distinguishable set of barriers that oppose the adoption of DT in the CI has not been determined. Therefore, this paper identifies the barriers and incorporates them into a classified framework to enhance the roadmap for adopting DT in the CI. This research conducts an extensive review of the literature and analyses the barriers whilst integrating the science mapping technique. Using Scopus, ScienceDirect, and Web of Science databases, 154 related bibliographic records were identified and analysed using science mapping, while 40 carefully selected relevant publications were systematically reviewed. From the review, the top five barriers identified include low level of knowledge, low level of technology acceptance, lack of clear DT value propositions, project complexities, and static nature of building data. The results show that the UK, China, the USA, and Germany are the countries spearheading the DT adoption in the CI, while only a small number of institutions from Australia, the UK, Algeria, and Greece have established institutional collaborations for DT research. A conceptual framework was develop"
+  },
+  {
+   "id": "https://openalex.org/W3095317921",
+   "doi": "10.1061/(asce)co.1943-7862.0001928",
+   "title": "How Innovation Champions Frame the Future: Three Visions for Digital Transformation of Construction",
+   "publication_year": 2020,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 156,
+   "relevance_score": null,
+   "authors": [
+    "Sidsel Katrine Ernstsen",
+    "Jennifer K. Whyte",
+    "Christian Thuesen",
+    "Anja M. Maier"
+   ],
+   "n_authors": 4,
+   "abstract": "Digital technologies are expected to create transformational change in the construction sector. Previous studies have either anticipated the impact of individual technologies or outlined a number of nontechnology-focused future scenarios. There is comparatively little work on how innovation champions frame the future by combining a range of digital technologies and trends (such as big data, the internet of things, and automation) to transform construction. Drawing on an interview-based study with UK construction professionals, this paper presents three emergent visions for digital transformation of the sector. These visions are efficient construction, user-data-driven built environment, and value-driven computational design. Arising in practitioner narratives, these visions all emphasize different technologies and are partially influenced, intertwined, and interconnected with technology, business, and policy discourses in the sector. Furthermore, the visions represent different trajectories for implementing digital technologies in the construction sector. This paper contributes to work on construction foresight and innovation discourses by articulating the multiplicity of visions for digital transformation of construction. This has implications for researchers, practitioners, and policy makers responsible for the digital transformation of construction toward possible, profitable, and desirable futures."
+  },
+  {
+   "id": "https://openalex.org/W2990100556",
+   "doi": "10.1016/j.procs.2019.11.058",
+   "title": "Application of Integrated Building Information Modeling, IoT and Blockchain Technologies in System Design of a Smart Building",
+   "publication_year": 2019,
+   "source": "Procedia Computer Science",
+   "type": "conference-paper",
+   "cited_by_count": 155,
+   "relevance_score": null,
+   "authors": [
+    "Izabella V. Lokshina",
+    "Michal Gregu\u0161",
+    "Wade Thomas"
+   ],
+   "n_authors": 3,
+   "abstract": "The Architecture, Engineering and Construction (AEC) industry has not adopted digital transformation enthusiastically like other industries, for instance, manufacturing, aerospace or finance. Building Information Modeling (BIM) is an innovative technology that is considered as an opportunity for the AEC industry to move to the digital era and improve the collaboration among stakeholders by applying Information and Communication Technologies (ICT). BIM provides all required tools and automations to achieve end-to-end communication, data exchange and information sharing among collaborators. Accordingly, virtual 3D models, created by the BIM process, delivered as physical assets, monitored in real-time and managed using Building Management Systems (BMS), can adopt the Internet of Things (IoT) designs and services. However, the implementation of IoT in a highly modular environment with various moving parts and inter-dependencies between stakeholders leads to security concerns. Therefore, this paper proposes system design that employs the blockchain technology as a measure to secure and control the framework that involves integrated IoT and BIM technologies. Although this paper considers system design applied in a smart museum, the authors assume that design is generic and applicable in other building categories. For instance, this design can be implemented in the ongoing Alumni Hall renovation project at State University of New York College at Oneonta."
+  },
+  {
+   "id": "https://openalex.org/W4404711143",
+   "doi": "10.3390/buildings14123777",
+   "title": "Research and Application of YOLOv11-Based Object Segmentation in Intelligent Recognition at Construction Sites",
+   "publication_year": 2024,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 153,
+   "relevance_score": null,
+   "authors": [
+    "Luhao He",
+    "Yongzhang Zhou",
+    "Lei Liu",
+    "Jianhua Ma"
+   ],
+   "n_authors": 4,
+   "abstract": "With the increasing complexity of construction site environments, robust object detection and segmentation technologies are essential for enhancing intelligent monitoring and ensuring safety. This study investigates the application of YOLOv11-Seg, an advanced target segmentation technology, for intelligent recognition on construction sites. The research focuses on improving the detection and segmentation of 13 object categories, including excavators, bulldozers, cranes, workers, and other equipment. The methodology involves preparing a high-quality dataset through cleaning, annotation, and augmentation, followed by training the YOLOv11-Seg model over 351 epochs. The loss function analysis indicates stable convergence, demonstrating the model\u2019s effective learning capabilities. The evaluation results show an mAP@0.5 average of 0.808, F1 Score(B) of 0.8212, and F1 Score(M) of 0.8382, with 81.56% of test samples achieving confidence scores above 90%. The model performs effectively in static scenarios, such as equipment detection in Xiong\u2019an New District, and dynamic scenarios, including real-time monitoring of workers and vehicles, maintaining stable performance even at 1080P resolution. Furthermore, it demonstrates robustness under challenging conditions, including nighttime, non-construction scenes, and incomplete images. The study concludes that YOLOv11-Seg exhibits strong generalization capability and practical utility, providing a reliable foundation for enhancing safety and"
+  },
+  {
+   "id": "https://openalex.org/W4387812130",
+   "doi": "10.24136/oc.2023.023",
+   "title": "Big data management algorithms in artificial Internet of Things-based fintech",
+   "publication_year": 2023,
+   "source": "Oeconomia Copernicana",
+   "type": "article",
+   "cited_by_count": 153,
+   "relevance_score": null,
+   "authors": [
+    "Mihai Andronie",
+    "Mariana Iatagan",
+    "Cristian U\u0163\u0103",
+    "Iulian Hurloiu",
+    "Adrian Dijm\u0103rescu",
+    "Irina Dijm\u0103rescu"
+   ],
+   "n_authors": 6,
+   "abstract": "Research background: Fintech companies should optimize banking sector performance in assisting enterprise financing as a result of firm digitalization. Artificial IoT-based fintech-based digital transformation can relevantly reverse credit resource misdistribution brought about by corrupt relationship chains. Purpose of the article: We aim to show that fintech can decrease transaction expenses and consolidates firm stock liquidity, enabling excess leverage decrease and cutting down information asymmetry and transaction expenses across capital markets. AI- and IoT-based fintechs enable immersive and collaborative financial transactions, purchases, and investments in relation to payment tokens and metaverse wallets, managing financial data, infrastructure, and value exchange across shared interactive virtual 3D and simulated digital environments. Methods: AMSTAR is a comprehensive critical measurement tool harnessed in systematic review methodological quality evaluation, DistillerSR is harnessed in producing accurate and transparent evidence-based research through literature review stage automation, MMAT appraises and describes study checklist across systematic mixed studies reviews in terms of content validity and methodological quality predictors, Rayyan is a responsive and intuitive knowledge synthesis tool and cloud-based architecture for article inclusion and exclusion suggestions, and ROBIS appraises systematic review bias risk in relation to relevance and concerns. As a "
+  },
+  {
+   "id": "https://openalex.org/W2752983668",
+   "doi": "10.21427/d73n5k",
+   "title": "BIM+Blockchain: A Solution to the Trust Problem in Collaboration?",
+   "publication_year": 2017,
+   "source": "Arrow - TU Dublin (Technological University Dublin)",
+   "type": "conference-paper",
+   "cited_by_count": 149,
+   "relevance_score": null,
+   "authors": [
+    "Malachy Mathews",
+    "Dan Robles",
+    "Brian W. Bowe"
+   ],
+   "n_authors": 3,
+   "abstract": "This paper provides an overview of historic and current organizational limitations emerging in the Architecture, Engineering, Construction, Building Owner / Operations (AECOO) Industry. It then provides an overview of new technologies that attempt to mitigate these limitations. However, these technologies, taken together, appear to be converging and creating entirely new organizational structures in the AEC industries. This may be characterized by the emergence of what is called the Network Effect and it\u2019s related calculus. This paper culminates with an introduction to Blockchain Technology (BT) and it\u2019s integration with the emergence of groundbreaking technologies such as Internet of Things (IoT), Artificial Intelligence (AI), Machine Learning (ML) and Financial / Insurance products. To illustrate this process, we use choose Building Information Modelling (BIM) technology as our model network database for the AECOO industry. Interaction with the BIM database is an activity that generates economic value which may be measured into existence by an electronic token that rewards disassociated parties for maintaining and improving the database for the benefit of all, thereby replacing the 3rd party intermediary characteristic of legacy hierarchies with a simple and efficient \u201cdigital handshake\u201d. Not unlike feudalism before it, hierarchical structures are being disrupted by emerging network platforms. In the age of the Internet, social network structure are now more efficient and m"
+  },
+  {
+   "id": "https://openalex.org/W2883135976",
+   "doi": "10.1061/(asce)me.1943-5479.0000644",
+   "title": "Loosely Coupled Systems of Innovation: Aligning BIM Adoption with Implementation in Dutch Construction",
+   "publication_year": 2018,
+   "source": "Journal of Management in Engineering",
+   "type": "article",
+   "cited_by_count": 147,
+   "relevance_score": null,
+   "authors": [
+    "Eleni Papadonikolaki"
+   ],
+   "n_authors": 1,
+   "abstract": "As an innovation, building information modeling (BIM) plays a key role in the digital transformation of the construction industry. Whereas innovations affect and are affected by organizational behavior, they are better observed at a project level because they are shaped by a network of various project actors. This study connected intra- (micro) and interorganizational (meso) levels of BIM implementation. To explore the relation between BIM adoption drivers and BIM implementation in projects, three case studies were analyzed qualitatively through the theoretical lens of loosely coupled systems. The findings showed that although individual firms had strong external or internal BIM motivations and visions to adopt BIM innovation, the project networks rarely coordinated to support BIM implementation. Consequently, the project networks that were motivated by internal BIM adoption drivers (e.g., quality assurance) implemented BIM collaboratively and flexibly. Contrariwise, networks of firms that adopted BIM simply to comply with external demand (e.g., macroscopic market pressures or client demand) were rigid and competitive during BIM implementation and hindered knowledge transfer and innovation change management. Drawing upon the empirical data, other factors affecting BIM implementation and in need of further interorganizational alignment were corporate compatibility, interfirm knowledge mobility, and interfirm power dynamics. The implication is the need for further alignment of "
+  },
+  {
+   "id": "https://openalex.org/W4387534118",
+   "doi": "10.1016/j.dibe.2023.100247",
+   "title": "Automated vision-based construction progress monitoring in built environment through digital twin",
+   "publication_year": 2023,
+   "source": "Developments in the Built Environment",
+   "type": "article",
+   "cited_by_count": 146,
+   "relevance_score": null,
+   "authors": [
+    "Aritra Pal",
+    "Jacob J. Lin",
+    "Shang\u2010Hsien Hsieh",
+    "Mani Golparvar\u2010Fard"
+   ],
+   "n_authors": 4,
+   "abstract": "Effective progress monitoring is ineviTable for completing the construction of building and infrastructure projects successfully. In this digital transformation era, with the data-centric management and control approach, the effectiveness of monitoring methods is expected to improve dramatically. \u201dDigital Twin,\u201d which creates a bidirectional communication flow between a physical entity and its digital counterpart, is found to be a crucial enabling technology for information-aware decision-making systems in manufacturing and other automotive industries. Recognizing the benefits of this technology in production management in construction, researchers have proposed Digital Twin Construction (DTC). DTC leverages building information modeling technology and processes, lean construction practices, on-site digital data collection mechanisms, and Artificial Intelligence (AI) based data analytics for improving construction production planning and control processes. Progress monitoring, a key component in construction production planning and control, can significantly benefit from DTC. However, some knowledge gaps still need to be filled for the practical implementation of DTC for progress monitoring in the built environment domain. This research reviews the existing vision-based progress monitoring methods, studies the evolution of automated vision-based construction progress monitoring research, and highlights the methodological and technological knowledge gaps that must be addressed"
+  },
+  {
+   "id": "https://openalex.org/W4313360655",
+   "doi": "10.3390/su15010649",
+   "title": "The Effect of Digital Transformation on the Pharmaceutical Sustainable Supply Chain Performance: The Mediating Role of Information Sharing and Traceability Using Structural Equation Modeling",
+   "publication_year": 2022,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 142,
+   "relevance_score": null,
+   "authors": [
+    "Jing-Yan Ma",
+    "Lei Shi",
+    "Tae-Won Kang"
+   ],
+   "n_authors": 3,
+   "abstract": "As the global pharmaceutical market continues to expand, the demand for pharmaceutical supply chain is increasing. In the context of \u201cIndustry 4.0\u201d, the pharmaceutical supply chain sector needs to accelerate digital construction. Pharmaceutical companies need to strengthen risk management in order to cope with supply disruptions. From the perspective of sustainable development, the pharmaceutical supply chain can achieve sustainable supply performance in social, economic and environmental dimensions through digital transformation. There is a lack of research on digital transformation of pharmaceutical supply chain management. Further research is needed on what specific digital management pharmaceutical companies need to enhance to improve supply performance. This study uses empirical analysis to examine the impact of digital transformation on sustainable supply chain performance and to explore the role of information sharing and traceability as mediators. The aim is to guide the pharmaceutical supply chain to clearly manage the development of digital transformation and obtain sustainable supply performance. This study presents hypotheses based on cutting-edge theoretical findings. In total, 298 Chinese pharmaceutical company supply chain managers were surveyed and Structural equation analysis was conducted using SPSS26.0 and AMOS24.0. The results show that digital transformation significantly and positively impacts sustainable supply chain performance. Traceability plays a me"
+  },
+  {
+   "id": "https://openalex.org/W2769491818",
+   "doi": "10.1080/09537287.2017.1407005",
+   "title": "Building information modelling in construction: insights from collaboration and change management perspectives",
+   "publication_year": 2017,
+   "source": "Production Planning & Control",
+   "type": "article",
+   "cited_by_count": 142,
+   "relevance_score": null,
+   "authors": [
+    "Jane Matthews",
+    "Peter E.D. Love",
+    "Joshua Mewburn",
+    "Christopher Stobaus",
+    "Chamil Erik Ramanayaka"
+   ],
+   "n_authors": 5,
+   "abstract": "A case study is used to obtain the experiences from a contractor and their subcontractors involved with constructing the landmark Perth Stadium, which required a building information model (BIM) to be delivered for the purpose of asset management. Insights about \u2018how\u2019 the adoption of a BIM influenced the practice of collaboration and change management within the project are obtained. It was revealed that having limited experience and knowledge to deliver a model for asset management often resulted the project team \u2018muddling through a problem\u2019. This was not necessarily due to a shortage of training, but a lack of BIM knowledge, which inadvertently influenced every day practice. The research presented builds on the extant body of works that have examined how the construction industry can effectively acquire the benefits of BIM for asset management. It also highlights the need to incorporate education and learning into a project\u2019s BIM implementation strategy."
+  },
+  {
+   "id": "https://openalex.org/W3214580838",
+   "doi": "10.3390/buildings11110554",
+   "title": "Incremental Digital Twin Conceptualisations Targeting Data-Driven Circular Construction",
+   "publication_year": 2021,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 141,
+   "relevance_score": null,
+   "authors": [
+    "P. M\u00eada",
+    "Diego Calvetti",
+    "Eilif Hjelseth",
+    "Hip\u00f3lito Jos\u00e9 Campos De Sousa"
+   ],
+   "n_authors": 4,
+   "abstract": "The construction industry faces multiple challenges, where transition to circular production is key. Digitalisation is a strategy to increase the sector\u2019s productivity, competitiveness, and efficiency. However, digitalisation also impacts environmental goals, such as those concerning more eco-friendly solutions, energy efficiency, products recycling, and sustainability certifications. These strategies rely on data, understood as digital, interoperable, incremental and traceable. Data related concepts, such as digital data templates (DDT) and digital building logbooks (DBL), contribute to \u201cgood data\u201d. Despite some research focused on each one, little importance has yet been given to their combination. Relevant relationships and overlaps exist, as they partially share the exact same data through the built environment life cycle. This research aims to provide improved understanding on the role of these concepts and their contribution to a more circular industry. The review develops conceptualisations where DDT and DBL are complementary and framed within an incremental digital twin construction (DTC). Misconceptions or confrontations between these three solutions can therefore stand down, for the benefit of a data-driven priority. To increase understanding and reduce misconceptions, our study developed the \u201cDigital data-driven concept\u201d (D3c). This concept contribution is the ability to structure, store, and trace data, opening way to streamlined digital transformation impacting c"
+  },
+  {
+   "id": "https://openalex.org/W3001486781",
+   "doi": "10.3390/su12030936",
+   "title": "Sustainable Business Model Based on Digital Twin Platform Network: The Inspiration from Haier\u2019s Case Study in China",
+   "publication_year": 2020,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 141,
+   "relevance_score": null,
+   "authors": [
+    "Li Xiao",
+    "Jiarou Cao",
+    "Zheng Gang Liu",
+    "Xinggang Luo"
+   ],
+   "n_authors": 4,
+   "abstract": "Sustainability and digitalization have become the main direction of transformation of enterprises. Building a digital twin platform network can provide enterprises with a comprehensive view of products, manufacture, supply chain, customer experience, and profitability, which is conducive to the construction of a sustainable business model. The purpose of this paper is to study how enterprises use digital twin platform networks to generate economic, social and environmental benefits in various dimensions and their coupling relationships. Based on the literature review, this paper constructs a five-dimensional framework of a sustainable business model, and analyses the coupling relationship between dimensions. Using Haier as a way to verify the five-dimensional framework, it explores the dynamic mechanism of the Haier digital twin platform network, constructs an integrated framework based on coupling perspective and compares it with other two home appliance enterprises. The study shows that, through the digital twin platform network, enterprises can remove the disadvantage of focusing on a single product life cycle, and form a comprehensive network, so as to promote overall sustainable upgrades. This paper draws generic strategies and digital transformation suggestions for enterprises to innovate the sustainable business model. The conclusion enriches the research on sustainable business models both theoretically and practically and provides a feasible reference for the transfo"
+  },
+  {
+   "id": "https://openalex.org/W4213299397",
+   "doi": "10.1061/(asce)co.1943-7862.0002260",
+   "title": "Applications of Smart Technologies in Construction Project Management",
+   "publication_year": 2022,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 140,
+   "relevance_score": null,
+   "authors": [
+    "Hanjing Zhu",
+    "Bon\u2010Gang Hwang",
+    "Jasmine Ngo",
+    "Joycelyn Pui San Tan"
+   ],
+   "n_authors": 4,
+   "abstract": "The construction industry has been influenced considerably by smart technologies in the last decade, ushered in by the Fourth Industrial Revolution. Smart technologies display the potential to improve the performance of the construction industry. Due to the increasingly complex projects and urgent labor shortage caused by the pandemic, it is important for the industry to have a holistic understanding of the specific applications of smart technologies in construction project management. However, there is limited research on the applications of smart technologies with a focus on project management knowledge areas. Therefore, this paper aims to (1) investigate the applications of smart technologies on project time, cost, and quality management and identify the top influential applications; and (2) identify whether the organizations\u2019 profiles influence project managers\u2019 perceptions of smart technologies. In order to achieve these objectives, a literature review was first conducted to establish a comprehensive list of applications. Then, a survey questionnaire was designed and disseminated to investigate the most influential applications. Finally, a post interview was conducted to validate the survey results. The study identified 24 applications of cyber-physical systems, big data, artificial intelligence, and smart robotics on project time, cost, and quality management, and found that the most influential applications of smart technologies are data collection for progress trackin"
+  },
+  {
+   "id": "https://openalex.org/W4385240284",
+   "doi": "10.36680/j.itcon.2023.020",
+   "title": "Digital transformation in construction \u2013 a review",
+   "publication_year": 2023,
+   "source": "Journal of Information Technology in Construction",
+   "type": "article",
+   "cited_by_count": 139,
+   "relevance_score": null,
+   "authors": [
+    "Olle Samuelson",
+    "Lars Stehn"
+   ],
+   "n_authors": 2,
+   "abstract": "Digital transformation (DT) is expected to contribute to the construction industry's ability to meet climate and sustainable challenges and increase companies' productivity. This study aims to explore requirements for, and factors affecting DT in the construction industry. This research goes beyond the technology perspective and focus on factors needed to transform the potential of digitalisation to benefits for organisations in the construction industry. A structured literature review is performed where knowledge gaps are identified, and a framework is developed that maps the required changes, as well as the associated challenges, constraints, and implications. The construction industry\u00b4s business-to-business logic, and the fragmented and project-based structure is found to have impact on the industry\u00b4s development within DT. Mainly regarding the DT aspects disruption, structural changes, organisational barriers, and the central aspect value creation. The understanding of DT by scholars and practitioners in the construction industry is found immature and this calls for further research. The research contributes to understanding of the concept DT and proposes, based on earlier DT literature, an adjusted framework for DT in construction, and points out key areas where research in construction has gaps to fill."
+  },
+  {
+   "id": "https://openalex.org/W2741429228",
+   "doi": "10.22260/isarc2017/0084",
+   "title": "Internet of Things (IoT) for Integrating Environmental and Localization Data in Building Information Modeling (BIM)",
+   "publication_year": 2017,
+   "source": "International Symposium on Automation and Robotics in Construction (ISARC)",
+   "type": "conference-paper",
+   "cited_by_count": 139,
+   "relevance_score": null,
+   "authors": [
+    "Jochen Teizer",
+    "Mario Wolf",
+    "Olga Golovina",
+    "Manuel Perschewski",
+    "Markus Propach",
+    "Matthias Neges"
+   ],
+   "n_authors": 7,
+   "abstract": "Digital transformation is an ongoing challenge in construction. Whereas central storage and planning with Building Information Modeling (BIM) can be considered state-of-the-art, the integration of real-time data like environmental and localization data of workers in indoor work environments can provide further benefits for operations management in construction and facility management. This paper introduces the concept of permanent availability of up-to-date actual performance data sets through an Internet-of-Things (IoT) approach that integrates environmental and localization data in a cloud-based BIM platform. In this paper, we reflect on the usage of Internet of Things (IoT) technology and the lean and injury-free (LIFE) construction management approach, create a concept to implement the topics in existing systems, design and create a prototypical application, validate the prototype in field-typical work settings, and critically review the results."
+  },
+  {
+   "id": "https://openalex.org/W4401985001",
+   "doi": "10.1016/j.engappai.2024.109104",
+   "title": "Advanced informatic technologies for intelligent construction: A review",
+   "publication_year": 2024,
+   "source": "Engineering Applications of Artificial Intelligence",
+   "type": "article",
+   "cited_by_count": 136,
+   "relevance_score": null,
+   "authors": [
+    "Limao Zhang",
+    "Yongsheng Li",
+    "Yue Pan",
+    "Lieyun Ding"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3012083703",
+   "doi": "10.1080/09537287.2020.1740815",
+   "title": "Digitalization\u2019s impacts on productivity: a model-based approach and evaluation in Germany\u2019s building construction industry",
+   "publication_year": 2020,
+   "source": "Production Planning & Control",
+   "type": "article",
+   "cited_by_count": 136,
+   "relevance_score": null,
+   "authors": [
+    "Joachim Berlak",
+    "Stefan Hafner",
+    "Volker G. Kuppelwieser"
+   ],
+   "n_authors": 3,
+   "abstract": "The debate about the digitalization has gained momentum in recent years. While digitalization technologies are globally hailed as drivers of increased productivity, they are not yet used on a grand scale, which begs the question why, because their benefits are clear. We address this question by deriving a model of how digitalization technologies impact on productivity and what barriers affect their use. We focus exemplarily on Germany\u2019s building construction industry in order to estimate the benefits of digitalization, using three case studies of production robots, 3D printing and BIM software. In a second step, we build a model using qualitative interviews based on the Technology Acceptance Model. A first qualitative study defines the level of detail and identifies unknown influencing factors. In a second study, the model was revised by means of qualitative-structured interviews. Finally, we carried out a quantitative evaluation of the model using a questionnaire, evaluating its suitability."
+  },
+  {
+   "id": "https://openalex.org/W4409064417",
+   "doi": "10.3390/admsci15040129",
+   "title": "Digital Leadership: A Systematic Literature Review",
+   "publication_year": 2025,
+   "source": "Administrative Sciences",
+   "type": "review",
+   "cited_by_count": 135,
+   "relevance_score": null,
+   "authors": [
+    "Jos\u00e9 Carlos L\u00f3pez Figueroa",
+    "Sergio Ochoa Jim\u00e9nez",
+    "Mar\u00eda Olivia Palafox Soto",
+    "Dalia Sujey Hernandez Munoz"
+   ],
+   "n_authors": 4,
+   "abstract": "The COVID-19 pandemic and digital disruption have transformed the world and organizations on an unprecedented scale, presenting leaders with unique challenges and creating an opportunity to study digital leadership. This area of research is expanding significantly, though it remains in a developmental and maturing phase. To date, theoretical studies are predominant, including systematic reviews, literature reviews, and bibliometric studies. This study conducts a systematic literature review and science mapping of 74 documents published between 2000 and 2022 in the Web of Science database, using VOSviewer software to analyze the field\u2019s evolution. Findings reveal that research on digital leadership has grown, with digital transformation, digitalization, COVID-19, information and communication technologies, virtual teams, and creativity emerging as core themes in this domain. This study concludes that the effective implementation of digital leadership requires not only technological skills but also human-centered competencies; its application has predominantly expanded in the education sector, with limited use in construction."
+  },
+  {
+   "id": "https://openalex.org/W4200416685",
+   "doi": "10.1108/jedt-08-2021-0442",
+   "title": "Digital transformation in the construction industry: a bibliometric review",
+   "publication_year": 2021,
+   "source": "Journal of Engineering Design and Technology",
+   "type": "article",
+   "cited_by_count": 134,
+   "relevance_score": null,
+   "authors": [
+    "Samuel Adeniyi Adekunle",
+    "Clinton Ohis Aigbavboa",
+    "Obuks Augustine EJOHWOMU",
+    "Emmanuel Abiodun Adekunle",
+    "Wellington Didibhuku Thwala"
+   ],
+   "n_authors": 5,
+   "abstract": "Purpose The construction industry has been traditionally referred to as slow when it comes to technological transformation. This study aims to investigate and present a scorecard of the construction industry in the past decade, the paper adopted Bibliometrics. The study identified the various digital transformation (DT) aspects in the construction industry and future research directions are also identified. Design/methodology/approach To achieve the aim of this research, an inductive approach was adopted through a grounded theory strategy. Secondary data was retrieved from the Scopus database and analysed using Biblioshiny and VOSviewer. The data was retrieved through specific keywords related to the study focus. Findings The study also proposed a balanced flow model for DT discussion in the construction industry. DT in the construction industry disrupts every aspect of the industry, albeit at different rates due to the existing barriers; hence, the study identified areas that require further research. It, thus, provides a theoretical and practical basis for researchers and practitioners alike. Originality/value The study reviewed the DT research discuss in the construction industry. It is worthy of note that this is the first study that analyses the DT of the construction industry in the past decade."
+  }
+ ]
+}

@@ -1,0 +1,1755 @@
+{
+ "query_id": "C5-CIT",
+ "run_date": "2026-11-23",
+ "query_url": "https://api.openalex.org/works?filter=title_and_abstract.search%3A%28%22productivity+monitoring%22+OR+%22productivity+measurement%22+OR+%22labor+productivity%22+OR+%22labour+productivity%22+OR+%22equipment+productivity%22+OR+%22earned+value%22+OR+%22schedule+performance%22%29+AND+%28construction+OR+contractor+OR+%22construction+project%22%29+AND+%28automated+OR+automatic+OR+automation+OR+%22real-time%22+OR+%22real+time%22+OR+sensor+OR+sensors+OR+%22data-driven%22+OR+dashboard+OR+digital%29%2Cfrom_publication_date%3A2010-01-01%2Ctype%3Aarticle%7Creview%7Cbook-chapter%7Cconference-paper%2Clanguage%3Aen&sort=cited_by_count%3Adesc&per-page=100&select=id%2Cdoi%2Ctitle%2Cdisplay_name%2Cpublication_year%2Cprimary_location%2Ctype%2Ccited_by_count%2Cauthorships%2Cabstract_inverted_index%2Crelevance_score",
+ "hits_total": 634,
+ "retrieved": 100,
+ "records": [
+  {
+   "id": "https://openalex.org/W1968200193",
+   "doi": "10.1016/j.autcon.2014.05.014",
+   "title": "The value of integrating Scan-to-BIM and Scan-vs-BIM techniques for construction monitoring using laser scanning and BIM: The case of cylindrical MEP components",
+   "publication_year": 2014,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 673,
+   "relevance_score": null,
+   "authors": [
+    "Fr\u00e9d\u00e9ric Bosch\u00e9",
+    "Mahmoud Ahmed",
+    "Yelda T\u00fcrkan",
+    "Carl Thomas Haas",
+    "Ralph Haas"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4211019953",
+   "doi": "10.1016/j.autcon.2021.104099",
+   "title": "Real-time monitoring of construction sites: Sensors, methods, and applications",
+   "publication_year": 2022,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 527,
+   "relevance_score": null,
+   "authors": [
+    "Aravinda S. Rao",
+    "Marko Radanovi\u0107",
+    "Yuguang Liu",
+    "Songbo Hu",
+    "Yihai Fang",
+    "Kourosh Khoshelham"
+   ],
+   "n_authors": 8,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2737493980",
+   "doi": "10.1016/j.jclepro.2017.07.156",
+   "title": "Integrating RFID and BIM technologies for mitigating risks and improving schedule performance of prefabricated house construction",
+   "publication_year": 2017,
+   "source": "Journal of Cleaner Production",
+   "type": "article",
+   "cited_by_count": 306,
+   "relevance_score": null,
+   "authors": [
+    "Clyde Zhengdao Li",
+    "Ray Y. Zhong",
+    "Fan Xue",
+    "Gangyan Xu",
+    "Ke Chen",
+    "George Q. Huang"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2287643960",
+   "doi": "10.1061/(asce)co.1943-7862.0001125",
+   "title": "Case Study of BIM and Cloud\u2013Enabled Real-Time RFID Indoor Localization for Construction Management Applications",
+   "publication_year": 2016,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 237,
+   "relevance_score": null,
+   "authors": [
+    "Yihai Fang",
+    "Yong K. Cho",
+    "Sijie Zhang",
+    "Esau Perez"
+   ],
+   "n_authors": 4,
+   "abstract": "In the field of construction, indoor localization of mobile construction resources remains a universal challenge. Although discussions have focused on the tracking accuracy and affordability of indoor localization technologies, few efforts have focused on practical criteria such as ease of use, latency, and data visualization and remote sharing. To close this gap in knowledge, this study introduces a building information modeling (BIM) and cloud-enabled radio-frequency identification (RFID) localization system. The system consists of three main components: the passive RFID localization system, the BIM visualization system, and the cloud computing system. The proposed system is tested in a full-scale implementation on an actual construction site. The test was designed and conducted to evaluate the localization accuracy, data latency, and real-time data processing and visualization for remote monitoring. A comprehensive analysis is made of various practical issues based on the test results and panel discussion. The findings in this study indicate that the BIM and cloud-enable RFID indoor localization solution has a great potential in practical applications such as site security control, safety management, asset management, and productivity monitoring."
+  },
+  {
+   "id": "https://openalex.org/W2994999390",
+   "doi": "10.1016/j.autcon.2019.103045",
+   "title": "Automated excavators activity recognition and productivity analysis from construction site surveillance videos",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 233,
+   "relevance_score": null,
+   "authors": [
+    "Chen Chen",
+    "Zhenhua Zhu",
+    "Amin Hammad"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2589278263",
+   "doi": "10.1016/j.proeng.2017.02.144",
+   "title": "Analysis of the Adoption Rate of Building Information Modeling [BIM] and its Return on Investment [ROI]",
+   "publication_year": 2017,
+   "source": "Procedia Engineering",
+   "type": "conference-paper",
+   "cited_by_count": 171,
+   "relevance_score": null,
+   "authors": [
+    "Dariusz Walasek",
+    "Arkadiusz Barszcz"
+   ],
+   "n_authors": 2,
+   "abstract": "In an effort to remedy the issue of stagnant labor productivity in the construction industry, Building Information Modeling was proposed in the late 80's as a new solution for streamlining the design and delivery process of construction projects. BIM is a digital representation of a building meant to serve all project participants as a repository of all relevant data throughout the project's lifecycle. Management of this data along with the collaborative nature of BIM has been shown to offer many potential benefits to those involved in the project. Despite the huge potential for increasing productivity as well as the overall efficiency of construction projects, the adoption of BIM throughout the industry has been observed as slower than expected. This paper explores and analyzes the various barriers hindering the widespread adoption of BIM throughout the industry as well as proposes methods for addressing them. The author then answers the question of who should be responsible for driving the adoption of BIM and how to effectively do it. Finally the author proposes areas of further research and development which will assist in achieving a more widespread adoption of BIM throughout the industry."
+  },
+  {
+   "id": "https://openalex.org/W2510934300",
+   "doi": "10.1016/j.autcon.2016.08.039",
+   "title": "Continuous localization of construction workers via integration of detection and tracking",
+   "publication_year": 2016,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 160,
+   "relevance_score": null,
+   "authors": [
+    "Man-Woo Park",
+    "Ioannis K. Brilakis"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W1964598692",
+   "doi": "10.1016/j.autcon.2012.03.003",
+   "title": "Part based model and spatial\u2013temporal reasoning to recognize hydraulic excavators in construction images and videos",
+   "publication_year": 2012,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 160,
+   "relevance_score": null,
+   "authors": [
+    "Ehsan Rezazadeh Azar",
+    "Brenda Y. McCabe"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2018299540",
+   "doi": "10.1061/(asce)cp.1943-5487.0000179",
+   "title": "Automated Visual Recognition of Dump Trucks in Construction Videos",
+   "publication_year": 2011,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 154,
+   "relevance_score": null,
+   "authors": [
+    "Ehsan Rezazadeh Azar",
+    "Brenda Y. McCabe"
+   ],
+   "n_authors": 2,
+   "abstract": "Earthmoving plants are essential but costly resources in the construction of heavy civil engineering projects. In addition to proper allocation, ongoing control of this equipment is necessary to ensure and increase the productivity of earthmoving operations. Captured videos from construction sites are potential tools to control earthmoving operations; however, the current practice of manual data extraction from surveillance videos is tedious, costly, and error prone. Cutting-edge computer vision techniques have the potential to automate equipment monitoring tasks. This paper presents research in the evaluation of combinations of existing object recognition and background subtraction algorithms to recognize off-highway dump trucks in noisy video streams containing other active machines. Two detection algorithms, namely, Haar\u2013histogram of oriented gradients (HOG) and Blob-HOG, are presented and evaluated for their ability to recognize dump trucks in videos as measured by both effectiveness and timeliness. The results of this study can help practitioners select a suitable approach to recognize such equipment in videos for real-time applications such as productivity measurement, performance control, and proactive work-zone safety."
+  },
+  {
+   "id": "https://openalex.org/W2943918700",
+   "doi": "10.3390/rs11091102",
+   "title": "Automatic Recognition of Common Structural Elements from Point Clouds for Automated Progress Monitoring and Dimensional Quality Control in Reinforced Concrete Construction",
+   "publication_year": 2019,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 143,
+   "relevance_score": null,
+   "authors": [
+    "Reza Maalek",
+    "Derek D. Lichti",
+    "Janaka Y. Ruwanpura"
+   ],
+   "n_authors": 3,
+   "abstract": "This manuscript provides a robust framework for the extraction of common structural components, such as columns, from terrestrial laser scanning point clouds acquired at regular rectangular concrete construction projects. The proposed framework utilizes geometric primitive as well as relationship-based reasoning between objects to semantically label point clouds. The framework then compares the extracted objects to the planned building information model (BIM) to automatically identify the as-built schedule and dimensional discrepancies. A novel method was also developed to remove redundant points of a newly acquired scan to detect changes between consecutive scans independent of the planned BIM. Five sets of point cloud data were acquired from the same construction site at different time intervals to assess the effectiveness of the proposed framework. In all datasets, the framework successfully extracted 132 out of 133 columns and achieved an accuracy of 98.79% for removing redundant surfaces. The framework successfully determined the progress of concrete work at each epoch in both activity and project levels through earned value analysis. It was also shown that the dimensions of 127 out of the 132 columns and all the slabs complied with those in the planned BIM."
+  },
+  {
+   "id": "https://openalex.org/W3005991643",
+   "doi": "10.1016/j.jclepro.2020.120527",
+   "title": "Dynamic production scheduling model under due date uncertainty in precast concrete construction",
+   "publication_year": 2020,
+   "source": "Journal of Cleaner Production",
+   "type": "article",
+   "cited_by_count": 141,
+   "relevance_score": null,
+   "authors": [
+    "Taehoon Kim",
+    "Yong\u2010Woo Kim",
+    "Hunhee Cho"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3006320450",
+   "doi": "10.1016/j.autcon.2020.103121",
+   "title": "Multi-camera vision-based productivity monitoring of earthmoving operations",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 138,
+   "relevance_score": null,
+   "authors": [
+    "Jinwoo Kim",
+    "Seokho Chi"
+   ],
+   "n_authors": 2,
+   "abstract": "To be successful in managing earthmoving projects, it is very important to monitor the operational efficiency and productivity of heavy equipment. Researchers have investigated many vision-based methods and demonstrated their high applicability to automated productivity monitoring. However, they primarily focused on developing a single-camera vision-based approach that monitors heavy equipment's movement using video data collected from only one camera, and thus they normally failed in continuous earthmoving productivity monitoring due to its limited visibility; for instance, it would be difficult to understand what dump trucks are actually doing if they disappear from the single-camera's field of view. To address these limitations, this paper proposes a multi-camera vision-based productivity monitoring methodology that analyzes videos captured from multiple non-overlapping cameras at the jobsite. The proposed methodology consists of three main processes: (1) multi-camera placement at different physical locations on site, (2) single-camera vision-based equipment monitoring, and (3) multi-camera vision-based equipment matching (i.e., finding the same object in multiple cameras) for productivity analysis. For validation, the authors conducted experiments using video data of 371,125 image frames recorded from an actual earthmoving site for highway construction, and the results confirmed the potential of precise productivity monitoring with the average 97.6% equipment matching acc"
+  },
+  {
+   "id": "https://openalex.org/W3110368686",
+   "doi": "10.1016/j.joule.2020.10.001",
+   "title": "Sources of Cost Overrun in Nuclear Power Plant Construction Call for a New Approach to Engineering Design",
+   "publication_year": 2020,
+   "source": "Joule",
+   "type": "article",
+   "cited_by_count": 129,
+   "relevance_score": null,
+   "authors": [
+    "Philip Eash-Gates",
+    "Magdalena M. Klemun",
+    "Goksin Kavlak",
+    "James McNerney",
+    "Jacopo Buongiorno",
+    "Jessika E. Trancik"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2639936844",
+   "doi": "10.1016/j.autcon.2017.05.005",
+   "title": "Integrated detection and tracking of workforce and equipment from construction jobsite videos",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 127,
+   "relevance_score": null,
+   "authors": [
+    "Zhenhua Zhu",
+    "Xiaoning Ren",
+    "Zhi Chen"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2135936016",
+   "doi": "10.1061/(asce)co.1943-7862.0000629",
+   "title": "Toward Automated Earned Value Tracking Using 3D Imaging Tools",
+   "publication_year": 2012,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 125,
+   "relevance_score": null,
+   "authors": [
+    "Yelda T\u00fcrkan",
+    "Fr\u00e9d\u00e9ric Bosch\u00e9",
+    "Carl Thomas Haas",
+    "Ralph Haas"
+   ],
+   "n_authors": 4,
+   "abstract": "Accurate and frequent construction progress tracking provides critical input data for project systems such as cost, schedule control, and billing. Unfortunately, conventional progress tracking is labor intensive, sometimes subject to negotiation, and often driven by arcane rules. Attempts to improve progress tracking have recently focused on automation, using technologies such as three-dimensional imaging, global positioning systems, ultra wide band (UWB) indoor locating, handheld computers, voice recognition, wireless networks, and other technologies in various combinations. However, one limit of these approaches is their focus on counting objects or milestones rather than value. In this paper, a four-dimensional model recognition-driven automated progress tracking system that transforms objects to their earned values is examined via the analysis of data from the construction of a steel reinforced concrete structure and a steel structure. It is concluded that automated, object oriented recognition systems that convert each object to its earned value can substantially improve the accuracy of progress tracking, and thus, better support project systems like billing. The contribution of this study is an argument based on scientific results for refocusing future research onto automated earned value tracking, which is ultimately what is needed in practice."
+  },
+  {
+   "id": "https://openalex.org/W2170134597",
+   "doi": "10.1061/(asce)co.1943-7862.0000236",
+   "title": "Critical Investigation into the Applicability of the Learning Curve Theory to Rebar Fixing Labor Productivity",
+   "publication_year": 2010,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 107,
+   "relevance_score": null,
+   "authors": [
+    "Abdulaziz M. Jarkas"
+   ],
+   "n_authors": 1,
+   "abstract": "The learning phenomenon has proved applicable in various industries, especially those associated with mass productions such as aircraft and automobile assembly. The learning process in labor-intensive industries is assumed to be more significant in the sense that automated work is constrained by the fact that machines cannot benefit from previous experience and therefore would not \u201clearn\u201d to run any faster or increase the rate of production. Several previous investigations into the applicability of learning curve theory to the construction industry proved the importance of this concept to labor productivity. Nonetheless, a thorough examination of the literature revealed a dearth of research into the effect of learning on the rebar fixing trade. Therefore, the objective of this research is to explore the influence of recurring building floor configurations on rebar fixing labor productivity. To achieve this objective, fixing labor inputs of beams and slabs from 21 multistorey residential building floors were collected and analyzed using the straight-line learning curve model. Fixing labor inputs for each cycle, i.e., floor, and its associated cycle number were modeled using the least-squares method. According to the learning curve theory, labor inputs are expected to decrease by a certain percentage as the cycle number increases. Contrary to the basic principle underlying the theory, the majority of buildings observed exhibited either an increase or a negligible reduction in l"
+  },
+  {
+   "id": "https://openalex.org/W3013922990",
+   "doi": "10.1016/j.jclepro.2020.121396",
+   "title": "Integrated Digital Delivery: Implementation status and project performance in the Singapore construction industry",
+   "publication_year": 2020,
+   "source": "Journal of Cleaner Production",
+   "type": "article",
+   "cited_by_count": 97,
+   "relevance_score": null,
+   "authors": [
+    "Bon\u2010Gang Hwang",
+    "Jasmine Ngo",
+    "Priscilla Wan Yi Her"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3177425331",
+   "doi": "10.1108/ecam-03-2021-0211",
+   "title": "Productivity monitoring in building construction projects: a systematic review",
+   "publication_year": 2021,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "review",
+   "cited_by_count": 95,
+   "relevance_score": null,
+   "authors": [
+    "Wesam Salah Alaloul",
+    "Khalid Mhmoud Alzubi",
+    "Ahmad B. Malkawi",
+    "Marsail Al Salaheen",
+    "Muhammad Ali Musarat"
+   ],
+   "n_authors": 5,
+   "abstract": "Purpose The unique nature of the construction sector makes it fall behind other sectors in terms of productivity. Monitoring construction productivity is crucial for the construction project's success. Current practices for construction productivity monitoring are time-consuming, manned and error prone. Although previous studies have been implemented toward reducing these limitations, a gap still exists in the automated monitoring of construction productivity. Design/methodology/approach This study aims to investigate and assess the different techniques used for monitoring productivity in building construction projects. Therefore, a mixed review methodology (bibliometric analysis and systematic review) was adopted. All the related publications were collected from different databases, which were further screened to get the most relevant based on the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) criteria. Findings A detailed review was performed, and it was found that traditional methods, computer vision-based and photogrammetry are the most adopted data acquisition for productivity monitoring of building projects, respectively. Machine learning algorithms (ANN, SVM) and BIM were integrated with monitoring tools and technologies to enhance the automated monitoring performance in construction productivity. Also, it was observed that current studies did not cover all the complex construction job sites and they were applied based on a small sample of c"
+  },
+  {
+   "id": "https://openalex.org/W2966291622",
+   "doi": "10.1016/j.autcon.2019.102907",
+   "title": "Integrated project delivery with BIM: An automated EVM-based approach",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 92,
+   "relevance_score": null,
+   "authors": [
+    "Faris Elghaish",
+    "Sepehr Abrishami",
+    "M. Reza Hosseini",
+    "Soliman Abusamra",
+    "Mark R. Gaterell"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2083923231",
+   "doi": "10.1108/14714171211244541",
+   "title": "Significance ranking of parameters impacting construction labour productivity",
+   "publication_year": 2012,
+   "source": "Construction Innovation",
+   "type": "article",
+   "cited_by_count": 91,
+   "relevance_score": null,
+   "authors": [
+    "Osama Moselhi",
+    "Zafar Khan"
+   ],
+   "n_authors": 2,
+   "abstract": "Purpose Construction labour productivity is often influenced by variations in work conditions and management effectiveness. It is substantially important to understand the nature and extent to which individual parameters affect productivity. The purpose of this paper is to focus on providing insight on parameters that affect daily job-site labour productivity by investigating their relative significance and influence on work output. Design/methodology/approach The methodology is based on the illustration and use of three different data analysis techniques to rank parameters that affect a certain process. These techniques include Fuzzy Subtractive Clustering, Neural Network Modelling and Stepwise Variable Selection Procedure. The first one belongs to inferential statistics, while the other two are artificial intelligence based techniques. The collection of field information, spanning over a time period of ten months, comprised of daily real time observations of job-site operations, work progress information collected from project managers and supervisors by using customized forms, and daily weather condition recorded through internet sources. Nine parameters are considered in the study presented in this paper. The data on these parameters is examined and their relative influence and contribution in productivity estimates are assessed. The approach was to consider a limited set of parameters relating to daily job-site productivity. The methodology presented in this paper provid"
+  },
+  {
+   "id": "https://openalex.org/W4360938317",
+   "doi": "10.1061/jcemd4.coeng-13045",
+   "title": "Systematic Review of the Literature on Construction Productivity",
+   "publication_year": 2023,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "review",
+   "cited_by_count": 83,
+   "relevance_score": null,
+   "authors": [
+    "Asitha Rathnayake",
+    "Campbell Middleton"
+   ],
+   "n_authors": 2,
+   "abstract": "Productivity, defined as output per input, is a key performance indicator. Construction is one of the least productive industries, and in this paper we explore how productivity measurement can be improved. The findings are based on a review of more than 100 studies. First, we summarize the indicators and data sources used to measure productivity at the macro (economic) and micro (more detailed) levels. Then we explore industry-level productivity trends. Contrary to popular belief, US construction productivity has not declined or stagnated over time. Also, the US has consistently outperformed the UK, Germany, and France. Next, we identify the most critical factors affecting construction productivity. These are related to labor, equipment and technology, construction site, schedule, supervisors, and materials. We also discuss new technologies that can help improve productivity: off-site construction, building information modeling, material tracking technologies, and automated productivity monitoring. Finally, we discuss challenges in this area: the unsuitability of labor productivity as an indicator, issues with activity-level productivity analysis, the disconnect between macro and micro levels, and the lack of micro-level productivity databases."
+  },
+  {
+   "id": "https://openalex.org/W4309192133",
+   "doi": "10.1108/ecam-06-2022-0566",
+   "title": "Exploring the adoption of technology against delays in construction projects",
+   "publication_year": 2022,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 80,
+   "relevance_score": null,
+   "authors": [
+    "Asl\u0131 Pelin G\u00fcrg\u00fcn",
+    "Kerim Ko\u00e7",
+    "Handan Kunkcu"
+   ],
+   "n_authors": 3,
+   "abstract": "Purpose Completing construction projects within the planned schedule has widely been considered as one of the major project success factors. This study investigates the use of technologies to address delays in construction projects and aims to address three research questions (1) to identify the adopted technologies and proposed solutions in the literature, (2) to explore the reasons why the delays cannot be prevented despite disruptive technologies and (3) to determine the major strategies to prevent delays in construction projects. Design/methodology/approach In total, 208 research articles that used innovative technologies, methods, or tools to avoid delays in construction projects were investigated by conducting a comprehensive literature review. An elaborative content analysis was performed to cover the implemented technologies and their transformation, highlighted research fields in relation to selected technologies, focused delay causes and corresponding delay mitigation strategies and emphasized project types with specific delay causes. According to the analysis results, a typological framework with appropriate technological means was proposed. Findings The findings revealed that several tools such as planning, imaging, geo-spatial data collection, machine learning and optimization have widely been adopted to address specific delay causes. It was also observed that strategies to address various delay causes throughout the life cycle of construction projects have been "
+  },
+  {
+   "id": "https://openalex.org/W2915431140",
+   "doi": "10.1016/j.autcon.2019.01.018",
+   "title": "Adaptive computer vision-based 2D tracking of workers in complex environments",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 77,
+   "relevance_score": null,
+   "authors": [
+    "Eirini Konstantinou",
+    "Joan Lasenby",
+    "Ioannis K. Brilakis"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2037054867",
+   "doi": "10.1108/ci-12-2012-0063",
+   "title": "Tracking of secondary and temporary objects in structural concrete work",
+   "publication_year": 2014,
+   "source": "Construction Innovation",
+   "type": "article",
+   "cited_by_count": 76,
+   "relevance_score": null,
+   "authors": [
+    "Yelda T\u00fcrkan",
+    "Fr\u00e9d\u00e9ric Bosch\u00e9",
+    "Carl Thomas Haas",
+    "Ralph Haas"
+   ],
+   "n_authors": 4,
+   "abstract": "Purpose \u2013 Previous research has shown that \u201cScan-vs-BIM\u201d object recognition systems, which fuse three dimensional (3D) point clouds from terrestrial laser scanning (TLS) or digital photogrammetry with 4D project building information models (BIM), provide valuable information for tracking construction works. However, until now, the potential of these systems has been demonstrated for tracking progress of permanent structural works only; no work has been reported yet on tracking secondary or temporary structures. For structural concrete work, temporary structures include formwork, scaffolding and shoring, while secondary components include rebar. Together, they constitute most of the earned value in concrete work. The impact of tracking secondary and temporary objects would thus be added veracity and detail to earned value calculations, and subsequently better project control and performance. The paper aims to discuss these issues. Design/methodology/approach \u2013 Two techniques for recognizing concrete construction secondary and temporary objects in TLS point clouds are implemented and tested using real-life data collected from a reinforced concrete building construction site. Both techniques represent significant innovative extensions of existing \u201cScan-vs-BIM\u201d object recognition frameworks. Findings \u2013 The experimental results show that it is feasible to recognise secondary and temporary objects in TLS point clouds with good accuracy using the two novel techniques; but it is envi"
+  },
+  {
+   "id": "https://openalex.org/W4391842361",
+   "doi": "10.1007/s10644-024-09629-6",
+   "title": "Future jobs: analyzing the impact of artificial intelligence on employment and its mechanisms",
+   "publication_year": 2024,
+   "source": "Economic Change and Restructuring",
+   "type": "article",
+   "cited_by_count": 74,
+   "relevance_score": null,
+   "authors": [
+    "Yang Shen"
+   ],
+   "n_authors": 1,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3014111375",
+   "doi": "10.1080/15623599.2020.1744799",
+   "title": "Modelling labour productivity using SVM and RF: a comparative study on classifiers performance",
+   "publication_year": 2020,
+   "source": "International Journal of Construction Management",
+   "type": "article",
+   "cited_by_count": 69,
+   "relevance_score": null,
+   "authors": [
+    "Mohammed Hamza Momade",
+    "Shamsuddin Shahid",
+    "Mohd Rosli Hainin",
+    "Mohamed Salem Nashwan",
+    "Abdulhakim Tahir Umar"
+   ],
+   "n_authors": 5,
+   "abstract": "The purpose of this paper is to propose a data-driven approach for preparation of Construction Labour Productivity (CLP) models from influencing labour factors. Two state-of-art machine learning-based classifiers, Support Vector Machine (SVM) and Random Forest (RF) were used for modelling CLP. First, a preliminary review of previous literature was carried out to extract all CLP related factors. Subsequently, the list of CLP factors were ranked in terms of most influential in Malaysian Residential standpoint by experienced Project Managers through a pilot survey. The most influential factors identified were labour\u2019s lack of work experience, job category, education/training, nationality, skills, age and marital status. Data was collected based on these influencing factors from all construction workers in Malaysian Residential Projects. The data collected were used to develop CLP models using SVM and RF. The performance of the models was assessed using several statistical indices including Percentage of Correct (PC), Heidke Skill Score (HSS), the Probability of Detection (POD), the False Alarm Ratio (FAR) and the Peirce skill score (PSS). The SVM and RF simulated the CLP with high accuracy. The POD for both models was found above 90% in predicting different categories of productivity. The reliability plots showed a high efficiency of the models. The results indicate that the advanced machine learning methods can be used to achieve high accuracy in prediction of CLP. The present "
+  },
+  {
+   "id": "https://openalex.org/W2969394907",
+   "doi": "10.1061/(asce)co.1943-7862.0001702",
+   "title": "Advanced Metrics for Construction Planning",
+   "publication_year": 2019,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 69,
+   "relevance_score": null,
+   "authors": [
+    "Farook Hamzeh",
+    "Ghali El Samad",
+    "Samir S Emdanat"
+   ],
+   "n_authors": 3,
+   "abstract": "Production planning and control are critical in guiding projects toward meeting their targets. This paper uses the power of the last planner system (LPS) combined with conventional methods to assess schedule performance. Although previous studies have proposed multiple metrics within LPS, research correlating these various metrics to overall schedule performance has been both challenging and time-consuming. This study proposes new metrics and details a calculation method to measure significant aspects of planning performance that are not yet supported by a measurement metric. Moreover, the paper introduces a framework and a dashboard to employ these metrics to guide project-level and production planning. Results from applying the proposed framework to two construction projects in the United States show that projects tend to run behind the scheduled milestones due to poor performance in (1) making tasks ready and removing constraints, (2) committing to critical tasks, and (3) matching load to capacity. Findings underline major issues in construction planning where teams constantly struggle with aligning near-term planning with long-term planning. The proposed metrics can provide a proactive detection of issues and constant visibility of project status so that planning teams can apply earlier control measures to improve reliable planning and reduce milestone delays."
+  },
+  {
+   "id": "https://openalex.org/W2064116448",
+   "doi": "10.1080/01446193.2011.562911",
+   "title": "Revisiting the applicability of learning curve theory to formwork labour productivity",
+   "publication_year": 2011,
+   "source": "Construction Management and Economics",
+   "type": "article",
+   "cited_by_count": 68,
+   "relevance_score": null,
+   "authors": [
+    "Abdulaziz M. Jarkas",
+    "Malcolm W. Horner"
+   ],
+   "n_authors": 2,
+   "abstract": "The learning phenomenon has proved applicable in various industries, especially those associated with mass productions, such as aircraft and automobile assembly. The learning process in labour\u2010intensive industries is assumed to be more significant in the sense that automated work is constrained by the fact that machines cannot benefit from previous experience and therefore would not \u2018learn\u2019 to run any faster or increase the rate of production. Several previous investigations into the applicability of learning curve theory to the construction industry proved the importance of this concept to labour productivity. Nevertheless, a thorough examination of the literature revealed a dearth of research into the effect of learning on the formwork operation of building floors. Consequently, the objective of this research is to explore the influence of recurring building floor configurations on formwork labour productivity. To achieve this objective, formwork labour inputs from 45 multi\u2010storey in situ reinforced concrete building frames were collected and analysed using the straight\u2010line learning curve model. The cumulative average input for each cycle, i.e. floor, and its associated cycle number were modelled using the least squares method. According to the learning curve theory, we expect the labour inputs to decrease by a certain percentage, as the cycle number increases. Based on the results obtained, there is very little evidence for that."
+  },
+  {
+   "id": "https://openalex.org/W2082692931",
+   "doi": "10.1061/(asce)cp.1943-5487.0000436",
+   "title": "Data Fusion Process Management for Automated Construction Progress Estimation",
+   "publication_year": 2014,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 65,
+   "relevance_score": null,
+   "authors": [
+    "Arash Shahi",
+    "Mahdi Safa",
+    "Carl Thomas Haas",
+    "Jeffrey S. West"
+   ],
+   "n_authors": 4,
+   "abstract": "This paper presents a process management framework for multisensory data fusion for the purpose of tracking the progress of construction activity. The developed framework facilitates the required type of data fusion at any given point in the construction progress, reliably and efficiently. Data are acquired from high-frequency automated technologies such as three-dimensional (3D) imaging and ultrawideband (UWB) positioning, in addition to foreman reports, schedule information, and other information sources. The results of validation through a detailed field implementation project show that the developed framework for fusing volumetric, positioning, and project control data can successfully address the challenges associated with fusing multisensory data by tracking activities rather than objects, a feature that offers superior capability, efficiency, and accuracy over the length of the project. Other contributions of this research include the development of fusion processes that are performed at higher levels of data fusion instead of traditional low-level fusion algorithms, thus supporting decision-making processes and a number of automated construction management applications, such as construction progress tracking, earned-value estimation, and schedule updating."
+  },
+  {
+   "id": "https://openalex.org/W2024722480",
+   "doi": "10.1016/j.egypro.2014.03.186",
+   "title": "Construction of an Enclosed Trough EOR System in South Oman",
+   "publication_year": 2014,
+   "source": "Energy Procedia",
+   "type": "conference-paper",
+   "cited_by_count": 65,
+   "relevance_score": null,
+   "authors": [
+    "Ben Bierman",
+    "J. O\u2019Donnell",
+    "Riley Burke",
+    "Mark M. McCormick",
+    "W. Lindsay"
+   ],
+   "n_authors": 5,
+   "abstract": "Concentrating solar energy systems can serve many applications beyond electric power generation. GlassPoint Solar has introduced an Enclosed Trough solar once-through steam generator (OTSG) system designed for challenging environments and to meet all requirements for solar thermal enhanced oil recovery (EOR). Parabolic trough collectors are enclosed within a modified agricultural glasshouse, which protects the collectors from wind, sand and dust common in oilfield environments, and eliminates energy losses due to wind. Automatic glasshouse washing and air filtration equipment dramatically reduce soiling and related losses. The once-through boiler process allows the use of feedwater with total dissolved solids as high as 30,000 ppm while producing 80% quality steam at 100 bar, matching typical EOR specifications. The construction of a 17,280m 2 pilot plant in southern Oman is reviewed. Construction was completed in 11 months, on time and on budget, with zero lost time injuries. This paper reports on the plant design and construction methodologies and measurements of construction labor productivity compared to long term build speed and cost objectives."
+  },
+  {
+   "id": "https://openalex.org/W4323043607",
+   "doi": "10.1108/ecam-01-2022-0036",
+   "title": "BIM-enabled Kanban system in construction logistics for real-time demand reporting and pull replenishment",
+   "publication_year": 2023,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 59,
+   "relevance_score": null,
+   "authors": [
+    "Ningshuang Zeng",
+    "Xuling Ye",
+    "Yan Liu",
+    "Markus K\u00f6nig"
+   ],
+   "n_authors": 4,
+   "abstract": "Purpose The unstable labor productivity and periodic planning method cause barriers to improving construction logistics management. This paper aims to explore a demand-driven mechanism for efficient construction logistics planning to record the material consumption, report the real-time demand and trigger material replenishment from off-site to on-site, which is aided by Building Information Modeling (BIM) and the Kanban technique. Design/methodology/approach This paper follows the design science research (DSR) principles to propose a system of designing and applying Kanban batch with 4D BIM for construction logistics planning and monitoring. Prototype development with comparative simulation experiments of a river remediation project is conducted to analyze the conventional and Kanban-triggered supply. Two-staged industrial interviews are conducted to guide and evaluate the system design. Findings The proposed BIM-enabled Kanban system enables construction managers and suppliers to better set integrated on- and off-site targets, report real-time demands and conduct collaborative planning and monitoring. The simulation results present significant site storage and schedule savings applying the BIM-enabled Kanban system. Feedback and constructive suggestions from practitioners are collected via interviews and analyzed for further development. Originality/value This paper brings to the limelight the benefits of implementing BIM-enabled demand-driven replenishment to remove waste "
+  },
+  {
+   "id": "https://openalex.org/W2946234244",
+   "doi": "10.1061/(asce)co.1943-7862.0001641",
+   "title": "Multifaceted Productivity Comparison of Off-Site Timber Manufacturing Strategies in Mainland Europe and the United Kingdom",
+   "publication_year": 2019,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 59,
+   "relevance_score": null,
+   "authors": [
+    "Tsvetomila Duncheva",
+    "Fiona F. Bradley"
+   ],
+   "n_authors": 2,
+   "abstract": "Off-site construction methods have been suggested as a necessity for improving the efficiency and productivity of the construction industry through implementation of automation and lean principles in a controlled factory environment, known as modern methods of construction (MMC). The products and the project delivery and management strategies of off-site construction were studied through a multifaceted qualitative exploration of the off-site timber management strategies of 10 manufacturers, including three UK panel, three UK volumetric, and four European (EU) volumetric timber manufacturers. A comparative productivity analysis was carried out and its sensitivities were analyzed, which led to the conclusion that the labor productivity of the surveyed UK panelized and EU volumetric manufacturers was comparable, but the UK volumetric manufacturers\u2019 productivity was lower. As a result, the level of automation and the lean and Design for risassembly (DfD) applications of the manufacturers were all explored to understand these productivity differences within the context of current market trends."
+  },
+  {
+   "id": "https://openalex.org/W4404994339",
+   "doi": "10.3390/machines12120867",
+   "title": "Optimizing Project Time and Cost Prediction Using a Hybrid XGBoost and Simulated Annealing Algorithm",
+   "publication_year": 2024,
+   "source": "Machines",
+   "type": "article",
+   "cited_by_count": 57,
+   "relevance_score": null,
+   "authors": [
+    "Ali Akbar ForouzeshNejad",
+    "Farzad Arabikhan",
+    "Shohin Aheleroff"
+   ],
+   "n_authors": 3,
+   "abstract": "Machine learning technologies have recently emerged as transformative tools for enhancing project management accuracy and efficiency. This study introduces a data-driven model that leverages the hybrid eXtreme Gradient Boosting-Simulated Annealing (XGBoost-SA) algorithm to predict the time and cost of construction projects. By accounting for the complexity of activity networks and uncertainties within project environments, the model aims to address key challenges in project forecasting. Unlike traditional methods such as Earned Value Management (EVM) and Earned Schedule Method (ESM), which rely on static metrics, the XGBoost-SA model adapts dynamically to project data, achieving 92% prediction accuracy. This advanced model offers a more precise forecasting approach by incorporating and optimizing features from historical data. Results reveal that XGBoost-SA reduces cost prediction error by nearly 50% and time prediction error by approximately 80% compared to EVM and ESM, underscoring its effectiveness in complex scenarios. Furthermore, the model\u2019s ability to manage limited and evolving data offers a practical solution for real-time adjustments in project planning. With these capabilities, XGBoost-SA provides project managers with a powerful tool for informed decision-making, efficient resource allocation, and proactive risk management, making it highly applicable to complex construction projects where precision and adaptability are essential. The main limitation of the develo"
+  },
+  {
+   "id": "https://openalex.org/W4387321370",
+   "doi": "10.1016/j.autcon.2023.105107",
+   "title": "Augmented reality technologies in construction project assembly phases",
+   "publication_year": 2023,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 52,
+   "relevance_score": null,
+   "authors": [
+    "\u0130lker Baki Alkan",
+    "Hasan Basri Ba\u015fa\u011fa"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4213361906",
+   "doi": "10.1061/(asce)cp.1943-5487.0001017",
+   "title": "Critical Review and Road Map of Automated Methods for Earthmoving Equipment Productivity Monitoring",
+   "publication_year": 2022,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 47,
+   "relevance_score": null,
+   "authors": [
+    "Chen Chen",
+    "Zhenhua Zhu",
+    "Amin Hammad"
+   ],
+   "n_authors": 3,
+   "abstract": "Monitoring the productivity of construction equipment would help to improve construction productivity, control cost, and discover potential project issues. However, manual equipment productivity monitoring is labor-intensive and inefficient. In recent years, a large number of studies have been conducted to develop automatic methods for equipment productivity monitoring. Numerous technologies were used to estimate equipment operation time, calculate soil quantity, and analyze influence factors, among others. However, there is no recent review paper focusing on equipment productivity monitoring. This paper provides a comprehensive review of automated methods for earthmoving equipment productivity monitoring. A total of 119 related papers are reviewed and 88 papers are categorized based on the method of collecting productivity-related data. In addition, the benefits and limitations of different methods are compared in detail. Finally, a roadmap is proposed to illustrate a path forward for automatic equipment monitoring and productivity analysis. The review is expected to provide future directions that will support the development of full automation in productivity monitoring of construction equipment."
+  },
+  {
+   "id": "https://openalex.org/W4224909987",
+   "doi": "10.1016/j.jobe.2022.104448",
+   "title": "Wearable acceleration-based action recognition for long-term and continuous activity analysis in construction site",
+   "publication_year": 2022,
+   "source": "Journal of Building Engineering",
+   "type": "article",
+   "cited_by_count": 46,
+   "relevance_score": null,
+   "authors": [
+    "Yue Gong",
+    "Kanghyeok Yang",
+    "JoonOh Seo",
+    "Jin Gang Lee"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4376105415",
+   "doi": "10.1016/j.autcon.2023.104932",
+   "title": "Work estimation of construction workers for productivity monitoring using kinematic data and deep learning",
+   "publication_year": 2023,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 45,
+   "relevance_score": null,
+   "authors": [
+    "Emil L. Jacobsen",
+    "Jochen Teizer",
+    "S\u00f8ren Wandahl"
+   ],
+   "n_authors": 3,
+   "abstract": "In this study, a novel method for work estimation is presented. The aim is to build an accurate and reliable work classification algorithm that can help monitor construction sites without unnecessarily constraining the workers or installing heavy sensing infrastructure. The method utilizes deep learning algorithms to classify multivariate time-series data collected from five inertial measurement units mounted on the worker. Three models are developed, differing in window sizes from 3 to 7 s. The best performing model achieves an accuracy of 90% and an F1 score of 0.876. The model is analyzed and pruned using expected gradients for feature selection. The process reduces the input space by 60%, equivalent to 3 sensors. This is an initial step towards a general model that can classify productivity measures for workers on construction sites, which will provide valuable input for monitoring construction site activities and future analyses such as forecasting productivity."
+  },
+  {
+   "id": "https://openalex.org/W4399653477",
+   "doi": "10.1016/j.asej.2024.102896",
+   "title": "A systematic review of construction labor productivity studies: Clustering and analysis through hierarchical latent dirichlet allocation",
+   "publication_year": 2024,
+   "source": "Ain Shams Engineering Journal",
+   "type": "review",
+   "cited_by_count": 44,
+   "relevance_score": null,
+   "authors": [
+    "Kai Qi",
+    "Emmanuel Kingsford Owusu",
+    "Ming-Fung Francis Siu",
+    "Ping-Chuen Albert Chan"
+   ],
+   "n_authors": 4,
+   "abstract": "The field of construction labor productivity (CLP) has witnessed a remarkable growth in scholarly research, presenting both opportunities and challenges due to the diverse focus and exponential increase in literature. This study aims to systematically review the burgeoning body of CLP literature, proposing an approach to tackle the complexity of the domain. Utilizing the text mining technique of Hierarchical Latent Dirichlet Allocation (HLDA), an automatic clustering method was developed to analyze and categorize the corpus of CLP research. The methodology involved a comprehensive extraction of 591 scholarly articles from scientific databases. These articles, spanning from 1973 to 2023, were subjected to HLDA topic modeling. This process generated a detailed three-layer, tree-like topic model, comprising three primary topics and 26 sub-topics, organized through the nested Chinese restaurant process (nCRP). The study advances theoretical and practical understanding by applying hierarchical topic modeling to construction project management literature and identifying key industry challenges."
+  },
+  {
+   "id": "https://openalex.org/W4408693341",
+   "doi": "10.63125/gm77xp11",
+   "title": "ADAPTIVE CONTROL OF RESOURCE FLOW IN CONSTRUCTION PROJECTS THROUGH DEEP REINFORCEMENT LEARNING: A FRAMEWORK FOR ENHANCING PROJECT PERFORMANCE IN COMPLEX ENVIRONMENTS",
+   "publication_year": 2022,
+   "source": "American Journal of Scholarly Research and Innovation",
+   "type": "article",
+   "cited_by_count": 44,
+   "relevance_score": null,
+   "authors": [
+    "Muhammad Mohiul Islam",
+    "ASM Morshed",
+    "Md Enamul Kabir",
+    "Md Al-Arafat",
+    "Precast Plant Manager, JK Builders Sdn Bhd, Johor Bharu, Malaysia."
+   ],
+   "n_authors": 5,
+   "abstract": "The advancements in Deep Reinforcement Learning (DRL) are transforming construction project management, particularly in resource allocation, scheduling, and risk mitigation. Traditional heuristic-based methods struggle with dynamic project environments, necessitating AI-driven approaches. This systematic review, following PRISMA guidelines, evaluates 482 peer-reviewed studies to assess the effectiveness of DRL in optimizing construction workflows. Findings reveal that DRL-based workforce allocation reduces idle time by 30% and enhances labor productivity by 35%, while DRL-driven equipment utilization improves efficiency by 40% and reduces downtime by 28%. Additionally, material logistics optimization through DRL decreases procurement delays and waste by 30%, significantly improving supply chain management. Risk-sensitive DRL models outperform Monte Carlo simulations, reducing cost overruns by 27% and improving risk prediction accuracy by 30%. Comparative analysis confirms that DRL scheduling frameworks, including Proximal Policy Optimization (PPO), Deep Q Networks (DQN), and Actor-Critic models, improve project efficiency by 32%, surpassing traditional CPM and PERT methods. Simulation-based studies further validate that DRL-driven decision-making reduces discrepancies in resource utilization by 21%, while IoT-integrated DRL improves safety compliance by 38% and reduces accident risks by 35%. Despite computational challenges, DRL offers scalability, adaptability, and superior "
+  },
+  {
+   "id": "https://openalex.org/W1985237879",
+   "doi": "10.1109/infcom.2012.6195676",
+   "title": "Semi-structured and unstructured data aggregation scheduling in wireless sensor networks",
+   "publication_year": 2012,
+   "source": "IEEE Conference on Computer Communications (INFOCOM)",
+   "type": "conference-paper",
+   "cited_by_count": 43,
+   "relevance_score": null,
+   "authors": [
+    "Miloud Bagaa",
+    "Abdelouahid Derhab",
+    "Noureddine Lasla",
+    "Abdelraouf Ouadjaout",
+    "Nadjib Badache"
+   ],
+   "n_authors": 5,
+   "abstract": "This paper focuses on data aggregation scheduling problem in wireless sensor networks (WSNs), to minimize time latency. Prior works on this problem have adopted a structured approach, in which a tree-based structure is used as an input for the scheduling algorithm. As the scheduling performance mainly depends on the supplied aggregation tree, such an approach cannot guarantee optimal performance. To address this problem, we propose approaches based on Semi-structured Topology (DAS-ST) and Unstructured Topology (DAS-UT). The approaches are based on two key design features, which are: (1) simultaneous execution of aggregation tree construction and scheduling, and (2) parent selection criteria that maximize the choices of parents for each node and maximize time slot reuse. We prove that the latency of DAS-ST is upper-bounded by ([2\u03c0/arccos(1/1+\u03f5)]+4)R+\u0394-4, where R is the network radius, \u0394 is the maximum node degree, and 0.05 <; \u03f5 \u2264 1. Simulations results show that DAS-UT outperforms DAS-ST and four competitive state-of-the-art aggregation scheduling algorithms in terms of latency and network lifetime."
+  },
+  {
+   "id": "https://openalex.org/W4392713670",
+   "doi": "10.1016/j.dibe.2024.100382",
+   "title": "Deep learning-based automated productivity monitoring for on-site module installation in off-site construction",
+   "publication_year": 2024,
+   "source": "Developments in the Built Environment",
+   "type": "article",
+   "cited_by_count": 42,
+   "relevance_score": null,
+   "authors": [
+    "Jongyeon Baek",
+    "Daeho Kim",
+    "Byungjoo Choi"
+   ],
+   "n_authors": 3,
+   "abstract": "Effectively monitoring and analyzing on-site module installation for modular integrated construction (MiC) is essential to properly coordinating the MiC process. In this study, the authors propose an automated productivity monitoring framework for on-site module installation operations consisting of three modules: object detection, activity classification, and productivity analysis. The object detection module detects mobile cranes and modules interacting with mobile cranes, and the activity classification module classifies module installation activities into five different activities by considering the spatiotemporal relationship between the detected objects. Finally, the productivity analysis module analyzes the productivity of the module installation process by utilizing the accumulated activity classification results over image frames. The proposed model achieves an average accuracy of 89% (hooking: 85.71%, lifting: 84.44%, positioning: 94.90%, returning: 83.09%, and idling: 96.87%) in classifying the five activities. The developed framework enables practitioners to measure the productivity of the on-site module installation process automatically. In addition, productivity data stored from diverse construction sites contribute to identifying progress-impeding factors and improving the productivity of the entire MiC process."
+  },
+  {
+   "id": "https://openalex.org/W2087068494",
+   "doi": "10.1061/(asce)me.1943-5479.0000375",
+   "title": "Statistical Analysis of the Effectiveness of Management Programs in Improving Construction Labor Productivity on Large Industrial Projects",
+   "publication_year": 2015,
+   "source": "Journal of Management in Engineering",
+   "type": "article",
+   "cited_by_count": 42,
+   "relevance_score": null,
+   "authors": [
+    "Yongwei Shan",
+    "Dong Zhai",
+    "Paul M. Goodrum",
+    "Carl Thomas Haas",
+    "Carlos H. Caldas"
+   ],
+   "n_authors": 5,
+   "abstract": "The purpose of this research effort is to identify the effectiveness of a particular set of important management programs in improving construction labor productivity. These programs were previously defined through industry experts and research consensus as having significant impact on project cost, schedule, safety, scope, and quality performance, but their relationship to labor productivity was not known. Through statistical analyses of the database maintained by the Construction Industry Institute\u2019s Benchmarking and Metrics Committee, headquartered in Austin, Texas, United States, the research presented in this article examined whether projects with high levels of implementation of programs related to front-end planning, materials management, automation and integration of information systems, team building, constructability, and safety, experienced better labor productivity among the mechanical, electrical, concrete, and structural steel trades compared to projects with low levels of implementation. The result showed that the majority of the investigated management programs were statistically significantly correlated to better construction labor productivity, and the significance was different among various craft trades. The paper\u2019s major contribution to the overall body of knowledge is that it comprehensively quantifies the potential relationship of implementing project management programs to labor productivity on large industrial projects."
+  },
+  {
+   "id": "https://openalex.org/W1995811343",
+   "doi": "10.1016/j.autcon.2010.11.009",
+   "title": "Formalisms for query capture and data source identification to support data fusion for construction productivity monitoring",
+   "publication_year": 2010,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 42,
+   "relevance_score": null,
+   "authors": [
+    "Anu R. Pradhan",
+    "Burcu Akinci",
+    "Carl Thomas Haas"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4390811600",
+   "doi": "10.1016/j.aej.2024.01.013",
+   "title": "A hybrid building information modeling and collaboration platform for automation system in smart construction",
+   "publication_year": 2024,
+   "source": "Alexandria Engineering Journal",
+   "type": "article",
+   "cited_by_count": 39,
+   "relevance_score": null,
+   "authors": [
+    "Yonghao Wang",
+    "Hailu lu",
+    "Yao Wang",
+    "Zhenqin Yang",
+    "Qingshan Wang",
+    "Hao Zhang"
+   ],
+   "n_authors": 6,
+   "abstract": "Building information modeling (BIM) technology can organically combine data modeling and virtual reality, and compare them with actual construction objects to realize the smart collaboration of entity and the model in the construction processes, greatly reducing early stage mistakes and improve construction efficiency. This paper proposed an automation system framework of smart construction based on BIM technology and collaboration platform, and discussed the element configuration of smart construction based on BIM technology and collaboration platform, and finally elaborated the working mechanism of automated system based on BIM technology and collaboration platform. The study results show that the automation system based on the BIM technology and collaboration platform supports the rapid construction of large-scale three-dimensional scenes and the precise integration of multi-source data, and can bring together construction information and asset information from different sources to form an open, safe, and accessible digital environment. The application of smart construction technology in construction cost management has brought huge economic benefits, construction efficiency has been increased by 65%, construction period has been shortened by 30%, labor intensity has been reduced by 27%, and labor productivity has been increased by 39%, which has brought considerable indirect benefits to construction projects."
+  },
+  {
+   "id": "https://openalex.org/W2959141488",
+   "doi": "10.24928/2019/0106",
+   "title": "Conceptual Foundations for a New Lean Bim-Based Production System in Construction",
+   "publication_year": 2019,
+   "source": "Annual Conference of the International Group for Lean Construction",
+   "type": "conference-paper",
+   "cited_by_count": 39,
+   "relevance_score": null,
+   "authors": [
+    "Christoph Paul Schimanski",
+    "Gabriele Pasetti Monizza",
+    "Carmen Marcher",
+    "Dominik Tobias Matt"
+   ],
+   "n_authors": 4,
+   "abstract": "This paper presents a new lean BIM-based production system to face productivity deficiencies in construction. To prove whether the current situation can be improved, the aforesaid production system is designed to assess the hypothesis that a true integration of BIM functionalities with the Last Planner System will contribute to a more efficient project delivery. Although beneficial synergies of BIM and Lean have been widely described and acknowledged in research, previous work has not fully addressed the stated hypothesis, since it has only provided frameworks on how to use BIM and the Last Planner System in parallel. The core of the here-proposed lean BIM-based production system is the linkage of BIM objects at data processing level with the Last Planner System routines making use of digital Kanban boards. The production system will also be extended by cost control aspects of the Earned Value Management approach and thus represents the basis for a complete construction management system with respect to quality, schedule and costs. This paper discusses the first concepts of the new lean BIM-based production system and introduces an information system integration model as a starting point for future software development activities."
+  },
+  {
+   "id": "https://openalex.org/W4411236069",
+   "doi": "10.1016/j.aei.2025.103511",
+   "title": "Real-Time tracking and analysis in construction projects: A RealCONs framework",
+   "publication_year": 2025,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 38,
+   "relevance_score": null,
+   "authors": [
+    "Kambiz Radman",
+    "Mostafa Babaeian Jelodar",
+    "Ruggiero Lovreglio",
+    "Eghbal Ghazizadeh",
+    "Suzanne Jane Wilkinson"
+   ],
+   "n_authors": 5,
+   "abstract": "Construction projects increasingly rely on processing vast amounts of data from multiple sources, including consultants (BIM), cloud-based project management platforms (e.g., Aconex), planning departments, construction sites, main contractors, and subcontractors. However, inefficiencies in data acquisition and reliance on manual data entry hinder real-time project analysis, delay notifications, and decision-making. This study introduces the Real-Time Data-Driven Construction Project Analysis Framework (RealCONs) to address these challenges by streamlining data flow and enhancing project performance. A comparative analysis used eight case studies four employing the existing approach and four utilising RealCONs\u2014to assess improvements in data integration, early delay identification, and decision-making efficiency. The results, validated through Earned Value Management (EVM) and Earned Schedule Management (ESM) metrics, demonstrate that RealCONs significantly enhance project forecasting accuracy , schedule adherence, and cost management. Additionally, statistical analyses, including the Shapiro-Wilk test and the Wilcoxon Signed-Rank analysis, confirm that RealCONs outperform the existing approach by reducing data collection and decision-making delays, enabling project managers to implement proactive mitigation strategies . These findings highlight RealCONs\u2019 potential to improve project efficiency, reduce costs, and optimise real-time construction management."
+  },
+  {
+   "id": "https://openalex.org/W4297294315",
+   "doi": "10.1007/s11227-022-04803-x",
+   "title": "Computer vision-based deep learning for supervising excavator operations and measuring real-time earthwork productivity",
+   "publication_year": 2022,
+   "source": "The Journal of Supercomputing",
+   "type": "article",
+   "cited_by_count": 38,
+   "relevance_score": null,
+   "authors": [
+    "Min\u2010Yuan Cheng",
+    "Minh-Tu Cao",
+    "Christian Kentaro Nuralim"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4366994700",
+   "doi": "10.1061/jccee5.cpeng-5105",
+   "title": "Vision-Based Productivity Monitoring of Tower Crane Operations during Curtain Wall Installation Using a Database-Free Approach",
+   "publication_year": 2023,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 36,
+   "relevance_score": null,
+   "authors": [
+    "Insoo Jeong",
+    "Jeongbin Hwang",
+    "Junghoon Kim",
+    "Seokho Chi",
+    "Bon\u2010Gang Hwang",
+    "Jinwoo Kim"
+   ],
+   "n_authors": 6,
+   "abstract": "Tower cranes are generally used in modern construction projects due to their exclusive and flexible performance for material transportation in complex workspaces. Although traditional deep learning vision-based methods have proven their effectiveness in construction site monitoring, a shortage of realistic training images and inefficiencies in them have been an obstacle in achieving effective tower crane monitoring. To deal with this issue, this paper presents a database-free approach for timely productivity monitoring of tower crane operations. Using a synthetic model, the authors construct a research framework to effectively generate training images on deep learning\u2013powered object detection. Additionally, an enhanced tracking algorithm collaborating with unsupervised clustering-driven postprocessing enables stable performance for tracking resources. Further, logical ontology-based activity recognition constructed on domain-specific knowledge takes place to estimate time-to-time operation of the tower crane. The curtainwall installation was selected to represent the dynamicity and variability of tower crane operations for which it has been difficult to apply traditional deep learning technologies. Results displayed that the intended framework successfully produced 300,000 training images in 1 h, about 500 times faster than human resources, and an enhanced tracker performed well even in the case of unsatisfactory detection results. It is also proved that a performance of acti"
+  },
+  {
+   "id": "https://openalex.org/W2957340477",
+   "doi": "10.1108/ecam-05-2018-0191",
+   "title": "Construction worker productivity in hot and humid weather conditions: A review of measurement methods at task, crew and project levels",
+   "publication_year": 2019,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 36,
+   "relevance_score": null,
+   "authors": [
+    "Ammar Moohialdin",
+    "Fiona Lamari",
+    "Marc Miska",
+    "Bambang Trigunarsyah"
+   ],
+   "n_authors": 4,
+   "abstract": "Purpose The purpose of this paper shows the effect of hot and humid weather conditions (HHWCs) on workers that has resulted in considerable loss in the construction industry, especially during the hottest periods due to decline in worker productivity (WP). Until the last few decades, there is very limited research on construction WP in HHWCs. Nevertheless, these studies have sparked interests on seeking for the most appropriate methods to assess the impact of HHWCs on construction workers. Design/methodology/approach This paper begins by reviewing the current measuring methods on WP in HHWCs, follows by presenting the potential impact of HHWCs on WP. The paper highlights the methodological deficiencies, which consequently provides a platform for scholars and practitioners to direct future research to resolve the significant productivity loss due to global warming. This paper highlights the need to identify the limitations and advantages of the current methods to formulate a framework of new approaches to measure the WP in HHWCs. Findings Results show that the methods used in providing real-time response on the effects of HHWCs on WP in construction at project, task and crew levels are limited. An integration of nonintrusive real-time monitoring system and local weather measurement with real-time data synchronisation and analysis is required to produce suitable information to determine worker health- and safety-related decisions in HHWCs. Originality/value The comprehensive li"
+  },
+  {
+   "id": "https://openalex.org/W2120293220",
+   "doi": "10.1061/(asce)co.1943-7862.0000674",
+   "title": "Automated Productivity-Based Schedule Animation: Simulation-Based Approach to Time-Cost Trade-Off Analysis",
+   "publication_year": 2013,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 36,
+   "relevance_score": null,
+   "authors": [
+    "G\u00f6khan GEL\u0130\u015eEN",
+    "Fletcher H. Griffis"
+   ],
+   "n_authors": 2,
+   "abstract": "Many studies of construction labor productivity are at a macro level. These macrolevel studies attempt to quantify the productivity or changes in productivity over the entire industry or a segment of the industry. This study is aimed at a micro or project level examination of productivity. The tool developed allows a company to predict, manage, and even optimize the productivity associated with a project or levels of projects. Automated productivity-based schedule animation (APBSA) is a dynamic scheduling methodology that stochastically utilizes weekly trended construction labor productivity data in order to automatically update the baseline schedule that was created at the beginning of the project by the construction manager. APBSA reports the construction activity duration variances and animates the progress of the job with most current data available in a four-dimensional (4D) environment. Contractors can improve their planning by utilizing APBSA with building information modeling (BIM) which will help them to improve their craft productivity. As a case study, a three-story Systems Engineering Facility III of Hanscom Air Force Base (AFB) was modeled. The model was developed in order to demonstrate the impacts of time and cost-based stochastic productivity indices on the baseline schedule. A time-cost trade-off analysis was also performed in order to show effects of duration variations on the cost of the project."
+  },
+  {
+   "id": "https://openalex.org/W4380050564",
+   "doi": "10.3390/buildings13061479",
+   "title": "Current Status and Future Research Trends of Construction Labor Productivity Monitoring: A Bibliometric Review",
+   "publication_year": 2023,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 33,
+   "relevance_score": null,
+   "authors": [
+    "Tsu Yian Lee",
+    "Faridahanim Ahmad",
+    "Mohd Adib Sarijari"
+   ],
+   "n_authors": 3,
+   "abstract": "Construction labor productivity (CLP) is a critical measure of efficiency in the construction industry. This bibliometric review comprehensively analyzes global research trends in CLP monitoring over the past 56 years. The review identifies the top journals, authors, and nations contributing to this field and highlights a significant increase in publications since 2000. The co-authorship bibliometric map illustrates how different nations collaborate in research, with Europe and Asia being the most engaged regions in the study of CLP monitoring. The author keyword co-occurrence analysis indicated the need for more consistent and reliable measurements of CLP in the field. Furthermore, the review highlights the importance of factors such as occupational health and safety, change orders, and the adoption of lean construction principles and innovative technologies for monitoring and improving CLP. Finally, we evaluated the characteristics of different modeling approaches utilized in CLP monitoring studies, considering factors such as data availability, the complexity of relationships, and the required expertise. This study highlights the need for real-time and transparent CLP monitoring methods. Overall, this study contributes to the research field by offering insightful information on the current state of CLP monitoring and proposing potential future directions for research."
+  },
+  {
+   "id": "https://openalex.org/W2795975114",
+   "doi": "10.1016/j.autcon.2018.02.035",
+   "title": "Utilization analysis methodology for fleet telematics of heavy earthwork equipment",
+   "publication_year": 2018,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 33,
+   "relevance_score": null,
+   "authors": [
+    "Seung Soo Lee",
+    "Sang-il Park",
+    "Jongwon Seo"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4321483205",
+   "doi": "10.1016/j.jclepro.2023.136526",
+   "title": "An automated project carbon planning, monitoring and forecasting system integrating building information model and earned value method",
+   "publication_year": 2023,
+   "source": "Journal of Cleaner Production",
+   "type": "article",
+   "cited_by_count": 32,
+   "relevance_score": null,
+   "authors": [
+    "Xuan Zhang",
+    "Xueqing Zhang"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4226007733",
+   "doi": "10.15302/j-sscae-2022.01.005",
+   "title": "Developing from Mechanized to Smart Agricultural Production in China",
+   "publication_year": 2022,
+   "source": "Strategic Study of CAE",
+   "type": "article",
+   "cited_by_count": 32,
+   "relevance_score": null,
+   "authors": [
+    "Xiwen Luo",
+    "Juan Liao",
+    "Ying Zang",
+    "Yinggang Ou",
+    "Pei Wang"
+   ],
+   "n_authors": 5,
+   "abstract": "The mode transformation of agricultural production is a common concern for China and worldwide. Currently, the level of mechanization has been significantly promoted for the agriculture sector in China and smart production becomes an inevitable trend for modern agriculture. Smart agriculture regards data, knowledge, and intelligent equipment as the core elements and integrates modern science and technology with agriculture to realize digital perception, intelligent decision-making, precise operation, and smart management in the entire process of agricultural production, thereby greatly improving labor productivity, resource utilization rate, and land output rate. This article presents the current status of agricultural production in China using rice production as an example, and analyzes the necessity, opportunities, challenges, directions, and route for the intelligent transformation of China\u2019s agriculture. Furthermore, we propose policy suggestions to promote the intelligent development of China\u2019s agricultural production, including (1) strengthening the research and innovation system for agricultural machinery, (2) improving the agricultural machinery promotion system, (3) optimizing the socialized service system for agricultural machinery, and (4) accelerating the construction of smart agriculture demonstration zones."
+  },
+  {
+   "id": "https://openalex.org/W3131856822",
+   "doi": "10.1108/jfmpc-08-2020-0057",
+   "title": "An evaluation of offsite construction skill profiles",
+   "publication_year": 2021,
+   "source": "Journal of Financial Management of Property and Construction",
+   "type": "article",
+   "cited_by_count": 30,
+   "relevance_score": null,
+   "authors": [
+    "Buddhini Ginigaddara",
+    "Srinath Perera",
+    "Yingbin Feng",
+    "Payam Rahnamayiezekavat"
+   ],
+   "n_authors": 4,
+   "abstract": "Purpose This paper aims to evaluate the existing and emerging Offsite Construction (OSC) skills. Construction industry is inherently labour oriented, fashioning poor labour productivity, low sustainability, slow and costly processes. These shortcomings promote OSC alongside driving forces such as industrialisation, automation and digitalisation. However, the traditional construction skills are not on par with the complexity, where robots, co-bots and digital-driven automated systems create the need for novel OSC skills. Design/methodology/approach Data collection is executed through a Roundtable activity hosting Construction Management academics form Australian universities specialising in construction technology. They engaged in ranking of skills along with creating a word cloud for the question, \u201cwhat are the future construction skills that will be more beneficial in an OSC platform?\u201d Word cloud is reviewed in a discussion approach while skills ranking data is analysed using descriptive statistics. Findings The most prominent OSC skills are logistics manager, project manager and digital producer. Attributes of skills that come under construction trades workers, design, engineering and specialist professionals will vary based on onsite-offsite percentage combination in a construction project. Study reviews the required construction skills at two ends of a continuum featuring the trade-based skills; bricklayer, concreter and carpenter at one end (traditional build) and the he"
+  },
+  {
+   "id": "https://openalex.org/W4387014288",
+   "doi": "10.1061/jccee5.cpeng-5274",
+   "title": "Research Status Quo and Trends of Construction Robotics: A Bibliometric Analysis",
+   "publication_year": 2023,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 29,
+   "relevance_score": null,
+   "authors": [
+    "Huanyu Wu",
+    "Yongqi Liu",
+    "Ruidong Chang",
+    "Lingyi Wu"
+   ],
+   "n_authors": 4,
+   "abstract": "Labor shortage and low labor productivity are critical issues in the construction industry. Robotics, as a powerful technology to improve productivity in the digitization era, is being used to assist in addressing these problems. Particularly in recent years, interest in construction robotics research has risen remarkably. To gain a deeper understanding of this burgeoning research field, this study provides a bibliometric analysis of 498 related papers retrieved from WoS (Web of Science). Performance analysis and science mapping were used in the paper to identify the research trends, relationship among authors, top publication sources, regional activities, as well as knowledge base and dominant research sub-fields. The results indicated that the number of papers focusing on construction robotics has been continuously growing since 2013. \u201cAutomation,\u201d \u201csystem,\u201d and \u201cdesign\u201d have been the most addressed topics in construction robotics. The findings are indicative of identifying the deficiencies in existing research and provide directions for future research. Those include greater attention paid to the experimental results of on-site construction robots, while ignoring the impacts of practical construction situations, and the development of off-site construction robots needs more support. For theoretical research, there is a lack of studies on human\u2013robot collaboration workflow and management models. Therefore, the study would be valuable in providing practitioners and researche"
+  },
+  {
+   "id": "https://openalex.org/W4221127316",
+   "doi": "10.1108/ecam-10-2021-0937",
+   "title": "Risk events recognition using smartphone and machine learning in construction workers' material handling tasks",
+   "publication_year": 2022,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 29,
+   "relevance_score": null,
+   "authors": [
+    "Pinsheng Duan",
+    "Jianliang Zhou",
+    "Shiwei Tao"
+   ],
+   "n_authors": 3,
+   "abstract": "Purpose The outbreak of the pandemic makes it more difficult to manage the safety or health of construction workers in infrastructure construction. Risk events in construction workers' material handling tasks are highly relevant to workers' work-related musculoskeletal disorders. However, there are still many problems to be resolved in recognizing risk events accurately. The purpose of this research is to propose an automatic and non-invasive recognition method for construction workers in material handling tasks during the pandemic based on smartphone and machine learning. Design/methodology/approach This research proposes a method to recognize and classify four different risk events by collecting specific acceleration and angular velocity patterns through built-in sensors of smartphones. The events were simulated with anterior handling and shoulder handling methods in the laboratory. After data segmentation and feature extraction, five different machine learning methods are used to recognize risk events and the classification performances are compared. Findings The classification result of the shoulder handling method was slightly better than the anterior handling method. By comparing the accuracy of five different classifiers, cross-validation results showed that the classification accuracy of the random forest algorithm was the highest (76.71% in anterior handling method and 80.13% in shoulder handling method) when the window size was 0.64 s. Originality/value Less attenti"
+  },
+  {
+   "id": "https://openalex.org/W3082015494",
+   "doi": "10.1016/j.autcon.2020.103377",
+   "title": "Automated stereo-garage with multiple cache parking spaces\u2014Structure, system and scheduling performance",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 29,
+   "relevance_score": null,
+   "authors": [
+    "Zhongkai Li",
+    "Lei Miao"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4398190337",
+   "doi": "10.1061/jcemd4.coeng-14679",
+   "title": "Quantifying the Impact of Technology Utilization on Schedule and Cost Performance in Construction Projects",
+   "publication_year": 2024,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 28,
+   "relevance_score": null,
+   "authors": [
+    "Fareed Salih",
+    "Islam H. El-adaway"
+   ],
+   "n_authors": 2,
+   "abstract": "There has been a plethora of research on the performance of schedule and cost in construction projects. However, current research falls short in investigating the combined contribution of different construction technologies on project performance metrics. Specifically, none of the previous efforts have used integrated earned value management (EVM) parameters and utilized construction technologies to assess project schedule and cost performance. This paper fills this knowledge gap. To this end, a multistep research methodology was employed to (1) explore the utilization ratings of 13 construction technologies based on data collected from 52 industry experts; (2) rank these technologies in terms of their contribution to schedule and cost savings; (3) map the utilization ratings of construction technologies to schedule and cost variances by leveraging data from 48 construction projects with varying levels and scopes of technology integration to gauge the impact of using these technologies; and (4) develop an associated decision-support model that underwent rigorous verification under extreme conditions and sensitivity analysis. This study makes a noteworthy contribution to the existing body knowledge, revealing that the major drivers for schedule savings are building information modeling (BIM), unmanned aerial vehicles (UAVs), and augmented/virtual reality (AR/VR), while additive manufacturing (AM), digital twin (DT), and Internet of Things (IoT) are the most significant contrib"
+  },
+  {
+   "id": "https://openalex.org/W3145303183",
+   "doi": "10.1108/ecam-04-2020-0281",
+   "title": "Using existing site surveillance cameras to automatically measure the installation speed in prefabricated timber construction",
+   "publication_year": 2021,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 28,
+   "relevance_score": null,
+   "authors": [
+    "Alireza Ahmadian Fard Fini",
+    "Mojtaba Maghrebi",
+    "Perry John Forsythe",
+    "Steven Travis Waller"
+   ],
+   "n_authors": 4,
+   "abstract": "Purpose Measuring onsite productivity has been a substance of debate in the construction industry, mainly due to concerns about accuracy, repeatability and unbiasedness. Such characteristics are central to demonstrate construction speed that can be achieved through adopting new prefabricated systems. Existing productivity measurement methods, however, cannot cost-effectively provide solid and replicable evidence of prefabrication benefits. This research proposes a low-cost automated method for measuring onsite installation productivity of prefabricated systems. Design/methodology/approach Firstly, the captured ultra-wide footages are undistorted by extracting the curvature contours and performing a developed meta-heuristic algorithm to straighten these contours. Then a preprocessing algorithm is developed that could automatically detect and remove the noises caused by vibrations and movements. Because this study aims to accurately measure the productivity the noise free images are double checked in a specific time window to make sure that even a tiny error, which have not been detected in the previous steps, will not been amplified through the process. In the next step, the existing side view provided by the camera is converted to a top view by using a spatial transformation method. Finally, the processed images are compared with the site drawings in order to detect the construction process over time and report the measured productivity. Findings The developed algorithms perf"
+  },
+  {
+   "id": "https://openalex.org/W4392785401",
+   "doi": "10.1108/sasbe-07-2023-0180",
+   "title": "Enhancing accuracy in construction overhead cost estimation: a novel integration of activity-based costing and building information modelling",
+   "publication_year": 2024,
+   "source": "Smart and Sustainable Built Environment",
+   "type": "article",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "M Naderi",
+    "Ahad Nazari",
+    "Ali Shafaat",
+    "Sepehr Abrishami"
+   ],
+   "n_authors": 4,
+   "abstract": "Purpose This study addresses the prevailing complexities and limitations in estimating and managing construction overhead costs (COCs) in the existing literature, with the purpose of enhancing the accuracy of cost performance indicators in construction project management. Design/methodology/approach An innovative approach is proposed, employing the activity-based costing (ABC) accounting method combined with building information modelling (BIM) to assign real overhead costs to project activities. This study, distinguished by its incorporation of a real case study, focuses on an administrative building with a four-story concrete structure. It establishes an automated method for evaluating project cost performance through the detailed analysis of earned value management (EVM) cost indicators derived from ABC results and BIM data. Findings The results show that the ABC integration improves the accuracy of cost performance indicators by over 9%, revealing the project's true cost index for the first time and demonstrating the substantial value of the approach in construction engineering and management. Research limitations/implications The current study highlights a notable gap in the existing literature, addressing the challenges in onsite overhead cost estimation and offering a solution that incorporates the state-of-the-art techniques. Practical implications The proposed method has significant implications for project managers and practitioners, enabling better-informed decisio"
+  },
+  {
+   "id": "https://openalex.org/W3182673766",
+   "doi": "10.1061/(asce)cp.1943-5487.0000981",
+   "title": "Automatic Identification of Idling Reasons in Excavation Operations Based on Excavator\u2013Truck Relationships",
+   "publication_year": 2021,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "Chen Chen",
+    "Zhenhua Zhu",
+    "Amin Hammad",
+    "Mohammad Akbarzadeh"
+   ],
+   "n_authors": 4,
+   "abstract": "Excavators and trucks are important equipment for earthwork operations, which make major contributions to construction productivity. To control the work efficiency and productivity of earthwork equipment, computer vision (CV) methods have been proposed to monitor equipment operations from site surveillance videos. Existing methods can recognize equipment activities to estimate the working and idling times. Idling time is an important factor that influences equipment productivity; however, the causes of equipment idling have not been considered in previous CV methods. Therefore, this research proposes a method to identify the main causes of excavator and truck idling by analyzing their interactive operations. First, the activities of the excavators and trucks are identified using convolutional neural networks. Then, work groups of excavators and trucks are clustered. Finally, the relationships between each excavator and the surrounding trucks are analyzed to identify the potential reason for idling. The proposed method was validated with videos from several construction sites, and the results were promising."
+  },
+  {
+   "id": "https://openalex.org/W3192429317",
+   "doi": "10.1051/e3sconf/202128206004",
+   "title": "Innovative and export potential of the agro-industrial complex of Uzbekistan",
+   "publication_year": 2021,
+   "source": "E3S Web of Conferences",
+   "type": "conference-paper",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "N.K. Yuldashev",
+    "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0418\u043d\u043d\u043e\u043a\u0435\u043d\u0442\u044c\u0435\u0432\u0438\u0447 \u041d\u0430\u0431\u043e\u043a\u043e\u0432",
+    "\u041d\u0435\u043a\u0440\u0430\u0441\u043e\u0432 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d \u0412\u0438\u043a\u0442\u043e\u0440\u043e\u0432\u0438\u0447",
+    "Bobir Ortikmirzaevich Tursunov"
+   ],
+   "n_authors": 4,
+   "abstract": "The agro-industrial complex (AIC) is becoming one of the main in the economy of Uzbekistan. In recent years, work has been carried out to reform it fundamentally. The normative and legal framework for its functioning has been formed, public administration has been improved. The market mechanism of management is being introduced. Investments are attracted. The structure of acreage is optimized by reducing cotton crops and placing fruit and vegetable crops on them. New intensive gardens and vineyards are being created, innovative greenhouses are being built. Work is carried out on construction and reconstruction of collectors and hydraulic structures, refrigeration chambers for fruit and vegetable products\u2019 storage, introduction of new equipment and technologies in it. The processing industry is developing, the volume and range of products is increasing, including innovative and its export. Integration of producers and processors of agricultural products is intensifying. At the same time, there are still significant reserves in the agro-industrial complex of Uzbekistan. The efficiency in natural resources\u2019 use is low. The irrigated agricultural land are is small. The technical and digital equipment of personal subsidiary farms and labor productivity in them are low. Uzbekistan is implementing a course for innovative development. The President of the Republic approved the Strategy for the agriculture development of the republic for 2020-2030. It sets the tasks of significant inc"
+  },
+  {
+   "id": "https://openalex.org/W3013150083",
+   "doi": "10.1016/j.jclepro.2020.121291",
+   "title": "Use and intensity of electronic invoices in firms: The example of Sweden",
+   "publication_year": 2020,
+   "source": "Journal of Cleaner Production",
+   "type": "article",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "Eva Hagsten",
+    "Martin Falk"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2993850790",
+   "doi": "10.36680/j.itcon.2019.028",
+   "title": "Single- and multi-label classification of construction objects using deep transfer learning methods",
+   "publication_year": 2019,
+   "source": "Journal of Information Technology in Construction",
+   "type": "article",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "Nipun D. Nath",
+    "Theodora Chaspari",
+    "Amir H. Behzadan"
+   ],
+   "n_authors": 3,
+   "abstract": "Digital images are extensively used to increase the accuracy and timeliness of progress reports, safety training, requests for information (RFIs), productivity monitoring, and claims and litigation. While these images can be sorted using date and time tags, the task of searching an image dataset for specific visual content is not trivial. In pattern recognition, generating metadata tags describing image contents (objects, scenes) or appearance (colors, context) is referred to as multi-label image annotation. Given the large number and diversity of construction images, it is desirable to generate image tags automatically. Previous work has applied pattern matching to synthetic images or images obtained from constrained settings. In this paper, we present deep learning (particularly, transfer learning) algorithms to annotate construction imagery from unconstrained real-world settings with high fidelity. We propose convolutional neural network (CNN)-based algorithms which take RGB values as input and output the labels of detected objects. Particularly, we have investigated two categories of classification tasks: single-label classification, i.e., a single class (among multiple predefined classes) is assigned to an image, and multi-label classification, i.e., a set of (one or more) classes is assigned to an image. For both cases, the VGG-16 model, pre-trained on the ImageNet dataset, is trained on construction images retrieved with web mining techniques and labeled by human annot"
+  },
+  {
+   "id": "https://openalex.org/W3043079099",
+   "doi": "10.18720/mce.77.6",
+   "title": "Organizational and technological reliability of the construction process",
+   "publication_year": 2018,
+   "source": "Magazine of Civil Engineering",
+   "type": "article",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "\u041a\u0430\u0431\u0430\u043d\u043e\u0432 \u0412\u0430\u0434\u0438\u043c \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447"
+   ],
+   "n_authors": 1,
+   "abstract": "Construction projects of buildings and structures, as well as plans of construction and installation works are often subjected to fair criticism from the Pro-producers of the work. Such criticism is that the calculated cost value and long lasting-STI CMP does not take into account the specificity of real contractors. To address these criticisms and proposals were developed for the assessment of such intensity values of SMR production, which most realistically take into account the actual conditions of construction and Contracting organization. The application of the classical methods of probability theory simplifies the procedure of collecting background information and in some cases allows you to use the results of the numerical experiment. Computational procedures require special training and is easily amenable to automation (programming). The result of the research represents the author's method of estimating the quantitative strength value of organizational and technological reliability with regard to construction, manual processes, and technological solutions providing leading mechanization, subject to the calculation of the intensity of works as the sum of labor productivity of employed workers."
+  },
+  {
+   "id": "https://openalex.org/W67204581",
+   "doi": "10.22260/isarc2013/0072",
+   "title": "Vision-Based Action Recognition in the Internal Construction Site Using Interactions between Worker Actions and Construction Objects",
+   "publication_year": 2013,
+   "source": "International Symposium on Automation and Robotics in Construction (ISARC)",
+   "type": "conference-paper",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "J. Y. Kim",
+    "Carlos H. Caldas"
+   ],
+   "n_authors": 2,
+   "abstract": "This paper presents a novel action recognition method for observing human workers using interactions between actions and related objects on an internal construction site. This method can be used to measure work rates for labour productivity monitoring. This monitoring is critical because the performance of a construction project is significantly impacted by labour productivity. However, construction sites are generally crowded with a large number of workers and objects. Such congestion disrupts the accurate, automatic recognition of construction workers\u0092 actions. This congestion is one reason that existing automatic action recognition studies of construction areas mainly focus on workers\u0092 actions themselves. However, the crowded conditions mean that sites could offer a great deal of clues that could be used for automatic action recognition. According to psychological studies, interactions clearly take place between human actions and related objects, such as between hammering and a hammer. Humans use these interactions to recognize actions or objects more accurately. On the construction site, workers, materials, tools, and equipment are carefully planned out ahead of actual construction. The categories of workers and objects are pre-defined and, as noted, specific interactions define relations between worker actions and objects. In this paper, the interactions are limited to human workers and their hand-held objects. Action recognition results can be combined with hand-held ob"
+  },
+  {
+   "id": "https://openalex.org/W4401845314",
+   "doi": "10.1061/jcemd4.coeng-14194",
+   "title": "Automatic Vision-Based Dump Truck Productivity Measurement Based on Deep-Learning Illumination Enhancement for Low-Visibility Harsh Construction Environment",
+   "publication_year": 2024,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 26,
+   "relevance_score": null,
+   "authors": [
+    "Tao Deng",
+    "Abubakar Sharafat",
+    "Soomin Lee",
+    "Jongwon Seo"
+   ],
+   "n_authors": 4,
+   "abstract": "Productivity assessment plays a key role in successful earthwork projects and is primarily achieved by monitoring key construction equipment such as excavators and dump trucks. Vision-based methods are widely adopted to analyze the productivity of construction equipment in earthwork projects. These methods are inexpensive and easy to implement and maintain. However, previous studies on vision-based productivity analysis of earthmoving equipment have predominantly demonstrated its effectiveness under favorable conditions characterized by stable lighting, areas devoid of shadows, and high-visibility environments free from significant occlusion by other objects or terrain. There is a significant illumination difference and limited visibility under harsh low-visibility conditions at earthwork construction sites, which makes it difficult to achieve reliable identification accuracy using these already developed methods. To address this problem, this study proposes an automatic vision-based dump truck productivity measurement method based on a deep learning illumination enhancement algorithm combined with transfer learning for low-visibility, harsh conditions at earthwork construction sites. This method uses an internet of things (IoT) system equipped with a camera to capture the image and a deep learning illumination enhancement algorithm, trainable deep hybrid network (TDHN), to enhance the image quality under low-light conditions at earthwork sites. Then, a deep convolutional neu"
+  },
+  {
+   "id": "https://openalex.org/W4389437554",
+   "doi": "10.3390/systems11120570",
+   "title": "Evaluation of Lean Manufacturing Tools and Digital Technologies Effectiveness for Increasing Labour Productivity in Construction",
+   "publication_year": 2023,
+   "source": "Systems",
+   "type": "article",
+   "cited_by_count": 25,
+   "relevance_score": null,
+   "authors": [
+    "Kirill Kulakov",
+    "Alexandr K. Orlov",
+    "Vadim Kankhva"
+   ],
+   "n_authors": 3,
+   "abstract": "Multiple studies are devoted to problems of construction labour productivity and methods of increasing it. These studies contain systematized factors and the main measures that can be applied to influence them. However, the issues of reducingdowntime in design and construction by integrating Lean manufacturing tools and innovative digital technologies to increase construction labour productivity have not yet been actively studied. This paper examines the quantitative assessment of the impact of tools for Lean construction and the digitalization of business processes on labour productivity when implementing investment projects in development and changes in the effectiveness of projects. The conducted study contains an extensive review of the literature, identifies time losses as an important labour productivity factor, proposes a practical approach to the implementation of Lean 4.0 technology in the activities of a development company, and provides practical calculations of labour productivity for the existing project. Expert and calculated evidence of the positive impact of Lean 4.0 on labour productivity and performance parameters of construction projects are presented here. The effects of the introduction of tools and principles of Lean-digital technologies for construction project participants, as well as recommendations for the implementation of the proposed approach in construction practice, are discussed."
+  },
+  {
+   "id": "https://openalex.org/W2318859862",
+   "doi": "10.1061/9780784413517.075",
+   "title": "Automated Worker Activity Analysis in Indoor Environments for Direct-Work Rate Improvement from Long Sequences of RGB-D Images",
+   "publication_year": 2014,
+   "source": "ASCE Construction Research Congress (CRC)",
+   "type": "conference-paper",
+   "cited_by_count": 24,
+   "relevance_score": null,
+   "authors": [
+    "Ardalan Khosrowpour",
+    "Igor Fedorov",
+    "Aleksander Holynski",
+    "Juan Carlos Niebles",
+    "Mani Golparvar\u2010Fard"
+   ],
+   "n_authors": 5,
+   "abstract": "This paper presents a new method for activity analysis of construction workers using inexpensive RGB+depth sensors. This is an important task, as no current workforce assessment method can provide detailed and continuous information to help project managers identify bottlenecks affecting labor's productivity. Previous work using RGB-D images focuses on action recognition form short video sequences wherein only one action is represented within each video. Automating this analysis for long sequences of RGB-D images is challenging because the start and the end of each action is unknown, recognizing single actions is still challenging, and there are no data sets and validation metrics to evaluate algorithms. Given an input sequence of RGB-D images, our algorithm divides it into temporal segments and automatically classifies the observed actions. To do so, the algorithm first detects body postures in real time. Then a kernel density estimation (KDE) model is trained to model classification scores from discriminatively trained bag-of-poses action classifiers. Further, a hidden Markov model (HMM) labels sequences of actions that are most discriminative. The performance of our model is tested on unprecedented data sets of actual drywall construction operations. Experimental results, in addition to the perceived benefits and limitations of the proposed method, are discussed in detail."
+  },
+  {
+   "id": "https://openalex.org/W3082095588",
+   "doi": "10.24425/ace.2020.134412",
+   "title": "Predicting Index to Complete Schedule Performance Indicator in Highway Projects Using Artificial Neural Network Model",
+   "publication_year": 2020,
+   "source": "Archives of Civil Engineering",
+   "type": "article",
+   "cited_by_count": 23,
+   "relevance_score": null,
+   "authors": [
+    "Nidal Adnan Jasim",
+    "Shelan M. Maruf",
+    "Hadi Salih Mijwel Aljumaily",
+    "Faiq M. S. Al-Zwainy"
+   ],
+   "n_authors": 4,
+   "abstract": "Inaccurate estimation in highway projects represents a major problem facing planners and estimators, especially when data and information about the projects are not available, and therefore the need to use modern technologies that addresses the problem of inaccuracy of estimation arises. The current methods and techniques used to estimate earned value indexes in Iraq are weak and inefficient. In addition, there is a need to adopt new and advanced technologies to estimate earned value indexes that are fast, accurate and flexible to use. The main objective of this research is to use an advanced method known as artificial neural networks to estimate the TSPI of highway buildings. The application of artificial neural networks as a new digital technology in the construction industrial in Republic of Iraq is absolutely necessary to ensure successful project management. One model built to predict the TCSPI of highway projects. In this current study, artificial neural network model were used to model the process of estimating earned value indexes, and several cases related to the construction of artificial neural networks have been studied, including network architecture and internal factors and the extent of their impact on the performance of artificial neural network models. Easy equation was developed to calculate that TSPI. It was found that these networks have the ability to predict the TSPI of highway projects with a very outstanding saucepan of reliability (97.00%), and the ac"
+  },
+  {
+   "id": "https://openalex.org/W4402349676",
+   "doi": "10.1016/j.aei.2024.102793",
+   "title": "A decision-support productive resource recommendation system for enhanced construction project management",
+   "publication_year": 2024,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 22,
+   "relevance_score": null,
+   "authors": [
+    "Fatemeh Mostofi",
+    "Onur Behzat Tokdemir",
+    "Vedat To\u011fan"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4205850026",
+   "doi": "10.1109/ieeeconf53624.2021.9668172",
+   "title": "Automated Monitoring For Construction Productivity Recognition",
+   "publication_year": 2021,
+   "source": "International Sustainability and Resilience Conference",
+   "type": "conference-paper",
+   "cited_by_count": 22,
+   "relevance_score": null,
+   "authors": [
+    "Khalid Mhmoud Alzubi",
+    "Wesam Salah Alaloul",
+    "Marsail Al Salaheen",
+    "Abdul Hannan Qureshi",
+    "Muhammad Ali Musarat",
+    "Abdullah O. Baarimah"
+   ],
+   "n_authors": 6,
+   "abstract": "Comparing to other sectors, the construction sector suffers from low productivity, and it is not improving over time due to the unique nature of construction projects. It is believed that construction productivity cannot be improved without efficient monitoring and measuring, and this is crucial for project success. There are many limitations for the traditional construction productivity monitoring practices like time and cost consuming and error-prone. Although a lot of studies have been implemented to eliminate these limitations, a gap still exists in the automated monitoring of construction productivity. This study proposes an automated monitoring model for indoor productivity recognition in construction projects. The model will provide an instant evaluation of the project productivity which will enhance the optimum utilization of the project resources. The proposed model will be developed by first generating a baseline for the activities state which will be represented as baseline state model. Then the as-built model will be generated. Preliminary experimentation was performed on selected images where the number of tiles and bricks was obtained. The experimentation was performed using Open-Source Computer Vision Library (OpenCV). Preliminary results depict that by using the proposed model the automated monitoring of productivity is achievable. Although, there is a need of dedicated efforts for improvement and development of technique for more effective and efficient resul"
+  },
+  {
+   "id": "https://openalex.org/W3134767695",
+   "doi": "10.32609/0042-8736-2021-3-31-67",
+   "title": "Labor productivity in the non-resource sectors of the Russian economy: What determines firm-level growth?",
+   "publication_year": 2021,
+   "source": "Voprosy Ekonomiki",
+   "type": "article",
+   "cited_by_count": 22,
+   "relevance_score": null,
+   "authors": [
+    "Yuri V. Simachev",
+    "\u041a\u0443\u0437\u044b\u043a \u041c\u0438\u0445\u0430\u0438\u043b \u0413\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u0438\u0447",
+    "Anna A. Fedyunina",
+    "Alexander Zaytsev",
+    "Maksim A. Yurevich"
+   ],
+   "n_authors": 5,
+   "abstract": "The study discusses underlying factors of labor productivity in firms of basic non-resource industries of the Russian economy and considers the role of innovation and investment activity, human capital development, competitive environment and government support. The data is based on the results of a survey of managers of 713 companies in basic non-resource industries (manufacturing, agriculture, transport, construction). We find high level of divergence of firm productivity at the industry level. We show that higherlevelof productivity is accompanied with investments in human capital, in fixed assets, as well as the use of digital technologies, but we do not find that higher productivity is accompanied by innovations and expenditures on research and development. We show that productivitygrowthis combined not only with investment, but also with innovative activity (process innovations) and R&D expenditures. The driver of productivity growth is the private sector: the increase in productivity is driven by firms serving the demand of private medium and large companies. Competitive environment is another factor: moderate competition with import (which acts as a stimulus for innovations of Russian companies) is a condition for the productivity growth."
+  },
+  {
+   "id": "https://openalex.org/W4412758196",
+   "doi": "10.1016/j.autcon.2025.106426",
+   "title": "Automated machine learning pipeline for robust project cost and duration forecasting",
+   "publication_year": 2025,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 21,
+   "relevance_score": null,
+   "authors": [
+    "Filippo Maria Ottaviani",
+    "Pablo Ballesteros\u2010P\u00e9rez",
+    "Timur Narbaev"
+   ],
+   "n_authors": 3,
+   "abstract": "Projects often face issues that trigger project controls, where Estimates at Completion (EACs) play a crucial role in determining the scope of corrective actions. Recent studies have applied supervised Machine Learning (ML) regression techniques to develop EAC models, utilizing features derived from Earned Value Management (EVM) and Earned Schedule Management (ESM) methodologies. However, these studies overlook several underfitting and overfitting issues that could compromise model robustness, leading to biased results. This paper introduces an ML pipeline designed to address these issues through automated procedures for data balancing and augmentation, feature engineering, and model training and evaluation. The pipeline was tested with 30 ML techniques on a dataset of 50 real-world construction projects. Results show that the EAC models developed through the pipeline achieve superior accuracy, precision, and timeliness to EVM and ESM ones. These findings validate the pipeline and offer practitioners an automated framework for developing robust, ML-based EAC models."
+  },
+  {
+   "id": "https://openalex.org/W4404486107",
+   "doi": "10.3390/app142210605",
+   "title": "Application of Machine Learning in Construction Productivity at Activity Level: A Critical Review",
+   "publication_year": 2024,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 21,
+   "relevance_score": null,
+   "authors": [
+    "Ying Terk Lim",
+    "Wen Yi",
+    "Huiwen Wang"
+   ],
+   "n_authors": 3,
+   "abstract": "There are two crucial resources (i.e., labor and equipment) of productivity in the construction industry. Productivity modeling of these resources would aid stakeholders in project management and improve construction scheduling and monitoring. Hence, this research aims to review machine learning (ML) applications in the process of construction productivity modeling (CPM) for construction labor productivity (CLP) and construction equipment productivity (CEP) from dataset acquisition to data analysis and evaluation, which includes their trends and applicability. An extensive analysis of 131 journals focused on the application of machine learning in construction productivity (ML-CP) from 1990 to 2024 via a mixed review methodology (bibliometric analysis and systematic review) was conducted. It can be concluded that despite the rise in automated dataset collection, the traditional method has its advantages. The review further found that the selection of ML models relies on each particular application, available data, and computational resources. Noticeably, artificial neural networks, convolutional neural networks, support vector machines, and even deep learning demonstrating have been adopted due to their effectiveness in different functionalities and processes in CPM. This study will supplement the insights gained in the review with a comprehensive understanding of how ML applications operate at each stage of CPM, enabling researchers to make future improvements."
+  },
+  {
+   "id": "https://openalex.org/W4401068808",
+   "doi": "10.1016/j.autcon.2024.105644",
+   "title": "Automated productivity analysis of cable crane transportation using deep learning-based multi-object tracking",
+   "publication_year": 2024,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 21,
+   "relevance_score": null,
+   "authors": [
+    "Hao Wang",
+    "Qigui Yang",
+    "Quan Liu",
+    "Chunju Zhao",
+    "Wei Zhou",
+    "Hongyang Zhang"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W7105234699",
+   "doi": "10.30574/gjeta.2024.21.3.0233",
+   "title": "Managing large-scale capital projects in oil and gas: Cross-functional engineering leadership, cost performance and execution excellence",
+   "publication_year": 2024,
+   "source": "Global Journal of Engineering and Technology Advances",
+   "type": "article",
+   "cited_by_count": 20,
+   "relevance_score": null,
+   "authors": [
+    "Victor Nnanyelu Onyechi"
+   ],
+   "n_authors": 1,
+   "abstract": "Managing large-scale capital projects in the oil and gas sector requires rigorous coordination of technical, financial, and organizational resources to ensure predictable delivery, cost control, and operational reliability. These projects, often characterized by multi-billion-dollar budgets, geographically distributed teams, volatile market conditions, and demanding regulatory frameworks, are inherently complex and exposed to significant execution risks. Traditional project management approaches, while providing foundational planning, scheduling, and contracting structures, frequently fall short when cross-functional engineering alignment and real-time performance visibility are lacking. Contemporary project execution models emphasize integrated project delivery, where multidisciplinary engineering teams collaborate from concept development through commissioning using shared data environments, digital asset models, and standardized decision-gate controls. This cross-functional leadership approach strengthens design consistency, improves procurement agility, and mitigates scope growth and rework. In parallel, cost performance strategies now leverage advanced cost modeling, probabilistic estimating, and continuous cost-risk reconciliation to manage uncertainties proactively rather than reactively. Digital project control systems, including earned value analytics, construction productivity tracking, and scenario-based forecasting, offer greater transparency for stakeholders and "
+  },
+  {
+   "id": "https://openalex.org/W7219325733",
+   "doi": null,
+   "title": "Digitalization and Economic Growth",
+   "publication_year": 2022,
+   "source": "Miasto Przysz\u0142o\u015bci",
+   "type": "article",
+   "cited_by_count": 20,
+   "relevance_score": null,
+   "authors": [
+    "Bustonov Mansurjon Mardonakulovich"
+   ],
+   "n_authors": 1,
+   "abstract": "Studies of the state of development of the economies of developing countries indicate the need for reforms, the goal of which should be the creation of conditions conducive to ensuring sustainable economic growth based on intensive development factors. The construction of a new economic system requires, on the one hand, consideration of traditional factors of economic growth - the accumulation of material resources, the natural increase in the working-age population, technological progress and the growth of labor productivity, and, on the other hand, ensuring an effective combination of human, natural and physical capital - the main factors of economic development."
+  },
+  {
+   "id": "https://openalex.org/W4226481790",
+   "doi": "10.1680/jsmic.21.00031",
+   "title": "Automating excavator productivity measurement using deep learning",
+   "publication_year": 2021,
+   "source": "Proceedings of the Institution of Civil Engineers - Smart Infrastructure and Construction",
+   "type": "article",
+   "cited_by_count": 20,
+   "relevance_score": null,
+   "authors": [
+    "Elham Mahamedi",
+    "Kay Rogage",
+    "Omar Doukari",
+    "Mohamad Kassem"
+   ],
+   "n_authors": 4,
+   "abstract": "Heavy equipment represents a major cost element and a critical resource in large infrastructure projects. Automating the measurement of its productivity is important to remove the inaccuracies and inefficiencies of current manual measurement processes and to improve the performance of projects. Existing studies have prevalently focused on equipment activity recognition using mainly vision-based systems that require intrusive field installation and the application of more computationally demanding methods. This study aims to automate the measurement of equipment productivity using a combination of smartphone sensors to collect kinematic and noise data and deep learning algorithms. Different combination inputs and deep learning methods were implemented and tested in a real-world case study of a demolition activity. The results demonstrated a very high accuracy (99.78%) in measuring the productivity of the excavator. Construction projects can benefit from the proposed method to automate productivity measurement, identify equipment inefficiencies in near real time and inform corrective actions."
+  },
+  {
+   "id": "https://openalex.org/W2781016169",
+   "doi": "10.1007/978-981-10-6190-5_51",
+   "title": "Correlation Analysis of Key Influencing Factors to the Total Factor Productivity of the Hong Kong Construction Industry",
+   "publication_year": 2017,
+   "source": "Springer eBooks",
+   "type": "conference-paper",
+   "cited_by_count": 20,
+   "relevance_score": null,
+   "authors": [
+    "Wenting Zhan",
+    "Wei Pan",
+    "Arshad Ali Javed",
+    "Kwok\u2010wing Chau"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2513059983",
+   "doi": "10.1016/j.autcon.2016.08.028",
+   "title": "Micro-motion level simulation for efficiency analysis and duration estimation of manual operations",
+   "publication_year": 2016,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 20,
+   "relevance_score": null,
+   "authors": [
+    "Alireza Golabchi",
+    "SangUk Han",
+    "Simaan AbouRizk",
+    "Jim Kanerva"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4412635417",
+   "doi": "10.3390/agriculture15151588",
+   "title": "Digital Infrastructure and Agricultural Global Value Chain Participation: Impacts on Export Value-Added",
+   "publication_year": 2025,
+   "source": "Agriculture",
+   "type": "article",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Yutian Zhang",
+    "Linyan Ma",
+    "Feng Wei"
+   ],
+   "n_authors": 3,
+   "abstract": "[Objective] Digital infrastructure, with its fundamental and public good characteristics, can have a significant impact on export trade. This paper aims to analyze the impact and mechanism of digital infrastructure construction on the added value of agricultural exports by combining theory and empirical analysis. [Methodology] Based on the construction of the theoretical framework and the panel data of 61 economies from 2007 to 2021, the fixed effect model was used to explore the impact of the level of digital infrastructure on the added value of agricultural trade exports and the moderating effect of participation in the global agricultural value chain. [Results] (1) The construction of digital infrastructure is conducive to increasing the added value of agricultural exports. Specifically, a 1% increase in the level of digital infrastructure will promote a 0.159% increase in the added value of agricultural exports. (2) The construction of digital infrastructure affects the added value of agricultural exports through three mechanisms: enhancing labor productivity, optimizing the business environment, and promoting technological innovation. (3) Digital infrastructure has a more significant effect on enhancing the added value of agricultural exports in developed economies and those with higher levels of digital infrastructure. (4) Participation in the global value chain of agriculture has a moderating effect on the impact of digital infrastructure on the added value of agricult"
+  },
+  {
+   "id": "https://openalex.org/W4401034243",
+   "doi": "10.36680/j.itcon.2024.023",
+   "title": "Least Square Moment Balanced Machine: A New Approach To Estimating Cost To Completion For Construction Projects",
+   "publication_year": 2024,
+   "source": "Journal of Information Technology in Construction",
+   "type": "article",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Min\u2010Yuan Cheng",
+    "Riqi Radian Khasani"
+   ],
+   "n_authors": 2,
+   "abstract": "In the construction industry, traditional methods of cost estimation are inefficient and cannot reflect real-time changes. Modern techniques are essential to create new tools that outperform current cost estimation. This study introduced the Least Square Moment Balanced Machine (LSMBM), AI-based inference engine, to improve construction cost prediction accuracy. LSMBM considers moments to determine the optimal hyperplane and uses the Backpropagation Neural Network (BPNN) to assign weights to each data point. The effectiveness of LSMBM was tested by predicting the construction costs of residential and reinforced concrete buildings. Correlation analysis, PCA, and LASSO were used for feature selection to identify the most relevant variables, with the combination of LSMBM-PCA giving the best performance. When compared to other machine learning models, the LSMBM model achieved the lowest error values, with an RMSE of 0.016, MAE of 0.010, and MAPE of 4.569%. The overall performance measurement reference index (RI) further confirmed the superiority of LSMBM. Furthermore, LSMBM performed better than the Earned Value Management (EVM) method. LSMBM model has proven to enhanced the precision in predicting cost estimates, facilitating project managers to anticipate potential cost overruns and optimize resource allocation, provide information for strategic and operational decision-making processes in construction projects."
+  },
+  {
+   "id": "https://openalex.org/W4386418078",
+   "doi": "10.3390/s23177635",
+   "title": "Productivity Measurement through IMU-Based Detailed Activity Recognition Using Machine Learning: A Case Study of Masonry Work",
+   "publication_year": 2023,
+   "source": "Sensors",
+   "type": "article",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Sungkook Hong",
+    "Youngjib Ham",
+    "Jaeyoul Chun",
+    "Hyunsoo Kim"
+   ],
+   "n_authors": 4,
+   "abstract": "Although measuring worker productivity is crucial, the measurement of the productivity of each worker is challenging due to their dispersion across various construction jobsites. This paper presents a framework for measuring productivity based on an inertial measurement unit (IMU) and activity classification. Two deep learning algorithms and three sensor combinations were utilized to identify and analyze the feasibility of the framework in masonry work. Using the proposed method, worker activity classification could be performed with a maximum accuracy of 96.70% using the convolutional neural network model with multiple sensors, and a minimum accuracy of 72.11% using the long short-term memory (LSTM) model with a single sensor. Productivity could be measured with an accuracy of up to 96.47%. The main contributions of this study are the proposal of a method for classifying detailed activities and an exploration of the effect of the number of IMU sensors used in measuring worker productivity."
+  },
+  {
+   "id": "https://openalex.org/W4322100529",
+   "doi": "10.1108/ecam-04-2022-0345",
+   "title": "Knowledge extraction for solving resource-constrained project scheduling problem through decision tree",
+   "publication_year": 2023,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Linlin Xie",
+    "Yajiao Chen",
+    "Sisi Wu",
+    "Ruidong Chang",
+    "Yilong Han"
+   ],
+   "n_authors": 5,
+   "abstract": "Purpose Project scheduling plays an essential role in the implementation of a project due to the limitation of resources in practical projects. However, the existing research tend to focus on finding suitable algorithms to solve various scheduling problems and fail to find the potential scheduling rules in these optimal or near-optimal solutions, that is, the possible intrinsic relationships between attributes related to the scheduling of activity sequences. Data mining (DM) is used to analyze and interpret data to obtain valuable information stored in large-scale data. The goal of this paper is to use DM to discover scheduling concepts and obtain a set of rules that approximate effective solutions to resource-constrained project scheduling problems. These rules do not require any search and simulation, which have extremely low time complexity and support real-time decision-making to improve planning/scheduling. Design/methodology/approach The resource-constrained project scheduling problem can be described as scheduling a group of interrelated activities to optimize the project completion time and other objectives while satisfying the activity priority relationship and resource constraints. This paper proposes a new approach to solve the resource-constrained project scheduling problem by combining DM technology and the genetic algorithm (GA). More specifically, the GA is used to generate various optimal project scheduling schemes, after that C4.5 decision tree (DT) is adopte"
+  },
+  {
+   "id": "https://openalex.org/W4200326820",
+   "doi": "10.1177/03611981211064277",
+   "title": "Mapping Unmanned Aerial System Data onto Building Information Modeling Parameters for Highway Construction Progress Monitoring",
+   "publication_year": 2021,
+   "source": "Transportation Research Record Journal of the Transportation Research Board",
+   "type": "article",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Reihaneh Samsami",
+    "Amlan Mukherjee",
+    "Colin Brooks"
+   ],
+   "n_authors": 3,
+   "abstract": "The transportation infrastructure management sector lacks automated procedures that can help it find and resolve the performance deviations. The objective of this research is to illustrate the mapping of Unmanned Aerial System (UAS) collected photogrammetric data to building information modeling (BIM) parameters, and their application for automated construction progress monitoring and the generation of as-built models. The goal is to support project managers to estimate project progress during highway construction. As a part of ongoing work, this paper takes into account 4D (3D + time) data that is acquired from 3D surface digital elevation models, point clouds, LiDAR data, and orthographic photos. It maps these 4D data onto BIM parameters to create as-built models of the project at different intervals. A comparison between as-planned and as-built models using the earned value management method is employed to develop metrics that can be used for indicating cost and schedule deviations during construction. The mapping methodology introduced in this paper is illustrated using an ongoing highway construction project case study. The main contribution of this paper is the organization, processing, and integration of UAS data with BIM data structures and project management workflows. The research outcomes will assist project managers in an easy and quick identification of potential performance problems and support the project management decision-making process."
+  },
+  {
+   "id": "https://openalex.org/W2998876260",
+   "doi": "10.1061/9780784482438.031",
+   "title": "Vision-Based Excavator Activity Recognition and Productivity Analysis in Construction",
+   "publication_year": 2019,
+   "source": "ASCE International Conference on Computing in Civil Engineering (i3CE)",
+   "type": "conference-paper",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Chen Chen",
+    "Zhenhua Zhu",
+    "Amin Hammad",
+    "Walid Ahmed"
+   ],
+   "n_authors": 4,
+   "abstract": "Equipment activity recognition plays an important role in automating the analysis of onsite construction productivity, considering that human observation is always labor-intensive and time-consuming. Recently, several methods have been proposed to recognize the activity of construction equipment from videos. However, one of their common issues is the failure to conduct the recognition in a long video for classifying a sequence of equipment activities. This paper proposes a novel equipment recognition method with the support of a three-dimensional (3D) convolutional neural network. The network could extract both temporal and spatial information of the equipment to recognize its activities in a long video. The recognition results are further compiled and analyzed to identify the equipment productivity. The proposed method was tested to recognize the excavator activities (digging, swinging, and loading) on real construction sites. The results showed that the method outperformed existing equipment activity recognition methods in terms of accuracy and robustness."
+  },
+  {
+   "id": "https://openalex.org/W2763756528",
+   "doi": "10.1016/j.autcon.2017.09.008",
+   "title": "Computational algorithm to automate as-built schedule development using digital daily work reports",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "K. Joseph Shrestha",
+    "H. David Jeong"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2040678283",
+   "doi": "10.1061/(asce)cp.1943-5487.0000155",
+   "title": "Planning-Based Approach for Fusing Data from Multiple Sources for Construction Productivity Monitoring",
+   "publication_year": 2011,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 19,
+   "relevance_score": null,
+   "authors": [
+    "Anu R. Pradhan",
+    "Burcu Akinci"
+   ],
+   "n_authors": 2,
+   "abstract": "Project management tasks, such as productivity monitoring and cost estimation, require data to be fused from multiple data sources. Data fusion approaches incorporated in the existing research studies within the construction management domain support a specific task or a decision (e.g., labor productivity monitoring or defect detection). Hence, most of the previously developed approaches do not necessarily support tasks other than the ones that they were intended for. This paper describes an automated planning approach as a general way to fuse data from multiple sources to support construction productivity monitoring tasks. A prototype system, which incorporates two planning algorithms, was developed to validate the generality of the approach on the basis of representative queries of construction engineers and managers identified in previous research studies."
+  },
+  {
+   "id": "https://openalex.org/W4413414380",
+   "doi": "10.1007/978-3-031-87352-2_24",
+   "title": "Impact of Predictive Analytics (PA), Artificial Intelligence (AI), and Digital Twin (DT) on Construction Planning and Scheduling",
+   "publication_year": 2025,
+   "source": "Green energy and technology",
+   "type": "book-chapter",
+   "cited_by_count": 18,
+   "relevance_score": null,
+   "authors": [
+    "Abreham D. Tolba",
+    "Belachew Asteray Demiss",
+    "Walied A. Elsaigh"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4399143539",
+   "doi": "10.1016/j.jer.2024.05.029",
+   "title": "Integrating risk management and earned value framework to detect early warning signs \u2013 Case study",
+   "publication_year": 2024,
+   "source": "Journal of Engineering Research",
+   "type": "article",
+   "cited_by_count": 18,
+   "relevance_score": null,
+   "authors": [
+    "Ehab Soliman",
+    "Khaled A. Alrasheed",
+    "Saqer Al-Ghanim",
+    "Eshrak Morsi"
+   ],
+   "n_authors": 4,
+   "abstract": "The construction industry, renowned for its inherent risks, faces challenges stemming from diverse factors such as conflicting stakeholder objectives and environmental fluctuations. To address these uncertainties, Risk Management (RM) procedures serve as preemptive measures to alleviate the impact of potential risks. This research introduces an integration framework that amalgamates principles of risk management with the earned value technique, specifically tailored for managing mega infrastructure projects in Kuwait. Through an expert panel, key risk elements are identified, forming the basis for a comprehensive risk mitigation strategy. The application of the earned value technique throughout the project construction phase enables real-time monitoring and prediction of project performance indicators. The periodic integration of RM principles and earned value applications provides valuable insights into project management, emphasizing the necessity of completing all risk management steps, garnering top management support for innovative techniques, and integrating project staff into management processes. This study underscores the significance of employing risk management and earned value techniques as crucial indicators for monitoring and enhancing project performance."
+  },
+  {
+   "id": "https://openalex.org/W3043771551",
+   "doi": "10.1080/15623599.2020.1790475",
+   "title": "Impact of labour productivity in estimating the duration of construction projects",
+   "publication_year": 2020,
+   "source": "International Journal of Construction Management",
+   "type": "article",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Gopinath Selvam",
+    "T. Ch. Madhavi",
+    "Taslima Begum",
+    "Monish Sudheesh"
+   ],
+   "n_authors": 4,
+   "abstract": "Several constraints influence the duration estimation of construction activities. Labour productivity is one of the critical limitations, which affects the estimate of activity duration. Various factors affecting construction labour productivity are studied in detail in the literature; the same is not considered to determine the duration of activities. Therefore, this research proposes an activity duration estimation framework to estimate the duration of construction work-packages concerning the standard norms and factors affecting labour productivity. The authors considered 16 factors that affect the labour productivity mentioned in the literature sources. Three expert\u2019s suggestion is obtained to determine the loss in labour productivity for all the 16 factors. Based on these inputs and labour constant values from the standard document, activity durations are calculated. A genetic algorithm optimization approach is adopted to determine the optimal duration to execute six construction work-packages. The proposed framework also allows the project managers to include project constraints while deciding the overall duration. The result showcases a realistic duration estimation for the assumed conditions in a real-time construction project. The proposed activity duration estimation framework is flexible to incorporate labour productivity values from any other standard norms."
+  },
+  {
+   "id": "https://openalex.org/W3088680872",
+   "doi": "10.24928/2020/0131",
+   "title": "Using 5D Models and Cba for Planning the Foundations and Concrete Structure Stages of a Complex Office Building",
+   "publication_year": 2020,
+   "source": "Annual Conference of the International Group for Lean Construction",
+   "type": "conference-paper",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Juan C. Suarez",
+    "Jaime Zapata",
+    "Xavier Brioso"
+   ],
+   "n_authors": 3,
+   "abstract": "Contractors use diverse methodologies and software that require more working hours just to synchronize all the data related to cost, schedule and quantities, the most widespread methodologies are CPM and BIM models.However, the use CPM does not provide the tools to control the project with the current production status.The use of 5D BIM models (integrated quantities, cost and schedules) and flow lines (scheduling system from the Location Based Management System) are proposed as more effective methods, these allow the contractor to automate and improve their scheduling and controlling processes.These methodologies were implemented in the planning process of the foundations and structure stage of a complex building, then compared to the methods used by the contractor (CPM, 3D and 4D models).Choosing by Advantages (CBA), a system that supports sound decision-making using comparisons among advantages of alternatives, was used to compare the methods mentioned, then a total of three alternatives and eight factors were evaluated by the researchers and contractor.The use of 5D models and flowlines were found to be the best alternative, some factors that stand out are scheduling with an effective Lean Production system, synergy with Earn value reports, and automation in quantities and scheduling."
+  },
+  {
+   "id": "https://openalex.org/W2799388367",
+   "doi": "10.1061/(asce)co.1943-7862.0001515",
+   "title": "Automating the Use of Learning Curve Models in Construction Task Duration Estimates",
+   "publication_year": 2018,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 17,
+   "relevance_score": null,
+   "authors": [
+    "Faith Jordan Srour",
+    "Daoud Kiomjian",
+    "Issam Srour"
+   ],
+   "n_authors": 3,
+   "abstract": "Standard scheduling tools for construction projects with repetitive tasks assume that labor productivity remains constant throughout the project lifetime. None of these tools accommodate the dynamics of learning throughout the project. This paper introduces a tool that uses nonlinear optimization to integrate learning curve concepts into task duration estimates for construction project scheduling. The tool, featuring a graphical user interface, mines past data to select the most appropriate learning model from a suite of existing models. Testing the tool on data obtained from five published case studies with varying sizes and locations suggests that the tool offers accurate estimates for task completion times, even when the size or quality of the input data is minimal. Directives for use of this tool and an estimate of potential savings in practice are also provided through an example based on real-world data. These savings amounted to 28% of the overall labor costs within the real-world project. The contribution of this paper is a tool to estimate construction task durations in such a way that learning is incorporated. The tool uses nonlinear optimization to select and calibrate the best learning model making the tool of value to practitioners working across a variety of linear and nonlinear repetitive projects in a range of geographical regions."
+  },
+  {
+   "id": "https://openalex.org/W4404599295",
+   "doi": "10.1108/ecam-02-2024-0268",
+   "title": "Integrating expert insights and data analytics for enhanced construction productivity monitoring and control: a machine learning approach",
+   "publication_year": 2024,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 16,
+   "relevance_score": null,
+   "authors": [
+    "Elyar Pourrahimian",
+    "Amira Eltahan",
+    "Diana Salhab",
+    "Joe Crawford",
+    "Simaan AbouRizk",
+    "Farook Hamzeh"
+   ],
+   "n_authors": 6,
+   "abstract": "Purpose This study aims to enhance productivity monitoring and control in the construction industry by integrating data-driven analytics with expert insights. Design/methodology/approach A novel framework combines expert knowledge and data analysis to identify productivity trends and devise improvement strategies. A machine learning model predicts productivity ranges using historical data and project-specific factors\u2019 evaluated by surveys, supported by a warning dashboard for proactive decision-making. Findings The findings reveal that integrating expert insights with data analytics significantly enhances the ability to monitor and control productivity, leading to proactive strategies for construction stakeholders. The machine learning model demonstrates robust accuracy in forecasting productivity ranges, allowing for early identification of potential issues. The dashboard system proves invaluable, offering semi-real-time alerts and facilitating swift action to prevent productivity lapses. These results highlight the effectiveness of the proposed approach in detecting trends, predicting outcomes and enabling timely interventions, thereby contributing to the overall productivity improvement of construction projects. Research limitations/implications There are also limitations to consider, including potential data availability, constraints in the expert pool, implementation challenges and the need for long-term evaluation; these factors should be considered when interpreting th"
+  },
+  {
+   "id": "https://openalex.org/W4394731088",
+   "doi": "10.32983/2222-4459-2024-1-167-177",
+   "title": "Theoretical and Methodological Bases for Implementing BIM Technologies in Construction Companies: Essence. Characteristics. Economic Efficiency",
+   "publication_year": 2024,
+   "source": "Business Inform",
+   "type": "article",
+   "cited_by_count": 16,
+   "relevance_score": null,
+   "authors": [
+    "Oleksii F. Yashchenko",
+    "\u0414\u043c\u0438\u0442\u0440\u043e \u0410\u043d\u0430\u0442\u043e\u043b\u0456\u0439\u043e\u0432\u0438\u0447 \u041c\u0430\u043a\u0430\u0442\u044c\u043e\u0440\u0430",
+    "\u041a\u0443\u0431\u0430\u043d\u043e\u0432 \u0420\u0443\u0441\u043b\u0430\u043d \u0410\u043d\u0430\u0442\u043e\u043b\u0456\u0439\u043e\u0432\u0438\u0447",
+    "Petro L. Zinych",
+    "Dmitry Prusov"
+   ],
+   "n_authors": 5,
+   "abstract": "The theoretical concepts and methodological characteristics of implementing BIM technologies in construction companies have been defined. BIM is an information modelling of a construction object, which involves the collection and processing of all information about a building with all its interconnections and dependencies, when the building is considered as a single object. It should be noted that when analysing the definitions of BIM, it is possible to come to the conclusion that it is necessary to make a clearer distinction as to what type of object is meant. Thus, there are some definitions that refer directly to the building model (Building Information Model), the building lifecycle process (Building Information Modelling) and the entire investment and construction process system (Building Information Management). It is pointed out that the traditional approach to design is based on two-dimensional models \u2013 plans, drawings and paper documentation. In contrast, Building Information Modelling (BIM) technologies add new aspects \u2013 construction plans, time and costs. These can be presented in any convenient form using an information model of the object in virtual reality. The short and long term benefits of using BIM technology in the construction industry are analysed in this article. It was noted that BIM goes beyond standard CAD systems as it allows to create three-dimensional models, known as 3D models, as well as models defined as 4D, 5D, 6D and even 7D. An automated proj"
+  },
+  {
+   "id": "https://openalex.org/W4412526146",
+   "doi": "10.63125/fb995k33",
+   "title": "IOT-ENABLED CONSTRUCTION PROJECT MONITORING SYSTEMS A META-ANALYTICAL REVIEW OF EFFICIENCY GAINS IN LARGE-SCALE INFRASTRUCTURE",
+   "publication_year": 2023,
+   "source": "American Journal of Scholarly Research and Innovation",
+   "type": "article",
+   "cited_by_count": 16,
+   "relevance_score": null,
+   "authors": [
+    "Abdul Rehman",
+    "Mubashir Islam"
+   ],
+   "n_authors": 2,
+   "abstract": "This meta-analytical study investigates the role and impact of Internet of Things (IoT) technologies in enhancing efficiency outcomes within large-scale infrastructure construction projects. With the growing complexity, scale, and performance demands in the global construction sector, IoT-enabled monitoring systems have emerged as a transformative solution for optimizing cost control, schedule adherence, resource utilization, safety, and lifecycle asset management. To provide a comprehensive understanding of this technological advancement, the study systematically reviewed and synthesized findings from 67 empirical studies published between 2010 and 2023. The review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) framework to ensure methodological rigor and transparency. Key performance indicators (KPIs) analyzed included cost variance, schedule performance index (SPI), resource usage efficiency, rework incidence, and safety outcomes. The findings consistently demonstrated that IoT technologies\u2014such as RFID, wireless sensor networks, GPS tracking, wearables, and predictive analytics\u2014contribute to measurable efficiency gains, including cost savings ranging from 8% to 27%, time reductions of up to 35%, and rework decreases by as much as 28%. Furthermore, IoT systems enhanced labor productivity and safety through real-time monitoring and biometric-based predictive interventions. The review also highlighted critical gaps in the literature,"
+  },
+  {
+   "id": "https://openalex.org/W2922305504",
+   "doi": "10.1177/0018720819829944",
+   "title": "Influence of Human Parameters on Labor Productivity in the Construction Industry",
+   "publication_year": 2019,
+   "source": "Human Factors The Journal of the Human Factors and Ergonomics Society",
+   "type": "article",
+   "cited_by_count": 16,
+   "relevance_score": null,
+   "authors": [
+    "D. Karthik",
+    "C. B. K. Rao"
+   ],
+   "n_authors": 2,
+   "abstract": "OBJECTIVE: The objective of this article is to investigate the influence of human parameters on qualitative assessment of labor productivity (LP) in the construction industry. BACKGROUND: The theories involving workers have identified various parameters on physical efficiency, such as heart rate, relative heart rate, and calorie count, so as to improve the safety and social conditions of construction labor, thereby increasing LP. However, there is no direct emphasis on assessment of LP using human parameters related to physical strength. METHOD: An exploratory study was conducted on 17 construction workers by observing their task-level LP in real time at a construction site. Human parameters, such as age, body mass index (BMI), handgrip strength, and upper body muscle strength of the laborers, were measured at the construction site. Performance levels of these workers were placed in three categories, and each worker was assigned a typical weightage to each category when correlated to physical strength. RESULTS: Labor categories among the human parameters that included middle age, normal-range BMI, and strong muscular strength were shown as having higher LP than others. A quantitative parameter called the Human Parameter Index (HPI) was developed based on the performance categories developed for an individual worker. Human parameters revealed a significant relationship with respect to task-level LP. CONCLUSION AND APPLICATION: The study determines the influence of human parame"
+  },
+  {
+   "id": "https://openalex.org/W202051784",
+   "doi": null,
+   "title": "A Lean Workflow Index for Construction Projects",
+   "publication_year": 2014,
+   "source": "Aaltodoc (Aalto University)",
+   "type": "article",
+   "cited_by_count": 16,
+   "relevance_score": null,
+   "authors": [
+    "Vitaliy Priven",
+    "Rafael Sacks",
+    "Olli Sepp\u00e4nen",
+    "Jonathan Savosnick"
+   ],
+   "n_authors": 4,
+   "abstract": "Traditional monitoring methods for construction project control based on the earned-value method provide measures of cash flow and schedule compliance. However, they do not tell managers anything about the quality (stability, continuity) of the workflow, and the results are not timely enough for effective control. In order to improve workflows where lean production control is applied, direct measures of workflow are needed. Kalsaas and others have proposed measures of daily or weekly workflow for specific tasks, but their measures cannot be used for real-time project control and they were not tested or calibrated over complete project life-spans. The Lean Workflow Index (LWI) that we propose directly reflects the smoothness and continuity of workflow lines in flowline charts. In the first stage we define a set of possible tracking parameters and propose the lean workflow index formula as a combination of them. A survey of lean experts was conducted in which they graded workflow quality for as-built flowline records for 12 projects. The results of the survey were then used to calibrate parameter coefficient values in the LWI formula by using a goal seeking algorithm. The resulting formula was used to compute the LWI for three high-rise residential projects. The major advantage of the proposed lean workflow index is that it monitors project workflows in real-time so that construction teams can be continuously aware of and improve their performance in the areas that are measured"
+  }
+ ]
+}

@@ -1,0 +1,1881 @@
+{
+ "query_id": "C2-CIT",
+ "run_date": "2026-11-23",
+ "query_url": "https://api.openalex.org/works?filter=title_and_abstract.search%3A%28UAV+OR+UAS+OR+drone+OR+%22unmanned+aerial%22%29+AND+%28photogrammetry+OR+%22structure+from+motion%22+OR+orthophoto+OR+orthomosaic+OR+DSM+OR+DEM+OR+DTM+OR+%22point+cloud%22%29+AND+%28earthwork+OR+volume+OR+stockpile+OR+excavation+OR+%22construction+site%22%29+AND+%28accuracy+OR+uncertainty+OR+%22ground+control+point%22+OR+GCP+OR+RTK+OR+PPK+OR+validation%29%2Cfrom_publication_date%3A2010-01-01%2Ctype%3Aarticle%7Creview%7Cbook-chapter%7Cconference-paper%2Clanguage%3Aen&sort=cited_by_count%3Adesc&per-page=100&select=id%2Cdoi%2Ctitle%2Cdisplay_name%2Cpublication_year%2Cprimary_location%2Ctype%2Ccited_by_count%2Cauthorships%2Cabstract_inverted_index%2Crelevance_score",
+ "hits_total": 770,
+ "retrieved": 100,
+ "records": [
+  {
+   "id": "https://openalex.org/W2565531507",
+   "doi": "10.3390/rs8121031",
+   "title": "High Throughput Field Phenotyping of Wheat Plant Height and Growth Rate in Field Plot Trials Using UAV Based Remote Sensing",
+   "publication_year": 2016,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 464,
+   "relevance_score": null,
+   "authors": [
+    "Fenner H. Holman",
+    "A. B. Riche",
+    "Adam Michalski",
+    "March Castle",
+    "Martin J. Wooster",
+    "Malcolm John Hawkesford"
+   ],
+   "n_authors": 6,
+   "abstract": "There is a growing need to increase global crop yields, whilst minimising use of resources such as land, fertilisers and water. Agricultural researchers use ground-based observations to identify, select and develop crops with favourable genotypes and phenotypes; however, the ability to collect rapid, high quality and high volume phenotypic data in open fields is restricting this. This study develops and assesses a method for deriving crop height and growth rate rapidly from multi-temporal, very high spatial resolution (1 cm/pixel), 3D digital surface models of crop field trials produced via Structure from Motion (SfM) photogrammetry using aerial imagery collected through repeated campaigns flying an Unmanned Aerial Vehicle (UAV) with a mounted Red Green Blue (RGB) camera. We compare UAV SfM modelled crop heights to those derived from terrestrial laser scanner (TLS) and to the standard field measurement of crop height conducted using a 2 m rule. The most accurate UAV-derived surface model and the TLS both achieve a Root Mean Squared Error (RMSE) of 0.03 m compared to the existing manual 2 m rule method. The optimised UAV method was then applied to the growing season of a winter wheat field phenotyping experiment containing 25 different varieties grown in 27 m2 plots and subject to four different nitrogen fertiliser treatments. Accuracy assessments at different stages of crop growth produced consistently low RMSE values (0.07, 0.02 and 0.03 m for May, June and July, respectivel"
+  },
+  {
+   "id": "https://openalex.org/W2752278344",
+   "doi": "10.3390/f8090340",
+   "title": "Individual Tree Detection from Unmanned Aerial Vehicle (UAV) Derived Canopy Height Model in an Open Canopy Mixed Conifer Forest",
+   "publication_year": 2017,
+   "source": "Forests",
+   "type": "article",
+   "cited_by_count": 460,
+   "relevance_score": null,
+   "authors": [
+    "Midhun Mohan",
+    "Carlos Alberto Silva",
+    "Carine Klauberg",
+    "Prahlad Jat",
+    "Glenn P. Catts",
+    "Adri\u00e1n Card\u00edl"
+   ],
+   "n_authors": 8,
+   "abstract": "Advances in Unmanned Aerial Vehicle (UAV) technology and data processing capabilities have made it feasible to obtain high-resolution imagery and three dimensional (3D) data which can be used for forest monitoring and assessing tree attributes. This study evaluates the applicability of low consumer grade cameras attached to UAVs and structure-from-motion (SfM) algorithm for automatic individual tree detection (ITD) using a local-maxima based algorithm on UAV-derived Canopy Height Models (CHMs). This study was conducted in a private forest at Cache Creek located east of Jackson city, Wyoming. Based on the UAV-imagery, we allocated 30 field plots of 20 m \u00d7 20 m. For each plot, the number of trees was counted manually using the UAV-derived orthomosaic for reference. A total of 367 reference trees were counted as part of this study and the algorithm detected 312 trees resulting in an accuracy higher than 85% (F-score of 0.86). Overall, the algorithm missed 55 trees (omission errors), and falsely detected 46 trees (commission errors) resulting in a total count of 358 trees. We further determined the impact of fixed tree window sizes (FWS) and fixed smoothing window sizes (SWS) on the ITD accuracy, and detected an inverse relationship between tree density and FWS. From our results, it can be concluded that ITD can be performed with an acceptable accuracy (F > 0.80) from UAV-derived CHMs in an open canopy forest, and has the potential to supplement future research directed towards e"
+  },
+  {
+   "id": "https://openalex.org/W2594847594",
+   "doi": "10.1186/s40677-017-0073-1",
+   "title": "Spaceborne, UAV and ground-based remote sensing techniques for landslide mapping, monitoring and early warning",
+   "publication_year": 2017,
+   "source": "Geoenvironmental Disasters",
+   "type": "article",
+   "cited_by_count": 414,
+   "relevance_score": null,
+   "authors": [
+    "Nicola Casagli",
+    "William Frodella",
+    "Stefano Morelli",
+    "Veronica Tofani",
+    "Andrea Ciampalini",
+    "Emanuele Intrieri"
+   ],
+   "n_authors": 10,
+   "abstract": "The current availability of advanced remote sensing technologies in the field of landslide analysis allows for rapid and easily updatable data acquisitions, improving the traditional capabilities of detection, mapping and monitoring, as well as optimizing fieldwork and investigating hazardous or inaccessible areas, while granting at the same time the safety of the operators. Among Earth Observation (EO) techniques in the last decades optical Very High Resolution (VHR) and Synthetic Aperture Radar (SAR) imagery represent very effective tools for these implementations, since very high spatial resolution can be obtained by means of optical systems, and by the new generations of sensors designed for interferometric applications. Although these spaceborne platforms have revisiting times of few days they still cannot match the spatial detail or time resolution achievable by means of Unmanned Aerial Vehicles (UAV) Digital Photogrammetry (DP), and ground-based devices, such as Ground-Based Interferometric SAR (GB-InSAR), Terrestrial Laser Scanning (TLS) and InfraRed Thermography (IRT), which in the recent years have undergone a significant increase of usage, thanks to their technological development and data quality improvement, fast measurement and processing times, portability and cost-effectiveness. In this paper the potential of the abovementioned techniques and the effectiveness of their synergic use is explored in the field of landslide analysis by analyzing various case studie"
+  },
+  {
+   "id": "https://openalex.org/W2002008272",
+   "doi": "10.1016/j.biocon.2015.03.031",
+   "title": "Using lightweight unmanned aerial vehicles to monitor tropical forest recovery",
+   "publication_year": 2015,
+   "source": "Biological Conservation",
+   "type": "article",
+   "cited_by_count": 334,
+   "relevance_score": null,
+   "authors": [
+    "Rakan A. Zahawi",
+    "Jonathan P. Dandois",
+    "Karen D. Holl",
+    "Dana Nadwodny",
+    "John Leighton Reid",
+    "Erle C. Ellis"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2921122163",
+   "doi": "10.1016/j.isprsjprs.2019.03.003",
+   "title": "Vegetation Index Weighted Canopy Volume Model (CVMVI) for soybean biomass estimation from Unmanned Aerial System-based RGB imagery",
+   "publication_year": 2019,
+   "source": "ISPRS Journal of Photogrammetry and Remote Sensing",
+   "type": "article",
+   "cited_by_count": 279,
+   "relevance_score": null,
+   "authors": [
+    "Maitiniyazi Maimaitijiang",
+    "Vasit Sagan",
+    "Paheding Sidike",
+    "Matthew Maimaitiyiming",
+    "Sean Hartling",
+    "Kyle T. Peterson"
+   ],
+   "n_authors": 10,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2589237375",
+   "doi": "10.3390/rs9020186",
+   "title": "Accuracy Assessment of Digital Surface Models from Unmanned Aerial Vehicles\u2019 Imagery on Glaciers",
+   "publication_year": 2017,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 277,
+   "relevance_score": null,
+   "authors": [
+    "Saskia Gindraux",
+    "R. Boesch",
+    "Daniel Farinotti"
+   ],
+   "n_authors": 3,
+   "abstract": "The use of Unmanned Aerial Vehicles (UAV) for photogrammetric surveying has recently gained enormous popularity. Images taken from UAVs are used for generating Digital Surface Models (DSMs) and orthorectified images. In the glaciological context, these can serve for quantifying ice volume change or glacier motion. This study focuses on the accuracy of UAV-derived DSMs. In particular, we analyze the influence of the number and disposition of Ground Control Points (GCPs) needed for georeferencing the derived products. A total of 1321 different DSMs were generated from eight surveys distributed on three glaciers in the Swiss Alps during winter, summer and autumn. The vertical and horizontal accuracy was assessed by cross-validation with thousands of validation points measured with a Global Positioning System. Our results show that the accuracy increases asymptotically with increasing number of GCPs until a certain density of GCPs is reached. We call this the optimal GCP density. The results indicate that DSMs built with this optimal GCP density have a vertical (horizontal) accuracy ranging between 0.10 and 0.25 m (0.03 and 0.09 m) across all datasets. In addition, the impact of the GCP distribution on the DSM accuracy was investigated. The local accuracy of a DSM decreases when increasing the distance to the closest GCP, typically at a rate of 0.09 m per 100-m distance. The impact of the glacier\u2019s surface texture (ice or snow) was also addressed. The results show that besides ca"
+  },
+  {
+   "id": "https://openalex.org/W2971872054",
+   "doi": "10.1016/j.rse.2019.111355",
+   "title": "Non-destructive tree volume estimation through quantitative structure modelling: Comparing UAV laser scanning with terrestrial LIDAR",
+   "publication_year": 2019,
+   "source": "Remote Sensing of Environment",
+   "type": "article",
+   "cited_by_count": 257,
+   "relevance_score": null,
+   "authors": [
+    "Benjamin Brede",
+    "Kim Calders",
+    "Alvaro Lau",
+    "Pasi Raumonen",
+    "Harm M. Bartholomeus",
+    "Martin Herold"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3109077063",
+   "doi": "10.3390/rs12203327",
+   "title": "Comparison of Backpack, Handheld, Under-Canopy UAV, and Above-Canopy UAV Laser Scanning for Field Reference Data Collection in Boreal Forests",
+   "publication_year": 2020,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 231,
+   "relevance_score": null,
+   "authors": [
+    "Eric Hyypp\u00e4",
+    "Xiaowei Yu",
+    "Harri Kaartinen",
+    "Teemu Hakala",
+    "Antero Kukko",
+    "Mikko Vastaranta"
+   ],
+   "n_authors": 7,
+   "abstract": "In this work, we compared six emerging mobile laser scanning (MLS) technologies for field reference data collection at the individual tree level in boreal forest conditions. The systems under study were an in-house developed AKHKA-R3 backpack laser scanner, a handheld Zeb-Horizon laser scanner, an under-canopy UAV (Unmanned Aircraft Vehicle) laser scanning system, and three above-canopy UAV laser scanning systems providing point clouds with varying point densities. To assess the performance of the methods for automated measurements of diameter at breast height (DBH), stem curve, tree height and stem volume, we utilized all of the six systems to collect point cloud data on two 32 m-by-32 m test sites classified as sparse (n = 42 trees) and obstructed (n = 43 trees). To analyze the data collected with the two ground-based MLS systems and the under-canopy UAV system, we used a workflow based on our recent work featuring simultaneous localization and mapping (SLAM) technology, a stem arc detection algorithm, and an iterative arc matching algorithm. This workflow enabled us to obtain accurate stem diameter estimates from the point cloud data despite a small but relevant time-dependent drift in the SLAM-corrected trajectory of the scanner. We found out that the ground-based MLS systems and the under-canopy UAV system could be used to measure the stem diameter (DBH) with a root mean square error (RMSE) of 2\u20138%, whereas the stem curve measurements had an RMSE of 2\u201315% that depended o"
+  },
+  {
+   "id": "https://openalex.org/W2900062227",
+   "doi": "10.1016/j.isprsjprs.2018.11.001",
+   "title": "Estimating forest structural attributes using UAV-LiDAR data in Ginkgo plantations",
+   "publication_year": 2018,
+   "source": "ISPRS Journal of Photogrammetry and Remote Sensing",
+   "type": "article",
+   "cited_by_count": 231,
+   "relevance_score": null,
+   "authors": [
+    "Kun Liu",
+    "Xin Shen",
+    "Lin Cao",
+    "Guibin Wang",
+    "Fuliang Cao"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2993499344",
+   "doi": "10.3390/rs11242893",
+   "title": "Evaluation of UAV LiDAR for Mapping Coastal Environments",
+   "publication_year": 2019,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 226,
+   "relevance_score": null,
+   "authors": [
+    "Yi-Chun Lin",
+    "Yi-Ting Cheng",
+    "Tian Zhou",
+    "Radhika Ravi",
+    "Seyyed Meghdad Hasheminasab",
+    "John Evan Flatt"
+   ],
+   "n_authors": 8,
+   "abstract": "Unmanned Aerial Vehicle (UAV)-based remote sensing techniques have demonstrated great potential for monitoring rapid shoreline changes. With image-based approaches utilizing Structure from Motion (SfM), high-resolution Digital Surface Models (DSM), and orthophotos can be generated efficiently using UAV imagery. However, image-based mapping yields relatively poor results in low textured areas as compared to those from LiDAR. This study demonstrates the applicability of UAV LiDAR for mapping coastal environments. A custom-built UAV-based mobile mapping system is used to simultaneously collect LiDAR and imagery data. The quality of LiDAR, as well as image-based point clouds, are investigated and compared over different geomorphic environments in terms of their point density, relative and absolute accuracy, and area coverage. The results suggest that both UAV LiDAR and image-based techniques provide high-resolution and high-quality topographic data, and the point clouds generated by both techniques are compatible within a 5 to 10 cm range. UAV LiDAR has a clear advantage in terms of large and uniform ground coverage over different geomorphic environments, higher point density, and ability to penetrate through vegetation to capture points below the canopy. Furthermore, UAV LiDAR-based data acquisitions are assessed for their applicability in monitoring shoreline changes over two actively eroding sandy beaches along southern Lake Michigan, Dune Acres, and Beverly Shores, through re"
+  },
+  {
+   "id": "https://openalex.org/W4392215277",
+   "doi": "10.1016/j.rse.2024.114078",
+   "title": "Automated forest inventory: Analysis of high-density airborne LiDAR point clouds with 3D deep learning",
+   "publication_year": 2024,
+   "source": "Remote Sensing of Environment",
+   "type": "article",
+   "cited_by_count": 213,
+   "relevance_score": null,
+   "authors": [
+    "Binbin Xiang",
+    "Maciej Wielgosz",
+    "Theodora Kontogianni",
+    "Torben Peters",
+    "Stefano Puliti",
+    "Rasmus Astrup"
+   ],
+   "n_authors": 7,
+   "abstract": "Detailed forest inventories are critical for sustainable and flexible management of forest resources, to conserve various ecosystem services. Modern airborne laser scanners deliver high-density point clouds with great potential for fine-scale forest inventory and analysis, but automatically partitioning those point clouds into meaningful entities like individual trees or tree components remains a challenge. The present study aims to fill this gap and introduces a deep learning framework, termed ForAINet, that is able to perform such a segmentation across diverse forest types and geographic regions. From the segmented data, we then derive relevant biophysical parameters of individual trees as well as stands. The system has been tested on FOR-Instance, a dataset of point clouds that have been acquired in five different countries using surveying drones. The segmentation back-end achieves over 85% F-score for individual trees, respectively over 73% mean IoU across five semantic categories: ground, low vegetation, stems, live branches and dead branches. Building on the segmentation results our pipeline then densely calculates biophysical features of each individual tree (height, crown diameter, crown volume, DBH, and location) and properties per stand (digital terrain model and stand density). Especially crown-related features are in most cases retrieved with high accuracy, whereas the estimates for DBH and location are less reliable, due to the airborne scanning setup."
+  },
+  {
+   "id": "https://openalex.org/W2900019775",
+   "doi": "10.1016/j.autcon.2018.07.020",
+   "title": "Comparison and utilization of point cloud generated from photogrammetry and laser scanning: 3D world model for smart heavy equipment planning",
+   "publication_year": 2018,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 203,
+   "relevance_score": null,
+   "authors": [
+    "Daeyoon Moon",
+    "Suwan Chung",
+    "Soon\u2010Wook Kwon",
+    "Jongwon Seo",
+    "Joonghwan Shin"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2088205038",
+   "doi": "10.1016/j.catena.2015.04.004",
+   "title": "Measuring gullies by synergetic application of UAV and close range photogrammetry \u2014 A case study from Andalusia, Spain",
+   "publication_year": 2015,
+   "source": "CATENA",
+   "type": "article",
+   "cited_by_count": 200,
+   "relevance_score": null,
+   "authors": [
+    "Claudia St\u00f6cker",
+    "Anette Eltner",
+    "Pierre Karrasch"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2914433259",
+   "doi": "10.3390/f10020145",
+   "title": "Comparison of UAV LiDAR and Digital Aerial Photogrammetry Point Clouds for Estimating Forest Structural Attributes in Subtropical Planted Forests",
+   "publication_year": 2019,
+   "source": "Forests",
+   "type": "article",
+   "cited_by_count": 183,
+   "relevance_score": null,
+   "authors": [
+    "Lin Cao",
+    "Liu Hao",
+    "Xiaoyao Fu",
+    "Zhengnan Zhang",
+    "Xin Shen",
+    "Honghua Ruan"
+   ],
+   "n_authors": 6,
+   "abstract": "Estimating forest structural attributes of planted forests plays a key role in managing forest resources, monitoring carbon stocks, and mitigating climate change. High-resolution and low-cost remote-sensing data are increasingly available to measure three-dimensional (3D) canopy structure and model forest structural attributes. In this study, we compared two suites of point cloud metrics and the accuracies of predictive models of forest structural attributes using unmanned aerial vehicle (UAV) light detection and ranging (LiDAR) and digital aerial photogrammetry (DAP) data, in a subtropical coastal planted forest of East China. A comparison between UAV-LiDAR and UAV-DAP metrics was performed across plots among different tree species, heights, and stem densities. The results showed that a higher similarity between the UAV-LiDAR and UAV-DAP metrics appeared in the dawn redwood plots with greater height and lower stem density. The comparison between the UAV-LiDAR and DAP metrics showed that the metrics of the upper percentiles (r for dawn redwood = 0.95\u20130.96, poplar = 0.94\u20130.95) showed a stronger correlation than the lower percentiles (r = 0.92\u20130.93, 0.90\u20130.92), whereas the metrics of upper canopy return density (r = 0.21\u20130.24, 0.14\u20130.15) showed a weaker correlation than those of lower canopy return density (r = 0.32\u20130.68, 0.31\u20130.52). The Weibull \u03b1 parameter indicated a higher correlation (r = 0.70\u20130.72) than that of the Weibull \u03b2 parameter (r = 0.07\u20130.60) for both dawn redwood "
+  },
+  {
+   "id": "https://openalex.org/W2142566733",
+   "doi": "10.5194/isprsarchives-xxxix-b5-583-2012",
+   "title": "ARCHAEOLOGICAL SITE MONITORING: UAV PHOTOGRAMMETRY CAN BE AN ANSWER",
+   "publication_year": 2012,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 179,
+   "relevance_score": null,
+   "authors": [
+    "Fulvio Rinaudo",
+    "Filiberto Chiabrando",
+    "Andrea Maria Lingua",
+    "Antonia Teresa Spano"
+   ],
+   "n_authors": 4,
+   "abstract": "During archaeological excavations it is important to monitor the new excavated areas and findings day by day in order to be able to plan future excavation activities. At present, this daily activity is usually performed by using total stations, which survey the changes of the archaeological site: the surveyors are asked to produce day by day draft plans and sections which allow archaeologists to plan their future activities. The survey is realized during the excavations or just at the end of every working day and drawings have to be produced as soon as possible in order to allow the comprehension of the work done and to plan the activities for the following day. By using this technique, all the measurements, even those not necessary for the day after, have to be acquired in order to avoid a \u2018loss of memory\u2019. A possible alternative to this traditional approach is aerial photogrammetry, if the images can be acquired quickly and at a taken distance able to guarantee the necessary accuracy of a few centimeters. Today the use of UAVs (Unmanned Aerial Vehicles) can be considered a proven technology able to acquire images at distances ranging from 4 m up to 20 m: and therefore as a possible monitoring system to provide the necessary information to the archaeologists day by day. The control network, usually present at each archaeological site, can give the stable control points useful for orienting a photogrammetric block acquired by using an UAV equipped with a calibrated digital ca"
+  },
+  {
+   "id": "https://openalex.org/W3093252501",
+   "doi": "10.1016/j.compag.2020.105815",
+   "title": "Forest inventory with high-density UAV-Lidar: Machine learning approaches for predicting individual tree attributes",
+   "publication_year": 2020,
+   "source": "Computers and Electronics in Agriculture",
+   "type": "article",
+   "cited_by_count": 173,
+   "relevance_score": null,
+   "authors": [
+    "Ana Paula Dalla C\u00f4rte",
+    "Deivison Venicio Souza",
+    "Franciel Eduardo Rex",
+    "Carlos Roberto Sanquetta",
+    "Midhun Mohan",
+    "Carlos Alberto Silva"
+   ],
+   "n_authors": 15,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2589097845",
+   "doi": "10.1007/s11119-017-9502-0",
+   "title": "Assessing UAV-collected image overlap influence on computation time and digital surface model accuracy in olive orchards",
+   "publication_year": 2017,
+   "source": "Precision Agriculture",
+   "type": "article",
+   "cited_by_count": 169,
+   "relevance_score": null,
+   "authors": [
+    "Jorge Torres\u2010S\u00e1nchez",
+    "Francisca L\u00f3pez Granados",
+    "Irene Borra\u2010Serrano",
+    "Jos\u00e9 Manuel Pe\u00f1a"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2900009844",
+   "doi": "10.3390/rs10111734",
+   "title": "Permafrost Terrain Dynamics and Infrastructure Impacts Revealed by UAV Photogrammetry and Thermal Imaging",
+   "publication_year": 2018,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 164,
+   "relevance_score": null,
+   "authors": [
+    "Jurjen van der Sluijs",
+    "Steven V. Kokelj",
+    "Robert H. Fraser",
+    "Jon Tunnicliffe",
+    "Denis Lacelle"
+   ],
+   "n_authors": 5,
+   "abstract": "Unmanned Aerial Vehicle (UAV) systems, sensors, and photogrammetric processing techniques have enabled timely and highly detailed three-dimensional surface reconstructions at a scale that bridges the gap between conventional remote-sensing and field-scale observations. In this work 29 rotary and fixed-wing UAV surveys were conducted during multiple field campaigns, totaling 47 flights and over 14.3 km2, to document permafrost thaw subsidence impacts on or close to road infrastructure in the Northwest Territories, Canada. This paper provides four case studies: (1) terrain models and orthomosaic time series revealed the morphology and daily to annual dynamics of thaw-driven mass wasting phenomenon (retrogressive thaw slumps; RTS). Scar zone cut volume estimates ranged between 3.2 \u00d7 103 and 5.9 \u00d7 106 m3. The annual net erosion of RTS surveyed ranged between 0.35 \u00d7 103 and 0.39 \u00d7 106 m3. The largest RTS produced a long debris tongue with an estimated volume of 1.9 \u00d7 106 m3. Downslope transport of scar zone and embankment fill materials was visualized using flow vectors, while thermal imaging revealed areas of exposed ground ice and mobile lobes of saturated, thawed materials. (2) Stratigraphic models were developed for RTS headwalls, delineating ground-ice bodies and stratigraphic unconformities. (3) In poorly drained areas along road embankments, UAV surveys detected seasonal terrain uplift and settlement of up to 0.5 m (>1700 m2 in extent) as a result of injection ice developme"
+  },
+  {
+   "id": "https://openalex.org/W2523454627",
+   "doi": "10.1016/j.jasrep.2016.09.004",
+   "title": "UAV vs classical aerial photogrammetry for archaeological studies",
+   "publication_year": 2016,
+   "source": "Journal of Archaeological Science Reports",
+   "type": "article",
+   "cited_by_count": 162,
+   "relevance_score": null,
+   "authors": [
+    "Konstantinos G. Nikolakopoulos",
+    "Konstantina Soura",
+    "Ioannis Koukouvelas",
+    "Nikolaos G. Argyropoulos"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4210473623",
+   "doi": "10.1016/j.rse.2022.112912",
+   "title": "Quantifying tropical forest structure through terrestrial and UAV laser scanning fusion in Australian rainforests",
+   "publication_year": 2022,
+   "source": "Remote Sensing of Environment",
+   "type": "article",
+   "cited_by_count": 146,
+   "relevance_score": null,
+   "authors": [
+    "Louise Terryn",
+    "Kim Calders",
+    "Harm M. Bartholomeus",
+    "Ren\u00e9e E. Bartolo",
+    "Benjamin Brede",
+    "Barbara D\u2019hont"
+   ],
+   "n_authors": 13,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2884788667",
+   "doi": "10.1016/j.jag.2018.07.016",
+   "title": "Monitoring river morphology & bank erosion using UAV imagery \u2013 A case study of the river Bu\u00ebch, Hautes-Alpes, France",
+   "publication_year": 2018,
+   "source": "International Journal of Applied Earth Observation and Geoinformation",
+   "type": "article",
+   "cited_by_count": 142,
+   "relevance_score": null,
+   "authors": [
+    "Sven Hemmelder",
+    "Wouter A. Marra",
+    "Henk Markies",
+    "S.M. de Jong"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2905209219",
+   "doi": "10.1016/j.geomorph.2018.12.013",
+   "title": "3D mapping efficacy of a drone and terrestrial laser scanner over a temperate beach-dune zone",
+   "publication_year": 2018,
+   "source": "Geomorphology",
+   "type": "article",
+   "cited_by_count": 139,
+   "relevance_score": null,
+   "authors": [
+    "Emilia Guisado\u2010Pintado",
+    "Derek Jackson",
+    "David Anthony Rogers"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2463298777",
+   "doi": "10.5194/isprsannals-iii-3-139-2016",
+   "title": "PHOTOGRAMMETRIC ACCURACY AND MODELING OF ROLLING SHUTTER CAMERAS",
+   "publication_year": 2016,
+   "source": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 135,
+   "relevance_score": null,
+   "authors": [
+    "Jonas Vautherin",
+    "Simon Rutishauser",
+    "K. Schneider-Zapp",
+    "Hon Fai Choi",
+    "Venera Chovancova",
+    "Alexis Glass"
+   ],
+   "n_authors": 7,
+   "abstract": "Unmanned aerial vehicles (UAVs) are becoming increasingly popular in professional mapping for stockpile analysis, construction site monitoring, and many other applications. Due to their robustness and competitive pricing, consumer UAVs are used more and more for these applications, but they are usually equipped with rolling shutter cameras. This is a significant obstacle when it comes to extracting high accuracy measurements using available photogrammetry software packages. In this paper, we evaluate the impact of the rolling shutter cameras of typical consumer UAVs on the accuracy of a 3D reconstruction. Hereto, we use a beta-version of the Pix4Dmapper 2.1 software to compare traditional (non rolling shutter) camera models against a newly implemented rolling shutter model with respect to both the accuracy of geo-referenced validation points and to the quality of the motion estimation. Multiple datasets have been acquired using popular quadrocopters (DJI Phantom 2 Vision+, DJI Inspire 1 and 3DR Solo) following a grid flight plan. For comparison, we acquired a dataset using a professional mapping drone (senseFly eBee) equipped with a global shutter camera. The bundle block adjustment of each dataset shows a significant accuracy improvement on validation ground control points when applying the new rolling shutter camera model for flights at higher speed (8m=s). Competitive accuracies can be obtained by using the rolling shutter model, although global shutter cameras are still s"
+  },
+  {
+   "id": "https://openalex.org/W4285586446",
+   "doi": "10.1016/j.jag.2022.102917",
+   "title": "3D point cloud fusion from UAV and TLS to assess temperate managed forest structures",
+   "publication_year": 2022,
+   "source": "International Journal of Applied Earth Observation and Geoinformation",
+   "type": "article",
+   "cited_by_count": 130,
+   "relevance_score": null,
+   "authors": [
+    "Dimitrios Panagiotidis",
+    "Azadeh Abdollahnejad",
+    "Martin Slav\u00edk"
+   ],
+   "n_authors": 3,
+   "abstract": "Light detection and ranging (LiDAR) technology has become one of the most dominant acquisition methods for modeling forest attributes, such as very accurate tree structure information, which is necessary for qualitative forest management and research activities. In this study, we evaluated the efficacy of standalone unmanned aerial vehicle-laser scanning (UAV-LS) and terrestrial laser scanning (TLS) data to accurately estimate forest tree metrics under differing management types. Furthermore, we combined the UAV-LS and TLS data to test whether fusion can improve the mapping of the three-dimensional (3D) structure of individual trees to favor accurate estimates of tree metrics. We initially calculated the percentage of point density per square meter aboveground in each height class at intervals of 1 m for the UAV-LS, TLS, and fusion datasets. This helped illustrate the vertical point density distribution that reflects the structural complexity between broadleaf and conifer trees. We then used tree-level point clouds to assess several tree metrics, such as diameter at breast height (DBH), total tree height (HT), crown projection area (PAC), crown width (WC), crown length (LC), 3D crown surface (SC), and 3D crown volume (VC). Our results indicated that LiDAR fusion can increase the estimation accuracy of DBH and HT, especially in broadleaves (97.8% accuracy). In addition, fusion significantly reshaped the modeled crown structures in both plots, which led to improved estimates fo"
+  },
+  {
+   "id": "https://openalex.org/W2796660597",
+   "doi": "10.3390/rs10040584",
+   "title": "3-D Characterization of Vineyards Using a Novel UAV Imagery-Based OBIA Procedure for Precision Viticulture Applications",
+   "publication_year": 2018,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 130,
+   "relevance_score": null,
+   "authors": [
+    "Ana Isabel de Castro",
+    "Francisco Manuel Jim\u00e9nez-Brenes",
+    "Jorge Torres\u2010S\u00e1nchez",
+    "Jos\u00e9 Manuel Pe\u00f1a",
+    "Irene Borra\u2010Serrano",
+    "Francisca L\u00f3pez Granados"
+   ],
+   "n_authors": 6,
+   "abstract": "Precision viticulture has arisen in recent years as a new approach in grape production. It is based on assessing field spatial variability and implementing site-specific management strategies, which can require georeferenced information of the three dimensional (3D) grapevine canopy structure as one of the input data. The 3D structure of vineyard fields can be generated applying photogrammetric techniques to aerial images collected with Unmanned Aerial Vehicles (UAVs), although processing the large amount of crop data embedded in 3D models is currently a bottleneck of this technology. To solve this limitation, a novel and robust object-based image analysis (OBIA) procedure based on Digital Surface Model (DSM) was developed for 3D grapevine characterization. The significance of this work relies on the developed OBIA algorithm which is fully automatic and self-adaptive to different crop-field conditions, classifying grapevines, and row gap (missing vine plants), and computing vine dimensions without any user intervention. The results obtained in three testing fields on two different dates showed high accuracy in the classification of grapevine area and row gaps, as well as minor errors in the estimates of grapevine height. In addition, this algorithm computed the position, projected area, and volume of every grapevine in the field, which increases the potential of this UAV- and OBIA-based technology as a tool for site-specific crop management applications."
+  },
+  {
+   "id": "https://openalex.org/W2804625175",
+   "doi": "10.1016/j.rse.2018.05.016",
+   "title": "A new approach with DTM-independent metrics for forest growing stock prediction using UAV photogrammetric data",
+   "publication_year": 2018,
+   "source": "Remote Sensing of Environment",
+   "type": "article",
+   "cited_by_count": 129,
+   "relevance_score": null,
+   "authors": [
+    "Francesca Giannetti",
+    "Gherardo Chirici",
+    "Terje Gobakken",
+    "Erik N\u00e6sset",
+    "Davide Travaglini",
+    "Stefano Puliti"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2485375693",
+   "doi": "10.5194/isprsarchives-xli-b1-999-2016",
+   "title": "VOLUME COMPUTATION OF A STOCKPILE \u2013 A STUDY CASE COMPARING GPS AND UAV MEASUREMENTS IN AN OPEN PIT QUARRY",
+   "publication_year": 2016,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 127,
+   "relevance_score": null,
+   "authors": [
+    "Paulina Raeva",
+    "S. L. Filipova",
+    "Dobromir Filipov"
+   ],
+   "n_authors": 3,
+   "abstract": "The following paper aims to test and evaluate the accuracy of UAV data for volumetric measurements to the conventional GNSS techniques. For this purpose, an appropriate open pit quarry has been chosen. Two sets of measurements were performed. Firstly, a stockpile was measured by GNSS technologies and later other terrestrial GNSS measurements for modelling the berms of the quarry were taken. Secondly, the area of the whole quarry including the stockpile site was mapped by a UAV flight. Having considered how dynamic our world is, new techniques and methods should be presented in numerous fields. For instance, the management of an open pit quarry requires gaining, processing and storing a large amount of information which is constantly changing with time. Fast and precise acquisition of measurements regarding the process taking place in a quarry is the key to an effective and stable maintenance. In other words, this means getting an objective evaluations of the processes, using up-to-date technologies and reliable accuracy of the results. Often legislations concerning mine engineering state that the volumetric calculations are to present \u00b13% accuracy of the whole amount. On one hand, extremely precise measurements could be performed by GNSS technologies, however, it could be really time consuming. On the other hand, UAV photogrammetry presents a fast, accurate method for mapping large areas and calculating stockpiles volumes. The study case was performed as a part of a master th"
+  },
+  {
+   "id": "https://openalex.org/W2586068985",
+   "doi": "10.1007/s12665-017-6458-3",
+   "title": "Mapping hazardous mining-induced sinkhole subsidence using unmanned aerial vehicle (drone) photogrammetry",
+   "publication_year": 2017,
+   "source": "Environmental Earth Sciences",
+   "type": "article",
+   "cited_by_count": 125,
+   "relevance_score": null,
+   "authors": [
+    "Jangwon Suh",
+    "Yosoon Choi"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3024533279",
+   "doi": "10.3390/rs12091515",
+   "title": "A Deep Learning Model for Automatic Plastic Mapping Using Unmanned Aerial Vehicle (UAV) Data",
+   "publication_year": 2020,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 124,
+   "relevance_score": null,
+   "authors": [
+    "Gordana Jakovljevi\u0107",
+    "Miro Govedarica",
+    "Mar\u00eda Flor \u00c1lvarez Taboada"
+   ],
+   "n_authors": 3,
+   "abstract": "Although plastic pollution is one of the most noteworthy environmental issues nowadays, there is still a knowledge gap in terms of monitoring the spatial distribution of plastics, which is needed to prevent its negative effects and to plan mitigation actions. Unmanned Aerial Vehicles (UAVs) can provide suitable data for mapping floating plastic, but most of the methods require visual interpretation and manual labeling. The main goals of this paper are to determine the suitability of deep learning algorithms for automatic floating plastic extraction from UAV orthophotos, testing the possibility of differentiating plastic types, and exploring the relationship between spatial resolution and detectable plastic size, in order to define a methodology for UAV surveys to map floating plastic. Two study areas and three datasets were used to train and validate the models. An end-to-end semantic segmentation algorithm based on U-Net architecture using the ResUNet50 provided the highest accuracy to map different plastic materials (F1-score: Oriented Polystyrene (OPS): 0.86; Nylon: 0.88; Polyethylene terephthalate (PET): 0.92; plastic (in general): 0.78), showing its ability to identify plastic types. The classification accuracy decreased with the decrease in spatial resolution, performing best on 4 mm resolution images for all kinds of plastic. The model provided reliable estimates of the area and volume of the plastics, which is crucial information for a cleaning campaign."
+  },
+  {
+   "id": "https://openalex.org/W2919852811",
+   "doi": "10.5194/isprs-archives-xlii-4-w12-167-2019",
+   "title": "OPTIMIZATION OF GROUND CONTROL POINT (GCP) CONFIGURATION FOR UNMANNED AERIAL VEHICLE (UAV) SURVEY USING STRUCTURE FROM MOTION (SFM)",
+   "publication_year": 2019,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 124,
+   "relevance_score": null,
+   "authors": [
+    "Jara Kaye Villanueva",
+    "A. C. Blanco"
+   ],
+   "n_authors": 2,
+   "abstract": "This research presents a method in assessing the impact of Ground Control Point (GCP) distribution, quantity, and inter-GCP distances on the output Digital Elevation Model (DEM) by utilizing SfM and GIS. The study was carried out in a quarry site to assess the impacts of these parameters on the accuracy of accurate volumetric measurements UAV derivatives. Based on GCP Root Mean Square Error (RMSE) and surface checkpoint error (SCE), results showed that the best configuration is the evenly distributed GCP set (1.58 m average RMSE, 1.30 m average SCE). Configurations clumped to edge and distributed to edge follow suit with respective RMSE (SCE) of 2.53 m (2.13 m) and 3.11 m (2.54 m). The clumped to center configuration yielded 6.23 m RMSE and 4.66 m SCE. As the number of GCPs used increase, the RMSE and SCE are observed to decrease consistently for all configurations. Further iteration of the best configuration showed that from RMSE of 4.11 m when 4 GCPs are used, there is a drastic decrease to 0.86 m once 10 GCPs are used. From that quantity, only centimeter differences can be observed until the full set of 24 GCPs have been used with a 0.012 m error. This is reflected in the stockpile measurement when the iteration results are compared to the reference data. The dataset processed with a minimum of 4 GCPs have a 606,991.43 m3 difference, whereas the dataset processed with 23 out of 24 has a 791.12 m3 difference from the reference data. The accuracy of the SfM-based DEM increas"
+  },
+  {
+   "id": "https://openalex.org/W3017035390",
+   "doi": "10.3390/rs12081245",
+   "title": "Estimation of Forest Growing Stock Volume with UAV Laser Scanning Data: Can It Be Done without Field Data?",
+   "publication_year": 2020,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 123,
+   "relevance_score": null,
+   "authors": [
+    "Stefano Puliti",
+    "Johannes Breidenbach",
+    "Rasmus Astrup"
+   ],
+   "n_authors": 3,
+   "abstract": "Laser scanning data from unmanned aerial vehicles (UAV-LS) offer new opportunities to estimate forest growing stock volume ( V ) exclusively based on the UAV-LS data. We propose a method to measure tree attributes and using these measurements to estimate V without the use of field data for calibration. The method consists of five steps: i) Using UAV-LS data, tree crowns are automatically identified and segmented wall-to-wall. ii) From all detected tree crowns, a sample is taken where diameter at breast height (DBH) can be recorded reliably as determined by visual assessment in the UAV-LS data. iii) Another sample of crowns is taken where tree species were identifiable from UAV image data. iv) DBH and tree species models are fit using the samples and applied to all detected tree crowns. v) Single tree volumes are predicted with existing allometric models using predicted species and DBH, and height directly obtained from UAV-LS. The method was applied to a Riegl-VUX data set with an average density of 1130 points m\u22122 and 3 cm orthomosaic acquired over an 8.8 ha managed boreal forest. The volumes of the identified trees were aggregated to estimate plot-, stand-, and forest-level volumes which were validated using 58 independently measured field plots. The root-mean-square deviance ( R M S D % ) decreased when increasing the spatial scale from the plot (32.2%) to stand (27.1%) and forest level (3.5%). The accuracy of the UAV-LS estimates varied given forest structure and was high"
+  },
+  {
+   "id": "https://openalex.org/W2740121437",
+   "doi": "10.3390/rs9080785",
+   "title": "Autonomous Collection of Forest Field Reference\u2014The Outlook and a First Step with UAV Laser Scanning",
+   "publication_year": 2017,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 123,
+   "relevance_score": null,
+   "authors": [
+    "Anttoni Jaakkola",
+    "Juha M. Hyyppa",
+    "Xiaowei Yu",
+    "Antero Kukko",
+    "Harri Kaartinen",
+    "Xinlian Liang"
+   ],
+   "n_authors": 8,
+   "abstract": "A compact solution for the accurate and automated collection of field data in forests has long been anticipated, and tremendous efforts have been made by applying various remote sensing technologies. The employment of advanced techniques, such as the smartphone-based relascope, terrestrial and mobile photogrammetry, and laser scanning, have led to steady progress, thus steering their applications to a practical stage. However, all recent strategies require human operation for data acquisition, either to place the instrument on site (e.g., terrestrial laser scanning, TLS) or to carry the instrument by an operator (e.g., personal laser scanning, PLS), which remained laborious and expensive. In this paper, a new concept of autonomous forest field investigation is proposed, which includes data collection above and inside the forest canopy by integrating an unmanned aircraft vehicle (UAV) with autonomous driving. As a first step towards realizing this concept, the feasibility of automated tree-level field measurements from a mini-UAV laser scanning system is evaluated. A \u201clow-cost\u201d Velodyne Puck LITE laser scanner is applied for the test. It is revealed that, with the above canopy flight data, the detection rate was 100% for isolated and dominant trees. The accuracy of direct measurements on the diameter at breast height (DBH) from the point cloud is between 5.5 and 6.8 cm due to the system and the methodological error propagation. The estimation of DBH from point cloud metrics, o"
+  },
+  {
+   "id": "https://openalex.org/W2902658278",
+   "doi": "10.3390/rs10121900",
+   "title": "Mango Yield Mapping at the Orchard Scale Based on Tree Structure and Land Cover Assessed by UAV",
+   "publication_year": 2018,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 122,
+   "relevance_score": null,
+   "authors": [
+    "Julien Sarron",
+    "\u00c9ric Mal\u00e9zieux",
+    "Cheikh Amet Bassirou San\u00e9",
+    "\u00c9mile Faye"
+   ],
+   "n_authors": 4,
+   "abstract": "In the value chain, yields are key information for both growers and other stakeholders in market supply and exports. However, orchard yields are often still based on an extrapolation of tree production which is visually assessed on a limited number of trees; a tedious and inaccurate task that gives no yield information at a finer scale than the orchard plot. In this work, we propose a method to accurately map individual tree production at the orchard scale by developing a trade-off methodology between mechanistic yield modelling and extensive fruit counting using machine vision systems. A methodological toolbox was developed and tested to estimate and map tree species, structure, and yields in mango orchards of various cropping systems (from monocultivar to plurispecific orchards) in the Niayes region, West Senegal. Tree structure parameters (height, crown area and volume), species, and mango cultivars were measured using unmanned aerial vehicle (UAV) photogrammetry and geographic, object-based image analysis. This procedure reached an average overall accuracy of 0.89 for classifying tree species and mango cultivars. Tree structure parameters combined with a fruit load index, which takes into account year and management effects, were implemented in predictive production models of three mango cultivars. Models reached satisfying accuracies with R2 greater than 0.77 and RMSE% ranging from 20% to 29% when evaluated with the measured production of 60 validation trees. In 2017, th"
+  },
+  {
+   "id": "https://openalex.org/W2901577545",
+   "doi": "10.1016/j.biosystemseng.2018.10.018",
+   "title": "Mapping the 3D structure of almond trees using UAV acquired photogrammetric point clouds and object-based image analysis",
+   "publication_year": 2018,
+   "source": "Biosystems Engineering",
+   "type": "article",
+   "cited_by_count": 120,
+   "relevance_score": null,
+   "authors": [
+    "Jorge Torres\u2010S\u00e1nchez",
+    "Ana Isabel de Castro",
+    "Jos\u00e9 Manuel Pe\u00f1a",
+    "Francisco Manuel Jim\u00e9nez-Brenes",
+    "Octavio Arquero",
+    "Mar\u00eda Lovera"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3034067006",
+   "doi": "10.1186/s13007-020-00620-6",
+   "title": "Yield prediction by machine learning from UAS-based multi-sensor data fusion in soybean",
+   "publication_year": 2020,
+   "source": "Plant Methods",
+   "type": "article",
+   "cited_by_count": 119,
+   "relevance_score": null,
+   "authors": [
+    "M\u00f3nica Herrero-Huerta",
+    "Pablo Rodr\u00edguez\u2010Gonz\u00e1lvez",
+    "Katy Martin Rainey"
+   ],
+   "n_authors": 3,
+   "abstract": "BACKGROUND: Nowadays, automated phenotyping of plants is essential for precise and cost-effective improvement in the efficiency of crop genetics. In recent years, machine learning (ML) techniques have shown great success in the classification and modelling of crop parameters. In this research, we consider the capability of ML to perform grain yield prediction in soybeans by combining data from different optical sensors via RF (Random Forest) and XGBoost (eXtreme Gradient Boosting). During the 2018 growing season, a panel of 382 soybean recombinant inbred lines were evaluated in a yield trial at the Agronomy Center for Research and Education (ACRE) in West Lafayette (Indiana, USA). Images were acquired by the Parrot Sequoia Multispectral Sensor and the S.O.D.A. compact digital camera on board a senseFly eBee UAS (Unnamed Aircraft System) solution at R4 and early R5 growth stages. Next, a standard photogrammetric pipeline was carried out by SfM (Structure from Motion). Multispectral imagery serves to analyse the spectral response of the soybean end-member in 2D. In addition, RGB images were used to reconstruct the study area in 3D, evaluating the physiological growth dynamics per plot via height variations and crop volume estimations. As ground truth, destructive grain yield measurements were taken at the end of the growing season. RESULTS: Algorithms and feature extraction techniques were combined to develop a regression model to predict final yield from imagery, achieving an "
+  },
+  {
+   "id": "https://openalex.org/W3022365164",
+   "doi": "10.1016/j.marpolbul.2020.111127",
+   "title": "Estimation of plastic marine debris volumes on beaches using unmanned aerial vehicles and image processing based on deep learning",
+   "publication_year": 2020,
+   "source": "Marine Pollution Bulletin",
+   "type": "article",
+   "cited_by_count": 114,
+   "relevance_score": null,
+   "authors": [
+    "Shin\u2019ichiro Kako",
+    "Shohei Morita",
+    "Tetsuya Taneda"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2963634451",
+   "doi": "10.3390/s19143205",
+   "title": "DEM Generation from Fixed-Wing UAV Imaging and LiDAR-Derived Ground Control Points for Flood Estimations",
+   "publication_year": 2019,
+   "source": "Sensors",
+   "type": "article",
+   "cited_by_count": 97,
+   "relevance_score": null,
+   "authors": [
+    "Jairo Rene Escobar Villanueva",
+    "Luis Iglesias",
+    "Jhonny P\u00e9rez"
+   ],
+   "n_authors": 3,
+   "abstract": "Geospatial products, such as digital elevation models (DEMs), are important topographic tools for tackling local flood studies. This study investigates the contribution of LiDAR elevation data in DEM generation based on fixed-wing unmanned aerial vehicle (UAV) imaging for flood applications. More specifically, it assesses the accuracy of UAV-derived DEMs using the proposed LiDAR-derived control point (LCP) method in a Structure-from-Motion photogrammetry processing. Also, the flood estimates (volume and area) of the UAV terrain products are compared with a LiDAR-based reference. The applied LCP-georeferencing method achieves an accuracy comparable with other studies. In addition, it has the advantage of using semi-automatic terrain data classification and is readily applicable in flood studies. Lastly, it proves the complementarity between LiDAR and UAV photogrammetry at the local level."
+  },
+  {
+   "id": "https://openalex.org/W2912419569",
+   "doi": "10.1016/j.apgeog.2019.02.002",
+   "title": "Comparison of leaf-off and leaf-on combined UAV imagery and airborne LiDAR for assessment of a post-mining site terrain and vegetation structure: Prospects for monitoring hazards and restoration success",
+   "publication_year": 2019,
+   "source": "Applied Geography",
+   "type": "article",
+   "cited_by_count": 97,
+   "relevance_score": null,
+   "authors": [
+    "V\u00edt\u011bzslav Moudr\u00fd",
+    "Kate\u0159ina Gdulov\u00e1",
+    "Michal Fogl",
+    "Petr Kl\u00e1p\u0161t\u011b",
+    "Rudolf Urban",
+    "Jan Kom\u00e1rek"
+   ],
+   "n_authors": 10,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2774842738",
+   "doi": "10.3390/ijgi6120393",
+   "title": "The Use of Nadir and Oblique UAV Images for Building Knowledge",
+   "publication_year": 2017,
+   "source": "ISPRS International Journal of Geo-Information",
+   "type": "article",
+   "cited_by_count": 96,
+   "relevance_score": null,
+   "authors": [
+    "Giuseppina Vacca",
+    "Andrea Dess\u00ec",
+    "Alessandro Sacco"
+   ],
+   "n_authors": 3,
+   "abstract": "This paper focuses on the processing and study of 3D models obtained from images captured by an unmanned aerial vehicle (UAV). In particular, we wanted to study the accuracy gains achieved in the surveying and the measurement, such as height, area, and volume, of the dimensions of the buildings in the 3D models obtained with both nadir and oblique UAV flights. These latter types of flights are particularly suitable for the 3D modeling of cities or urban agglomerations, where it is important to achieve a complete building reconstruction, including fa\u00e7ades and footprints of buildings. For this purpose, several UAV surveys with both nadir and oblique axes were performed. The nadir flight acquired images over an area of about 3.5 hectares containing 30 buildings, while the second flight, performed with both a nadir camera and an oblique camera, was conducted on a single building. The images from the flights were processed with Photoscan software by Agisoft and with Pix4D, studying their different potentialities and functionality. The results were compared with the data from the 1:2000 scale Geotopographic Database (DBGT), with the results of a Global Navigation Satellite System (GNSS) survey and with 3D model from the Terrestrial Laser Scanner (TLS) survey. The obtained results have shown that oblique UAV flights increase the achievable accuracy both in terms of the number of points in a point cloud, and in the in measurements taken on the 3D models, with respect to the limited c"
+  },
+  {
+   "id": "https://openalex.org/W2911264809",
+   "doi": "10.1371/journal.pone.0210804",
+   "title": "High-resolution imagery acquired from an unmanned platform to estimate biophysical and geometrical parameters of olive trees under different irrigation regimes",
+   "publication_year": 2019,
+   "source": "PLoS ONE",
+   "type": "article",
+   "cited_by_count": 95,
+   "relevance_score": null,
+   "authors": [
+    "Giovanni Maria Caruso",
+    "Pablo J. Zarco\u2010Tejada",
+    "Victoria Gonzalez-Dugo",
+    "Marco Moriondo",
+    "Letizia Tozzini",
+    "Giacomo Palai"
+   ],
+   "n_authors": 10,
+   "abstract": "The experiments were conducted in a fully-productive olive orchard (cv. Frantoio) at the experimental farm of University of Pisa at Venturina (Italy) in 2015 to assess the ability of an unmanned aerial vehicle (UAV) equipped with RGB-NIR cameras to estimate leaf area index (LAI), tree height, canopy diameter and canopy volume of olive trees that were either irrigated or rainfed. Irrigated trees received water 4-5 days a week (1348 m3 ha-1), whereas the rainfed ones received a single irrigation of 19 m3 ha-1 to relieve the extreme stress. The flight altitude was 70 m above ground level (AGL), except for one flight (50 m AGL). The Normalized Difference Vegetation Index (NDVI) was calculated by means of the map algebra technique. Canopy volume, canopy height and diameter were obtained from the digital surface model (DSM) obtained through automatic aerial triangulation, bundle block adjustment and camera calibration methods. The NDVI estimated on the day of the year (DOY) 130 was linearly correlated with both LAI and leaf chlorophyll measured on the same date (R2 = 0.78 and 0.80, respectively). The correlation between the on ground measured canopy volumes and the ones by the UAV-RGB camera techniques yielded an R2 of 0.71-0.86. The monthly canopy volume increment estimated from UAV surveys between (DOY) 130 and 244 was highly correlated with the daily water stress integral of rainfed trees (R2 = 0.99). The effect of water stress on the seasonal pattern of canopy growth was detect"
+  },
+  {
+   "id": "https://openalex.org/W2554632219",
+   "doi": "10.1002/2016jf004039",
+   "title": "A physically based 3\u2010D model of ice cliff evolution over debris\u2010covered glaciers",
+   "publication_year": 2016,
+   "source": "Journal of Geophysical Research Earth Surface",
+   "type": "article",
+   "cited_by_count": 95,
+   "relevance_score": null,
+   "authors": [
+    "Pascal Buri",
+    "Evan Stewart Miles",
+    "Jakob Friedrich Steiner",
+    "Walter Willem Immerzeel",
+    "Patrick Wagnon",
+    "Francesca Pellicciotti"
+   ],
+   "n_authors": 6,
+   "abstract": "We use high\u2010resolution digital elevation models (DEMs) from unmanned aerial vehicle (UAV) surveys to document the evolution of four ice cliffs on the debris\u2010covered tongue of Lirung Glacier, Nepal, over one ablation season. Observations show that out of four cliffs, three different patterns of evolution emerge: (i) reclining cliffs that flatten during the ablation season; (ii) stable cliffs that maintain a self\u2010similar geometry; and (iii) growing cliffs, expanding laterally. We use the insights from this unique data set to develop a 3\u2010D model of cliff backwasting and evolution that is validated against observations and an independent data set of volume losses. The model includes ablation at the cliff surface driven by energy exchange with the atmosphere, reburial of cliff cells by surrounding debris, and the effect of adjacent ponds. The cliff geometry is updated monthly to account for the modifications induced by each of those processes. Model results indicate that a major factor affecting the survival of steep cliffs is the coupling with ponded water at its base, which prevents progressive flattening and possible disappearance of a cliff. The radial growth observed at one cliff is explained by higher receipts of longwave and shortwave radiation, calculated taking into account atmospheric fluxes, shading, and the emission of longwave radiation from debris surfaces. The model is a clear step forward compared to existing static approaches that calculate atmospheric melt over a"
+  },
+  {
+   "id": "https://openalex.org/W4295857038",
+   "doi": "10.1016/j.isprsjprs.2022.08.021",
+   "title": "How can UAV bridge the gap between ground and satellite observations for quantifying the biomass of desert shrub community?",
+   "publication_year": 2022,
+   "source": "ISPRS Journal of Photogrammetry and Remote Sensing",
+   "type": "article",
+   "cited_by_count": 94,
+   "relevance_score": null,
+   "authors": [
+    "Peng Mao",
+    "Junjie Ding",
+    "Biqian Jiang",
+    "Longjun Qin",
+    "Guo Yu Qiu"
+   ],
+   "n_authors": 5,
+   "abstract": "Accurate estimation of the shrub above-ground biomass (AGB) is an essential basis for determining carbon storage and monitoring desertification risk in arid ecosystems. However, significant uncertainties and biases exist in large-scale monitoring of desert AGB due to the scale mismatch and spatio-temporal topological errors between the coarse resolution of satellite images and the limited area that can be surveyed via ground measurements. The rapid development of unmanned aerial vehicle (UAV) technology has the prospective advantage of multi-scale vegetation observation. However, its potential to bridge the gap between satellites and the ground in desert AGB estimation has not yet been explored. This study developed a procedure to fill the gap between satellite and ground measurements based on low-cost and easy-to-use UAV visible-light technology in typical desert shrub communities in Inner Mongolia, China. First, canopy area (CA), canopy maximum height (CH), and canopy volume (CV) metrics derived from UAV-RGB (Red, Green, Blue) images, coupled with structure-from-motion photogrammetry, were used to invert the UAV-based AGB. Then, the UAV-based AGB data were aggregated to different scales to align with satellite data. Here, we focused on examining the performance of generalized additive models between the upscaled UAV-based AGB and vegetation indices (VIs) generated from PlanetScope (resolution: 3 m), Sentinel-2A MSI (resolution: 10 m, 20 m), and Landsat 8 OLI (resolution: 30"
+  },
+  {
+   "id": "https://openalex.org/W2902738349",
+   "doi": "10.1016/j.jvolgeores.2018.12.001",
+   "title": "UAVs for volcano monitoring: A new approach applied on an active lava flow on Mt. Etna (Italy), during the 27 February\u201302 March 2017 eruption",
+   "publication_year": 2018,
+   "source": "Journal of Volcanology and Geothermal Research",
+   "type": "article",
+   "cited_by_count": 93,
+   "relevance_score": null,
+   "authors": [
+    "Emanuela De Beni",
+    "Massimo Cantarero",
+    "A. Messina"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2094858813",
+   "doi": "10.1061/(asce)su.1943-5428.0000138",
+   "title": "Earthwork Volumetrics with an Unmanned Aerial Vehicle and Softcopy Photogrammetry",
+   "publication_year": 2014,
+   "source": "Journal of Surveying Engineering",
+   "type": "article",
+   "cited_by_count": 93,
+   "relevance_score": null,
+   "authors": [
+    "Chris H. Hugenholtz",
+    "Jordan Walker",
+    "Owen W. Brown",
+    "Steve Myshak"
+   ],
+   "n_authors": 4,
+   "abstract": "Small unmanned/uninhabited aerial vehicles (UAVs) are quickly becoming a cost-effective alternative for mapping and volumetrics, particularly for small- to medium-sized earthwork projects. However, the accuracy of photogrammetrically derived digital terrain models (DTMs) from UAV imagery is not extensively tested. This gap is addressed through a case study of stockpile volume estimation. A gravel stockpile was surveyed with a vertical take-off and landing UAV before and after a portion of it was excavated. Softcopy photogrammetry was applied to the UAV images to produce before and after DTMs, each with a resolution of 3.5 cm. The vertical accuracy of the UAV DTMs was estimated with global positioning system (GPS) test points, yielding RMS errors of 0.106 (before) and 0.097 m (after). These errors are similar to, if not lower, than those produced by airborne light detection and ranging (LIDAR), in general, but are higher than for terrestrial laser scanning. The before and after volume of the stockpile estimated from the UAV DTMs was 2.6 and 3.9% lower than the volume estimated from GPS-interpolated DTMs. By differencing the two UAV DTMs, the volume of gravel extracted from the stockpile was estimated and compared with a haul ticket. According to the latter, the extracted volume was 1,483.440 m3, which was 2.5% lower than the volume derived from the difference between the UAV DTMs (1,521.440 m3). Overall, results from this study indicate that UAV-based volumetrics can yield mea"
+  },
+  {
+   "id": "https://openalex.org/W3173737780",
+   "doi": "10.1016/j.coldregions.2021.103344",
+   "title": "Intercomparison of UAV platforms for mapping snow depth distribution in complex alpine terrain",
+   "publication_year": 2021,
+   "source": "Cold Regions Science and Technology",
+   "type": "article",
+   "cited_by_count": 92,
+   "relevance_score": null,
+   "authors": [
+    "Jes\u00fas Revuelto",
+    "Esteban Alonso\u2010Gonz\u00e1lez",
+    "Ixeia Vidaller",
+    "Emilien Lacroix",
+    "E\u00f1aut Izagirre",
+    "Guillermo Rodr\u00edguez-L\u00f3pez"
+   ],
+   "n_authors": 7,
+   "abstract": "Unmanned Aerial Vehicles (UAVs) offer great flexibility in acquiring images in inaccessible study areas, which are then processed with stereo-matching techniques through Structure-from-Motion (SfM) algorithms. This procedure allows generating high spatial resolution 3D point clouds. The high accuracy of these 3D models allows the production of detailed snow depth distribution maps through the comparison of point clouds from different dates. In this way, UAVs allow monitoring of remote areas that were not achievable previously. The large number of works evaluating this novel technique has not, to date, conducted a systematic evaluation of concurrent snowpack observations with different UAV devices. Taking into account this, and also bearing in mind that potential users of this technique may be interested in exploiting ready-to-use commercial devices, we conducted an evaluation of the snow depth distribution maps with different commercial UAVs. During the 2018\u201319 snow season, two multi-rotors (Parrot Anafi and DJI Mavic Pro2) and one fixed-wing device (SenseFly eBee plus) were used on three different dates over a small test area (5 ha) within Izas Experimental Catchment in the Central Pyrenees. Simultaneously, snowpack distribution was retrieved with a Terrestrial Laser Scanner (TLS, RIEGL LPM-321) and was considered as ground truth. Three different georeferencing methods (Ground Control Points, ICP algorithm over snow-free areas and RTK-GPS positioning) were tested, showing eq"
+  },
+  {
+   "id": "https://openalex.org/W2914832712",
+   "doi": "10.5194/gh-74-59-2019",
+   "title": "Monitoring the crisis of a rock glacier with repeated UAV surveys",
+   "publication_year": 2019,
+   "source": "Geographica Helvetica",
+   "type": "article",
+   "cited_by_count": 90,
+   "relevance_score": null,
+   "authors": [
+    "Sebasti\u00e1n Vivero",
+    "Christophe Lambiel"
+   ],
+   "n_authors": 2,
+   "abstract": "In this study, rapid topographic changes and high creeping rates caused by the destabilisation of an active rock glacier in a steep mountain flank were investigated in detail with five unmanned aerial vehicle (UAV) surveys between June 2016 and September 2017. State-of-the-art photogrammetric techniques were employed to derived high-density point clouds and high-resolution orthophoto mosaics from the studied landform. The accuracy of the co-registration of subsequent point clouds was carefully examined and adjusted based on comparing stable areas outside the rock glacier, which minimised 3-D alignment errors to a mean of 0.12 m. Elevation and volumetric changes in the destabilised rock glacier were quantified over the study period. Surface kinematics were estimated with a combination of image correlation algorithms and visual inspection of the orthophoto mosaics. Between June 2016 and September 2017, the destabilised part of the rock glacier advanced up to 60\u201375 m and mobilised a volume of around 27 000 m3 of material which was dumped over the lower talus slope. This study has demonstrated a robust and customisable monitoring approach that allows a detailed study of rock glacier geometric changes during a crisis phase."
+  },
+  {
+   "id": "https://openalex.org/W3132640023",
+   "doi": "10.1016/j.ecolind.2021.107494",
+   "title": "An improved approach to estimate above-ground volume and biomass of desert shrub communities based on UAV RGB images",
+   "publication_year": 2021,
+   "source": "Ecological Indicators",
+   "type": "article",
+   "cited_by_count": 87,
+   "relevance_score": null,
+   "authors": [
+    "Peng Mao",
+    "Longjun Qin",
+    "Mengyu Hao",
+    "Wenli Zhao",
+    "Jiechunyi Luo",
+    "Xu Qiu"
+   ],
+   "n_authors": 11,
+   "abstract": "Above-ground biomass (AGB) is an essential indicator for assessing ecosystem health and carbon storage in desert shrub-related research. Above-ground volume (AGV) of vegetation is a crucial parameter to estimate the AGB. In unmanned aerial vehicle (UAV) remote sensing, the AGV and AGB are mainly estimated by vegetation feature metrics (for example, spectral indices, textural, and structural metrics). However, there is limited study on the AGV and AGB estimation in desert shrub communities by using UAV, and it is difficult to determine the contribution of these metrics to AGV models under eliminating the influence of background factors. Taking a typical desert shrub area in Inner Mongolia, China as an example, this study develops an improved approach to extracted three types of feature metrics simultaneously using UAV RGB (Red, Green, Blue) images. First, digital orthophoto map (DOM) and digital surface model (DSM) were created through the photogrammetric procedure based on UAV RGB images. Second, the digital terrain model (DTM) for canopy height calculation was generated based on DOM and DSM by object-oriented image binary classification and ground elevation interpolation. Here, we recommended the ENVI Landsat Gap-fill tool to interpolate the ground elevation of vegetation areas. Meanwhile, 21 spectral indices, eight textural metrics, and five structural metrics were extracted. Finally, single-variable and multi-variable commonly used regression models were established based "
+  },
+  {
+   "id": "https://openalex.org/W4407409487",
+   "doi": "10.3390/rs17040606",
+   "title": "Practical Guidelines for Performing UAV Mapping Flights with Snapshot Sensors",
+   "publication_year": 2025,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 86,
+   "relevance_score": null,
+   "authors": [
+    "Wouter H. Maes"
+   ],
+   "n_authors": 1,
+   "abstract": "Uncrewed aerial vehicles (UAVs) have transformed remote sensing, offering unparalleled flexibility and spatial resolution across diverse applications. Many of these applications rely on mapping flights using snapshot imaging sensors for creating 3D models of the area or for generating orthomosaics from RGB, multispectral, hyperspectral, or thermal cameras. Based on a literature review, this paper provides comprehensive guidelines and best practices for executing such mapping flights. It addresses critical aspects of flight preparation and flight execution. Key considerations in flight preparation covered include sensor selection, flight height and GSD, flight speed, overlap settings, flight pattern, direction, and viewing angle; considerations in flight execution include on-site preparations (GCPs, camera settings, sensor calibration, and reference targets) as well as on-site conditions (weather conditions, time of the flights) to take into account. In all these steps, high-resolution and high-quality data acquisition needs to be balanced with feasibility constraints such as flight time, data volume, and post-flight processing time. For reflectance and thermal measurements, BRDF issues also influence the correct setting. The formulated guidelines are based on literature consensus. However, the paper also identifies knowledge gaps for mapping flight settings, particularly in viewing angle pattern, flight direction, and thermal imaging in general. The guidelines aim to advance "
+  },
+  {
+   "id": "https://openalex.org/W3216945420",
+   "doi": "10.1016/j.autcon.2021.104057",
+   "title": "Semantics-aided 3D change detection on construction sites using UAV-based photogrammetric point clouds",
+   "publication_year": 2021,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 85,
+   "relevance_score": null,
+   "authors": [
+    "Rong Huang",
+    "Yusheng Xu",
+    "Ludwig Hoegner",
+    "Uwe Stilla"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3199488171",
+   "doi": "10.1515/geo-2020-0290",
+   "title": "Individual tree detection using UAV-lidar and UAV-SfM data: A tutorial for beginners",
+   "publication_year": 2021,
+   "source": "Open Geosciences",
+   "type": "article",
+   "cited_by_count": 85,
+   "relevance_score": null,
+   "authors": [
+    "Midhun Mohan",
+    "Rodrigo Vieira Leite",
+    "Eben North Broadbent",
+    "Wan Shafrina Wan Mohd Jaafar",
+    "Shruthi Srinivasan",
+    "Shaurya Bajaj"
+   ],
+   "n_authors": 18,
+   "abstract": "Applications of unmanned aerial vehicles (UAVs) have proliferated in the last decade due to the technological advancements on various fronts such as structure-from-motion (SfM), machine learning, and robotics. An important preliminary step with regard to forest inventory and management is individual tree detection (ITD), which is required to calculate forest attributes such as stem volume, forest uniformity, and biomass estimation. However, users may find adopting the UAVs and algorithms for their specific projects challenging due to the plethora of information available. Herein, we provide a step-by-step tutorial for performing ITD using (i) low-cost UAV-derived imagery and (ii) UAV-based high-density lidar (light detection and ranging). Functions from open-source R packages were implemented to develop a canopy height model (CHM) and perform ITD utilizing the local maxima (LM) algorithm. ITD accuracy assessment statistics and validation were derived through manual visual interpretation from high-resolution imagery and field-data-based accuracy assessment. As the intended audience are beginners in remote sensing, we have adopted a very simple methodology and chosen study plots that have relatively open canopies to demonstrate our proposed approach; the respective R codes and sample plot data are available as supplementary materials."
+  },
+  {
+   "id": "https://openalex.org/W3163541793",
+   "doi": "10.1016/j.jag.2021.102358",
+   "title": "UAV-based individual shrub aboveground biomass estimation calibrated against terrestrial LiDAR in a shrub-encroached grassland",
+   "publication_year": 2021,
+   "source": "International Journal of Applied Earth Observation and Geoinformation",
+   "type": "article",
+   "cited_by_count": 82,
+   "relevance_score": null,
+   "authors": [
+    "Yujin Zhao",
+    "Xiaoliang Liu",
+    "Yang Wang",
+    "Zhaoju Zheng",
+    "Shuxia Zheng",
+    "Dan Zhao"
+   ],
+   "n_authors": 7,
+   "abstract": "Shrub encroachment is an important ecological issue that is increasingly receiving global attention in arid and semiarid grasslands. Monitoring the spatial distribution of encroached shrub aboveground biomass (AGB) is critical for ecological conservation and adaptive ecosystem management. However, the low stature and fine spatial heterogeneity of encroached shrub communities increase difficulties for coarse spatial-resolution satellite images to adequately capture detailed characteristics of individual shrubs. Unmanned aerial vehicle (UAV) can acquire centimeter-level optical images or high-density LiDAR point cloud data, providing an effective means to map encroached shrub AGB spatially explicitly, even at the individual scale. In this study, we first extracted the individual shrubs based on thresholds in normalized difference vegetation index (NDVI) and canopy height model (CHM) using UAV-based multispectral and LiDAR data. For each shrub, we then derived and determined the dominant geometric, spectral, and textural features from the high-resolution multispectral image and the volumetric features from the LiDAR data as predictors of shrub AGB. Finally, we compared the capability of different data sources (UAV-based multispectral image, LiDAR, and their combination) and regression methods (multiple linear, random forest, and support vector regression) to estimate and map the individual shrub AGB in the study area. The volume-based approaches to individual shrub AGB, includin"
+  },
+  {
+   "id": "https://openalex.org/W3026696224",
+   "doi": "10.3390/rs12101615",
+   "title": "Integrating UAV and TLS Approaches for Environmental Management: A Case Study of a Waste Stockpile Area",
+   "publication_year": 2020,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 82,
+   "relevance_score": null,
+   "authors": [
+    "Seung Woo Son",
+    "Dong Woo Kim",
+    "Woong Gi Sung",
+    "Jae Jin Yu"
+   ],
+   "n_authors": 4,
+   "abstract": "A methodology for optimal volume computation for the environmental management of waste stockpiles was derived by integrating the terrestrial laser scanning (TLS) and unmanned aerial vehicle (UAV) technologies. Among the UAV-based point clouds generated under various flight scenarios, the most accurate point cloud was selected for analysis. The root mean square errors (RMSEs) of the TLS- and UAV-based methods were 0.202 and 0.032 m, respectively, and the volume computation yielded 41,226 and 41,526 m3, respectively. Both techniques showed high accuracy but also exhibited drawbacks in terms of their spatial features and efficiency. The TLS and UAV methods required 800 and 340 min, respectively, demonstrating the high efficiency of the UAV method. The RMSE and volume obtained using the TLS/UAV fusion model were calculated as 0.030 m and 41,232 m3, respectively. The UAV approach generally yielded high point cloud accuracy and volume computation efficiency."
+  },
+  {
+   "id": "https://openalex.org/W2946881091",
+   "doi": "10.1109/tgrs.2019.2909026",
+   "title": "Simultaneous Mapping of Coastal Topography and Bathymetry From a Lightweight Multicamera UAS",
+   "publication_year": 2019,
+   "source": "IEEE Transactions on Geoscience and Remote Sensing",
+   "type": "article",
+   "cited_by_count": 82,
+   "relevance_score": null,
+   "authors": [
+    "Katherine Brodie",
+    "Brittany L. Bruder",
+    "Richard K. Slocum",
+    "Nicholas Spore"
+   ],
+   "n_authors": 4,
+   "abstract": "A low-cost multicamera Unmanned Aircraft System (UAS) is used to simultaneously estimate open-coast topography and bathymetry from a single longitudinal coastal flight. The UAS combines nadir and oblique imagery to create a wide field of view (FOV), which enables collection of mobile, long dwell timeseries of the littoral zone suitable for structure-from-motion (SfM), and wave speed inversion algorithms. Resultant digital surface models (DSMs) compare well with terrestrial topographic lidar and bathymetric survey data at Duck, NC, USA, with roor-mean-square error (RMSE)/bias of 0.26/-0.05 and 0.34/-0.05 m, respectively. Bathymetric data from another flight at Virginia Beach, VA, USA, demonstrates successful comparison (RMSE/bias of 0.17/0.06 m) in a secondary environment. UAS-derived engineering data products, total volume profiles and shoreline position, were congruent with those calculated from traditional topo-bathymetric surveys at Duck. Capturing both topography and bathymetry within a single flight, the presented multicamera system is more efficient than data acquisition with a single camera UAS; this advantage grows for longer stretches of coastline (10 km). Efficiency increases further with an on-board Global Navigation Satellite System-Inertial Navigation System (GNSS-INS) to eliminate ground control point (GCP) placement. The Appendix reprocesses the Virginia Beach flight with the GNSS-INS input and no GCPs. The resultant DSM products are comparable [root-mean-squar"
+  },
+  {
+   "id": "https://openalex.org/W2910669015",
+   "doi": "10.1016/j.compag.2019.01.007",
+   "title": "Aerial imagery or on-ground detection? An economic analysis for vineyard crops",
+   "publication_year": 2019,
+   "source": "Computers and Electronics in Agriculture",
+   "type": "article",
+   "cited_by_count": 82,
+   "relevance_score": null,
+   "authors": [
+    "Dionisio And\u00fajar",
+    "Hugo Moreno",
+    "Jose Maria Bengochea-Guevara",
+    "Ana Isabel de Castro",
+    "\u00c1ngela Ribeiro"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2903063870",
+   "doi": "10.3390/rs10121907",
+   "title": "Multi-Temporal Vineyard Monitoring through UAV-Based RGB Imagery",
+   "publication_year": 2018,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 81,
+   "relevance_score": null,
+   "authors": [
+    "Lu\u00eds P\u00e1dua",
+    "Pedro Marques",
+    "Jon\u00e1\u0161 Hru\u0161ka",
+    "Telmo Ad\u00e3o",
+    "Emanuel Soares Peres",
+    "Raul Morais"
+   ],
+   "n_authors": 7,
+   "abstract": "This study aimed to characterize vineyard vegetation thorough multi-temporal monitoring using a commercial low-cost rotary-wing unmanned aerial vehicle (UAV) equipped with a consumer-grade red/green/blue (RGB) sensor. Ground-truth data and UAV-based imagery were acquired on nine distinct dates, covering the most significant vegetative growing cycle until harvesting season, over two selected vineyard plots. The acquired UAV-based imagery underwent photogrammetric processing resulting, per flight, in an orthophoto mosaic, used for vegetation estimation. Digital elevation models were used to compute crop surface models. By filtering vegetation within a given height-range, it was possible to separate grapevine vegetation from other vegetation present in a specific vineyard plot, enabling the estimation of grapevine area and volume. The results showed high accuracy in grapevine detection (94.40%) and low error in grapevine volume estimation (root mean square error of 0.13 m and correlation coefficient of 0.78 for height estimation). The accuracy assessment showed that the proposed method based on UAV-based RGB imagery is effective and has potential to become an operational technique. The proposed method also allows the estimation of grapevine areas that can potentially benefit from canopy management operations."
+  },
+  {
+   "id": "https://openalex.org/W4394874985",
+   "doi": "10.1016/j.rse.2024.114160",
+   "title": "Quantifying vegetation species functional traits along hydrologic gradients in karst wetland based on 3D mapping with UAV hyperspectral point cloud",
+   "publication_year": 2024,
+   "source": "Remote Sensing of Environment",
+   "type": "article",
+   "cited_by_count": 75,
+   "relevance_score": null,
+   "authors": [
+    "Bolin Fu",
+    "Liwei Deng",
+    "Weiwei Sun",
+    "Hongchang He",
+    "Huajian Li",
+    "Yong Wang"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3114973217",
+   "doi": "10.3390/rs13010095",
+   "title": "Structure-from-Motion-Derived Digital Surface Models from Historical Aerial Photographs: A New 3D Application for Coastal Dune Monitoring",
+   "publication_year": 2020,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 74,
+   "relevance_score": null,
+   "authors": [
+    "Edoardo Grottoli",
+    "M\u00e9lanie Biausque",
+    "David Anthony Rogers",
+    "Derek Jackson",
+    "Andrew Cooper"
+   ],
+   "n_authors": 5,
+   "abstract": "Recent advances in structure-from-motion (SfM) techniques have proliferated the use of unmanned aerial vehicles (UAVs) in the monitoring of coastal landform changes, particularly when applied in the reconstruction of 3D surface models from historical aerial photographs. Here, we explore a number of depth map filtering and point cloud cleaning methods using the commercial software Agisoft Metashape Pro to determine the optimal methodology to build reliable digital surface models (DSMs). Twelve different aerial photography-derived DSMs are validated and compared against light detection and ranging (LiDAR)- and UAV-derived DSMs of a vegetated coastal dune system that has undergone several decades of coastline retreat. The different studied methods showed an average vertical error (root mean square error, RMSE) of approximately 1 m, with the best method resulting in an error value of 0.93 m. In our case, the best method resulted from the removal of confidence values in the range of 0\u20133 from the dense point cloud (DPC), with no filter applied to the depth maps. Differences among the methods examined were associated with the reconstruction of the dune slipface. The application of the modern SfM methodology to the analysis of historical aerial (vertical) photography is a novel (and reliable) new approach that can be used to better quantify coastal dune volume changes. DSMs derived from suitable historical aerial photographs, therefore, represent dependable sources of 3D data that ca"
+  },
+  {
+   "id": "https://openalex.org/W2982677265",
+   "doi": "10.3390/agriculture9110233",
+   "title": "Comparison of UAV Photogrammetry and 3D Modeling Techniques with Other Currently Used Methods for Estimation of the Tree Row Volume of a Super-High-Density Olive Orchard",
+   "publication_year": 2019,
+   "source": "Agriculture",
+   "type": "article",
+   "cited_by_count": 74,
+   "relevance_score": null,
+   "authors": [
+    "Alexandros Sotirios Anifantis",
+    "Salvatore Camposeo",
+    "Gaetano Alessandro Vivaldi",
+    "Francesco Santoro",
+    "Simone Pascuzzi"
+   ],
+   "n_authors": 5,
+   "abstract": "A comparison of three different methods to evaluate the tree row volume (TRV) of a super-high-density olive orchard is presented in this article. The purpose was to validate the suitability of unmanned aerial vehicle (UAV) photogrammetry and 3D modeling techniques with respect to manual and traditional methods of TRV detection. The use of UAV photogrammetry can reduce the amount of estimated biomass and, therefore, reduce the volume of pesticides to be used in the field by means of more accurate prescription maps. The presented comparison of methodologies was performed on an adult super-high-density olive orchard, planted with a density of 1660 trees per hectare. The first method (TRV1) was based on close-range photogrammetry from UAVs, the second (TRV2) was based on manual in situ measurements, and the third (TRV3) was based on a formula from the literature. The comparisons of TRV2-TRV1 and TRV3-TRV1 showed an average value of the difference equal to +13% (max: +65%; min: \u221211%) and +24% (max: +58%; min: +5%), respectively. The results show that the TRV1 method has high accuracy in predicting TRV with minor working time expenditure, and the only limitation is that professionally skilled personnel is required."
+  },
+  {
+   "id": "https://openalex.org/W2889568346",
+   "doi": "10.1016/j.jag.2018.08.017",
+   "title": "The use of fixed\u2013wing UAV photogrammetry with LiDAR DTM to estimate merchantable volume and carbon stock in living biomass over a mixed conifer\u2013broadleaf forest",
+   "publication_year": 2018,
+   "source": "International Journal of Applied Earth Observation and Geoinformation",
+   "type": "article",
+   "cited_by_count": 74,
+   "relevance_score": null,
+   "authors": [
+    "Sadeepa Jayathunga",
+    "Toshiaki Owari",
+    "Satoshi Tsuyuki"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2754294648",
+   "doi": "10.3390/f8090343",
+   "title": "Forest Structure Estimation from a UAV-Based Photogrammetric Point Cloud in Managed Temperate Coniferous Forests",
+   "publication_year": 2017,
+   "source": "Forests",
+   "type": "article",
+   "cited_by_count": 74,
+   "relevance_score": null,
+   "authors": [
+    "Tetsuji Ota",
+    "Miyuki Ogawa",
+    "Nobuya Mizoue",
+    "Keiko Fukumoto",
+    "Shigejiro Yoshida"
+   ],
+   "n_authors": 5,
+   "abstract": "Here, we investigated the capabilities of a lightweight unmanned aerial vehicle (UAV) photogrammetric point cloud for estimating forest biophysical properties in managed temperate coniferous forests in Japan, and the importance of spectral information for the estimation. We estimated four biophysical properties: stand volume (V), Lorey\u2019s mean height (HL), mean height (HA), and max height (HM). We developed three independent variable sets, which included a height variable, a spectral variable, and a combined height and spectral variable. The addition of a dominant tree type to the above data sets was also tested. The model including a height variable and dominant tree type was the best for all biophysical property estimations. The root-mean-square errors (RMSEs) for the best model for V, HL, HA, and HM, were 118.30, 1.13, 1.24, and 1.24, respectively. The model including a height variable alone yielded the second highest accuracy. The respective RMSEs were 131.74, 1.21, 1.31, and 1.32. The model including a spectral variable alone yielded much lower estimation accuracy than that including a height variable. Thus, a lightweight UAV photogrammetric point cloud could accurately estimate forest biophysical properties, and a spectral variable was not necessarily required for the estimation. The dominant tree type improved estimation accuracy."
+  },
+  {
+   "id": "https://openalex.org/W2755745596",
+   "doi": null,
+   "title": "UAV applications to coastal engineering",
+   "publication_year": 2015,
+   "source": "UNSWorks (UNSW Sydney)",
+   "type": "conference-paper",
+   "cited_by_count": 73,
+   "relevance_score": null,
+   "authors": [
+    "Christopher Drummond",
+    "Mitchell D. Harley",
+    "Ian Lloyd Turner",
+    "A Nashwan A Matheen",
+    "William C. Glamore"
+   ],
+   "n_authors": 5,
+   "abstract": "The use of UAVs (Unmanned Aerial Vehicles) as a mapping and measurement tool has grown significantly in recent years, such that the potential for coastal engineering applications is beginning to be realised. Whereas more-traditional land-based (e.g. RTK-GPS) or airborne (e.g. LiDAR) methods of collecting topographic data over large areas can be labour-intensive and/or costly and physically restrictive, UAV surveying now has the ability to provide a cost-effective solution for rapid airborne sampling of the coastal zone at high-accuracy and very high spatial resolution. This paper presents an overview of the use of UAVs for coastal engineering applications, starting with the different types of systems available, practical considerations such as UAV regulations and flight planning considerations, photogrammetric data postprocessing techniques (the Structure-from-Motion algorithm) and examples of resulting data products. A number of coastal engineering case studies that have been conducted recently by the authors using UAV technology are then presented. These applications include rapid pre- and post-storm UAV deployment for quantifying coastal impacts of a major storm event that struck Sydney in April 2015; an evaluation of a rubble-mound breakwater on the mid NSW coast for structural damage and armour volume analyses; and vegetation mapping at a coastal estuary entrance using a near infra-red sensor. The coastal engineering applications presented highlight the enormous potentia"
+  },
+  {
+   "id": "https://openalex.org/W3213128262",
+   "doi": "10.3390/rs13224562",
+   "title": "Remote Sensing Detecting of Yellow Leaf Disease of Arecanut Based on UAV Multisource Sensors",
+   "publication_year": 2021,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 68,
+   "relevance_score": null,
+   "authors": [
+    "Shuhan Lei",
+    "Jianbiao Luo",
+    "Xiaojun Tao",
+    "Zixuan Qiu"
+   ],
+   "n_authors": 4,
+   "abstract": "Unmanned aerial vehicle (UAV) remote sensing technology can be used for fast and efficient monitoring of plant diseases and pests, but these techniques are qualitative expressions of plant diseases. However, the yellow leaf disease of arecanut in Hainan Province is similar to a plague, with an incidence rate of up to 90% in severely affected areas, and a qualitative expression is not conducive to the assessment of its severity and yield. Additionally, there exists a clear correlation between the damage caused by plant diseases and pests and the change in the living vegetation volume (LVV). However, the correlation between the severity of the yellow leaf disease of arecanut and LVV must be demonstrated through research. Therefore, this study aims to apply the multispectral data obtained by the UAV along with the high-resolution UAV remote sensing images to obtain five vegetation indexes such as the normalized difference vegetation index (NDVI), optimized soil adjusted vegetation index (OSAVI), leaf chlorophyll index (LCI), green normalized difference vegetation index (GNDVI), and normalized difference red edge (NDRE) index, and establish five algorithm models such as the back-propagation neural network (BPNN), decision tree, na\u00efve Bayes, support vector machine (SVM), and k-nearest-neighbor classification to determine the severity of the yellow leaf disease of arecanut, which is expressed by the proportion of the yellowing area of a single areca crown (in percentage). The tradi"
+  },
+  {
+   "id": "https://openalex.org/W3186507213",
+   "doi": "10.5194/tc-15-3423-2021",
+   "title": "Lateral thermokarst patterns in permafrost peat plateaus in northern Norway",
+   "publication_year": 2021,
+   "source": "The Cryosphere",
+   "type": "article",
+   "cited_by_count": 68,
+   "relevance_score": null,
+   "authors": [
+    "L\u00e9o C. P. Martin",
+    "Jan Nitzbon",
+    "Johanna Scheer",
+    "Kjetil S. Aas",
+    "Trond Eiken",
+    "Moritz Langer"
+   ],
+   "n_authors": 9,
+   "abstract": "Subarctic peatlands underlain by permafrost contain significant amounts of organic carbon. Our ability to quantify the evolution of such permafrost landscapes in numerical models is critical for providing robust predictions of the environmental and climatic changes to come. Yet, the accuracy of large-scale predictions has so far been hampered by small-scale physical processes that create a high spatial variability of thermal surface conditions, affecting the ground thermal regime and thus permafrost degradation patterns. In this regard, a better understanding of the small-scale interplay between microtopography and lateral fluxes of heat, water and snow can be achieved by field monitoring and process-based numerical modeling. Here, we quantify the topographic changes of the \u0160uo\u0161\u0161j\u00e1vri peat plateau (northern Norway) over a three-year period using drone-based repeat high-resolution photogrammetry. Our results show thermokarst degradation is concentrated on the edges of the plateau, representing 77 % of observed subsidence, while most of the inner plateau surface exhibits no detectable subsidence. Based on detailed investigation of eight zones of the plateau edge, we show that this edge degradation corresponds to an annual volume change of 0.13\u00b10.07 m 3 yr \u22121 per meter of retreating edge (orthogonal to the retreat direction). Using the CryoGrid3 land surface model, we show that these degradation patterns can be reproduced in a modeling framework that implements lateral redistrib"
+  },
+  {
+   "id": "https://openalex.org/W2298716930",
+   "doi": "10.1007/s11069-016-2266-4",
+   "title": "Flood-prone area delimitation using UAV technology, in the areas hard-to-reach for classic aircrafts: case study in the north-east of Apuseni Mountains, Transylvania",
+   "publication_year": 2016,
+   "source": "Natural Hazards",
+   "type": "article",
+   "cited_by_count": 68,
+   "relevance_score": null,
+   "authors": [
+    "Gheorghe \u015eerban",
+    "Ioan Rus",
+    "Dan Vele",
+    "Petre Bre\u021bcan",
+    "Mircea Alexe",
+    "D\u0103nu\u0163 Petrea"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4283716178",
+   "doi": "10.1016/j.scitotenv.2022.157092",
+   "title": "Unmanned aerial vehicles (UAVs) as a tool for hazard assessment: The 2021 eruption of Cumbre Vieja volcano, La Palma Island (Spain)",
+   "publication_year": 2022,
+   "source": "The Science of The Total Environment",
+   "type": "article",
+   "cited_by_count": 67,
+   "relevance_score": null,
+   "authors": [
+    "Alejandro Rom\u00e1n",
+    "Antonio Tovar\u2010S\u00e1nchez",
+    "D. Roque-Atienza",
+    "I. Emma Huertas",
+    "Isabel Caballero",
+    "E. Fraile\u2010Nuez"
+   ],
+   "n_authors": 7,
+   "abstract": "Monitoring for assessment of natural disasters, such as volcanic eruptions , presents a methodological challenge for the scientific community. Here, we present Unmanned Aerial Vehicles (UAVs) as a feasible, precise, rapid and safe tool for real time monitoring of the impacts of a volcanic event during the Cumbre Vieja eruption on La Palma Island, Spain (2021). UAV surveys with optical RGB (Red-Green-Blue), thermal and multispectral sensors, and a water sampling device, were carried out in different areas affected by the lava flow , including the upper volcanic edifice and the lava delta formed on the coastal fringe of the island. Our results have provided useful information for the monitoring of the advance of the lava flow and its environmental consequences during the volcanic emergency. Our data shows how La Palma island's growth, with the formation of a new lava delta of 28 ha and a total volume of lava injected into the sea of 5,138,852 m 3 . Moreover, our Digital Elevation Model (DEM) simulated, with a 70 % accuracy, the probabilistic simulation of the possible path followed by the lava flow in the vicinity of the fissure from which the magma emanates. In addition, significant changes of seawater physical-chemical parameters were registered in coastal surface waters by the in situ seawater samples collected with the automatic water sampling device of our UAV. The first meters of the water column, due to the instant evaporation of the seawater in contact with the hot lava"
+  },
+  {
+   "id": "https://openalex.org/W2125165897",
+   "doi": "10.5344/ajev.2014.14070",
+   "title": "Characterization of Vitis vinifera L. Canopy Using Unmanned Aerial Vehicle-Based Remote Sensing and Photogrammetry Techniques",
+   "publication_year": 2015,
+   "source": "American Journal of Enology and Viticulture",
+   "type": "article",
+   "cited_by_count": 67,
+   "relevance_score": null,
+   "authors": [
+    "Roc\u00edo Ballesteros",
+    "Jos\u00e9 Fernando Ortega \u00c1lvarez",
+    "David Hern\u00e1ndez\u2010L\u00f3pez",
+    "Miguel \u00c1ngel Moreno"
+   ],
+   "n_authors": 4,
+   "abstract": "Leaf area index (LAI), green canopy cover (GCC), and canopy volume (V) are associated with grape vigor, quality, and yield. Thus, analyzing these parameters throughout the growing season may help optimize site-specific management of grape vineyards. Because direct measurements of LAI are destructive, tedious, and not repeatable on the same vine, developing and validating nondestructive methods to estimate LAI are essential. Canopy pattern is characterized by GCC and V, which can be measured using aerial observation. The purpose of this study was to characterize growth parameters, such as LAI, GCC, and V, of irrigated and rainfed Vitis vinifera L. under semiarid conditions on two different vineyards using aerial images from an unmanned aerial vehicle. The relationships between GCC versus LAI and V versus LAI were calculated and validated. Relationships between LAI and the other parameters depend on canopy management, training system, and pruning practices. Relationships between LAI and growing degree days (GDD) and V and GDD were also obtained to determine the canopy structure pattern during the growing season. Exponential polynomial and second-order polynomial models showed the best fit for describing the relationships between GCC and GDD and between V and GDD, respectively, for Air\u00e9n variety."
+  },
+  {
+   "id": "https://openalex.org/W4214554174",
+   "doi": "10.3390/rs14051145",
+   "title": "Comparison of Aerial and Ground 3D Point Clouds for Canopy Size Assessment in Precision Viticulture",
+   "publication_year": 2022,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 66,
+   "relevance_score": null,
+   "authors": [
+    "Andrea Pagliai",
+    "Marco Ammoniaci",
+    "Daniele Sarri",
+    "Riccardo Lisci",
+    "Rita Perria",
+    "Marco Vieri"
+   ],
+   "n_authors": 9,
+   "abstract": "In precision viticulture, the intra-field spatial variability characterization is a crucial step to efficiently use natural resources by lowering the environmental impact. In recent years, technologies such as Unmanned Aerial Vehicles (UAVs), Mobile Laser Scanners (MLS), multispectral sensors, Mobile Apps (MA) and Structure from Motion (SfM) techniques enabled the possibility to characterize this variability with low efforts. The study aims to evaluate, compare and cross-validate the potentiality and the limits of several tools (UAV, MA, MLS) to assess the vine canopy size parameters (thickness, height, volume) by processing 3D point clouds. Three trials were carried out to test the different tools in a vineyard located in the Chianti Classico area (Tuscany, Italy). Each test was made of a UAV flight, an MLS scanning over the vineyard and a MA acquisition over 48 geo-referenced vines. The Leaf Area Index (LAI) were also assessed and taken as reference value. The results showed that the analyzed tools were able to correctly discriminate between zones with different canopy size characteristics. In particular, the R2 between the canopy volumes acquired with the different tools was higher than 0.7, being the highest value of R2 = 0.78 with a RMSE = 0.057 m3 for the UAV vs. MLS comparison. The highest correlations were found between the height data, being the highest value of R2 = 0.86 with a RMSE = 0.105 m for the MA vs. MLS comparison. For the thickness data, the correlations we"
+  },
+  {
+   "id": "https://openalex.org/W4387123922",
+   "doi": "10.1016/j.aei.2023.102196",
+   "title": "Improving completeness and accuracy of 3D point clouds by using deep learning for applications of digital twins to civil structures",
+   "publication_year": 2023,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 61,
+   "relevance_score": null,
+   "authors": [
+    "Shihong Chen",
+    "Gao Fan",
+    "Jun Li"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4200601986",
+   "doi": "10.1016/j.jag.2021.102658",
+   "title": "Integrating terrestrial laser scanning and unmanned aerial vehicle photogrammetry to estimate individual tree attributes in managed coniferous forests in Japan",
+   "publication_year": 2021,
+   "source": "International Journal of Applied Earth Observation and Geoinformation",
+   "type": "article",
+   "cited_by_count": 60,
+   "relevance_score": null,
+   "authors": [
+    "Katsuto Shimizu",
+    "Tomohiro Nishizono",
+    "Fumiaki Kitahara",
+    "Keiko Fukumoto",
+    "Hideki Saito"
+   ],
+   "n_authors": 5,
+   "abstract": "The accurate estimation of tree attributes is essential for sustainable forest management. Terrestrial Laser Scanning (TLS) is a viable remote sensing technology suitable for estimating under canopy structure. However, TLS measurements generally underestimate tree height in taller trees, which leads to the underestimation of other tree attributes (e.g., stem volume). The integration of information derived from TLS and Unmanned Aerial Vehicle (UAV) photogrammetry could potentially improve tree height estimation. This study investigated the applicability of integrating TLS and UAV photogrammetry to estimate individual tree attributes in managed coniferous forests of Japan. Diameter at breast height (DBH), tree height, and stem volume were estimated by (1) TLS data only, (2) integrating TLS and UAV data with TLS tree locations, and (3) integrating TLS and UAV data with treetop detections of the tree canopy. The TLS data only approach achieved high accuracy for DBH estimations with a root mean squared error (RMSE) of 2.36 cm (RMSE% 5.6%); however, tree height was greatly underestimated, with an RMSE of 8.87 m (28.9%) and a bias of \u22128.39 m. Integrating TLS and UAV photogrammetric data improved tree height estimation accuracy for both the TLS tree location (RMSE of 1.89 m and a bias of \u22120.46 m) and the treetop detection (RMSE of 1.77 m and a bias of 0.36 m) approaches. Integrating TLS and UAV photogrammetric data also improved the accuracy of the stem volume estimations with RMSEs "
+  },
+  {
+   "id": "https://openalex.org/W4213341158",
+   "doi": "10.1007/s10346-021-01842-y",
+   "title": "Forensic analysis and numerical simulation of a catastrophic landslide of dissolved and fractured rock slope subject to underground mining",
+   "publication_year": 2022,
+   "source": "Landslides",
+   "type": "article",
+   "cited_by_count": 59,
+   "relevance_score": null,
+   "authors": [
+    "Xiaoming Wang",
+    "Yuanjie Xiao",
+    "Wenbing Shi",
+    "Juanjuan Ren",
+    "Liang Feng",
+    "Jiaqi L\u00fc"
+   ],
+   "n_authors": 8,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2928782015",
+   "doi": "10.3390/rs11070800",
+   "title": "Estimation of Forest Structural Attributes Using Spectral Indices and Point Clouds from UAS-Based Multispectral and RGB Imageries",
+   "publication_year": 2019,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 59,
+   "relevance_score": null,
+   "authors": [
+    "Xin Shen",
+    "Lin Cao",
+    "Bisheng Yang",
+    "Zhong Xu",
+    "Guibin Wang"
+   ],
+   "n_authors": 5,
+   "abstract": "Forest structural attributes are key indicators for parameterization of forest growth models, which play key roles in understanding the biophysical processes and function of the forest ecosystem. In this study, UAS-based multispectral and RGB imageries were used to estimate forest structural attributes in planted subtropical forests. The point clouds were generated from multispectral and RGB imageries using the digital aerial photogrammetry (DAP) approach. Different suits of spectral and structural metrics (i.e., wide-band spectral indices and point cloud metrics) derived from multispectral and RGB imageries were compared and assessed. The selected spectral and structural metrics were used to fit partial least squares (PLS) regression models individually and in combination to estimate forest structural attributes (i.e., Lorey\u2019s mean height (HL) and volume(V)), and the capabilities of multispectral- and RGB-derived spectral and structural metrics in predicting forest structural attributes in various stem density forests were assessed and compared. The results indicated that the derived DAP point clouds had perfect visual effects and that most of the structural metrics extracted from the multispectral DAP point cloud were highly correlated with the metrics derived from the RGB DAP point cloud (R2 > 0.75). Although the models including only spectral indices had the capability to predict forest structural attributes with relatively high accuracies (R2 = 0.56\u20130.69, relative Root-M"
+  },
+  {
+   "id": "https://openalex.org/W4386028384",
+   "doi": "10.3390/drones7080537",
+   "title": "Stockpile Volume Estimation in Open and Confined Environments: A Review",
+   "publication_year": 2023,
+   "source": "Drones",
+   "type": "article",
+   "cited_by_count": 58,
+   "relevance_score": null,
+   "authors": [
+    "Ahmad Alsayed",
+    "Mostafa R. A. Nabawy"
+   ],
+   "n_authors": 2,
+   "abstract": "This paper offers a comprehensive review of traditional and advanced stockpile volume-estimation techniques employed within both outdoor and indoor confined spaces, whether that be a terrestrial- or an aerial-based technique. Traditional methods, such as manual measurement and satellite imagery, exhibit limitations in handling irregular or constantly changing stockpiles. On the other hand, more advanced techniques, such as global navigation satellite system (GNSS), terrestrial laser scanning (TLS), drone photogrammetry, and airborne light detection and ranging (LiDAR), have emerged to address these challenges, providing enhanced accuracy and efficiency. Terrestrial techniques relying on GNSS, TLS, and LiDAR offer accurate solutions; however, to minimize or eliminate occlusions, surveyors must access geometrically constrained places, representing a serious safety hazard. With the speedy rise of drone technologies, it was not unexpected that they found their way to the stockpile volume-estimation application, offering advantages such as ease of use, speed, safety, occlusion elimination, and acceptable accuracy compared to current standard methods, such as TLS and GNSS. For outdoor drone missions, image-based approaches, like drone photogrammetry, surpass airborne LiDAR in cost-effectiveness, ease of deployment, and color information, whereas airborne LiDAR becomes advantageous when mapping complex terrain with vegetation cover, mapping during low-light or dusty conditions, and/"
+  },
+  {
+   "id": "https://openalex.org/W2462955441",
+   "doi": "10.5194/isprsarchives-xli-b8-685-2016",
+   "title": "UAV-BASED AUTOMATIC TREE GROWTH MEASUREMENT FOR BIOMASS ESTIMATION",
+   "publication_year": 2016,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 58,
+   "relevance_score": null,
+   "authors": [
+    "Mateusz Karpina",
+    "M. Jarz\u0105bek-Rychard",
+    "Przemys\u0142aw Tymk\u00f3w",
+    "Andrzej Borkowski"
+   ],
+   "n_authors": 4,
+   "abstract": "Manual in-situ measurements of geometric tree parameters for the biomass volume estimation are time-consuming and economically non-effective. Photogrammetric techniques can be deployed in order to automate the measurement procedure. The purpose of the presented work is an automatic tree growth estimation based on Unmanned Aircraft Vehicle (UAV) imagery. The experiment was conducted in an agriculture test field with scots pine canopies. The data was collected using a Leica Aibotix X6V2 platform equipped with a Nikon D800 camera. Reference geometric parameters of selected sample plants were measured manually each week. In situ measurements were correlated with the UAV data acquisition. The correlation aimed at the investigation of optimal conditions for a flight and parameter settings for image acquisition. The collected images are processed in a state of the art tool resulting in a generation of dense 3D point clouds. The algorithm is developed in order to estimate geometric tree parameters from 3D points. Stem positions and tree tops are identified automatically in a cross section, followed by the calculation of tree heights. The automatically derived height values are compared to the reference measurements performed manually. The comparison allows for the evaluation of automatic growth estimation process. The accuracy achieved using UAV photogrammetry for tree heights estimation is about 5cm."
+  },
+  {
+   "id": "https://openalex.org/W4381513994",
+   "doi": "10.1016/j.measurement.2023.113220",
+   "title": "A new technical pathway for extracting high accuracy surface deformation information in coal mining areas using UAV LiDAR data: An example from the Yushen mining area in western China",
+   "publication_year": 2023,
+   "source": "Measurement",
+   "type": "article",
+   "cited_by_count": 52,
+   "relevance_score": null,
+   "authors": [
+    "Qian Yang",
+    "Fuquan Tang",
+    "Fei Wang",
+    "Jingya Tang",
+    "Zhigang Fan",
+    "Ting Ma"
+   ],
+   "n_authors": 8,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4306769802",
+   "doi": "10.3390/rs14205211",
+   "title": "Estimating 3D Green Volume and Aboveground Biomass of Urban Forest Trees by UAV-Lidar",
+   "publication_year": 2022,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 52,
+   "relevance_score": null,
+   "authors": [
+    "Lv Zhou",
+    "Xuejian Li",
+    "Bo Zhang",
+    "Jie Xuan",
+    "Yulin Gong",
+    "Cheng Tan"
+   ],
+   "n_authors": 8,
+   "abstract": "Three dimensional (3D) green volume is an important tree factor used in forest surveys as a prerequisite for estimating aboveground biomass (AGB). In this study, we developed a method for accurately calculating the 3D green volume of single trees from unmanned aerial vehicle laser scanner (ULS) data, using a voxel coupling convex hull by slices algorithm, and compared the results using voxel coupling convex hull by slices algorithm with traditional 3D green volume algorithms (3D convex hull, 3D concave hull (alpha shape), convex hull by slices, voxel and voxel coupling convex hull by slices algorithms) to estimate AGB. Our results showed the following: (1) The voxel coupling convex hull by slices algorithm can accurately estimate the 3D green volume of a single ginkgo tree (RMSE = 11.17 m3); (2) Point cloud density can significantly affect the extraction of 3D green volume; (3) The addition of the 3D green volume parameter can significantly improve the accuracy of the model to estimate AGB, where the highest accuracy was obtained by the voxel coupling convex hull by slices algorithm (CV-R2 = 0.85, RMSE = 11.29 kg, and nRMSE = 15.12%). These results indicate that the voxel coupling convex hull by slices algorithms can more effectively calculate the 3D green volume of a single tree from ULS data. Moreover, our study provides a comprehensive evaluation of the use of ULS 3D green volume for AGB estimation and could significantly improve the estimation accuracy of AGB."
+  },
+  {
+   "id": "https://openalex.org/W2948863317",
+   "doi": "10.5194/isprs-archives-xlii-2-w13-589-2019",
+   "title": "COMPARISON OF UAV LIDAR AND IMAGERY FOR BEACH MONITORING",
+   "publication_year": 2019,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 52,
+   "relevance_score": null,
+   "authors": [
+    "L. Shaw",
+    "Petra Helmholz",
+    "David Belton",
+    "N. Addy"
+   ],
+   "n_authors": 4,
+   "abstract": "With recent advancements in UAV based technology the use of airborne photogrammetry and LiDAR poses a new and effective approach for continuous, fast and efficient beach monitoring surveys. This paper aims to compare three platforms (a DJI Phantom Pro 4 using Ground Control Points, a DJI Matrice 200 with built in PPK allowing direct georeferencing and a DJI Matrice 600 with a Riegl Mini-VUX LiDAR system) in order to assess if they enable beach surveys to be performed efficiently, accurately and cost- effectively. A series of beach surveys were performed over a period of 6 months enabling the ability of each UAV surveying technique to be assessed for the identification and evaluation of trends in the changing topography of beaches and shorelines. The study area (Warnbro Sound, Western Australia) is an area that has experienced significant coastal change over the last 20 years as well as several serious weather events in the course of this research. The results show a significant positive bias of a consistent vertical offset to the ground surface by 4\u20139 cm between the two image based systems in comparison to the LiDAR system. Although these height offsets are significant it is still within the accuracy required to perform successful beach surveys, and all systems were able to quantify the change of the beach shoreline in area (m2) and volume (m3)."
+  },
+  {
+   "id": "https://openalex.org/W2771109528",
+   "doi": "10.3390/rs9121250",
+   "title": "High Throughput Phenotyping of Blueberry Bush Morphological Traits Using Unmanned Aerial Systems",
+   "publication_year": 2017,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 52,
+   "relevance_score": null,
+   "authors": [
+    "Aaron Patrick",
+    "Changying Li"
+   ],
+   "n_authors": 2,
+   "abstract": "Phenotyping morphological traits of blueberry bushes in the field is important for selecting genotypes that are easily harvested by mechanical harvesters. Morphological data can also be used to assess the effects of crop treatments such as plant growth regulators, fertilizers, and environmental conditions. This paper investigates the feasibility and accuracy of an inexpensive unmanned aerial system in determining the morphological characteristics of blueberry bushes. Color images collected by a quadcopter are processed into three-dimensional point clouds via structure from motion algorithms. Bush height, extents, canopy area, and volume, in addition to crown diameter and width, are derived and referenced to ground truth. In an experimental farm, twenty-five bushes were imaged by a quadcopter. Height and width dimensions achieved a mean absolute error of 9.85 cm before and 5.82 cm after systematic under-estimation correction. Strong correlation was found between manual and image derived bush volumes and their traditional growth indices. Hedgerows of three Southern Highbush varieties were imaged at a commercial farm to extract five morphological features (base angle, blockiness, crown percent height, crown ratio, and vegetation ratio) associated with cultivation and machine harvestability. The bushes were found to be partially separable by multivariate analysis. The methodology developed from this study is not only valuable for plant breeders to screen genotypes with bush morph"
+  },
+  {
+   "id": "https://openalex.org/W3215021825",
+   "doi": "10.1016/j.wasman.2021.11.020",
+   "title": "UAV-based landfill operation monitoring: A year of volume and topographic measurements",
+   "publication_year": 2021,
+   "source": "Waste Management",
+   "type": "article",
+   "cited_by_count": 51,
+   "relevance_score": null,
+   "authors": [
+    "Caio C\u00e9sar de Sousa Mello",
+    "Daniel Henrique Carneiro Salim",
+    "Gustavo Ferreira Sim\u00f5es"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3198887920",
+   "doi": "10.3390/rs13173437",
+   "title": "Canopy Volume Extraction of Citrus reticulate Blanco cv. Shatangju Trees Using UAV Image-Based Point Cloud Deep Learning",
+   "publication_year": 2021,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 50,
+   "relevance_score": null,
+   "authors": [
+    "Yuan Qi",
+    "Xuhua Dong",
+    "Pengchao Chen",
+    "Kyeong\u2013Hwan Lee",
+    "Yubin Lan",
+    "Xiaoyang Lu"
+   ],
+   "n_authors": 9,
+   "abstract": "Automatic acquisition of the canopy volume parameters of the Citrus reticulate Blanco cv. Shatangju tree is of great significance to precision management of the orchard. This research combined the point cloud deep learning algorithm with the volume calculation algorithm to segment the canopy of the Citrus reticulate Blanco cv. Shatangju trees. The 3D (Three-Dimensional) point cloud model of a Citrus reticulate Blanco cv. Shatangju orchard was generated using UAV tilt photogrammetry images. The segmentation effects of three deep learning models, PointNet++, MinkowskiNet and FPConv, on Shatangju trees and the ground were compared. The following three volume algorithms: convex hull by slices, voxel-based method and 3D convex hull were applied to calculate the volume of Shatangju trees. Model accuracy was evaluated using the coefficient of determination (R2) and Root Mean Square Error (RMSE). The results show that the overall accuracy of the MinkowskiNet model (94.57%) is higher than the other two models, which indicates the best segmentation effect. The 3D convex hull algorithm received the highest R2 (0.8215) and the lowest RMSE (0.3186 m3) for the canopy volume calculation, which best reflects the real volume of Citrus reticulate Blanco cv. Shatangju trees. The proposed method is capable of rapid and automatic acquisition for the canopy volume of Citrus reticulate Blanco cv. Shatangju trees."
+  },
+  {
+   "id": "https://openalex.org/W3117020782",
+   "doi": "10.1007/s11629-020-6080-9",
+   "title": "Rapid identification of landslide, collapse and crack based on low-altitude remote sensing image of UAV",
+   "publication_year": 2020,
+   "source": "Journal of Mountain Science",
+   "type": "article",
+   "cited_by_count": 50,
+   "relevance_score": null,
+   "authors": [
+    "Xugang Lian",
+    "Zou-jun Li",
+    "Yuan Hong-yan",
+    "Jibo Liu",
+    "Yanjun Zhang",
+    "Xiaoyu Liu"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3119921725",
+   "doi": "10.1080/00396265.2020.1830544",
+   "title": "Accuracy assessment of RTK-GNSS equipped UAV conducted as-built surveys for construction site modelling",
+   "publication_year": 2020,
+   "source": "Survey Review",
+   "type": "article",
+   "cited_by_count": 50,
+   "relevance_score": null,
+   "authors": [
+    "Sander Varbla",
+    "Raido Puust",
+    "Artu Ellmann"
+   ],
+   "n_authors": 3,
+   "abstract": "Regular as-built surveys have become a necessary input for building information modelling. Such large-scale 3D data capturing can be conducted effectively by combining structure-from-motion and unmanned aerial vehicles (UAV). Using a RTK-GNSS equipped UAV, 22 repeated weekly campaigns were conducted at two altitudes in various conditions. The photogrammetric approach yielded 3D models, which were compared to the terrestrial laser scanning based ground truth. Better than 2.8 cm geometry RMSE was consistently achieved using integrated georeferencing. It is concluded that the RTK-GNSS based georeferencing enables reaching better than 5 cm geometry accuracy by utilising at least one ground control point."
+  },
+  {
+   "id": "https://openalex.org/W3043173532",
+   "doi": "10.1109/jstars.2020.3010069",
+   "title": "UAV-Based Photogrammetry and LiDAR for the Characterization of Ice Morphology Evolution",
+   "publication_year": 2020,
+   "source": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+   "type": "article",
+   "cited_by_count": 50,
+   "relevance_score": null,
+   "authors": [
+    "Teng Li",
+    "Baogang Zhang",
+    "Wen Xiao",
+    "Xiao Yan Cheng",
+    "Zhenhong Li",
+    "Jian Zhao"
+   ],
+   "n_authors": 6,
+   "abstract": "Ice doline is a particular kind of ice morphology, usually scattered on ice streams which are mostly far from the existing research bases. For this reason, glaciologists rarely have opportunities to document its developments in detail. Satellite observations are too coarse to capture such fine features, whereas unmanned aerial vehicle (UAV)-based structure-from-motion (SfM) and light detection and ranging (LiDAR) technologies have revolutionized geosciences research, especially in less accessed polar regions. We developed two bespoke UAV systems for glaciological investigation and carried out four campaigns during two consecutive Chinese Antarctic expeditions in 2017 and 2018. Founded on manual co-registration and accuracy assessment, a successful application to characterize a doline's spatio-temporal evolution is presented in this article. The overlying weight of surface melting directly triggered the collapse event on Jan 30, 2017 near theDalk Glacier, and thenthe newborn doline grew for another 8135.6 m$^2$in area and 280 303.38 m$^3$in volume by early 2018. The UAV-based results revealed the doline's changes during a year, showing a maximum horizontal extension of 50 m and vertical subsidence of more than 10 m. Furthermore, we evaluate the photogrammetry and LiDAR systems and find the former is cost-effective and time-efficient on a large-scale survey, while the latter enjoys a better capability to characterize ice morphological details. Based on systematic comparisons, o"
+  },
+  {
+   "id": "https://openalex.org/W4387124144",
+   "doi": "10.1016/j.catena.2023.107534",
+   "title": "Improving the application of UAV-LiDAR for erosion monitoring through accounting for uncertainty in DEM of difference",
+   "publication_year": 2023,
+   "source": "CATENA",
+   "type": "article",
+   "cited_by_count": 49,
+   "relevance_score": null,
+   "authors": [
+    "Pengfei Li",
+    "Dou Li",
+    "Jinfei Hu",
+    "Fabian Ewald Fassnacht",
+    "Hooman Latifi",
+    "Wanqiang Yao"
+   ],
+   "n_authors": 10,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4312203980",
+   "doi": "10.1016/j.measurement.2022.112364",
+   "title": "Optimization Methods on Dynamic Monitoring of Mineral Reserves for Open Pit Mine Based on UAV Oblique Photogrammetry",
+   "publication_year": 2022,
+   "source": "Measurement",
+   "type": "article",
+   "cited_by_count": 49,
+   "relevance_score": null,
+   "authors": [
+    "Duanguang Cao",
+    "Baolei Zhang",
+    "Xiaobo Zhang",
+    "Le Yin",
+    "Xiaocheng Man"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2946490275",
+   "doi": "10.3390/drones3020043",
+   "title": "Remote Sensing of Wildfire Using a Small Unmanned Aerial System: Post-Fire Mapping, Vegetation Recovery and Damage Analysis in Grand Bay, Mississippi/Alabama, USA",
+   "publication_year": 2019,
+   "source": "Drones",
+   "type": "article",
+   "cited_by_count": 49,
+   "relevance_score": null,
+   "authors": [
+    "Sathishkumar Samiappan",
+    "Lee Hathcock",
+    "Gray Turnage",
+    "Cary Daniel McCraine",
+    "Jonathan L. Pitchford",
+    "Robert J. Moorhead II"
+   ],
+   "n_authors": 6,
+   "abstract": "Wildfires can be beneficial for native vegetation. However, wildfires can impact property values, human safety, and ecosystem function. Resource managers require safe, easy to use, timely, and cost-effective methods for quantifying wildfire damage and regeneration. In this work, we demonstrate an approach using an unmanned aerial system (UAS) equipped with a MicaSense RedEdge multispectral sensor to classify and estimate wildfire damage in a coastal marsh. We collected approximately 7.2 km2 of five-band multispectral imagery after a wildfire event in February 2016, which was used to create a photogrammetry-based digital surface model (DSM) and orthomosaic for object-based classification analysis. Airborne light detection and ranging data were used to validate the accuracy of the DSM. Four-band airborne imagery from pre- and post-fire were used to estimate pre-fire health, post-fire damage, and track the vegetation recovery process. Immediate and long-term post-fire classifications, area, and volume of burned regions were produced to track the revegetation progress. The UAS-based classification produced from normalized difference vegetation index and DSM was compared to the Landsat-based Burned Area Reflectance Classification. Experimental results show the potential of using UAS and the presented approach compared to satellite-based mapping in terms of classification accuracies, turnaround time, and spatial and temporal resolutions."
+  },
+  {
+   "id": "https://openalex.org/W4394820580",
+   "doi": "10.3390/buildings14041106",
+   "title": "Integrating Drone Imagery and AI for Improved Construction Site Management through Building Information Modeling",
+   "publication_year": 2024,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 48,
+   "relevance_score": null,
+   "authors": [
+    "Wonjun Choi",
+    "Seunguk Na",
+    "Seokjae Heo"
+   ],
+   "n_authors": 3,
+   "abstract": "In the rapidly advancing field of construction, digital site management and Building Information Modeling (BIM) are pivotal. This study explores the integration of drone imagery into the digital construction site management process, aiming to create BIM models with enhanced object recognition capabilities. Initially, the research sought to achieve photorealistic rendering of point cloud models (PCMs) using blur/sharpen filters and generative adversarial network (GAN) models. However, these techniques did not fully meet the desired outcomes for photorealistic rendering. The research then shifted to investigating additional methods, such as fine-tuning object recognition algorithms with real-world datasets, to improve object recognition accuracy. The study\u2019s findings present a nuanced understanding of the limitations and potential pathways for achieving photorealistic rendering in PCM, underscoring the complexity of the task and laying the groundwork for future innovations in this area. Although the study faced challenges in attaining the original goal of photorealistic rendering for object detection, it contributes valuable insights that may inform future research and technological development in digital construction site management."
+  },
+  {
+   "id": "https://openalex.org/W4382203451",
+   "doi": "10.1109/tmm.2023.3289752",
+   "title": "SGSR-Net: Structure Semantics Guided LiDAR Super-Resolution Network for Indoor LiDAR SLAM",
+   "publication_year": 2023,
+   "source": "IEEE Transactions on Multimedia",
+   "type": "article",
+   "cited_by_count": 48,
+   "relevance_score": null,
+   "authors": [
+    "Chi Chen",
+    "Ang Jin",
+    "Zhiye Wang",
+    "Yongwei Zheng",
+    "Bisheng Yang",
+    "Jian Yi Zhou"
+   ],
+   "n_authors": 8,
+   "abstract": "Multi-Beam LiDAR (MBL) sensors sample the real-world with discrete 3D point clouds (PC) and have become a major and essential 3D sensing capability for autonomous robots. To ensure an accurate point sampling on surfaces, high-resolution MBL sensors (e.g., Ouster OS0-128) are commonly used to collect dense point clouds for robot tasks, including object detection and tracking, simultaneous localization and mapping (SLAM), in applications such as autonomous driving vehicles (ADVs). However, the high cost and large volume/weight/energy consumption of such sensors limit their usage in broader applications such as UAV/UGV swarms with small-scale agents with limited payload. Existing studies on Super-Resolution (SR) upsampling of the PC from low-resolution MBL have not considered the geometry semantics of the scenes, thus resulting in less optimal SR points for downstream subtasks (e.g., SLAM). Thus, this article proposes SGSR-Net, a structure semantics-guided MBL Super-Resolution network. SGSR-Net takes the low-resolution range images of the MBL sensors as input and produces dense and structure-aware Super-Resolution point cloud from those sparse measurements through a vertical spatial and channel attention-enhanced CNN model coupling with guided Monte Carlo filtering, for indoor LiDAR-SLAM applications. The SGSR-Net is validated using datasets collected by a UGV equipped with multiple MBL sensors. The results demonstrate that the proposed CG-LSR (CASE Attention Guided Encoder-Deco"
+  },
+  {
+   "id": "https://openalex.org/W3022521160",
+   "doi": "10.1002/ece3.6240",
+   "title": "Detecting shrub encroachment in seminatural grasslands using UAS LiDAR",
+   "publication_year": 2020,
+   "source": "Ecology and Evolution",
+   "type": "article",
+   "cited_by_count": 47,
+   "relevance_score": null,
+   "authors": [
+    "Bjarke Madsen",
+    "Urs Albert Treier",
+    "Andr\u00e1s Zlinszky",
+    "Arko Lucieer",
+    "Signe Normand"
+   ],
+   "n_authors": 5,
+   "abstract": "Shrub encroachment in seminatural grasslands threatens local biodiversity unless management is applied to reduce shrub density. Dense vegetation of Cytisus scoparius homogenizes the landscape negatively affecting local plant diversity. Detecting structural change (e.g., biomass) is essential for assessing negative impacts of encroachment. Hence, exploring new monitoring tools to achieve this task is important for effectively capturing change and evaluating management activities. This study combines traditional field\u2010based measurements with novel Light Detection and Ranging (LiDAR) observations from an Unmanned Aircraft System (UAS). We investigate the accuracy of mapping C. scoparius in three dimensions (3D) and of structural change metrics (i.e., biomass) derived from ultrahigh\u2010density point cloud data (>1,000 pts/m2). Presence\u2013absence of 12 shrub or tree genera was recorded across a 6.7 ha seminatural grassland area in Denmark. Furthermore, 10 individuals of C. scoparius were harvested for biomass measurements. With a UAS LiDAR system, we collected ultrahigh\u2010density spatial data across the area in October 2017 (leaf\u2010on) and April 2018 (leaf\u2010off). We utilized a 3D point\u2010based classification to distinguish shrub genera based on their structural appearance (i.e., density, light penetration, and surface roughness). From the identified C. scoparius individuals, we related different volume metrics (mean, max, and range) to measured biomass and quantified spatial variation in biom"
+  },
+  {
+   "id": "https://openalex.org/W4306362247",
+   "doi": "10.3390/aerospace9100606",
+   "title": "Earthwork Volume Calculation, 3D Model Generation, and Comparative Evaluation Using Vertical and High-Oblique Images Acquired by Unmanned Aerial Vehicles",
+   "publication_year": 2022,
+   "source": "Aerospace",
+   "type": "article",
+   "cited_by_count": 46,
+   "relevance_score": null,
+   "authors": [
+    "Kirim Lee",
+    "Won Hee Lee"
+   ],
+   "n_authors": 2,
+   "abstract": "In civil engineering and building construction, the earthwork volume calculation is one of the most important factors in the design and construction stages; therefore, an accurate calculation is necessary. Moreover, because managing earthworks is highly important, in this study, a three-dimensional (3D) model for earthwork calculation and management was performed using an unmanned aerial vehicle (UAV) and an RGB camera. Vertical and high-oblique images (45\u00b0, 60\u00b0, and 75\u00b0) were acquired at 50 and 100 m heights for accurate earthwork calculations and a 3D model, and data were generated by dividing the images into eight cases. Cases 1\u20134 were images acquired from a height of 50 m, and cases 5\u20138 were images acquired from a height of 100 m. (case 1: 90\u00b0, case 2: 90\u00b0 + 45\u00b0, case 3: 90\u00b0 + 60\u00b0, case 4: 90\u00b0 + 75\u00b0, case 5: 90\u00b0, case 6: 90\u00b0 + 45\u00b0, case 7: 90\u00b0 + 60\u00b0, case 8: 90\u00b0 + 75\u00b0). Three evaluations were performed on the data. First, the accuracy was evaluated through checkpoints for the orthophoto; second, the earthwork volumes calculated via a global positioning system and UAV were compared; finally, the 3D model was evaluated. Case 2, which showed the lowest root mean square error in the orthophoto accuracy evaluation, was the most accurate. Case 2 was the most accurate in the earthwork volume evaluation and 3D model compared to other cases. Through this study, the best results were obtained when using a vertical image and a high-oblique image of 40 to 50\u00b0 when generating a 3D mod"
+  },
+  {
+   "id": "https://openalex.org/W3217409870",
+   "doi": "10.3390/buildings11120602",
+   "title": "The Use of Unmanned Aerial Vehicles for Dynamic Site Layout Planning in Large-Scale Construction Projects",
+   "publication_year": 2021,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 46,
+   "relevance_score": null,
+   "authors": [
+    "Ahmed W. A. Hammad",
+    "Bruno B. F. da Costa",
+    "Carlos Alberto Pereira Soares",
+    "ASSED NAKED HADDAD"
+   ],
+   "n_authors": 4,
+   "abstract": "Construction sites are increasingly complex, and their layout have an impact on productivity, safety, and efficiency of construction operations. Dynamic site layout planning (DSLP) considers the adjustment of construction facilities on-site, on an evolving basis, allowing the relocation of temporary facilities according to the stages of the project. The main objective of this study is to develop a framework for integrating unmanned aerial vehicles (UAVs) and their capacity for effective photogrammetry with site layout planning optimisation and Building Information Modelling (BIM) for automating site layout planning in large construction projects. The mathematical model proposed is based on a mixed integer programming (MIP) model, which was employed to validate the framework on a realistic case study provided by an industry partner. Allocation constraints were formulated to ensure the placement of the facilities in feasible regions. Using information from the UAV, several parameters could be considered, including proximity to access ways, distances between the facilities, and suitability of locations. Based on the proposed framework, a layout was developed for each stage of the project, adapting the location of temporary facilities according to current progress on-site. As a result, the use of space was optimised, and internal transport costs were progressively reduced."
+  },
+  {
+   "id": "https://openalex.org/W3217188962",
+   "doi": "10.3389/fmars.2021.749943",
+   "title": "Comparing Uncertainty Associated With 1-, 2-, and 3D Aerial Photogrammetry-Based Body Condition Measurements of Baleen Whales",
+   "publication_year": 2021,
+   "source": "Frontiers in Marine Science",
+   "type": "article",
+   "cited_by_count": 46,
+   "relevance_score": null,
+   "authors": [
+    "K. C. Bierlich",
+    "Joshua Hewitt",
+    "Clara N. Bird",
+    "Robert S. Schick",
+    "Ari S. Friedlaender",
+    "Leigh G. Torres"
+   ],
+   "n_authors": 11,
+   "abstract": "Body condition is a crucial and indicative measure of an animal\u2019s fitness, reflecting overall foraging success, habitat quality, and balance between energy intake and energetic investment toward growth, maintenance, and reproduction. Recently, drone-based photogrammetry has provided new opportunities to obtain body condition estimates of baleen whales in one, two or three dimensions (1D, 2D, and 3D, respectively) \u2013 a single width, a projected dorsal surface area, or a body volume measure, respectively. However, no study to date has yet compared variation among these methods and described how measurement uncertainty scales across these dimensions. This associated uncertainty may affect inference derived from these measurements, which can lead to misinterpretation of data, and lack of comparison across body condition measurements restricts comparison of results between studies. Here we develop a Bayesian statistical model using known-sized calibration objects to predict the length and width measurements of unknown-sized objects (e.g., a whale). We use the fitted model to predict and compare uncertainty associated with 1D, 2D, and 3D photogrammetry-based body condition measurements of blue, humpback, and Antarctic minke whales \u2013 three species of baleen whales with a range of body sizes. The model outputs a posterior predictive distribution of body condition measurements and allows for the construction of highest posterior density intervals to define measurement uncertainty. We f"
+  },
+  {
+   "id": "https://openalex.org/W4289731826",
+   "doi": "10.3390/su14159505",
+   "title": "Optimization of Ground Control Point Distribution for Unmanned Aerial Vehicle Photogrammetry for Inaccessible Fields",
+   "publication_year": 2022,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 45,
+   "relevance_score": null,
+   "authors": [
+    "Ke Zhang",
+    "Hiromu Okazawa",
+    "Kiichiro Hayashi",
+    "Tamano Hayashi",
+    "Lameck Fiwa",
+    "Sarvesh Maskey"
+   ],
+   "n_authors": 6,
+   "abstract": "Ground control point (GCP) is an important calibration factor when correcting position information during unmanned aerial vehicle (UAV) remote sensing. Studies of the optimal number and distribution shape of GCPs have been conducted worldwide in recent years. However, when conducting surveys at houses, construction sites, farming lands, forests, and some other locations, it is both difficult and destructive to install GCP inside the subject area. In many cases, it is only possible to install GCP at the outer edge around the area. Therefore, this study aims to suggest the optimal GCP distribution pattern, which can provide the highest accuracy, when only the outer edge of a particular area is available. In this research, 88 GCP patterns have been validated and compared at an 18 ha farm. Results show that the patterns with GCPs distributed evenly around the field provided the best calibration (RMSE = 0.15 m). If this kind of pattern is not achievable because of obstructions, patterns with GCPs distributed evenly around half of the field or forming an evenly distributed triangle can provide moderate accuracy (RMSE = 0.18 m and 0.43 m, respectively). Patterns with GCPs forming a straight line yielded the worst accuracy (RMSE = 2.10 m). This shows that GCP distributions of a two-dimensional shape, even if the surrounding area is small, are better calibrated than a long, straight line. These results strongly suggest that appropriate GCP distribution patterns in the study areas will"
+  },
+  {
+   "id": "https://openalex.org/W3035856404",
+   "doi": "10.1016/j.jenvman.2020.110717",
+   "title": "Unmanned aerial system protocol for quarry restoration and mineral extraction monitoring",
+   "publication_year": 2020,
+   "source": "Journal of Environmental Management",
+   "type": "article",
+   "cited_by_count": 45,
+   "relevance_score": null,
+   "authors": [
+    "Vicen\u00e7 Carabassa",
+    "Pau Montero",
+    "Marc Crespo",
+    "Joan-Cristian Padr\u00f3",
+    "Xavier Pons",
+    "Jaume Balagu\u00e9"
+   ],
+   "n_authors": 8,
+   "abstract": "Mining is an important activity of the primary sector with strong economic and environmental impacts. All over the world, governments have made efforts to regulate mine restoration by monitoring and assessing the evolution of mined sites. Our work aims to synthesize various remote sensing applications into a single workflow in order to obtain cartographic products using Unmanned Aerial Systems (UAS), not only for mine restoration management, but also as a way of monitoring mining activity as a whole. The workflow performs image processing and terrain analysis calculations, which conduct a supervised classification of the land cover. The resulting mapping products include orthoimagery, Digital Surface Models (DSM), land cover maps, volume variation calculations, dust deposition, detection of erosion problems, and drainage network evaluation maps. The data obtained from red-green-blue (RGB) sensors has a spatial resolution of 4-10 cm, providing information that allows the characterization of land covers with an overall accuracy of 91%. In comparison, if using multispectral sensors with the same flight conditions than RGB, image spatial resolution diminishes and land cover characterization accuracy drops to 81%. The resulting digital maps can be fully integrated into Geographic Information Systems (GIS), allowing the quantification of environmental features and spatial changes. Our study provides the basis for creating a large-scale, replicable and ready-to-use workflow suited f"
+  },
+  {
+   "id": "https://openalex.org/W2793342868",
+   "doi": "10.3390/f9020085",
+   "title": "Estimation and Extrapolation of Tree Parameters Using Spectral Correlation between UAV and Pl\u00e9iades Data",
+   "publication_year": 2018,
+   "source": "Forests",
+   "type": "article",
+   "cited_by_count": 45,
+   "relevance_score": null,
+   "authors": [
+    "Azadeh Abdollahnejad",
+    "Dimitrios Panagiotidis",
+    "Peter Surov\u00fd"
+   ],
+   "n_authors": 3,
+   "abstract": "The latest technological advances in space-borne imagery have significantly enhanced the acquisition of high-quality data. With the availability of very high-resolution satellites, such as Pl\u00e9iades, it is now possible to estimate tree parameters at the individual level with high fidelity. Despite innovative advantages on high-precision satellites, data acquisition is not yet available to the public at a reasonable cost. Unmanned aerial vehicles (UAVs) have the practical advantage of data acquisition at a higher spatial resolution than that of satellites. This study is divided into two main parts: (1) we describe the estimation of basic tree attributes, such as tree height, crown diameter, diameter at breast height (DBH), and stem volume derived from UAV data based on structure from motion (SfM) algorithms; and (2) we consider the extrapolation of the UAV data to a larger area, using correlation between satellite and UAV observations as an economically viable approach. Results have shown that UAVs can be used to predict tree characteristics with high accuracy (i.e., crown projection, stem volume, cross-sectional area (CSA), and height). We observed a significant relation between extracted data from UAV and ground data with R2 = 0.71 for stem volume, R2 = 0.87 for height, and R2 = 0.60 for CSA. In addition, our results showed a high linear relation between spectral data from the UAV and the satellite (R2 = 0.94). Overall, the accuracy of the results between UAV and Pl\u00e9iades was"
+  },
+  {
+   "id": "https://openalex.org/W2460558068",
+   "doi": "10.5194/isprsarchives-xli-b8-1201-2016",
+   "title": "BEACH VOLUME CHANGE USING UAV PHOTOGRAMMETRY SONGJUNG BEACH, KOREA",
+   "publication_year": 2016,
+   "source": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+   "type": "article",
+   "cited_by_count": 45,
+   "relevance_score": null,
+   "authors": [
+    "Chang-Ill Yoo",
+    "T. S. Oh"
+   ],
+   "n_authors": 2,
+   "abstract": "Natural beach is controlled by many factors related to wave and tidal forces, wind, sediment, and initial topography. For this reason, if numerous topographic data of beach is accurately collected, coastal erosion/acceleration is able to be assessed and clarified. Generally, however, many studies on coastal erosion have limitation to analyse the whole beach, carried out of partial area as like shoreline (horizontal 2D) and beach profile (vertical 2D) on account of limitation of numerical simulation. This is an important application for prevention of coastal erosion, and UAV photogrammetry is also used to 3D topographic data. This paper analyses the use of unmanned aerial vehicles (UAV) to 3D map and beach volume change. UAV (Quadcopter) equipped with a non-metric camera was used to acquire images in Songjung beach which is located south-east Korea peninsula. The dynamics of beach topography, its geometric properties and estimates of eroded and deposited sand volumes were determined by combining elevation data with quarterly RTK-VRS measurements. To explore the new possibilities for assessment of coastal change we have developed a methodology for 3D analysis of coastal topography evolution based on existing high resolution elevation data combined with low coast, UAV and on-ground RTK-VRS surveys. DSMs were obtained by stereo-matching using Agisoft Photoscan. Using GCPs the vertical accuracy of the DSMs was found to be 10 cm or better. The resulting datasets were integrated in "
+  },
+  {
+   "id": "https://openalex.org/W4313430864",
+   "doi": "10.3390/rs14246375",
+   "title": "Estimation of Urban Forest Characteristic Parameters Using UAV-Lidar Coupled with Canopy Volume",
+   "publication_year": 2022,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 44,
+   "relevance_score": null,
+   "authors": [
+    "Bo Zhang",
+    "Xuejian Li",
+    "Huaqiang Du",
+    "Guomo Zhou",
+    "Fangjie Mao",
+    "Zihao Huang"
+   ],
+   "n_authors": 10,
+   "abstract": "The estimation of characteristic parameters such as diameter at breast height (DBH), aboveground biomass (AGB) and stem volume (V) is an important part of urban forest resource monitoring and the most direct manifestation of the ecosystem functions of forests; therefore, the accurate estimation of urban forest characteristic parameters is valuable for evaluating urban ecological functions. In this study, the height and density characteristic variables of canopy point clouds were extracted as Scheme 1 and combined with the canopy structure variables as Scheme 2 based on unmanned aerial vehicle lidar (UAV-Lidar). We analyzed the spatial distribution characteristics of the canopies of different tree species, and multiple linear regression (MLR), support vector regression (SVR), and random forest (RF) models were used to estimate the DBH, AGB, and V of urban single trees. The estimation accuracy of different models was evaluated based on the field-measured data. The results indicated that the model accuracy of coupling canopy structure variables (R2 = 0.69\u20130.85, rRMSE = 9.87\u201324.67%) was higher than that of using only point-cloud-based height and density characteristic variables. The comparison of the results of different models shows that the RF model had the highest estimation accuracy (R2 = 0.76\u20130.85, rRMSE = 9.87\u201322.51%), which was better than that of the SVR and MLR models. In the RF model, the estimation accuracy of AGB was the highest (R2 = 0.85, rRMSE = 22.51%), followed b"
+  },
+  {
+   "id": "https://openalex.org/W4311775299",
+   "doi": "10.1016/j.jhydrol.2022.128982",
+   "title": "Assessment of sediment yield and deposition in a dry reservoir using field observations, RUSLE and remote sensing: Wadi Assarin, Oman",
+   "publication_year": 2022,
+   "source": "Journal of Hydrology",
+   "type": "article",
+   "cited_by_count": 44,
+   "relevance_score": null,
+   "authors": [
+    "Mahmood Almamari",
+    "Sameh A. Kantoush",
+    "Tahani Alharrasi",
+    "Ali K. Al-Maktoumi",
+    "Karim I. Abdrabo",
+    "Mohamed Saber"
+   ],
+   "n_authors": 7,
+   "abstract": "Soil erosion, sediment yield, and sediment transport associated with flash flooding in arid regions result in reservoir storage losses, decreased infiltration, high evaporation rates, and degradation of downstream channels. However, the lack of observational data from wadi systems and an empirical formula to compute sediment yield has hindered reservoir trapping evaluation, maintenance, and management. Therefore, this research aimed to estimate the annual soil loss in the upstream catchment area of a reservoir based on the Revised Universal Soil Loss Equation (RUSLE) with a remote sensing dataset. The sediment trapped in the Assarin Dam reservoir in Oman was estimated by coupling unmanned aerial vehicle (UAV) surveys with photogrammetry analysis to assess the reservoir siltation. Among the previous sediment trapping events, seven sets of field observation data were collected to investigate the relationship between soil loss at the catchment scale and sediment deposition volumes in the reservoir. The RUSLE method was applied to estimate soil erosion using independent factors such as rainfall erosivity, soil erodibility, topography, cover management and conservation practices. A remote sensing dataset and geographic information system (GIS) environments were used to analyse the quantitative and spatial distribution of the RUSLE parameters. Two drone surveys were conducted over the reservoir before and after a flash flood. The trapped sediment volume was estimated to be approxim"
+  },
+  {
+   "id": "https://openalex.org/W4285095397",
+   "doi": "10.3390/rs14143344",
+   "title": "Assessing the Potential of Backpack-Mounted Mobile Laser Scanning Systems for Tree Phenotyping",
+   "publication_year": 2022,
+   "source": "Remote Sensing",
+   "type": "article",
+   "cited_by_count": 44,
+   "relevance_score": null,
+   "authors": [
+    "Robin J. L. Hartley",
+    "Sadeepa Jayathunga",
+    "Peter D. Massam",
+    "D. I. De Silva",
+    "Honey Jane C. Estarija",
+    "Sam J. Davidson"
+   ],
+   "n_authors": 8,
+   "abstract": "Phenotyping has been a reality for aiding the selection of optimal crops for specific environments for decades in various horticultural industries. However, until recently, phenotyping was less accessible to tree breeders due to the size of the crop, the length of the rotation and the difficulty in acquiring detailed measurements. With the advent of affordable and non-destructive technologies, such as mobile laser scanners (MLS), phenotyping of mature forests is now becoming practical. Despite the potential of MLS technology, few studies included detailed assessments of its accuracy in mature plantations. In this study, we assessed a novel, high-density MLS operated below canopy for its ability to derive phenotypic measurements from mature Pinus radiata. MLS data were co-registered with above-canopy UAV laser scanner (ULS) data and imported to a pipeline that segments individual trees from the point cloud before extracting tree-level metrics. The metrics studied include tree height, diameter at breast height (DBH), stem volume and whorl characteristics. MLS-derived tree metrics were compared to field measurements and metrics derived from ULS alone. Our pipeline was able to segment individual trees with a success rate of 90.3%. We also observed strong agreement between field measurements and MLS-derived DBH (R2 = 0.99, RMSE = 5.4%) and stem volume (R2 = 0.99, RMSE = 10.16%). Additionally, we proposed a new variable height method for deriving DBH to avoid swelling, with an over"
+  },
+  {
+   "id": "https://openalex.org/W4284898556",
+   "doi": "10.1016/j.jhydrol.2022.128143",
+   "title": "Estimation of the volume of sediment deposited behind check dams based on UAV remote sensing",
+   "publication_year": 2022,
+   "source": "Journal of Hydrology",
+   "type": "article",
+   "cited_by_count": 44,
+   "relevance_score": null,
+   "authors": [
+    "Yi Zeng",
+    "Xiangdong Meng",
+    "Yan Zhang",
+    "Wei Dai",
+    "Nufang Fang",
+    "Zhihua Shi"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3021118606",
+   "doi": "10.3390/geosciences10050168",
+   "title": "Simulation of Full-Scale Rockfall Tests with a Fragmentation Model",
+   "publication_year": 2020,
+   "source": "Geosciences",
+   "type": "article",
+   "cited_by_count": 44,
+   "relevance_score": null,
+   "authors": [
+    "Gerard Matas",
+    "Nieves Lantada",
+    "Jordi Corominas",
+    "Jos\u00e9 Antonio Gili Ripoll",
+    "Roger Ruiz-Carulla",
+    "Albert Prades"
+   ],
+   "n_authors": 6,
+   "abstract": "In this paper, we present the upgraded version of RockGIS, a stochastic program for the numerical simulation of rockfalls and their fragmentation, based on a fractal model. The code has been improved to account for a range of fragmentation scenarios, depending on the impact conditions. In the simulation, the parameters of the fractal fragmentation model that define the sizes of the generated fragments were computed at each impact according to the kinematic conditions. The performance of the upgraded code was verified and validated by real-scale rockfall tests performed in a quarry. The tests consisted of the release of 21 limestone blocks. For each release, the size and spatial distribution of the fragments generated by the impacts were measured by hand and from orthophotos taken via drone flights. The trajectories of the blocks and the resulting fragments were simulated with the code and calibrated with both the volume distribution and the runout distances of the fragments. Finally, as all the relevant rockfall parameters involved were affected by strong uncertainty and spatial variability, a parametric analysis was carried out and is discussed."
+  }
+ ]
+}

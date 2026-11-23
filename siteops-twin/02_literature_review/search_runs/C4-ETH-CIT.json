@@ -1,0 +1,1789 @@
+{
+ "query_id": "C4-ETH-CIT",
+ "run_date": "2026-11-23",
+ "query_url": "https://api.openalex.org/works?filter=title_and_abstract.search%3A%28privacy+OR+ethics+OR+ethical+OR+surveillance+OR+consent+OR+GDPR%29+AND+%28tracking+OR+wearable+OR+localization+OR+%22location+data%22+OR+monitoring%29+AND+%28worker+OR+workers+OR+employee+OR+labour+OR+labor%29+AND+%28construction+OR+%22construction+site%22%29%2Cfrom_publication_date%3A2010-01-01%2Ctype%3Aarticle%7Creview%7Cbook-chapter%7Cconference-paper%2Clanguage%3Aen&sort=cited_by_count%3Adesc&per-page=100&select=id%2Cdoi%2Ctitle%2Cdisplay_name%2Cpublication_year%2Cprimary_location%2Ctype%2Ccited_by_count%2Cauthorships%2Cabstract_inverted_index%2Crelevance_score",
+ "hits_total": 782,
+ "retrieved": 100,
+ "records": [
+  {
+   "id": "https://openalex.org/W2341326607",
+   "doi": "10.1093/ije/dyv319",
+   "title": "Cohort Profile: The National Health Insurance Service\u2013National Sample Cohort (NHIS-NSC), South Korea",
+   "publication_year": 2016,
+   "source": "International Journal of Epidemiology",
+   "type": "article",
+   "cited_by_count": 1737,
+   "relevance_score": null,
+   "authors": [
+    "Juneyoung Lee",
+    "Ji Sung Lee",
+    "Sook-Hee Park",
+    "Soon\u2010Ae Shin",
+    "Keewhan Kim"
+   ],
+   "n_authors": 5,
+   "abstract": "The National Health Insurance Service\u2013National Sample Cohort (NHIS-NSC) is a population-based cohort established by the National Health Insurance Service (NHIS) in South Korea. The sole purpose of constructing the cohort was to provide public health researchers and policy makers with representative, useful information regarding citizens\u2019 utilization of health insurance and health examinations. Korea\u2019s universal coverage health insurance system for all citizens was initiated in 1963, based on the National Medical Insurance Act, and was introduced for companies with over 500 employees in 1977. Universal healthcare coverage was achieved in 1989, only 12 years after its introduction, which is the fastest this has been achieved globally.1 In 2000 a single-insurer system, the NHIS, was launched by integrating more than 366 medical insurance organizations, for efficient system operation in Korea.1 The NHIS provides benefits for prevention, diagnosis, disease and injury treatment, as well as rehabilitation, births, deaths and health promotion. Currently the NHIS maintains and stores national records for healthcare utilization and prescriptions. The NHIS records have garnered academic interest due to the effectiveness of the system and relevance to public health and medical research. To meet this interest, a population database has been developed, the \u2018National Health Information Database\u2019 (NHID)2 containing personal information, demographics and medical treatment data for Korean citi"
+  },
+  {
+   "id": "https://openalex.org/W2541851166",
+   "doi": "10.1186/s13054-016-1208-6",
+   "title": "36th International Symposium on Intensive Care and Emergency Medicine: Brussels, Belgium. 15-18 March 2016",
+   "publication_year": 2016,
+   "source": "Critical Care",
+   "type": "article",
+   "cited_by_count": 658,
+   "relevance_score": null,
+   "authors": [
+    "R. M. Bateman",
+    "Michael D. Sharpe",
+    "Justin E. Jagger",
+    "C. G. Ellis",
+    "Jordi Sol\u00e9\u2010Viol\u00e1n",
+    "M. L\u00f3pez-Rodr\u00edguez"
+   ],
+   "n_authors": 100,
+   "abstract": "P001 - Sepsis impairs the capillary response within hypoxic capillaries and decreases erythrocyte oxygen-dependent ATP efflux R. M. Bateman, M. D. Sharpe, J. E. Jagger, C. G. Ellis P002 - Lower serum immunoglobulin G2 level does not predispose to severe flu. J. Sol\u00e9-Viol\u00e1n, M. L\u00f3pez-Rodr\u00edguez, E. Herrera-Ramos, J. Ru\u00edz-Hern\u00e1ndez, L. Border\u00edas, J. Horcajada, N. Gonz\u00e1lez-Quevedo, O. Rajas, M. Briones, F. Rodr\u00edguez de Castro, C. Rodr\u00edguez Gallego P003 - Brain protective effects of intravenous immunoglobulin through inhibition of complement activation and apoptosis in a rat model of sepsis F. Esen, G. Orhun, P. Ergin Ozcan, E. Senturk, C. Ugur Yilmaz, N. Orhan, N. Arican, M. Kaya, M. Kucukerden, M. Giris, U. Akcan, S. Bilgic Gazioglu, E. Tuzun P004 - Adenosine a1 receptor dysfunction is associated with leukopenia: A possible mechanism for sepsis-induced leukopenia R. Riff, O. Naamani, A. Douvdevani P005 - Analysis of neutrophil by hyper spectral imaging - A preliminary report R. Takegawa, H. Yoshida, T. Hirose, N. Yamamoto, H. Hagiya, M. Ojima, Y. Akeda, O. Tasaki, K. Tomono, T. Shimazu P006 - Chemiluminescent intensity assessed by eaa predicts the incidence of postoperative infectious complications following gastrointestinal surgery S. Ono, T. Kubo, S. Suda, T. Ueno, T. Ikeda P007 - Serial change of c1 inhibitor in patients with sepsis \u2013 A prospective observational study T. Hirose, H. Ogura, H. Takahashi, M. Ojima, J. Kang, Y. Nakamura, T. Kojima, T. Shimazu P008 - Comparison of"
+  },
+  {
+   "id": "https://openalex.org/W1966941463",
+   "doi": "10.1016/j.aei.2015.02.001",
+   "title": "Computer vision techniques for construction safety and health monitoring",
+   "publication_year": 2015,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 650,
+   "relevance_score": null,
+   "authors": [
+    "JoonOh Seo",
+    "SangUk Han",
+    "Sang Hyun Lee",
+    "Hyoungkwan Kim"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2096510364",
+   "doi": "10.1111/j.1365-2133.2012.10955.x",
+   "title": "British Association of Dermatologists\u2019 guidelines for the management of alopecia areata 2012",
+   "publication_year": 2012,
+   "source": "British Journal of Dermatology",
+   "type": "article",
+   "cited_by_count": 411,
+   "relevance_score": null,
+   "authors": [
+    "Andrew Guy Messenger",
+    "Jaqueline McKillop",
+    "Paul Farrant",
+    "Andrew J. G. McDonagh",
+    "Michael J Sladden",
+    "J.R. Hughes"
+   ],
+   "n_authors": 18,
+   "abstract": "The guidelines have been revised and updated in accordance with a predetermined scope, based on that used in the 2003 guidelines. Recommendations in these guidelines supersede those in the 2003 guidelines. The objectives of the guidelines are to provide up\u2010to\u2010date recommendations for the management of alopecia areata in adults and children and a summary of the evidence base. This guidance has been written by dermatologists and a patient representative. The draft guideline was made available for consultation and review by the British Association of Dermatologists\u2019 (BAD) membership, the Primary Care Dermatological Society (PCDS), the British Dermatological Nursing Group (BDNG) and the board of Alopecia UK, a patient support organization. The final document was peer\u2010reviewed by the Clinical Standards Unit of the BAD (made up of the Therapy and Guidelines subcommittee) prior to publication. These guidelines have been developed using the BAD\u2019s recommendations1 and also with reference to the AGREE (Appraisal of Guidelines Research and Evaluation) instrument.2 PubMed, MEDLINE and EMBASE databases were searched from January 2002 to January 2012 and full relevant papers in the English language obtained. Additional, targeted searches were also carried out across these three databases, as well as a search on the Allied and Complementary Medicine Database (AMED); details of the search strategy are available as an Appendix online (see Supporting Information). The recommendations made are "
+  },
+  {
+   "id": "https://openalex.org/W2921409995",
+   "doi": "10.1093/nsr/nwz038",
+   "title": "Unravelling the complexity in achieving the 17 sustainable-development goals",
+   "publication_year": 2019,
+   "source": "National Science Review",
+   "type": "article",
+   "cited_by_count": 393,
+   "relevance_score": null,
+   "authors": [
+    "Bojie Fu",
+    "Shuai Wang",
+    "Junze Zhang",
+    "Zengqian Hou",
+    "Jinghai Li"
+   ],
+   "n_authors": 5,
+   "abstract": "It is now more than 3 years since the ratification of the 2030 Agenda for Sustainable Development framework [1] but, according to the latest progress report, unless the rate of progress increases, it is challenging that all of the Sustainable Development Goals (SDGs) will be achieved by 2030 [2]. With only 11 years remaining until the 2030 deadline, it has become imperative to develop a plan of action to enable the full agenda to be realized. Specifically, there is an urgent need for a holistic approach to clarify the interrelationships between the 17 SDGs, while also taking into account their complexity and their sometimes mutually reinforcing or conflicting nature. Trying to achieve these goals separately in succession is nonsensical, but pursuing them simultaneously is impractical [3]. The fundamental logic underlying these complex relationships between the goals must be systematically expressed; only then will we be able to fully achieve them. Many studies have been conducted on the interlinkages among these 17 \u2018holistic\u2019 and \u2018indivisible\u2019 goals, and they have taken a range of different approaches. These include applying a nexus approach to the various goals [4], investigating the degree of interactions among the different goals [5], employing network analysis [6] and even developing a sustainable-development model [7]. However, these studies have only analysed the synergies and trade-offs among the various goals, and they have usually championed the goals believed to be "
+  },
+  {
+   "id": "https://openalex.org/W2751079608",
+   "doi": "10.1016/j.autcon.2017.08.005",
+   "title": "What drives construction workers' acceptance of wearable technologies in the workplace?: Indoor localization and wearable health devices for occupational safety and health",
+   "publication_year": 2017,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 345,
+   "relevance_score": null,
+   "authors": [
+    "Byungjoo Choi",
+    "Sungjoo Hwang",
+    "Sang Hyun Lee"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2912858382",
+   "doi": "10.1093/idpl/ipz014",
+   "title": "Bottom-up data Trusts: disturbing the \u2018one size fits all\u2019 approach to data governance",
+   "publication_year": 2019,
+   "source": "International Data Privacy Law",
+   "type": "article",
+   "cited_by_count": 297,
+   "relevance_score": null,
+   "authors": [
+    "Sylvie Delacroix",
+    "Neil David Lawrence"
+   ],
+   "n_authors": 2,
+   "abstract": "From the friends we make to the foods we like, via our shopping and sleeping habits, most aspects of our quotidian lives can now be turned into machine-readable data points. For those able to turn these data points into models predicting what we will do next, this data can be a source of wealth. For those keen to replace biased, fickle human decisions, this data\u2014sometimes misleadingly\u2014offers the promise of automated, increased accuracy. For those intent on modifying our behaviour, this data can help build a puppeteer\u2019s strings. As we move from one way of framing data governance challenges to another, salient answers change accordingly. Just like the wealth redistribution way of framing those challenges tends to be met with a property-based, \u2018it\u2019s our data\u2019 answer, when one frames the problem in terms of manipulation potential, dignity-based, human rights answers rightly prevail (via fairness and transparency-based answers to contestability concerns). Positive data-sharing aspirations tend to be raised within altogether different conversations from those aimed at addressing the above concerns. Our data Trusts proposal challenges these boundaries. The current lack of legal mechanisms that may plausibly empower us, data subjects to \u2018take the reins\u2019 of our personal data leaves us vulnerable. Recent regulatory endeavours to curb contractual freedom acknowledge this vulnerability but cannot, by themselves, remedy it\u2014nor can data ownership. The latter is both unlikely and inadequate"
+  },
+  {
+   "id": "https://openalex.org/W2994999390",
+   "doi": "10.1016/j.autcon.2019.103045",
+   "title": "Automated excavators activity recognition and productivity analysis from construction site surveillance videos",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 233,
+   "relevance_score": null,
+   "authors": [
+    "Chen Chen",
+    "Zhenhua Zhu",
+    "Amin Hammad"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2970933709",
+   "doi": "10.1093/ije/dyz169",
+   "title": "Cohort Profile: Tohoku Medical Megabank Project Birth and Three-Generation Cohort Study (TMM BirThree Cohort Study): rationale, progress and perspective",
+   "publication_year": 2019,
+   "source": "International Journal of Epidemiology",
+   "type": "article",
+   "cited_by_count": 216,
+   "relevance_score": null,
+   "authors": [
+    "Shinichi Kuriyama",
+    "Hirohito Metoki",
+    "Masahiro Kikuya",
+    "Taku Obara",
+    "Mami Ishikuro",
+    "Chizuru Yamanaka"
+   ],
+   "n_authors": 65,
+   "abstract": "Although a large sample size is useful for the elucidation of what is called \u2018missing heritability\u2019, which is an unexplained part of a total phenotypic variance in a quantitative trait or familial disease aggregation, in prospective genome cohort studies, additional strategies may be required.1 Historically, many patient-based cohort studies have been conducted with limited environmental information for the period preceding the onset of diseases.2\u20136 Population-based prospective cohort designs have since been improved, and many risk factors for diseases have been identified.7\u201310 Once the importance of in utero exposures was recognized, birth cohorts were also developed,11\u201318 and were used to examine the lifelong effects of in utero exposures.19 Because a study assessing disease risk throughout a person\u2019s lifespan requires exposure and outcome measurements in multiple generations with long-term follow-up, a three-generation prospective cohort design has emerged.20,21 In accordance with the development of genome cohort designs, birth and three-generation cohort studies combined with genome and omics information appear to be necessary. However, because of the difficulty of this study design and the actual operation of recruiting and following-up pregnant women, babies, husbands (or partners) and grandparents of babies, no group in the world has ever tried this type of cohort study from an initial stage of cohort construction (Figure 1). Types of prospective cohort studies. The ty"
+  },
+  {
+   "id": "https://openalex.org/W2578179458",
+   "doi": "10.1109/wiw.2016.045",
+   "title": "Automatic Detection of Helmet Uses for Construction Safety",
+   "publication_year": 2016,
+   "source": "IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)",
+   "type": "conference-paper",
+   "cited_by_count": 210,
+   "relevance_score": null,
+   "authors": [
+    "Abu Hasnat Mohammad Rubaiyat",
+    "Tanjin Taher Toma",
+    "Masoumeh Kalantari Khandani",
+    "Syed Ashiqur Rahman",
+    "Lingwei Chen",
+    "Yanfang Ye"
+   ],
+   "n_authors": 7,
+   "abstract": "The U.S. construction industry suffers from the highest number of fatalities among all industries, i.e., one in five worker deaths in private industry were in construction. Tremendous loss has occurred to the workers' families, the industry, and the nation. Considering the large and increasing number of construction projects that are being conducted in the U.S., there is a growing necessity of developing innovative methods to automatically monitor the safety for the workers at construction sites. Since the head is the most critical area of a human body and is the most vulnerable to an impact that could cause serious injury or death, the use of a protective helmet in construction work is needed. In this paper, we aim to automatically detect the uses of construction helmets (e.g., whether the construction worker wears the helmet or not) by analyzing the construction surveillance images. Based on the collected images, we first detect the object of interest (i.e., construction worker) and further analyze whether the worker wears the helmet or not, by using computer vision and machine learning techniques. In the first step, we incorporate frequency domain information of the image with a popular human detection algorithm Histogram of Oriented Gradient (HOG) for construction worker detection; in the second step, the combination of color-based and Circle Hough Transform (CHT) feature extraction techniques is applied to detect helmet uses for the construction worker."
+  },
+  {
+   "id": "https://openalex.org/W3087601224",
+   "doi": "10.1155/2020/9703560",
+   "title": "Deep Learning\u2010Based Safety Helmet Detection in Engineering Management Based on Convolutional Neural Networks",
+   "publication_year": 2020,
+   "source": "Advances in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 198,
+   "relevance_score": null,
+   "authors": [
+    "Yange Li",
+    "Wei Hong Han",
+    "Zheng Sheng Han",
+    "Jianling Huang",
+    "Weidong Wang"
+   ],
+   "n_authors": 5,
+   "abstract": "Visual examination of the workplace and in\u2010time reminder to the failure of wearing a safety helmet is of particular importance to avoid injuries of workers at the construction site. Video monitoring systems provide a large amount of unstructured image data on\u2010site for this purpose, however, requiring a computer vision\u2010based automatic solution for real\u2010time detection. Although a growing body of literature has developed many deep learning\u2010based models to detect helmet for the traffic surveillance aspect, an appropriate solution for the industry application is less discussed in view of the complex scene on the construction site. In this regard, we develop a deep learning\u2010based method for the real\u2010time detection of a safety helmet at the construction site. The presented method uses the SSD\u2010MobileNet algorithm that is based on convolutional neural networks. A dataset containing 3261 images of safety helmets collected from two sources, i.e., manual capture from the video monitoring system at the workplace and open images obtained using web crawler technology, is established and released to the public. The image set is divided into a training set, validation set, and test set, with a sampling ratio of nearly 8 : 1 : 1. The experiment results demonstrate that the presented deep learning\u2010based model using the SSD\u2010MobileNet algorithm is capable of detecting the unsafe operation of failure of wearing a helmet at the construction site, with satisfactory accuracy and efficiency."
+  },
+  {
+   "id": "https://openalex.org/W2990500716",
+   "doi": "10.1016/j.autcon.2019.103016",
+   "title": "Full body pose estimation of construction equipment using computer vision and deep learning techniques",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 195,
+   "relevance_score": null,
+   "authors": [
+    "Han Luo",
+    "Mingzhu Wang",
+    "Peter Kok-Yiu Wong",
+    "Jack C.P. Cheng"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4295776561",
+   "doi": "10.1016/s2666-5247(22)00192-6",
+   "title": "Human infection of avian influenza A H3N8 virus and the viral origins: a descriptive study",
+   "publication_year": 2022,
+   "source": "The Lancet Microbe",
+   "type": "article",
+   "cited_by_count": 193,
+   "relevance_score": null,
+   "authors": [
+    "Rengui Yang",
+    "Honglei Sun",
+    "Feng Gao",
+    "Kaiwei Luo",
+    "Zheng Y. X. Huang",
+    "Qi Tong"
+   ],
+   "n_authors": 37,
+   "abstract": "BACKGROUND: The H3N8 avian influenza virus (AIV) has been circulating in wild birds, with occasional interspecies transmission to mammals. The first human infection of H3N8 subtype occurred in Henan Province, China, in April, 2022. We aimed to investigate clinical, epidemiological, and virological data related to a second case identified soon afterwards in Hunan Province, China. METHODS: We analysed clinical, epidemiological, and virological data for a 5-year-old boy diagnosed with H3N8 AIV infection in May, 2022, during influenza-like illness surveillance in Changsha City, Hunan Province, China. H3N8 virus strains from chicken flocks from January, 2021, to April, 2022, were retrospectively investigated in China. The genomes of the viruses were sequenced for phylogenetic analysis of all the eight gene segments. We evaluated the receptor-binding properties of the H3N8 viruses by using a solid-phase binding assay. We used sequence alignment and homology-modelling methods to study the effect of specific mutations on the human receptor-binding properties. We also conducted serological surveillance to detect the H3N8 infections among poultry workers in the two provinces with H3N8 cases. FINDINGS: The clinical symptoms of the patient were mild, including fever, sore throat, chills, and a runny nose. The patient's fever subsided on the same day of hospitalisation, and these symptoms disappeared 7 days later, presenting mild influenza symptoms, with no pneumonia. An H3N8 virus was is"
+  },
+  {
+   "id": "https://openalex.org/W4405642324",
+   "doi": "10.3390/app142411934",
+   "title": "Artificial Intelligence and Smart Technologies in Safety Management: A Comprehensive Analysis Across Multiple Industries",
+   "publication_year": 2024,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 158,
+   "relevance_score": null,
+   "authors": [
+    "Jiyoung Park",
+    "Dongheon Kang"
+   ],
+   "n_authors": 2,
+   "abstract": "The integration of Artificial Intelligence (AI) and smart technologies into safety management is a pivotal aspect of the Fourth Industrial Revolution or Industry 4.0. This study conducts a systematic literature review to identify and analyze how AI and smart technologies enhance safety management across various sectors within the Safety 4.0 paradigm. Focusing on peer-reviewed journal articles that explicitly mention \u201cSmart\u201d, \u201cAI\u201d, or \u201cArtificial Intelligence\u201d in their titles, the research examines key safety management factors, such as accident prevention, risk management, real-time monitoring, and ethical implementation, across sectors, including construction, industrial safety, disaster and public safety, transport and logistics, energy and power, health, smart home and living, and other diverse industries. AI-driven solutions, such as predictive analytics, machine learning algorithms, IoT sensor integration, and digital twin models, are shown to proactively identify and mitigate potential hazards, optimize energy consumption, and enhance operational efficiency. For instance, in the energy and power sector, intelligent gas meters and automated fire suppression systems manage gas-related risks effectively, while in the health sector, AI-powered health monitoring devices and mental health support applications improve patient and worker safety. The analysis reveals a significant trend towards shifting from reactive to proactive safety management, facilitated by the convergence"
+  },
+  {
+   "id": "https://openalex.org/W4403745321",
+   "doi": "10.3389/frai.2024.1471224",
+   "title": "Shaping integrity: why generative artificial intelligence does not have to undermine education",
+   "publication_year": 2024,
+   "source": "Frontiers in Artificial Intelligence",
+   "type": "article",
+   "cited_by_count": 151,
+   "relevance_score": null,
+   "authors": [
+    "Myles Joshua Toledo Tan",
+    "Nicholle Mae Amor Tan Maravilla"
+   ],
+   "n_authors": 2,
+   "abstract": "The integration of generative artificial intelligence (GAI) in education has been met with both excitement and concern. According to a 2023 survey by the World Economic Forum, over 60% of educators in advanced economies are now using some form of artificial intelligence (AI) in their classrooms, a significant increase from just 20% five years ago (World Economic Forum, 2023). The rapid adoption of AI technologies in education highlights their potential to revolutionize the learning experience. AI tools, such as intelligent tutoring systems and adaptive learning platforms, offer personalized educational experiences that can meet the unique needs of each student. However, with this potential comes significant ethical concerns, particularly regarding academic integrity.The International Center for Academic Integrity reported that 58% of students admitted to using AI tools to complete assignments dishonestly, highlighting the urgency of addressing these ethical concerns (International Center for Academic Integrity, 2023). This statistic underscores a critical issue: while AI has the potential to enhance education, its misuse can undermine the very foundations of academic integrity. The rise of AI technology has raised concerns about academic integrity. With tools that can generate text, solve problems, and even assist with research, students may find it easier to engage in plagiarism or other forms of cheating. This shift challenges traditional educational values, as it blurs the"
+  },
+  {
+   "id": "https://openalex.org/W3006843660",
+   "doi": "10.1016/j.autcon.2020.103127",
+   "title": "Evidence-driven sound detection for prenotification and identification of construction safety hazards and accidents",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 120,
+   "relevance_score": null,
+   "authors": [
+    "Yong-Cheol Lee",
+    "Moeid Shariatfar",
+    "Abbas Rashidi",
+    "Hyun Woo Lee"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3153402529",
+   "doi": "10.1097/dcr.0000000000002037",
+   "title": "The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Surgical Management of Ulcerative Colitis",
+   "publication_year": 2021,
+   "source": "Diseases of the Colon & Rectum",
+   "type": "article",
+   "cited_by_count": 119,
+   "relevance_score": null,
+   "authors": [
+    "Stefan David Holubar",
+    "Amy Lee Lightner",
+    "Vitaliy Y. Poylin",
+    "Jon D. Vogel",
+    "Wolfgang B. Gaertner",
+    "Bradley Rice Davis"
+   ],
+   "n_authors": 13,
+   "abstract": "The American Society of Colon and Rectal Surgeons (ASCRS) is dedicated to ensuring high-quality patient care by advancing the science, prevention, and management of disorders and diseases of the colon, rectum, and anus. The Clinical Practice Guidelines Committee is composed of society members who are chosen because they have demonstrated expertise in the specialty of colon and rectal surgery. This committee was created to lead international efforts in defining quality care for conditions related to the colon, rectum, and anus and develop clinical practice guidelines based on the best available evidence. While not proscriptive, these guidelines provide information on which decisions can be made and do not dictate a specific form of treatment. These guidelines are intended for the use of all practitioners, health care workers, and patients who desire information about the management of the conditions addressed by the topics covered in these guidelines. These guidelines should not be deemed inclusive of all proper methods of care nor exclusive of methods of care reasonably directed toward obtaining the same results. The ultimate judgment regarding the propriety of any specific procedure must be made by the physician considering all the circumstances presented by the individual patient. STATEMENT OF THE PROBLEM Ulcerative colitis (UC) is an idiopathic chronic inflammatory condition that affects the mucosa lining the colon and rectum that, for unknown reasons, continues to increas"
+  },
+  {
+   "id": "https://openalex.org/W4311448413",
+   "doi": "10.1016/j.autcon.2022.104703",
+   "title": "Transformer-based deep learning model and video dataset for unsafe action identification in construction projects",
+   "publication_year": 2022,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 118,
+   "relevance_score": null,
+   "authors": [
+    "Meng Yang",
+    "Wu Chengke",
+    "Yuanjun Guo",
+    "Rui Jiang",
+    "Feixiang Zhou",
+    "Jianlin Zhang"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4393445925",
+   "doi": "10.1016/j.rineng.2024.102057",
+   "title": "Automated monitoring innovations for efficient and safe construction practices",
+   "publication_year": 2024,
+   "source": "Results in Engineering",
+   "type": "article",
+   "cited_by_count": 116,
+   "relevance_score": null,
+   "authors": [
+    "Muhammad Ali Musarat",
+    "Abdul Mateen Khan",
+    "Wesam Salah Alaloul",
+    "Noah Blas",
+    "Saba Ayub"
+   ],
+   "n_authors": 5,
+   "abstract": "As construction projects increase in complexity, there are growing challenges with conventional monitoring methods in terms of efficiency, safety, and competitiveness. Traditional supervision techniques are labour-intensive, intermittent, and prone to errors. Hence, this study statistically evaluates the potential advantages of photogrammetry, sensors, and algorithms to enable continuous automated monitoring. The results of this survey were analysed to compare manual and automated monitoring systems. The outcome shows that the Malaysian construction industry is aware of Automated Monitoring Innovations for Efficient and Safe Construction Practices. The top ranked factor was Photogrammetry which had a relative importance index (RII) of 0.821 for straightforward site monitoring and 0.812 for accelerated 3D BIM modelling. The RII for sensors to track labourers, apparatus, and progress in real time was 0.82, while the RII for hazard anticipation was 0.796. Automation achieved a reduction in fatigue by 0.784, labour intensity by 0.792, and time demands by 0.768, as measured by the RII. A conceptual framework is developed that incorporates measurable improvements in schedules, safety, and quality control. Automated solutions, as opposed to human examinations which are prone to error, provided exhaustive geographical data and ongoing surveillance notwithstanding obstacles pertaining to cost, cybersecurity, privacy, and integration. Construction monitoring must incorporate new techno"
+  },
+  {
+   "id": "https://openalex.org/W2138618162",
+   "doi": "10.1038/embor.2012.130",
+   "title": "The postmodern assault on science: If all truths are equal, who cares what science has to say?",
+   "publication_year": 2012,
+   "source": "EMBO Reports",
+   "type": "article",
+   "cited_by_count": 114,
+   "relevance_score": null,
+   "authors": [
+    "Marcel Kuntz"
+   ],
+   "n_authors": 1,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W1997923770",
+   "doi": "10.1093/ijrl/eet044",
+   "title": "Australia and Asylum Seekers",
+   "publication_year": 2013,
+   "source": "International Journal of Refugee Law",
+   "type": "article",
+   "cited_by_count": 111,
+   "relevance_score": null,
+   "authors": [
+    "Jane McAdam"
+   ],
+   "n_authors": 1,
+   "abstract": "It is incongruous that in a country as large, wealthy and multicultural as Australia, the treatment of asylum seekers and refugees is a national preoccupation. The conversation is not about rights or responsibilities, assistance or protection, but rather about \u2018stopping the boats\u2019 and \u2018smashing the people smugglers\u2019 business model\u2019. How did we reach a point where both major political parties have become engaged in a race to the bottom about how best to shut down Australia as a place of refuge for people who take to the sea? As in many countries, asylum seekers are an easy target for anxieties about national security, unemployment and demographic composition. They cannot vote, so their voices are marginalized in political debate, and as they are increasingly moved outside the Australian community into immigration detention in remote offshore processing centres, the divide between \u2018them\u2019 and \u2018us\u2019 is reinforced. Politicians have fuelled fears that asylum seekers present a threat not only to the integrity of Australia\u2019s borders, but to the national fabric as a whole, and certain elements of the media have not only fanned the flames but poured on the accelerant. As an island nation, Australia has long suffered a disproportionate anxiety about being \u2018invaded\u2019 from the sea. From the mid-19th century, there was a fear of \u2018yellow hordes\u2019 invading from the north,1 an idea that came to underpin the country\u2019s racially repugnant \u2018White Australia Policy\u2019, the final vestiges of which were n"
+  },
+  {
+   "id": "https://openalex.org/W3042983365",
+   "doi": "10.3390/robotics9030055",
+   "title": "Possible Life Saver: A Review on Human Fall Detection Technology",
+   "publication_year": 2020,
+   "source": "Robotics",
+   "type": "article",
+   "cited_by_count": 106,
+   "relevance_score": null,
+   "authors": [
+    "Zhuo Wang",
+    "Vignesh Ramamoorthy",
+    "Udi Gal",
+    "Allon Guez"
+   ],
+   "n_authors": 4,
+   "abstract": "Among humans, falls are a serious health problem causing severe injuries and even death for the elderly population. Besides, falls are also a major safety threat to bikers, skiers, construction workers, and others. Fortunately, with the advancements of technologies, the number of proposed fall detection systems and devices has increased dramatically and some of them are already in the market. Fall detection devices/systems can be categorized based on their architectures as wearable devices, ambient systems, image processing-based systems, and hybrid systems, which employ a combination of two or more of these methodologies. In this review paper, a comparison is made among these major fall detection systems, devices, and algorithms in terms of their proposed approaches and measure of performance. Issues with the current systems such as lack of portability and reliability are presented as well. Development trends such as the use of smartphones, machine learning, and EEG are recognized. Challenges with privacy issues, limited real fall data, and ergonomic design deficiency are also discussed."
+  },
+  {
+   "id": "https://openalex.org/W4396798681",
+   "doi": "10.1007/s10846-024-02104-4",
+   "title": "Robotics in the Construction Sector: Trends, Advances, and Challenges",
+   "publication_year": 2024,
+   "source": "Journal of Intelligent & Robotic Systems",
+   "type": "article",
+   "cited_by_count": 105,
+   "relevance_score": null,
+   "authors": [
+    "Yuming Liu",
+    "Aidi Hizami Alias",
+    "Nuzul Azam Haron",
+    "Nabilah Abu Bakar",
+    "Hao Wang"
+   ],
+   "n_authors": 5,
+   "abstract": "Construction robots employ cutting-edge technology to perform tasks more accurately than traditional construction workers, producing higher-quality results and fewer mistakes. Moreover, although construction robotics is a demanding topic in construction sector research, more review studies that track and anticipate adoption trends are required in the construction sector. This study aims to bridge this gap by identifying the adoption challenges and limitations of construction robots and the opportunities offered to the construction sector. To achieve this aim, the study adopts a systematic literature review approach using the preferred reporting items for systematic reviews and meta-analyses (PRISMA) protocol. Additionally, the systematic literature review focuses on the framework for categorizing technological advances and potential trends in development over the past decade. The review results reveal that: (a) current robotic technology covered four critical perspectives including perception, mobility, manipulation, and collaboration; (b) promoting the sector requires attention to safety and ethical issues because of the risks associated."
+  },
+  {
+   "id": "https://openalex.org/W2098360130",
+   "doi": "10.1111/spsr.12160",
+   "title": "Should Workers Represent Workers?",
+   "publication_year": 2015,
+   "source": "Swiss Political Science Review",
+   "type": "article",
+   "cited_by_count": 103,
+   "relevance_score": null,
+   "authors": [
+    "Jane Jebb Mansbridge"
+   ],
+   "n_authors": 1,
+   "abstract": "The evidence now seems clear that, once you look beyond roll call votes, Black legislators do a better job than Whites of representing Black constituents, women legislators do a better job than men of representing female constituents, and legislators from working-class backgrounds do a better job than others of representing working-class constituents.1 If there were no costs to increasing the representation of these constituents by legislators with the same personal background characteristics (\"descriptive\" representation), we should redesign our institutions to do so. But there are some costs. One broad cost derives from focusing citizens' attention on their own and legislators' background characteristics rather than the capacity and desire of those legislators to promote effective public policies. A narrower and less important cost arises when the funds required for increasing descriptive representation must be taken from some other worthy expenditure. I argue here that we should be more willing to pay the relevant costs when particular historical contexts make descriptive representation more democratically valuable. In my overall analysis, there are two primary criteria for whether any groups ought to be specifically represented, descriptively or otherwise. The first criterion for specific representation is that the members of these groups have conflicting interests. When interests conflict, the production of legitimate democratic coercion (Mansbridge 2014) requires that t"
+  },
+  {
+   "id": "https://openalex.org/W2625420570",
+   "doi": "10.1093/ije/dyx076",
+   "title": "Health and Demographic Surveillance System (HDSS) in Matlab, Bangladesh",
+   "publication_year": 2017,
+   "source": "International Journal of Epidemiology",
+   "type": "article",
+   "cited_by_count": 98,
+   "relevance_score": null,
+   "authors": [
+    "Nurul Alam",
+    "Taslim Ali",
+    "Abdur M. Razzaque",
+    "Mahfuzur Rahman",
+    "M. Zahirul Haq",
+    "Sajal K Saha"
+   ],
+   "n_authors": 12,
+   "abstract": "International Centre for Diarrhoeal Disease Research, Bangladesh, (icddr,b, former Pakistan SEATO Cholera Research Laboratory) set up a field diarrhoea hospital in Matlab in December 1963 for evaluating acceptability, safety and efficacy of cholera vaccines, including oral rehydration therapy, and studying the epidemiology, prevention and treatment of diarrhoeal diseases and other public health interventions. The evaluation studies required accurate count of population at risk for computing rates and ratios. Matlab HDSS (former DSS till 1999) was established in May 1966 for counting the de jure population and births, deaths and migrations with precise dates.1 High rates of fertility and mortality and poor availability and accessibility of primary health care in rural areas provoked design and implementation of a quasi-experimental maternal and child health and family planning (MCH-FP) programme in one half of the surveillance area, keeping the other half as comparison receiving usual government health services, with the aim to estimate the programme effects on fertility and mortality reductions, using HDSS data.2 Subsequently the MCH-FP programme, along with the HDSS, became a training site for programme planners and implementers from developing countries. The DSS was first set up in 132 villages with a population of 111 748 in May 1966, and expanded to the adjacent 101 villages in 1968, totalling 263 507 residents.1,3 In October 1977, the surveillance area was reduced from 2"
+  },
+  {
+   "id": "https://openalex.org/W3016541668",
+   "doi": "10.24840/2184-0954_004.001_0001",
+   "title": "IoT-based safety monitoring from the perspective of construction site workers",
+   "publication_year": 2020,
+   "source": "International Journal of Occupational and Environmental Safety",
+   "type": "article",
+   "cited_by_count": 92,
+   "relevance_score": null,
+   "authors": [
+    "Juha H\u00e4iki\u00f6",
+    "Johanna Kallio",
+    "Satu-Marja M\u00e4kel\u00e4",
+    "Janne S. Ker\u00e4nen"
+   ],
+   "n_authors": 4,
+   "abstract": "Occupational safety and health is traditionally a challenging area in the labor-intensive construction industry as accidents at work and non-ergonomic work conditions lead to absences and premature retirement of construction workers. Recently, the rise of the Internet of Things (IoT) and its accompanying technologies (e.g. wearable technologies) has enhanced interest in the occupational safety and health of construction work. The level of technology acceptance among construction workers is a crucial element in the adoption of these technologies. The main objectives of this study are to enhance understanding about construction workers\u2019 attitudes towards IoT-based data-intensive work safety and wellbeing solutions and to identify factors that can promote technology adoption. Data for the study was collected through an online survey of 4385 construction workers. Based on the survey data it seems that construction workers would accept the sharing and utilizing data collected from them in the worksite environment if it could help identify employee personal health risks or promote personal and colleagues' occupational safety. Respondents were most concerned about privacy and security regarding wearables in the workplace. It can be concluded that user acceptance and trust building are key components in the adoption of IoT-based occupational safety and health solutions. Future studies should investigate methods for actively involving construction workers in the design and development"
+  },
+  {
+   "id": "https://openalex.org/W2316883654",
+   "doi": "10.1061/(asce)cp.1943-5487.0000573",
+   "title": "Visual Tracking of Construction Jobsite Workforce and Equipment with Particle Filtering",
+   "publication_year": 2016,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 90,
+   "relevance_score": null,
+   "authors": [
+    "Zhenhua Zhu",
+    "Xiaoning Ren",
+    "Dongzhi Chen"
+   ],
+   "n_authors": 3,
+   "abstract": "Tracking workforce and equipment at construction jobsites has attracted considerable interest, considering its importance for productivity analysis, safety monitoring, and dynamic site layout planning, for example. Several real-time locating systems (RTLSs) are commercially available, but their requirements for attaching sensors or tags to a workers or equipment raise privacy concerns. Recently, the idea of using video cameras statically placed at construction jobsites to track workers and equipment has been proposed and tested. One challenge of visual tracking stems from jobsite occlusions, which significantly affect tracking performance. This paper presents a vision tracking method using particle filters to address the issue of occlusions at construction jobsites. The method includes two main phases. First, the worker or mobile equipment of interest is manually initiated with a rectangular window, and hundreds of particles are generated. Then each particle is propagated and its weight is calculated by measuring its observation likelihood. The particles are resampled based on their weights. This makes it possible to follow a worker or equipment of interest. The method has been tested at real construction jobsites in Quebec, and tracking results demonstrated its effectiveness."
+  },
+  {
+   "id": "https://openalex.org/W2954275320",
+   "doi": "10.22260/isarc2019/0054",
+   "title": "Predicting Safety Hazards Among Construction Workers and Equipment Using Computer Vision and Deep Learning Techniques",
+   "publication_year": 2019,
+   "source": "International Symposium on Automation and Robotics in Construction (ISARC)",
+   "type": "conference-paper",
+   "cited_by_count": 82,
+   "relevance_score": null,
+   "authors": [
+    "Mingzhu Wang",
+    "Peter Kok-Yiu Wong",
+    "Han Luo",
+    "Sudip Kumar",
+    "Venkata Santosh Kumar Delhi",
+    "Jack C.P. Cheng"
+   ],
+   "n_authors": 6,
+   "abstract": "The construction industry is one of the most hazardous industries suffering from a high on-site accident rate. A lot of safety hazards result from dynamic activities of construction workers and equipment. Therefore, tracking the location and motion of workers and equipment as well as identifying the interaction between them are crucial to preventing safety hazards on construction sites. Currently, with the extensive installation of surveillance cameras, computer vision techniques can be applied to process the videos and images captured on construction sites, which can be used to monitor site safety and to identify potential hazards. With the aim to predict and prevent the safety hazards among workers and equipment, this paper proposes a methodology to monitor and analyse the interaction between workers and equipment by detecting their locations and trajectories and identifying the danger zones using computer vision and deep learning techniques. First, workers and construction equipment are automatically located from cameras and classified by a deep region-based convolutional neural network (R-CNN) model. Then, the location and classification results are further processed by another CNN-based model to obtain trajectories of those objects. Based on the detection and trajectories, the spatial-temporal relationship between workers and equipment is analysed, from which the danger zones for the workers are identified and the corresponding safety alarms are generated. Experiments ar"
+  },
+  {
+   "id": "https://openalex.org/W3121588747",
+   "doi": "10.1016/j.autcon.2021.103562",
+   "title": "Building applications for smart and safe construction with the DECENTER Fog Computing and Brokerage Platform",
+   "publication_year": 2021,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 80,
+   "relevance_score": null,
+   "authors": [
+    "Petar Kochovski",
+    "Vlado Stankovski"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2523917546",
+   "doi": "10.2471/blt.15.163550",
+   "title": "Silicosis and silicotuberculosis in India",
+   "publication_year": 2016,
+   "source": "Bulletin of the World Health Organization",
+   "type": "article",
+   "cited_by_count": 76,
+   "relevance_score": null,
+   "authors": [
+    "Nandini Sharma",
+    "Debashish Kundu",
+    "Sunita Dhaked",
+    "Anand Das"
+   ],
+   "n_authors": 4,
+   "abstract": "Silicosis is a progressive interstitial lung disease, characterized by shortness of breath, cough, fever and bluish skin; it can present in three different forms: acute, accelerated and chronic. (1) It is caused by the lung tissue reaction to the inhalation of silica and occurs most commonly as an occupational disease of people working in the quarrying, manufacturing and building construction industries. Exposure to large amounts of free silica can go unnoticed because silica is odourless, non-irritant and does not cause any immediate health effects. As silicosis is incurable, clinical management includes removing the worker from the industry and giving symptomatic treatment. Public health goals are to detect early cases through monitoring of currently and formerly exposed workers, to establish surveillance programmes, to slow progression and to reduce disability. (2) In 1995, the World Health Organization and the International Labour Organization began a public awareness and prevention campaign to eliminate silicosis from the world by 2030. (3) Several countries--Brazil, Chile, China, Indonesia, Malaysia, Mexico, Poland, South Africa, Thailand, Turkey, Ukraine, the Bolivarian Republic of Venezuela and Viet Nam--have established national programmes for the elimination of silicosis. (3) However, in many low- to middle-income countries, including India, silicosis continues to be an occupational health hazard. India has a large mining industry, concentrated in the states of Chha"
+  },
+  {
+   "id": "https://openalex.org/W3157215872",
+   "doi": "10.1016/j.autcon.2021.103738",
+   "title": "Federated transfer learning enabled smart work packaging for preserving personal image information of construction worker",
+   "publication_year": 2021,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 75,
+   "relevance_score": null,
+   "authors": [
+    "Xiao Li",
+    "Hung-Lin Chi",
+    "Weisheng Lu",
+    "Fan Xue",
+    "Jianhuan Zeng",
+    "Clyde Zhengdao Li"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4200465272",
+   "doi": "10.1093/ije/dyab255",
+   "title": "Data Resource Profile: China Chronic Disease and Risk Factor Surveillance (CCDRFS)",
+   "publication_year": 2021,
+   "source": "International Journal of Epidemiology",
+   "type": "article",
+   "cited_by_count": 74,
+   "relevance_score": null,
+   "authors": [
+    "Mei Zhang",
+    "Linhong Wang",
+    "Jing Wu",
+    "Zhengjing Huang",
+    "Zhenping Zhao",
+    "Xiao Zhang"
+   ],
+   "n_authors": 9,
+   "abstract": "The China Chronic Disease and Risk Factor Surveillance (CCDRFS), conducted by the Chinese Centre for Disease Control and Prevention (China CDC), is a series of periodical cross-sectional nationally representative surveys covering 31 provinces in mainland China and conducted by China CDC that have collected data about Chinese adults regarding chronic and non-communicable diseases (NCDs) and related risk factors. It was first established in 2004, and there have been six field surveys in 2004, 2007, 2010, 2013, 2015 and 2018. Multistage stratified cluster sampling was used to select subjects. Of 776 571 adults invited, 746 020 finished the interview with a response rate of 96.1%. After data cleaning, 732 472 cases were included in the database, with 32 987 in 2004 (aged 18\u201369 years), 50 717 in 2007 (aged 15\u201369 years) and 98 120 in 2010, 176 534 in 2013, 189 605 in 2015 and 184 509 in 2018 (all aged \u226518 years). The data collected using household and individual questionnaires included: (i) demographic and socio-economic information, tobacco use, alcohol use, physical activity, diet, self-reported diagnosis and treatment of hypertension, diabetes, dyslipidaemia, myocardial infarction, stroke and other NCDs; (ii) height, weight, waist circumference and blood pressure; (iii) biochemical indicators, including glucose, lipids, glycated haemoglobin (HbA1c), uric acid, etc. CCDRFS data were managed by the National Centre for Chronic and Noncommunicable Disease Control and Prevention, Chi"
+  },
+  {
+   "id": "https://openalex.org/W2604649374",
+   "doi": "10.1016/j.polgeo.2017.03.008",
+   "title": "Civil society, political society and politics of disorder in Cambodia",
+   "publication_year": 2017,
+   "source": "Political Geography",
+   "type": "article",
+   "cited_by_count": 73,
+   "relevance_score": null,
+   "authors": [
+    "Dennis Arnold"
+   ],
+   "n_authors": 1,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4398222324",
+   "doi": "10.9734/jerr/2024/v26i61177",
+   "title": "Artificial Intelligence in Occupational Health and Safety Risk Management of Construction, Mining, and Oil and Gas Sectors: Advances and Prospects",
+   "publication_year": 2024,
+   "source": "Journal of Engineering Research and Reports",
+   "type": "article",
+   "cited_by_count": 68,
+   "relevance_score": null,
+   "authors": [
+    "Kuok Ho Daniel Tang"
+   ],
+   "n_authors": 1,
+   "abstract": "Artificial intelligence (AI) has gained much popularity in various sectors and has found applications in multiple areas, including occupational health and safety (OHS) risk management of the high-risk construction, mining, and oil and gas sectors. OHS risk management centers on identifying, assessing and controlling occupational risks systematically to prevent work-related injuries, illnesses and deaths. This review presents the advances in AI applications for OHS risk management in these sectors and synthesizes their barriers for better application prospects. In the construction sector, AI can be employed in building information modeling during the design stage to identify and deal with the hazards of building models. AI can be deployed in construction sites through computer vision, sensor networks, knowledge-based systems, and machine learning to capture real-time site conditions, analyze the videos or pictures captured, and provide feedback to workers for appropriate responses. A similar setup involving the same components is also used for managing the OHS risks of surface or underground mining, particularly for monitoring the environmental conditions, detecting the presence of hazardous gases, and identifying hazards in locations that are remote and difficult to assess. Sensors can be attached to personal protective equipment and watches and the signals transmitted via Bluetooth to permit data collection for analysis and response by AI. In the oil and gas sector, sensors "
+  },
+  {
+   "id": "https://openalex.org/W4412707819",
+   "doi": "10.1038/s41598-025-12468-8",
+   "title": "Automated non-PPE detection on construction sites using YOLOv10 and transformer architectures for surveillance and body worn cameras with benchmark datasets",
+   "publication_year": 2025,
+   "source": "Scientific Reports",
+   "type": "article",
+   "cited_by_count": 66,
+   "relevance_score": null,
+   "authors": [
+    "Seunghyeon Wang"
+   ],
+   "n_authors": 1,
+   "abstract": "Ensuring proper Personal Protective Equipment (PPE) compliance is crucial for maintaining worker safety and reducing accident risks on construction sites. Previous research has explored various object detection methodologies for automated monitoring of non-PPE compliance; however, achieving higher accuracy and computational efficiency remains critical for practical real-time applications. Addressing this challenge, the current study presents an extensive evaluation of You Only Look Once version 10 (YOLOv10)-based object detection models designed specifically to detect essential PPE items such as helmets, masks, vests, gloves, and shoes. The analysis utilized an extensive dataset gathered from multiple sources, including surveillance cameras, body-worn camera footage, and publicly accessible benchmark datasets, ensuring thorough and realistic evaluation conditions. The analysis was conducted using an extensive dataset compiled from multiple sources, including surveillance cameras, body-worn camera footage, and publicly available benchmark datasets, to ensure a thorough evaluation under realistic conditions. Experimental outcomes revealed that the Swin Transformer-based YOLOv10 model delivered the best overall performance, achieving AP50 scores of 92.4% for non-helmet, 88.17% for non-mask, 87.17% for non-vest, 85.36% for non-glove, and 83.48% for non-shoes, with an overall average AP50 of 87.32%. Additionally, these findings underscored the superior performance of transformer-b"
+  },
+  {
+   "id": "https://openalex.org/W3035324903",
+   "doi": "10.15585/mmwr.mm6923a1",
+   "title": "Trends in Pneumoconiosis Deaths \u2014 United States, 1999\u20132018",
+   "publication_year": 2020,
+   "source": "MMWR Morbidity and Mortality Weekly Report",
+   "type": "article",
+   "cited_by_count": 64,
+   "relevance_score": null,
+   "authors": [
+    "Jessica L. Bell",
+    "Jacek M. Mazurek"
+   ],
+   "n_authors": 2,
+   "abstract": "for the years 1999, 2003, 2004, and 2007-2013. During 1999-2018, pneumoconiosis deaths decreased by 40.4%, with the exception of pneumoconiosis attributed to other inorganic dusts (e.g., aluminum, bauxite, beryllium, iron, and tin oxide), which increased significantly (p-value for time trend <0.05). The largest observed decreases in pneumoconiosis deaths were for those associated with coal workers' pneumoconiosis (69.6%) and silicosis (53.0%). Asbestosis was the most frequently reported pneumoconiosis and was associated with working in the construction industry. The ongoing occurrence of deaths associated with pneumoconiosis underscores the importance of occupational dust exposure reduction, early case detection, and continued surveillance to monitor trends."
+  },
+  {
+   "id": "https://openalex.org/W2094551931",
+   "doi": "10.1097/jom.0000000000000071",
+   "title": "Occupational and Environmental Health in the Aluminum Industry: Key Points for Health Practitioners",
+   "publication_year": 2014,
+   "source": "Journal of Occupational and Environmental Medicine",
+   "type": "article",
+   "cited_by_count": 63,
+   "relevance_score": null,
+   "authors": [
+    "James C. Wesdock",
+    "Ian M. F. Arnold"
+   ],
+   "n_authors": 2,
+   "abstract": "Aluminum, the most abundant metal in the earth's crust (making up approximately 8%), has a multitude of uses ranging from aerospace to construction through manufacturing to food and pharmaceutical applications. The production of primary aluminum begins with the mining of raw ore and is followed by the extraction of aluminum metal through a series of long established and vertically integrated industrial processes. In this issue of the Journal, these processes and their technologies\u2014both contemporary and innovative\u2014are fully described. The basic chemical process produces, for every 4 to 6 kg of bauxite, approximately 2 kg of alumina and 1 kg of aluminum. Other raw materials include carbon, aluminum fluoride, cryolite, and electrical energy. The chemical, physical, biological, psychosocial, and ergonomic hazards related to primary aluminum production are also characterized, in the context of both occupational and community health. Epidemiological analyses detailing known health risks are comprehensively summarized. Emerging issues of interest and study, such as environmental and community health in relation to aluminum production facilities, are also discussed. Public and consumer health considerations, focused on hypotheses about aluminum and neurocognitive impacts, are systematically reviewed and assessed. BAUXITE MINING PROCESS AND ASSOCIATED OCCUPATIONAL HEALTH HAZARDS AND RISKS Although a very small percentage (less than 1% globally) of aluminum is derived from ores such as"
+  },
+  {
+   "id": "https://openalex.org/W2091022834",
+   "doi": "10.1111/acem.12103",
+   "title": "Surveying Emergency Medicine",
+   "publication_year": 2013,
+   "source": "Academic Emergency Medicine",
+   "type": "article",
+   "cited_by_count": 62,
+   "relevance_score": null,
+   "authors": [
+    "Michael J. Mello",
+    "Roland Clayton Merchant",
+    "Melissa A. Clark"
+   ],
+   "n_authors": 3,
+   "abstract": "Academic Emergency Medicine (AEM) frequently receives manuscripts that include data from surveys. In this commentary, we present an overview of survey methodology, items to consider when designing a study that involves questionnaires, and best practices for reporting survey methodology and presenting findings in manuscripts for AEM. Two survey-based studies published in this issue are used to illustrate some of these points. This commentary is not meant to be a detailed exploration of the nuances of survey methodology, but rather an overview to guide the emergency medicine (EM) researcher on topics to contemplate when considering utilizing survey tools in research. Readers are encouraged to review additional resources on survey methods for researchers.1-3 A survey can be a study's only research tool or can be used as an adjunct to other data collection in allowing researchers to answer their study questions. An important tenet when contemplating a study is that the research question is defined first, and then the researcher decides whether using a survey is an appropriate research tool to answer that question. Data collection using questionnaires provide opportunities to measure respondents' attitudes, behaviors, characteristics, knowledge, observations, opinions, and perspectives. Questionnaires can be used in qualitative, quantitative, and mixed-methods research. Although respondents typically report on behalf of themselves, the respondent can be a proxy for others (e.g., p"
+  },
+  {
+   "id": "https://openalex.org/W3196750358",
+   "doi": "10.1007/s11042-021-11280-6",
+   "title": "YOLOv4 algorithm for the real-time detection of fire and personal protective equipments at construction sites",
+   "publication_year": 2021,
+   "source": "Multimedia Tools and Applications",
+   "type": "article",
+   "cited_by_count": 61,
+   "relevance_score": null,
+   "authors": [
+    "Saurav Kumar",
+    "Himanshu Gupta",
+    "Drishti Yadav",
+    "Irshad Ahmad Ansari",
+    "Om Prakash Verma"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2974780272",
+   "doi": "10.1093/ije/dyz185",
+   "title": "Cohort Profile Update: The Stockholm Birth Cohort Study (SBC)",
+   "publication_year": 2019,
+   "source": "International Journal of Epidemiology",
+   "type": "article",
+   "cited_by_count": 61,
+   "relevance_score": null,
+   "authors": [
+    "Ylva B. Almquist",
+    "Alessandra Grotta",
+    "Denny V\u00e5ger\u00f6",
+    "Sten\u2010\u00c5ke Stenberg",
+    "Bitte Modin"
+   ],
+   "n_authors": 5,
+   "abstract": "The Stockholm Birth Cohort Study (SBC) was set up in 2004/2005 to investigate how childhood living conditions and experiences are related to life-course health, occupation and income.1 Briefly, the SBC was established by a probability matching of two longitudinal, anonymized datasets: the Stockholm Metropolitan Study (SMS) and the Swedish Work and Mortality Database (WMD).1 The former dataset contains information on all individuals who were born in 1953 and lived in the greater metropolitan area of Stockholm in 1963 (n = 15 117). Register and survey follow-ups were carried out up until 1986 when the SMS was de-identified. The latter dataset consists of all individuals who were born before 1985 and lived in Sweden in 1980 and/or 1990 (n = 9 428 526). The WMD includes information on income, work, education, family formation, in-patient care and mortality for the period 1981\u20132009. The probability matching rendered it possible for researchers to follow 14 294 members of the SMS cohort from birth (1953) to the age of 56 (2009). The key that made it possible to perform updates of the WMD, and consequently of the SBC, was deleted in 2017. This deletion was decided upon by Statistics Sweden as part of adherence to the Personal Data Act of 1998, which only allows researchers to keep databases for a limited amount of time to study a set of beforehand-specified and ethically approved research questions. A new research program\u2014\u2018Reproduction of inequality through linked lives\u2019 (RELINK)\u2014re"
+  },
+  {
+   "id": "https://openalex.org/W2740871867",
+   "doi": "10.1093/ije/dyx113",
+   "title": "HDSS Profile: The South East Asia Community Observatory Health and Demographic Surveillance System (SEACO HDSS)",
+   "publication_year": 2017,
+   "source": "International Journal of Epidemiology",
+   "type": "article",
+   "cited_by_count": 59,
+   "relevance_score": null,
+   "authors": [
+    "Uttara Partap",
+    "Elizabeth H. Young",
+    "Pascale A. Allotey",
+    "Ireneous N Soyiri",
+    "Nowrozy Kamar Jahan",
+    "Kridaraan Komahan"
+   ],
+   "n_authors": 9,
+   "abstract": "The economic and demographic transitions under way in Asian populations have led to rapid changes in the burden of disease in the region, with large increases in cardiometabolic disease prevalence concurrent with a decreasing yet notable infectious disease burden.1 Comprehensive evidence from large-scale data resources based in Asian populations is required to gain a detailed understanding of this situation. Such evidence would help inform effective strategies to address the public health challenges it is anticipated to present. As a multi-ethnic middle-income South East Asian country, Malaysia provides a suitable backdrop to exploring the effect of a wide range of exposures on health and disease in populations of Malay, Chinese, Indian and indigenous (Orang Asli) ethnic origins. Its experience may be relevant to nearby countries reaching similar levels of development. The South East Asia Community Observatory (SEACO) health and demographic surveillance system was established in Segamat, Malaysia, in 2011. It is operationally managed through Monash University Malaysia (MUM), and obtains core funding as a Monash technology research platform from MUM [including the Jeffrey Cheah School of Medicine and Health Sciences (JCSMHS)] and Monash University Australia (with contributions from the faculties of Medicine, Nursing and Health Sciences and of Arts). SEACO\u2019s objective is to capture detailed longitudinal information related to health and disease among individuals and families, w"
+  },
+  {
+   "id": "https://openalex.org/W4410056643",
+   "doi": "10.63125/3v8rpr04",
+   "title": "IMPLEMENTING ADVANCED TECHNOLOGIES FOR ENHANCED CONSTRUCTION SITE SAFETY",
+   "publication_year": 2025,
+   "source": "American Journal of Advanced Technology and Engineering Solutions",
+   "type": "article",
+   "cited_by_count": 58,
+   "relevance_score": null,
+   "authors": [
+    "Md Ismail Hossain",
+    "M M Arif Hosen",
+    "Structural Engineer/ Assistant Team leader, American Structural Engineering, P.C. USA",
+    "Mohammad Aman Ullah Sunny",
+    "Shofiul Azam Tarapder"
+   ],
+   "n_authors": 5,
+   "abstract": "The construction industry remains one of the most hazardous sectors worldwide, consistently reporting high rates of workplace accidents, injuries, and fatalities. Traditional safety management approaches, while essential, are often reactive and limited in their ability to predict and prevent incidents. As the industry evolves, there is an urgent need for a paradigm shift toward more proactive and technology-driven safety strategies. This study investigates the implementation of advanced technologies\u2014including the Internet of Things (IoT), Artificial Intelligence (AI), Virtual Reality (VR), Augmented Reality (AR), unmanned aerial vehicles (drones), and wearable safety devices\u2014to significantly enhance safety outcomes on construction sites. IoT-enabled sensors can continuously monitor environmental conditions such as temperature, noise, air quality, and structural integrity, offering real-time data for early detection of potential hazards. AI algorithms further analyze this data to identify patterns, predict risks, and automate responses before accidents occur. VR and AR provide immersive training experiences and on-site hazard visualization, helping workers to recognize and respond to dangerous situations with higher accuracy and preparedness. Drones offer aerial surveillance capabilities, allowing for safe inspection of hard-to-reach or hazardous areas. Meanwhile, wearable technologies such as smart helmets, vests, and biometric monitors track workers\u2019 vital signs, movements, "
+  },
+  {
+   "id": "https://openalex.org/W3193645082",
+   "doi": "10.1108/ijchm-01-2021-0102",
+   "title": "A wearable technology solution and research agenda for housekeeper safety and health",
+   "publication_year": 2021,
+   "source": "International Journal of Contemporary Hospitality Management",
+   "type": "article",
+   "cited_by_count": 57,
+   "relevance_score": null,
+   "authors": [
+    "Cynthia Mejia",
+    "Katherine E. Ciarlante",
+    "Kinjal Chheda"
+   ],
+   "n_authors": 3,
+   "abstract": "Purpose Adopting an interdisciplinary perspective, the purpose of this paper was to posit an industry-wide technological intervention for hotel housekeeper safety and health through the advancement of wearable technology. Design/methodology/approach Using the task-technology fit (TTF) model and examples of successful safety and health applications of wearable technologies in the health-care and construction management industries, interventions and future research directions are presented to address workplace hazards experienced by hotel housekeepers. Findings The fit between a variety of hotel housekeeper user requirements, task demands and wearable functions are explored with justification for the use of wearable devices to improve safety and health-related outcomes. Research limitations/implications A research agenda is proposed for the adoption and use of wearables in the hospitality industry with the intention to generate meaningful interventions beyond corporate wellness, and the mitigation of employee privacy concerns to enhance wearable adoption. Practical implications Given the importance of consumer safety and health assurance in a post-pandemic business environment, hospitality and tourism organizations should place greater emphasis on protecting front line employees who will be essential in regaining economic viability. Social implications Theoretical and practical foci should move beyond a simplistic view of hospitality and tourism worker safety and health that ge"
+  },
+  {
+   "id": "https://openalex.org/W3175864218",
+   "doi": "10.1016/j.eswa.2021.115447",
+   "title": "Personal Protection Equipment detection system for embedded devices based on DNN and Fuzzy Logic",
+   "publication_year": 2021,
+   "source": "Expert Systems with Applications",
+   "type": "article",
+   "cited_by_count": 56,
+   "relevance_score": null,
+   "authors": [
+    "Giancarlo Iannizzotto",
+    "Lucia Lo Bello",
+    "Gaetano Patti"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2091036764",
+   "doi": "10.1080/13698575.2012.682976",
+   "title": "A risk worth taking? Value differences and alternative risk constructions in accounts given by patients and their community workers following conditional discharge from forensic mental health services",
+   "publication_year": 2012,
+   "source": "Health Risk & Society",
+   "type": "article",
+   "cited_by_count": 56,
+   "relevance_score": null,
+   "authors": [
+    "Michael Coffey"
+   ],
+   "n_authors": 1,
+   "abstract": "Patients leaving forensic psychiatric settings on conditional discharge face the challenge of achieving successful community integration, which involves not re-offending, adjusting to the local community and building support networks. Aftercare and monitoring of patients by workers ostensibly assists with integration, but is often dominated by concerns about risks to the public. Risk is seen to emanate from individuals, with steps taken to ensure intensive monitoring and, if necessary, swift return to hospital. This article shows that workers and conditionally discharged patients have distinct views about risk in community living which are driven by contrasting values and priorities; and that some of these differences are associated with the provision of care itself. A discursive analysis of accounts, drawn from 59 interviews with patients and workers, demonstrates that fears about deviant status weigh most heavily for the individual leaving hospital. Aftercare, with its focus on intensive regular visits by nurses, social workers, police and voluntary agencies, works to \u2018unmask\u2019 the person to the wider community, setting them apart as needing supervision. Discharged patients express unease that this unmasking undermines their attempts to begin new lives. Their concern suggests that significant iatrogenic risk arises from aftercare. Workers are not indifferent to this issue, but are themselves subject to public safety imperatives which require surveillance and control of indiv"
+  },
+  {
+   "id": "https://openalex.org/W4313408704",
+   "doi": "10.3390/drones6120424",
+   "title": "Application and Development of Autonomous Robots in Concrete Construction: Challenges and Opportunities",
+   "publication_year": 2022,
+   "source": "Drones",
+   "type": "article",
+   "cited_by_count": 54,
+   "relevance_score": null,
+   "authors": [
+    "Shun Zhao",
+    "Qiang Wang",
+    "Xinjun Fang",
+    "Wei Liang",
+    "Yu Cao",
+    "Changyi Zhao"
+   ],
+   "n_authors": 9,
+   "abstract": "Updated concrete construction robots are designed to optimize equipment operation, improve safety, enhance workspace awareness, and further ensure a proper working environment for construction workers. The importance of concrete construction robots has been constantly highlighted, as they have a profound impact on construction quality and efficiency. Autonomous vehicle driving monitoring has been widely employed in concrete construction robots; however, they lack clear relevance to the key functions in the building process. This paper aims to bridge this knowledge gap by systematically classifying and summarizing the existing concrete construction robots, analyzing their existing problems, and providing direction for their future development. The prescription criteria and selection of robots depend on the concrete construction process, which includes six common functional levels: distribution, leveling and compaction, floor finishing, surface painting, 3D printing, and surveillance. Misunderstood functions and the improper adjustment of construction robots may lead to increased cost, reduced effectiveness, and restricted application scenarios. Our review identifies current commercial and recently studied concrete construction robots to facilitate the standardization and optimization of robotic construction design. Moreover, this study may be able to guide future research and technology development efforts for autonomous robots in concrete construction."
+  },
+  {
+   "id": "https://openalex.org/W2591342682",
+   "doi": "10.1093/ije/dyw324",
+   "title": "Profile: The Dar Es Salaam Health and Demographic Surveillance System (Dar es Salaam HDSS)",
+   "publication_year": 2017,
+   "source": "International Journal of Epidemiology",
+   "type": "article",
+   "cited_by_count": 54,
+   "relevance_score": null,
+   "authors": [
+    "Germana Henry Leyna",
+    "Lisa F. Berkman",
+    "Marina Alois Njelekela",
+    "Patrick Kazonda",
+    "Kahema Irema",
+    "Wafaie Wahib Fawzi"
+   ],
+   "n_authors": 7,
+   "abstract": "The world urban population is estimated to reach 66% (2.5 billion) by 2050 from 54% in 2014. Nearly 90% of this future population growth is concentrated in developing countries, where Asia and Africa are expected to experience the highest growth.1 The majority of the urban dwellers are projected to reside in small settlements and about 1 in 8 will live in mega-cities with more than 10 million inhabitants. Dar es Salaam - the capital of Tanzania - where this HDSS is located is one of the cities expected to reach mega-city status by 2030.1 Local data show that Dar es Salaam was among the regions that grew the most in the country (by 75% from 2002 to 2012) with an average inter-censal growth rate of 5.6%; and has the highest population density in the country (1786 per km2).2,3 The increase is attributed to rural-urban migration and natural increase, although it is difficult to assess the impact of changes in fertility and mortality on the population growth rate due to lack of a reliable civil registration and vital statistics system.2 The lack of accurate and timely health data to monitor and plan evidence-based health interventions in Africa is a recurrent problem repeatedly described in the literature.4,5 Health and Demographic Surveillance Systems, if used effectively, offer an alternative source of public health data including vital statistics in areas that lack a comprehensive national civil registration and vital statistics systems.6 The Dar es Salaam Health and Demographi"
+  },
+  {
+   "id": "https://openalex.org/W4296613854",
+   "doi": "10.1186/s12913-022-08574-2",
+   "title": "The challenge of healthcare big data to China\u2019s commercial health insurance industry: evaluation and recommendations",
+   "publication_year": 2022,
+   "source": "BMC Health Services Research",
+   "type": "article",
+   "cited_by_count": 53,
+   "relevance_score": null,
+   "authors": [
+    "Jun Wu",
+    "Jiajun Qiao",
+    "Stephen Nicholas",
+    "Yunqiao Liu",
+    "Elizabeth Maitland"
+   ],
+   "n_authors": 5,
+   "abstract": "BACKGROUND: China's social medical insurance system faces challenges in financing, product coverage, patient health responsibility sharing and data security, which commercial health insurance companies can help address. Confronting accelerated population aging, the rapid increase of patients with chronic diseases and the maternal and child healthcare needs created by the three-child policy, the Chinese government has encouraged the development of commercial health insurance. But China's commercial health insurance companies face financial sustainability problems, limited product ranges and high operating costs. At the same time, the informatization level of China's healthcare industry, and the value of healthcare big data, is increasing. We analyze and describe the potential application of healthcare big data in the life cycle of China's commercial health insurance system and provide specific action plans for Chinese commercial health insurance companies; identify the challenges to commercial health insurers; and make recommendations for the application of big health data by commercial health insurers. Our recommendations inform healthcare policy makers on the development of commercial health insurance and the improvement of the healthcare financing system. We not only verify the value of healthcare big data, but also identify specific ways that healthcare big data plays in the development of commercial health insurance. Based on the research results, we recommend new policie"
+  },
+  {
+   "id": "https://openalex.org/W4401392560",
+   "doi": "10.3390/buildings14082429",
+   "title": "Multi-Task Intelligent Monitoring of Construction Safety Based on Computer Vision",
+   "publication_year": 2024,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 52,
+   "relevance_score": null,
+   "authors": [
+    "Lingfeng Liu",
+    "Zhigang Guo",
+    "Zhengxiong Liu",
+    "Yaolin Zhang",
+    "Ruying Cai",
+    "Xin Hu"
+   ],
+   "n_authors": 8,
+   "abstract": "Effective safety management is vital for ensuring construction safety. Traditional safety inspections in construction heavily rely on manual labor, which is both time-consuming and labor-intensive. Extensive research has been conducted integrating computer-vision technologies to facilitate intelligent surveillance and improve safety measures. However, existing research predominantly focuses on singular tasks, while construction environments necessitate comprehensive analysis. This study introduces a multi-task computer vision technology approach for the enhanced monitoring of construction safety. The process begins with the collection and processing of multi-source video surveillance data. Subsequently, YOLOv8, a deep learning-based computer vision model, is adapted to meet specific task requirements by modifying the head component of the framework. This adaptation enables efficient detection and segmentation of construction elements, as well as the estimation of person and machine poses. Moreover, a tracking algorithm integrates these capabilities to continuously monitor detected elements, thereby facilitating the proactive identification of unsafe practices on construction sites. This paper also presents a novel Integrated Excavator Pose (IEP) dataset designed to address the common challenges associated with different single datasets, thereby ensuring accurate detection and robust application in practical scenarios."
+  },
+  {
+   "id": "https://openalex.org/W4328114907",
+   "doi": "10.1108/ecam-08-2022-0770",
+   "title": "Automation in architecture, engineering and construction: a scientometric analysis and implications for management",
+   "publication_year": 2023,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 51,
+   "relevance_score": null,
+   "authors": [
+    "Anton Klarin",
+    "Qijie Xiao"
+   ],
+   "n_authors": 2,
+   "abstract": "Purpose Many economic, political and socio-cultural events in the 2020s have been strong headwinds for architecture, engineering and construction (AEC). Nevertheless, technological advancements (e.g. artificial intelligence (AI), big data and robotics) provide promising avenues for the development of AEC. This study aims to map the state of the literature on automation in AEC and thereby be of value not only to those researching automation and its composition of a variety of distinct technological and system classes within AEC, but also to practitioners and policymakers in shaping the future of AEC. Design/methodology/approach This review adopts scientometric methods, which have been effective in the research of large intra and interdisciplinary domains in the past decades. The full dataset consists of 1,871 articles on automation in AEC. Findings This overarching scientometric review offers three interdisciplinary streams of research: technological frontiers, project monitoring and applied research in AEC. To support the scientometric analysis, the authors offer a critical integrative review of the literature to proffer a multilevel, multistage framework of automation in AEC, which demonstrates an abundance of technological paradigm discussions and the inherent need for a holistic managerial approach to automation in AEC. Originality/value The authors underline employee well-being, business sustainability and social growth outcomes of automation and provide several manageria"
+  },
+  {
+   "id": "https://openalex.org/W4401943089",
+   "doi": "10.1109/access.2024.3451117",
+   "title": "Real-Time Monitoring of Personal Protective Equipment Compliance in Surveillance Cameras",
+   "publication_year": 2024,
+   "source": "IEEE Access",
+   "type": "article",
+   "cited_by_count": 50,
+   "relevance_score": null,
+   "authors": [
+    "Sadam Al-Azani",
+    "Hamzah Luqman",
+    "Motaz Alfarraj",
+    "Ala Addin I. Sidig",
+    "Ayaz H. Khan",
+    "Dina H. Alhamed"
+   ],
+   "n_authors": 6,
+   "abstract": "Worker safety in the industrial, construction, and energy sectors is the primary concern of governments, organizations, and project managers. Traditional monitoring systems are tedious, laborious, subjective, expensive, and inaccurate. Therefore, the development of automated and accurate systems for real-time monitoring and detecting personal protective equipment (PPE) compliance is urgently needed. This study provides valuable insights and contributions to the field of workers\u2019 safety in the industrial, construction, and energy sectors. It aims to evaluate the potential contribution of providing a robust and accurate real-time PPE compliance monitoring system using state-of-the-art deep learning techniques with real-world videos collected from surveillance cameras. Furthermore, it presents a systematic framework for developing, evaluating, and selecting the most suitable model for real-world applications, starting from data collection and ending with system deployment and maintenance. To the best of our knowledge, the collected dataset in this work is the largest PPE\u2019s dataset, with approximately 7.7 million labels representing different PPEs in 386,011 video frames collected from several surveillance cameras. The techniques adopted to generate different models and evaluated for PPE are CenterNet, Vision Transformer, and YOLOv7. Moreover, an optimized real-time inference engine is developed leveraging the high-computing power of GPUs in the system. The experimental results d"
+  },
+  {
+   "id": "https://openalex.org/W4375950152",
+   "doi": "10.3390/drones7050313",
+   "title": "Accelerating Use of Drones and Robotics in Post-Pandemic Project Supply Chain",
+   "publication_year": 2023,
+   "source": "Drones",
+   "type": "article",
+   "cited_by_count": 48,
+   "relevance_score": null,
+   "authors": [
+    "Musaab A. AlRushood",
+    "Fred Rahbar",
+    "Shokri Z. Selim",
+    "Fikri T. Dweiri"
+   ],
+   "n_authors": 4,
+   "abstract": "The global COVID-19 pandemic forced the construction industry to a standstill. In the wake of the pandemic, this sector must be prepared to make bold, innovative moves to prepare for the future. Over the past few years, the use of drones and robotics has expanded with many commercial uses, including in the construction industry. Drone-driven automation has an enormous impact in improving productivity and reducing cost and schedule overruns. The use of drones, along with the application of Internet of Things (IoT) and robotics, can make a significant impact on the supply chain and improve inventory accuracy, leading to faster and more cost-effective building projects. This paper will propose and statistically substantiate an optimization model for supply chain management through the accelerated use of drones and Artificial Intelligence (AI) in the post-pandemic era. The use of smart devices and IoT will allow warehouse managers to have real-time visibility of the location and inventory tracking, as well as enabling warehouse workers to access information without being physically present. Cutting-edge drone technology can quickly perform inspections to make inventory control more economical and efficient. While they are certainly not a perfect fit for every building surveillance task, drones have many advantages for probing buildings in search of leaks, performing aerial surveys, and dealing with security issues more cost-effectively than manual procedures, thereby leading to i"
+  },
+  {
+   "id": "https://openalex.org/W3165425319",
+   "doi": "10.1111/resp.14094",
+   "title": "Delay or avoidance of routine, urgent and emergency medical care due to concerns about COVID \u201019 in a region with low COVID \u201019 prevalence: Victoria, Australia",
+   "publication_year": 2021,
+   "source": "Respirology",
+   "type": "article",
+   "cited_by_count": 48,
+   "relevance_score": null,
+   "authors": [
+    "Mark \u00c9. Czeisler",
+    "Jessica L. Kennedy",
+    "Joshua F. Wiley",
+    "Elise R. Facer\u2010Childs",
+    "Rebecca Robbins",
+    "Laura K. Barger"
+   ],
+   "n_authors": 9,
+   "abstract": "In August 2020, the World Health Organization reported that 89% of 105 surveyed countries reported disruption to essential health services during the coronavirus disease 2019 (COVID-19) pandemic.1 In late June 2020, when there were 2.5 million cumulative confirmed severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections in the United States,2 40.9% of 4977 surveyed US adults reported having delayed or avoided medical care due to COVID-19 concerns.3 Given the potential short- and long-term consequences of medical care delay or avoidance, we sought to determine whether similar care avoidance was observed in a region with low SARS-CoV-2 prevalence. As of mid-September 2020, the Australian state of Victoria reported fewer than 20,000 cumulative SARS-CoV-2 cases with a low positivity rate4 in a population of approximately 6.7 million people. Cross-sectional Internet-based surveys were therefore administered to respondent panellists aged \u226518 years residing in Victoria by Qualtrics using quota sampling in the third Australian wave of The COVID-19 Outbreak Public Evaluation (COPE) Initiative (www.thecopeinitiative.org). To assess medical care avoidance cross-sectionally while minimizing potential confounders of varying mitigation measures or SARS-CoV-2 prevalence, surveys were administered during 15\u201324 September 2020, when peak COVID-19 prevention measures were in place. Participants were asked, 'In the past month, have you delayed or avoided medical care due to concer"
+  },
+  {
+   "id": "https://openalex.org/W2129162703",
+   "doi": "10.1061/41182(416)47",
+   "title": "Computer Vision Techniques for Worker Motion Analysis to Reduce Musculoskeletal Disorders in Construction",
+   "publication_year": 2011,
+   "source": "ASCE International Conference on Computing in Civil Engineering (i3CE)",
+   "type": "conference-paper",
+   "cited_by_count": 48,
+   "relevance_score": null,
+   "authors": [
+    "Chunxia Li",
+    "Sang Hyun Lee"
+   ],
+   "n_authors": 2,
+   "abstract": "Worker health is a serious issue in construction. Injuries and illnesses result in days away from work and incur tremendous costs for construction organizations. Musculoskeletal disorders, in particular, constitute a major category of worker injury. The repetitive movements, awkward postures, and forceful exertions involved in trade work are leading causes of this type of injury. To reduce the number of these injuries, worker activities must be tracked and analyzed. Traditional methods to measure work activities rely upon manual on-site observations which are time-consuming and inefficient. To address these limitations, computer vision techniques for worker motion analysis are proposed to automatically identify non-ergonomic postures and movements without on-site work interruption. Specifically, we intend to acquire 2D skeleton extracting joints from image sequences and, while obtaining 3D coordinates for each joint, reconstruct 3D human skeletons for each frame; these then can be used for diverse ergonomic analyses (e.g., joint angle comparisons with the suggested ergonomic guidelines for trades). In this paper, we therefore discuss how 3D skeleton video images can be reconstructed with two 2D skeleton images recorded from two network surveillance cameras. The results demonstrate that the obtained 3D skeleton video with coordinates of joints have enough detail to be used for motion analysis and have great potential to identify non-ergonomic postures and movements. This infor"
+  },
+  {
+   "id": "https://openalex.org/W4385596417",
+   "doi": "10.1061/jccee5.cpeng-5238",
+   "title": "Real-Time Struck-By Hazards Detection System for Small- and Medium-Sized Construction Sites Based on Computer Vision Using Far-Field Surveillance Videos",
+   "publication_year": 2023,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 47,
+   "relevance_score": null,
+   "authors": [
+    "Hyung-soo Kim",
+    "Jaehwan Seong",
+    "Hyung\u2010Jo Jung"
+   ],
+   "n_authors": 3,
+   "abstract": "Small- and medium-sized construction sites are not efficiently managed because of the lack of budget and labor in safety management. In this paper, a real-time struck-by hazards detection system based on computer vision is proposed to automatically detect onsite hazards at small- and medium-sized construction sites by analyzing far-field surveillance videos. The proposed system consists of image processing technologies such as object detection, object tracking, image classification, and projective transformation, considering actual small- and medium-sized construction site conditions. Images obtained from small- and medium-sized construction sites have a fixed scene, far-field conditions, and crowded characteristics. In the object detection, an object class suitable for far-field conditions was defined, and object tracking and class changes were applied to ensure field applicability. In addition, to apply projective transformation using fixed scene images, the representative point of the detected object was established. Moreover, for the real-time application of the entire system, appropriate models for each function were selected, and an optimized application process was presented. Consequently, the integrated system, which simultaneously performs hardhat-wearing detection, heavy-equipment operation detection, signal-worker arrangement detection, and heavy-equipment proximity detection, was developed. The performance of the proposed model was evaluated individually, and the "
+  },
+  {
+   "id": "https://openalex.org/W2984845156",
+   "doi": "10.1093/ije/dyz222",
+   "title": "Cohort Profile: The Puberty Cohort in the Danish National Birth Cohort (DNBC)",
+   "publication_year": 2019,
+   "source": "International Journal of Epidemiology",
+   "type": "article",
+   "cited_by_count": 47,
+   "relevance_score": null,
+   "authors": [
+    "Andreas Ernst",
+    "Nis Brix",
+    "Lea Lykke Braskh\u00f8j Lauridsen",
+    "Katrine Strandberg\u2010Larsen",
+    "Bodil Hammer Bech",
+    "Ellen Aagaard Nohr"
+   ],
+   "n_authors": 11,
+   "abstract": "Puberty marks the transition from childhood to adulthood and is a possible component cause in a number of adult diseases related to early life exposures. Previous investigations suggest a secular trend toward earlier timing of puberty, mainly based on research related to age at menarche.1\u20133 This shift has occurred during recent centuries in Europe and other Western countries. Yet, few have investigated whether age of puberty in boys has also decreased.4\u20137 Earlier pubertal development has been linked to increased risk of several frequent and severe diseases in adulthood, such as metabolic disorders, cardiovascular disease and certain types of cancer.8\u201311 Although the childhood obesity epidemic is considered an important cause of the temporal trend in timing of puberty,12 remaining causes continue to be scarcely understood.13,14 According to the theory of developmental origins of health and disease,15,16 exposures during fetal life may have long-lasting programming effects on offspring health, including pubertal development. This hypothesis has been consistently supported by data from animal studies,17 but large-scale epidemiological evidence is still limited.18\u201320 The Puberty Cohort, nested within the Danish National Birth Cohort (DNBC21, the DNBC Puberty Cohort), was set up to examine potential early life risk factors for altered pubertal timing, in addition to potential trajectories of health and disease after altered timing of pubertal development. A secondary aim of the DN"
+  },
+  {
+   "id": "https://openalex.org/W2098110104",
+   "doi": "10.1093/jahist/jas023",
+   "title": "An Incomplete Solution: Oil and Water in Louisiana",
+   "publication_year": 2012,
+   "source": "Journal of American History",
+   "type": "article",
+   "cited_by_count": 47,
+   "relevance_score": null,
+   "authors": [
+    "Craig Edward Colten"
+   ],
+   "n_authors": 1,
+   "abstract": "A series of major calamities in recent years has placed the national spotlight on the lower Mississippi River industrial complex\u2014a sinuous arrangement of petrochemical plants and working-class communities set amid the sugarcane fields on the alluvial floodplain. Hurricanes Katrina and Rita damaged offshore oil rigs and onshore refineries in 2005, caused oil releases, and increased gasoline prices, thereby exposing the region\u2019s significant position in the energy economy. The 2010 Deepwater Horizon event showcased the environmental costs of extractive activities; and the near-record Mississippi River flood of 2011 disrupted waterborne commerce and raised the specter of levee failures. As those events displayed, this nationally prominent ensemble of industries occupies a location susceptible to a host of environmental forces and a place where industrial activities have produced dramatic consequences. Testing the environment\u2019s capacity to absorb human impacts has been going on for decades and has left enduring traces on the Louisiana landscape. Erection of petroleum refineries in this region began in the first decade of the twentieth century, during a time of almost nonexistent environmental regulation. Yet, even in the early decades of petrochemical growth, the state, its citizens, and industry acknowledged both human safety risks and environmental threats posed by the arrival of this new enterprise. Industry took the position that self-regulation would minimize personal, proper"
+  },
+  {
+   "id": "https://openalex.org/W3038320417",
+   "doi": "10.29173/irie277",
+   "title": "Social Media and Algorithms: Configurations of the Lifeworld Colonization by New Media",
+   "publication_year": 2017,
+   "source": "The International Review of Information Ethics",
+   "type": "article",
+   "cited_by_count": 45,
+   "relevance_score": null,
+   "authors": [
+    "Carlos Figueiredo",
+    "C\u00e9sar Bola\u00f1o"
+   ],
+   "n_authors": 2,
+   "abstract": "Social media is a pervasive part of everyday life. That is, new media occupies more and more spaces in individuals\u2019 lives both in intimate and work sphere. In addition, due to convergence, new media brought together interpersonal and mass communications in the same environment. This fact has caused a wide range of changes in cultural industries. One of the main changes brought about by social media in relation to the mass media is the construction of a flow of content, advertising and propaganda customized for each individual, and constructed from surveillance and control of individuals\u2019 interactions in digital networks. For so doing, one element is central: Algorithms. It is not only by means of contents produced by cultural workers or amateurs that social media guarantees the life world colonization by the system, but mainly through the tracking of user interactions. That is possible thanks to the data gathering performed by algorithms. Therefore, social networks colonize the life world in a more constant and pervasive way than mass media, facilitating surveillance and social control that are vital for both, the digital conglomerates economic power and the state capacity to watch individuals, either to strengthen the sales effort or to ensure citizen vigilance."
+  },
+  {
+   "id": "https://openalex.org/W2092022725",
+   "doi": "10.1002/ajim.20880",
+   "title": "Non\u2010fatal construction industry fall\u2010related injuries treated in US emergency departments, 1998\u20132005",
+   "publication_year": 2011,
+   "source": "American Journal of Industrial Medicine",
+   "type": "article",
+   "cited_by_count": 45,
+   "relevance_score": null,
+   "authors": [
+    "Kirill S. Shishlov",
+    "Ashley L. Schoenfisch",
+    "Douglas J. Myers",
+    "Hester J. Lipscomb"
+   ],
+   "n_authors": 4,
+   "abstract": "BACKGROUND: There is a growing recognition that common occupational injury surveillance systems in the US fail to reflect true injury risk; this failure limits efforts to accurately monitor efforts to prevent work-related injuries on a national level. METHODS: Data from the National Electronic Injury Surveillance System occupational supplement (NEISS-Work) were used to describe fall-related injuries treated in US emergency departments among workers in the construction industry (1998-2005). These data do not require workers' compensation as the payer in order to be classified as work-related. RESULTS: Based on NEISS-Work estimates, a total of 555,700 (95% confidence interval (CI): 390,700-720,800) non-fatal work-related injuries among workers in the construction industry were the result of a fall, resulting in an annual rate of 70 (95% CI: 49-91) per 10,000 full-time equivalents. Younger workers had higher rates of falls, whereas older workers were more likely to suffer serious injuries. The majority of the injuries (70%) were precipitated by falls to a lower level from roofs, ladders, and scaffolding. CONCLUSIONS: The patterns of fall-related injuries identified in these data are consistent with other reports. In contrast to the declining rates of falls requiring days away from work reported through the Bureau of Labor Statistics Survey of Occupational Injuries and Illnesses, construction industry fall-related injury rates estimated through NEISS-Work remained unchanged from "
+  },
+  {
+   "id": "https://openalex.org/W7153278256",
+   "doi": "10.62225/2583049x.2023.3.6.6075",
+   "title": "Advances in Continuous Hazard Monitoring Systems for Workplace Safety",
+   "publication_year": 2023,
+   "source": "International Journal of Advanced Multidisciplinary Research and Studies",
+   "type": "article",
+   "cited_by_count": 42,
+   "relevance_score": null,
+   "authors": [
+    "Stephen Francis Obogo",
+    "Oghenepawon David Obriki",
+    "Oluwakemi Motunrayo Arumosoye"
+   ],
+   "n_authors": 3,
+   "abstract": "Continuous hazard monitoring systems have emerged as a critical component of modern workplace safety strategies, particularly in high-risk industrial environments such as manufacturing, construction, mining, and chemical processing. Traditional safety inspection models rely heavily on periodic assessments and manual reporting, which often fail to detect rapidly evolving hazards in real time. Recent technological advancements have enabled the development of intelligent monitoring frameworks that integrate Internet of Things (IoT) sensors, wireless communication networks, artificial intelligence, and cloud-based analytics to provide continuous, automated surveillance of workplace conditions. These systems are capable of tracking environmental variables including toxic gas concentration, temperature fluctuations, vibration levels, noise exposure, and worker proximity to hazardous zones. Furthermore, machine learning algorithms enhance predictive capabilities by identifying abnormal patterns and forecasting potential safety incidents before they occur. Advances in wearable safety devices, smart helmets, and connected personal protective equipment have also expanded the scope of hazard monitoring by enabling worker-centric safety data collection. Despite these innovations, challenges remain related to sensor reliability, data integration, cybersecurity, and system scalability in complex industrial settings. This review synthesizes recent developments in continuous hazard monitorin"
+  },
+  {
+   "id": "https://openalex.org/W3028302743",
+   "doi": "10.1680/jmapl.20.00004",
+   "title": "Challenges of upgrading craft workforce into Construction 4.0: framework and agreements",
+   "publication_year": 2020,
+   "source": "Proceedings of the Institution of Civil Engineers - Management Procurement and Law",
+   "type": "article",
+   "cited_by_count": 41,
+   "relevance_score": null,
+   "authors": [
+    "Diego Calvetti",
+    "P. M\u00eada",
+    "Sujesh F. Sujan",
+    "Miguel Chichorro Gon\u00e7alves",
+    "Hip\u00f3lito Jos\u00e9 Campos De Sousa"
+   ],
+   "n_authors": 5,
+   "abstract": "Craft workforce is the main productive factor in traditional construction. Construction 4.0 visions are based on automation and digitalisation, meaning that human site activities will require/stipulate changes. The extent to which manual tasks done by humans in construction will be replaced is uncertain. This might vary considering the context or type of work. Construction 4.0 includes craft workforce activities, as these can benefit from technology, fostering digital transformation in the short/medium term. The research scope is workforce\u2013innovation\u2013management using data from job sites. A framework is developed based on data future use involving electronic performance monitoring, building information modelling, smart contracts and artificial intelligence. A systematic scoping review is developed to identify legal/ethical issues in connection to technological aspects. The discussion and findings focus on General Data Protection Regulation compliance to apply the proposed framework. Optimised human\u2013machine-controlled environments must be ethically managed by pre-established collective agreements and must rely on each worker\u2019s awareness and consent. The findings suggest that the human aspects if improperly addressed could result in a bottleneck of digital transformation advances. Along with the framework, the paper provides a step-by-step, streamlined review of the regulations and requirements that need to be considered when implementing electronic monitoring of workers."
+  },
+  {
+   "id": "https://openalex.org/W2742858075",
+   "doi": "10.1097/jom.0000000000001100",
+   "title": "Interaction of Health Care Worker Health and Safety and Patient Health and Safety in the US Health Care System: Recommendations From the 2016 Summit",
+   "publication_year": 2017,
+   "source": "Journal of Occupational and Environmental Medicine",
+   "type": "article",
+   "cited_by_count": 41,
+   "relevance_score": null,
+   "authors": [
+    "Ronald Loeppke",
+    "Jodie Boldrighini",
+    "John Bowe",
+    "Barbara I. Braun",
+    "Erik Eggins",
+    "Barry S. Eisenberg"
+   ],
+   "n_authors": 20,
+   "abstract": "Since the publication of the Institute of Medicine's groundbreaking report To Err is Human in 2000,1 patient safety has become a key health care issue, driving decision-making and policy formulation in virtually every sector of the health care system. In 2008, Berwick stated that the US health care system could only be improved if it focused on three aims: (1) improving the experience of patient care; (2) improving the health of populations; and (3) reducing per capita costs of health care.2 More recently, a new topic has begun to emerge: the health and safety of those who deliver health care\u2014from physicians and nurses to administrative and service personnel\u2014and how that can impact the health and safety of patients. It is becoming clear that workers in this high stress, demanding sector are themselves prone to a wide variety of health risks, ranging from musculoskeletal issues to depression and burnout. This burnout and dissatisfaction among health care workers compromises the goals of the triple aim. Therefore, there is a need to expand the triple aim into the quadruple aim, which includes the goal of improving the work life and well-being of health care providers.3 In the midst of these factors, health care leaders have begun to recognize the irony that the very places charged with addressing patient safety\u2014America's hospitals, care clinics, and medical offices\u2014face significant health and safety challenges of their own. For example, the incidence rate of total recordable in"
+  },
+  {
+   "id": "https://openalex.org/W4361279900",
+   "doi": "10.1007/s40747-023-01028-0",
+   "title": "A high-performance framework for personal protective equipment detection on the offshore drilling platform",
+   "publication_year": 2023,
+   "source": "Complex & Intelligent Systems",
+   "type": "article",
+   "cited_by_count": 40,
+   "relevance_score": null,
+   "authors": [
+    "Xiaofeng Ji",
+    "Faming Gong",
+    "Xiangbing Yuan",
+    "Nuanlai Wang"
+   ],
+   "n_authors": 4,
+   "abstract": "In order for the offshore drilling platform to operate properly, workers need to perform regular maintenance on the platform equipment, but the complex working environment exposes workers to hazards. During inspection and maintenance, the use of personal protective equipment (PPE) such as helmets and workwear can effectively reduce the probability of worker injuries. Existing PPE detection methods are mostly for construction sites and only detect whether helmets are worn or not. This paper proposes a high-precision and high-speed PPE detection method for the offshore drilling platform based on object detection and classification. As a first step, we develop a modified YOLOv4 (named RFA-YOLO)-based object detection model for improving localization and recognition for people, helmets, and workwear. On the basis of the class and coordinates of the object detection output, this paper proposes a method for constructing position features based on the object bounding box to obtain feature vectors characterizing the relative offsets between objects. Then, the classifier is obtained by training a dataset consisting of position features through a random forest algorithm, with parameter optimization. As a final step, the PPE detection is achieved by analyzing the information output from the classifier through an inference mechanism. To evaluate the proposed method, we construct the offshore drilling platform dataset (ODPD) and conduct comparative experiments with other methods. The expe"
+  },
+  {
+   "id": "https://openalex.org/W2560165949",
+   "doi": "10.1097/jom.0000000000000928",
+   "title": "Workplace Lead Exposure",
+   "publication_year": 2016,
+   "source": "Journal of Occupational and Environmental Medicine",
+   "type": "article",
+   "cited_by_count": 40,
+   "relevance_score": null,
+   "authors": [
+    "Michael G. Holland",
+    "David Cawthon"
+   ],
+   "n_authors": 2,
+   "abstract": "Lead poisoning causes adverse health effects in adults and children in a dose-dependent fashion. Workplace lead exposures below the current permissible exposure limit (PEL) that result in blood lead levels (BLLs) much lower than those permitted by the US Occupational Safety and Health Administration (OSHA) can cause adverse health effects. To adequately protect American workers, new lead standards based on the most recent data need to be established. The current OSHA lead standard was developed and adopted in the late 1970s when the geometric mean blood lead concentration in the US was 12.8 \u03bcg/dL. The removal of lead from gasoline, paints, and solder in food cans, as well as other public health measures, greatly reduced population mean BLLs, to the point that by, 2011 to 2012, the mean BLL in adults in the US had fallen to 1.09 \u03bcg/dL.1 However, many lead industry workers continue to be exposed to lead at levels which can cause BLLs to greatly exceed these population averages. Many provisions of the current OSHA standard apply only to those workers exposed at the OSHA action level of airborne lead dust \u226530 \u03bcg/m3 as an 8-hour time-weighted average, and mandatory medical removal provisions may not apply until a worker's BLL equals 50 or 60 \u03bcg/dL (depending on the setting, eg, in the construction industry or in general industry). For workplace standards to adequately protect workers, they must be updated to reflect current scientific knowledge on the adverse effects of overexposu"
+  },
+  {
+   "id": "https://openalex.org/W4403871691",
+   "doi": "10.1061/jcemd4.coeng-14985",
+   "title": "Enhancing Worker Safety: Real-Time Automated Detection of Personal Protective Equipment to Prevent Falls from Heights at Construction Sites Using Improved YOLOv8 and Edge Devices",
+   "publication_year": 2024,
+   "source": "Journal of Construction Engineering and Management",
+   "type": "article",
+   "cited_by_count": 39,
+   "relevance_score": null,
+   "authors": [
+    "Doil Kim",
+    "Shuping Xiong"
+   ],
+   "n_authors": 2,
+   "abstract": "Personal protective equipment (PPE), including helmets, harnesses, and lanyards, is pivotal in preventing falls from heights at construction sites. However, ensuring consistent and correct usage of PPE presents a significant challenge. To address this issue, this study introduces an enhanced You Only Look Once, version 8 model (YOLOv8), a computer-vision-based AI model tailored for real-time multiclass PPE monitoring on portable edge devices. A pioneering large-scale multiclass PPE data set is curated to facilitate model training. Balancing detection accuracy with a lightweight design, we augment YOLOv8 through the integration of the coordinate attention module, ghost convolution module, transfer learning, and merge-nonmaximum suppression. The proposed model surpasses the original YOLOv8 and state-of-the-art models, showcasing improved accuracy and reduced computational cost. Deployed on the edge device Jetson Xavier NX, the model achieves precise PPE detection (mAP50: 92.52%) in real-time, operating at 9.11 frames per second. These findings establish a robust foundation for the efficient and real-time automated safety monitoring of construction sites, promising substantial enhancements to worker safety and data privacy within the construction industry."
+  },
+  {
+   "id": "https://openalex.org/W3004162060",
+   "doi": "10.2196/16119",
+   "title": "Participatory Surveillance Based on Crowdsourcing During the Rio 2016 Olympic Games Using the Guardians of Health Platform: Descriptive Study",
+   "publication_year": 2020,
+   "source": "JMIR Public Health and Surveillance",
+   "type": "article",
+   "cited_by_count": 39,
+   "relevance_score": null,
+   "authors": [
+    "Onicio Batista Leal-Neto",
+    "Oswaldo Gon\u00e7alves Cruz",
+    "Jones de Oliveira Albuquerque",
+    "Mariana Nacarato de Sousa",
+    "Mark S. Smolinski",
+    "Eduarda \u00c2ngela Pessoa Cesse"
+   ],
+   "n_authors": 8,
+   "abstract": "BACKGROUND: With the evolution of digital media, areas such as public health are adding new platforms to complement traditional systems of epidemiological surveillance. Participatory surveillance and digital epidemiology have become innovative tools for the construction of epidemiological landscapes with citizens' participation, improving traditional sources of information. Strategies such as these promote the timely detection of warning signs for outbreaks and epidemics in the region. OBJECTIVE: This study aims to describe the participatory surveillance platform Guardians of Health, which was used in a project conducted during the 2016 Olympic and Paralympic Games in Rio de Janeiro, Brazil, and officially used by the Brazilian Ministry of Health for the monitoring of outbreaks and epidemics. METHODS: This is a descriptive study carried out using secondary data from Guardians of Health available in a public digital repository. Based on syndromic signals, the information subsidy for decision making by policy makers and health managers becomes more dynamic and assertive. This type of information source can be used as an early route to understand the epidemiological scenario. RESULTS: The main result of this research was demonstrating the use of the participatory surveillance platform as an additional source of information for the epidemiological surveillance performed in Brazil during a mass gathering. The platform Guardians of Health had 7848 users who generated 12,746 reports"
+  },
+  {
+   "id": "https://openalex.org/W7214754361",
+   "doi": "10.56201/wjimt.v9.no1.2025.pg186.213",
+   "title": "Advancing Occupational Safety with AI-Powered Monitoring Systems: A Conceptual Framework for Hazard Detection and Exposure Control",
+   "publication_year": 2026,
+   "source": "WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY",
+   "type": "article",
+   "cited_by_count": 38,
+   "relevance_score": null,
+   "authors": [
+    "Cynthia Obianuju Ozobu"
+   ],
+   "n_authors": 1,
+   "abstract": "Occupational safety remains a critical concern across industries, necessitating innovative solutions to mitigate hazards and control worker exposure to harmful environments. This paper presents a conceptual framework for leveraging Artificial Intelligence (AI)-powered monitoring systems to enhance occupational safety. The framework integrates advanced data analytics, machine learning algorithms, and Internet of Things (IoT) devices to enable realtime hazard detection and exposure control. By utilizing AI's predictive capabilities, the system identifies potential risks and triggers preemptive measures to prevent accidents and long-term health impacts. Key components of the framework include wearable IoT sensors for monitoring workers' vital signs and environmental parameters, AI-driven analysis to process large datasets, and adaptive feedback mechanisms to inform decision-making. The system also incorporates computer vision for identifying physical hazards and proximity detection for alerting workers in high-risk zones. These technologies collectively facilitate a proactive approach to workplace safety, shifting the paradigm from reactive to preventive measures. The framework emphasizes scalability and flexibility, making it adaptable to various industrial sectors, including construction, manufacturing, and healthcare. The integration of AI-powered systems aligns with Occupational Safety and Health Administration (OSHA) regulations and supports compliance with safety standards"
+  },
+  {
+   "id": "https://openalex.org/W4403648212",
+   "doi": "10.70593/978-81-981367-4-9_4",
+   "title": "Acceptance and integration of Artificial intelligence and machine learning in the construction industry: Factors, current trends, and challenges",
+   "publication_year": 2024,
+   "source": null,
+   "type": "book-chapter",
+   "cited_by_count": 38,
+   "relevance_score": null,
+   "authors": [
+    "Nitin Liladhar Rane",
+    "Pravin Desai",
+    "Jayesh Rane"
+   ],
+   "n_authors": 3,
+   "abstract": "The construction industry, historically hesitant in adopting new technologies, is undergoing significant transformation with the integration of artificial intelligence (AI). This research delves into the various elements influencing AI acceptance and implementation within this sector. The study applies well-established models and theories of technology acceptance, including the Technology Acceptance Model (TAM), Unified Theory of Acceptance and Use of Technology (UTAUT), and Innovation Diffusion Theory (IDT), specifically adapted to the unique context of the construction industry. Critical factors driving AI acceptance encompass perceived usefulness, ease of use, organizational readiness, top management support, and external pressures. Furthermore, the research highlights essential elements such as workforce skills, data availability, and cybersecurity concerns that considerably affect AI adoption. Current trends reveal an increasing utilization of AI in project management, predictive maintenance, and design optimization, with a notable surge in the adoption of AI-powered Building Information Modeling (BIM) and robotics. Despite these advancements, the construction industry encounters significant challenges, including high implementation costs, resistance to change, and a lack of standardization. This research offers a comprehensive review of the current state of AI in the construction industry, providing insights into evolving trends and ongoing challenges. Keywords: Constru"
+  },
+  {
+   "id": "https://openalex.org/W4207056435",
+   "doi": "10.1093/ije/dyab261",
+   "title": "Cohort Profile: South African Population Research Infrastructure Network (SAPRIN)",
+   "publication_year": 2021,
+   "source": "International Journal of Epidemiology",
+   "type": "article",
+   "cited_by_count": 37,
+   "relevance_score": null,
+   "authors": [
+    "Mark Collinson",
+    "Taurayi Mudzana",
+    "Tinofa Mutevedzi",
+    "Kathleen Kahn",
+    "Eric Maimela",
+    "Francesc Xavier G\u00f3mez-Oliv\u00e9"
+   ],
+   "n_authors": 13,
+   "abstract": "The South African Population Research Infrastructure Network (SAPRIN) is a harmonized national network of health and demographic surveillance system (HDSS) nodes, constituted in 2016 with the aim of establishing a national resource and research platform to strengthen the evidence for informing health and social policy and programming at a time of stringent fiscal constraint. The three HDSS founding nodes are hosted by the Medical Research Council/Wits Rural Public Health and Health Transitions Research Unit (Agincourt) in Mpumalanga province, the University of Limpopo (DIMAMO) in Limpopo province and the Africa Health Research Institute (AHRI) in KwaZulu-Natal. In 2020, the SAPRIN population cohort covered 355 000 individuals for whom data on births and deaths, residency status and migration, household asset ownership status, and measures of well-being including employment, education and social protection are updated three times a year. Attrition is low due to keeping track of population dynamics, and refusal rates are usually below 1%. The SAPRIN longitudinal population dataset is publicly available at [http://saprindata.samrc.ac.za]. South Africa is striving to emerge from a legacy of gross social injustice and consequent health and socioeconomic inequality, to becoming a country where all residents have opportunities to build productive lives. However, recent declines in economic performance and unemployment, exacerbated by weaknesses in national and provincial level gover"
+  },
+  {
+   "id": "https://openalex.org/W4280541255",
+   "doi": "10.1007/s00371-022-02471-9",
+   "title": "Research on the algorithm of helmet-wearing detection based on the optimized yolov4",
+   "publication_year": 2022,
+   "source": "The Visual Computer",
+   "type": "article",
+   "cited_by_count": 36,
+   "relevance_score": null,
+   "authors": [
+    "Lingpeng Zeng",
+    "Xuliang Duan",
+    "Yuhao Pan",
+    "Minjiang Deng"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4401392015",
+   "doi": "10.1016/j.autcon.2024.105674",
+   "title": "Understanding construction workers\u2019 cognitive processes under risky scenarios through electroencephalography",
+   "publication_year": 2024,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 35,
+   "relevance_score": null,
+   "authors": [
+    "Tanghan Jiang",
+    "Yihai Fang",
+    "Nan Zheng",
+    "Jiayu Chen"
+   ],
+   "n_authors": 4,
+   "abstract": "The application of the Electroencephalogram (EEG) technology shows promises in uncovering workers\u2019 cognitive processes affecting safety performance in construction. Despite the increasing interest in research, it is yet challenging to ensure coherence and mitigate biases when interpreting safety cognition from EEG data. This paper presents a comprehensive review of the applications of EEG in construction safety research, categorising the aims, methodologies, experiment design, data processing methods and evaluation approaches. Furthermore, the review identifies several critical avenues for future research, including deeper exploration of cognitive dynamics in safety-critical environments, technology integration for real-time monitoring, longitudinal analysis of cognitive safety factors, cultural and gender influences on safety practices, and addressing special psychological conditions. This paper emphasises the importance of considering ethical implications, user acceptability, and practical deployment challenges. Overall, the paper makes effort towards guiding effective EEG integration in construction safety research for safer practices."
+  },
+  {
+   "id": "https://openalex.org/W2789302889",
+   "doi": "10.3846/jcem.2018.301",
+   "title": "A real-time control approach based on intelligent video surveillance for violations by construction workers",
+   "publication_year": 2018,
+   "source": "Journal of Civil Engineering and Management",
+   "type": "article",
+   "cited_by_count": 35,
+   "relevance_score": null,
+   "authors": [
+    "Shengyu Guo",
+    "Chaohua Xiong",
+    "Peisong Gong"
+   ],
+   "n_authors": 3,
+   "abstract": "The unsafe behavior of workers is the main object of construction safety management, in which violations require increased attention due to their pernicious consequences. However, existing studies have merely discussed violations separately from unsafe behaviors. To respond quickly to workers\u2019 violations on site, this study proposes a real-time control approach based on intelligent video surveillance. First, scenes reflecting unsafe behaviors are automatically acquired through camera-based behavior analysis technology. Meanwhile, the time corresponding to the construction phase is recorded. Second, the temporal association rule model of worker\u2019s unsafe behavior is constructed, and the rule \u201cconstruction phase\u2192unsafe behavior\u201d is determined by the Apriori algorithm to identify target behaviors necessary for critical control in different construction phases. Finally, statistical process control is used to find the trends of violations with frequency and mass characteristics through the dynamic monitoring of target behavior. In addition, real-time alerts of these unsafe acts are produced simultaneously. A pilot study is conducted on the cross-river tunnel project in Wuhan city, Hubei, China, and the violations related to construction machineries is proven to be controllable. Thus, the proposed approach promotes behavioral safety management on construction since it effectively controls workers\u2019 violations by real-time monitoring and analysis."
+  },
+  {
+   "id": "https://openalex.org/W4377694166",
+   "doi": "10.1093/cjres/rsad011",
+   "title": "The power of platforms\u2014precarity and place",
+   "publication_year": 2023,
+   "source": "Cambridge Journal of Regions Economy and Society",
+   "type": "article",
+   "cited_by_count": 34,
+   "relevance_score": null,
+   "authors": [
+    "Anna Ray Davies",
+    "Betsy Donald",
+    "Mia Gray"
+   ],
+   "n_authors": 3,
+   "abstract": "The expanding scale and scope of digital platforms in our lives seem undeniable as they restructure commerce, communication, work, finance, popular culture, and private and public services. However, despite their ubiquity in our lives, platforms\u2019 relationship to increasing inequality and precarity and its implications for places, democracies and civil society remains underexplored. Kenney and Zysman (2020) consider the concentrated power of digital platforms arguing that regional scholars have failed to examine the implications of key internet platforms \u2018connecting massive numbers of users/customers with service providers, advertisers or other users\u2019. Some of these firms create profit by selling a commodity, but many others sell labour, capital and attention within the nation-state or globally (Christophers 2020). Kenney and Zysman (2020) call on researchers to study how platforms wield power, paying particular attention to how the practices of platforms impact on the spatial organization of the economy. The urgent need to study the concentration of economic, social and cultural power became even more acute under Covid-19 as a range of platform firms (for example, Amazon, Facebook, Google, Apple and Uber) were able to consolidate market power and market valuation under lockdown as mobility and spending patterns changed both rapidly and radically. Around the world, the prevalence of online purchasing and delivery services increased, resulting in fundamental changes to flows of"
+  },
+  {
+   "id": "https://openalex.org/W2010118921",
+   "doi": "10.1186/1471-2458-13-283",
+   "title": "An outbreak of norovirus gastroenteritis associated with a secondary water supply system in a factory in south China",
+   "publication_year": 2013,
+   "source": "BMC Public Health",
+   "type": "article",
+   "cited_by_count": 34,
+   "relevance_score": null,
+   "authors": [
+    "Yuan Li",
+    "Hongxiong Guo",
+    "Zhenghui Xu",
+    "Xiaotao Zhou",
+    "Hailong Zhang",
+    "Lijie Zhang"
+   ],
+   "n_authors": 8,
+   "abstract": "BACKGROUND: Between September 17 and October 3, 2009, hundreds of workers employed in a manufacturing factory in Shenzhen, a city in south China developed a sudden onset of acute gastroenteritis. A retrospective cohort study is designed to identify the risk factors and control this outbreak. METHODS: Information on demographic characteristics, working place, the history of contact with a person having diarrhea and/or vomiting, drink water preference and frequency, eating in the company cafeteria or outside the company, hand-washing habits and eating habits is included. Furthermore, in order to find the contamination source, we investigated the environment around the underground reservoir and collected water samples from the junction between municipal supply water system and underground reservoir to test potential bacteria and virus, examine the seepage tracks on the wall of the underground reservoir from the side of septic tank, and check the integrity and attitude of this lid. Relative risk was presented and Chi-square test was performed. All the analyses were performed with OpenEpi software version 2.3.1 online. RESULTS: The cohort study demonstrated that the workers who had direct drink water were 3.0 fold more likely to suffer from acute gastroenteritis than those who consumed commercial bottled water. The direct drinking water, water of the tank of buildings, and the underground reservoir were positive only for norovirus. Norovirus was also detected from stool and rectal"
+  },
+  {
+   "id": "https://openalex.org/W1863850426",
+   "doi": "10.1002/ajim.22056",
+   "title": "Fatal occupational injuries among non\u2010governmental employees in Malaysia",
+   "publication_year": 2012,
+   "source": "American Journal of Industrial Medicine",
+   "type": "article",
+   "cited_by_count": 33,
+   "relevance_score": null,
+   "authors": [
+    "Adinegara Lutfi Abas",
+    "Datuk Abd. Razzak B. Mohd Said",
+    "Mohammed Azman Bin Aziz Mohammed",
+    "Nalini Sathiakumar"
+   ],
+   "n_authors": 4,
+   "abstract": "BACKGROUND: In Malaysia, surveillance of fatal occupational injuries is fragmented. We therefore analyzed an alternative data source from Malaysia's Social Security organization, the Pertubuhan Keselamatan Sosial (PERKESO). METHODS: We conducted a secondary data analysis of the PERKESO database comprised of 7 million employees from 2002 to 2006. RESULTS: Overall, the average annual incidence was 9.2 fatal occupational injuries per 100,000 workers. During the 5-year period, there was a decrease in the absolute number of fatal injuries by 16% and the incidence by 34%. The transportation sector reported the highest incidence of fatal injuries (35.1/100,000), followed by agriculture (30.5/100,000) and construction (19.3/100,000) sectors. Persons of Indian ethnicity were more likely to sustain fatal injuries compared to other ethnic groups. CONCLUSIONS: Government and industry should develop rigorous strategies to detect hazards in the workplace, especially in sectors that continuously record high injury rates. Targeted interventions emphasizing worker empowerment coupled with systematic monitoring and evaluation is critical to ensure success in prevention and control measures."
+  },
+  {
+   "id": "https://openalex.org/W2009072802",
+   "doi": "10.1155/2011/684819",
+   "title": "Contextual Information and Covariance Descriptors for People Surveillance: An Application for Safety of Construction Workers",
+   "publication_year": 2011,
+   "source": "EURASIP Journal on Image and Video Processing",
+   "type": "article",
+   "cited_by_count": 33,
+   "relevance_score": null,
+   "authors": [
+    "Giovanni Gualdi",
+    "Andrea Prati",
+    "Rita Cucchiara"
+   ],
+   "n_authors": 3,
+   "abstract": "Abstract In computer science, contextual information can be used both to reduce computations and to increase accuracy. This paper discusses how it can be exploited for people surveillance in very cluttered environments in terms of perspective (i.e., weak scene calibration) and appearance of the objects of interest (i.e., relevance feedback on the training of a classifier). These techniques are applied to a pedestrian detector that uses a LogitBoost classifier, appropriately modified to work with covariance descriptors which lie on Riemannian manifolds. On each detected pedestrian, a similar classifier is employed to obtain a precise localization of the head. Two novelties on the algorithms are proposed in this case: polar image transformations to better exploit the circular feature of the head appearance and multispectral image derivatives that catch not only luminance but also chrominance variations. The complete approach has been tested on the surveillance of a construction site to detect workers that do not wear the hard hat: in such scenarios, the complexity and dynamics are very high, making pedestrian detection a real challenge."
+  },
+  {
+   "id": "https://openalex.org/W1965412479",
+   "doi": "10.1086/ahr.115.3.732",
+   "title": "Instead of Waiting for the Thirteenth Amendment: The War Power, Slave Marriage, and Inviolate Human Rights",
+   "publication_year": 2010,
+   "source": "The American Historical Review",
+   "type": "article",
+   "cited_by_count": 33,
+   "relevance_score": null,
+   "authors": [
+    "Amy Dru Stanley"
+   ],
+   "n_authors": 1,
+   "abstract": "In the fateful year before peace came at Appomattox\u2014as slaves pursued their exodus from bondage and the Civil War dragged on\u2014a counterpoint arose between two antislavery decrees under debate in the United States Congress. That counterpoint illuminates conceptions of universal human rights forged at an epic moment in the downfall of New World slavery. One decree became the Thirteenth Amendment; all but forgotten is the other, a congressional act to \u201cencourage Enlistments\u201d in the Union Army. The amendment provided for abolishing slavery everywhere in the United States and its territories. The enlistment measure freed soldiers' wives and children owned by masters in the loyal border states exempt from the 1863 Emancipation Proclamation. As destroying slavery became inseparable from vanquishing the South, bondsmen refused to go to war unless, in exchange, they won their families' freedom as well as their own. \u201cIt is a burning shame to this country,\u201d affirmed congressional abolitionists, \u201cto hold the wives and the children in slavery of men who are periling their lives before the rebel legions.\u201d A month before the war's end, on the very day of Abraham Lincoln's second inaugural, March 4, 1865, the measure took effect. As the Thirteenth Amendment awaited ratification and as the president spoke of malice toward none, upwards of 50,000 slave wives and children went free.1 In a world in flux, where constitutional change flowed from the tides of war, the abolition of slavery fused with"
+  },
+  {
+   "id": "https://openalex.org/W4410973432",
+   "doi": "10.3389/fpubh.2025.1603857",
+   "title": "Scorpionism: a neglected tropical disease with global public health implications",
+   "publication_year": 2025,
+   "source": "Frontiers in Public Health",
+   "type": "article",
+   "cited_by_count": 32,
+   "relevance_score": null,
+   "authors": [
+    "Jorge V\u00e1sconez-Gonz\u00e1lez",
+    "Harold Alexander-Le\u00f3n",
+    "Mar\u00eda de Lourdes Noboa-Lasso",
+    "Juan S. Izquierdo\u2010Condoy",
+    "Emilia Puente-Villamar\u00edn",
+    "Esteban Ortiz\u2010Prado"
+   ],
+   "n_authors": 6,
+   "abstract": "Scorpions are venomous arthropods belonging to the class Arachnida and the order Scorpiones (1). To date, approximately 2,772 species of scorpions have been described globally, of which around 104 species (3.8%) are considered of medical significance due to their venom toxicity and potential for severe envenomation (2). The majority of medically relevant species belong to the family Buthidae, which includes genera such as Androctonus, Buthus, Buthotus, Leiurus, Mesobuthus, and Parabuthus, found in regions such as Asia, India, the Middle East, and North Africa. Additionally, species from the Tityus genus are prevalent in South America and the Caribbean, while Centruroides species are commonly encountered in Mexico, Central America, and the southwestern United States (3).Scorpion envenomation, or scorpionism, is recognized as a pressing yet often neglected public health concern, particularly in tropical and subtropical regions. It disproportionately affects rural and socioeconomically disadvantaged communities, where access to timely and adequate medical care is limited (4,5). The presence of scorpions in human dwellings and workplaces leads to frequent encounters, thereby elevating the risk of envenomation and associated morbidity and mortality (6)(7)(8).Global estimates suggest that over 1.2 million scorpion stings occur annually, resulting in more than 3,000 deaths, with a disproportionately high burden observed in children due to their lower body mass and increased vulnerab"
+  },
+  {
+   "id": "https://openalex.org/W4220982020",
+   "doi": "10.1061/(asce)cp.1943-5487.0001024",
+   "title": "Two-Dimensional and Three-Dimensional CNN-Based Simultaneous Detection and Activity Classification of Construction Workers",
+   "publication_year": 2022,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 32,
+   "relevance_score": null,
+   "authors": [
+    "Ghazaleh Torabi",
+    "Amin Hammad",
+    "Nizar Bouguila"
+   ],
+   "n_authors": 3,
+   "abstract": "The type and duration of construction workers\u2019 activities are useful information for project management purposes. Therefore, several studies have used surveillance cameras and computer vision to automate the time-consuming process of manually gathering this information. However, the three-stage method they have adopted consisting of separate detection, tracking, and activity classification modules is not fully optimized. Additionally, the activity classification module is trained per-clip/segment on trimmed video clips and fails when applied to long untrimmed construction videos. This paper aims to (1) investigate the benefits of a fully optimized method such as you only watch once (YOWO) and a per-frame and per-worker annotated untrimmed data set over the previous approach for activity recognition of construction workers; (2) propose an improved version of YOWO, called YOWO53, to improve detection performance; (3) propose a semiautomatic data set annotation; (4) conduct a sensitivity analysis to compare the performance of YOWO, YOWO53, and the three-stage method; and (5) conduct a case study to compute the percentage of different workers\u2019 activities. YOWO53 improves the detection recall of YOWO by up to 3%, and the classification accuracy of the three-stage method by 16.3%. Although YOWO53 has a lower inference speed, it is still sufficiently fast for productivity analysis."
+  },
+  {
+   "id": "https://openalex.org/W2804180395",
+   "doi": "10.3390/s18051590",
+   "title": "Developing an Acoustic Sensing Yarn for Health Surveillance in a Military Setting",
+   "publication_year": 2018,
+   "source": "Sensors",
+   "type": "article",
+   "cited_by_count": 32,
+   "relevance_score": null,
+   "authors": [
+    "Theodore Hughes\u2010Riley",
+    "Tilak Dias"
+   ],
+   "n_authors": 2,
+   "abstract": "Overexposure to high levels of noise can cause permanent hearing disorders, which have a significant adverse effect on the quality of life of those affected. Injury due to noise can affect people in a variety of careers including construction workers, factory workers, and members of the armed forces. By monitoring the noise exposure of workers, overexposure can be avoided and suitable protective equipment can be provided. This work focused on the creation of a noise dosimeter suitable for use by members of the armed forces, where a discrete dosimeter was integrated into a textile helmet cover. In this way the sensing elements could be incorporated very close to the ears, providing a highly representative indication of the sound level entering the body, and also creating a device that would not interfere with military activities. This was achieved by utilising commercial microelectromechanical system microphones integrated within the fibres of yarn to create an acoustic sensing yarn. The acoustic sensing yarns were fully characterised over a range of relevant sound levels and frequencies at each stage in the yarn production process. The yarns were ultimately integrated into a knitted helmet cover to create a functional acoustic sensing helmet cover prototype."
+  },
+  {
+   "id": "https://openalex.org/W1650608286",
+   "doi": "10.1109/ipin.2014.7275543",
+   "title": "Spatio-temporal (S-T) similarity model for constructing WIFI-based RSSI fingerprinting map for indoor localization",
+   "publication_year": 2014,
+   "source": "International Conference on Indoor Positioning and Indoor Navigation",
+   "type": "conference-paper",
+   "cited_by_count": 32,
+   "relevance_score": null,
+   "authors": [
+    "Julie Yixuan Zhu",
+    "Anny Xijia Zheng",
+    "Jialing Xu",
+    "Victor O. K. Li"
+   ],
+   "n_authors": 4,
+   "abstract": "WIFI-based received signal strength indicator (RSSI) fingerprinting is widely used for indoor localization due to desirable features such as universal availability, privacy protection, and low deployment cost. The key of RSSI fingerprinting is to construct a trustworthy RSSI map, which contains the measurements of received access point (AP) signal strengths at different calibration points. Location can be estimated by matching live RSSIs with the RSSI map. However, a fine-grained map requires much labor and time. This calls for developing efficient interpolation and approximation methods. Besides, due to environmental changes, the RSSI map requires periodical updates to guarantee localization accuracy. In this paper, we propose a spatio-temporal (S-T) similarity model which uses the S-T correlation to construct a fine-grained and up-to-date RSSI map. Five S-T correlation metrics are proposed, i.e., the spatial distance, signal similarity, similarity likelihood, RSSI vector distance, and the S-T reliability. This model is evaluated based on experiments in our indoor WIFI positioning system test bed. Results show improvements in both the interpolation accuracy (up to 7%) and localization accuracy (up to 32%), compared to four commonly used RSSI map construction methods, namely, linear interpolation, cubic interpolation, nearest neighbor interpolation, and compressive sensing."
+  },
+  {
+   "id": "https://openalex.org/W3193060384",
+   "doi": "10.1016/j.autcon.2021.103857",
+   "title": "Convolutional neural network modeling strategy for fall-related motion recognition using acceleration features of a scaffolding structure",
+   "publication_year": 2021,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 31,
+   "relevance_score": null,
+   "authors": [
+    "KangHo Lee",
+    "SangUk Han"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2401403608",
+   "doi": "10.1111/j.1469-8137.2012.04374.x",
+   "title": "Synthetic biology",
+   "publication_year": 2012,
+   "source": "New Phytologist",
+   "type": "article",
+   "cited_by_count": 31,
+   "relevance_score": null,
+   "authors": [
+    "Anne Osbourn",
+    "Paul E. O\u2019Maille",
+    "Susan J. Rosser",
+    "Keith Lindsey"
+   ],
+   "n_authors": 4,
+   "abstract": "Synthetic biology aims to use modular, well-characterised biological parts to predictably construct novel genetic devices and complex cell-based systems following engineering principles. Synthetic biology is the design and engineering of biologically based parts, novel devices and systems as well as the redesign of existing, natural biological systems. It has the potential to deliver important new applications and improve existing industrial processes \u2013 resulting in economic growth and job creation. Synthetic biology is the engineering of biology: the synthesis of complex, biologically based (or inspired) systems, which display functions that do not exist in nature. This engineering perspective may be applied at all levels of the hierarchy of biological structures \u2013 from individual molecules to whole cells, tissues and organisms. In essence, synthetic biology will enable the design of \u2018biological systems\u2019 in a rational and systematic way. (Synthetic Biology: Applying Engineering to Biology: report of a NEST High Level Expert Group. Molecular Systems Biology (2007) 3: 158.) There is no agreed definition of synthetic biology, but it is best understood as the rational design of biological systems and living organisms using engineering principles. The concept of \u2018synthetic biology space\u2019 (Channon et al., 2008) provides a useful tool that enables the sometimes seemingly disparate components, hierarchies and approaches encompassed by synthetic biology to be placed into a common fra"
+  },
+  {
+   "id": "https://openalex.org/W7119516221",
+   "doi": "10.3389/feduc.2025.1681836",
+   "title": "Artificial intelligence in education: applications and limitations for teachers in low- and middle-income countries",
+   "publication_year": 2026,
+   "source": "Frontiers in Education",
+   "type": "article",
+   "cited_by_count": 29,
+   "relevance_score": null,
+   "authors": [
+    "Miguel Landa\u2013Blanco"
+   ],
+   "n_authors": 1,
+   "abstract": "The advent of generative artificial intelligence (AI)-advanced machine learning systems capable of autonomously producing coherent, contextually relevant text, imagery, and multimedia content (Hashmi & Bal, 2024) -has rapidly transformed numerous sectors, including education (Memarian & Doleck, 2023;Mohd Amin et al., 2025). However, the available literature on AI largely neglects low-and middle-income countries (LMICs), with scholarly attention predominantly directed toward advanced economies. Thus, data from AI adoption in LMICs is limited (Khan et al., 2024). In LMICs, where educational systems are frequently constrained by resource limitations, infrastructure deficits, and pedagogical challenges (Betth\u00e4user et al., 2023;Delprato & Antequera, 2021;Little, 2006;Naparan & Alinsug, 2021), generative AI offers an unprecedented opportunity to reimagine teaching and learning (D\u00edaz & Nussbaum, 2024). Yet, this technological promise is accompanied by complex socio-technical and ethical dilemmas that require careful navigation if the potential benefits are to be realized equitably and sustainably (Adel et al., 2024). This paper provides a brief overview of the pedagogical applications of AI for teachers in LMICs, with a particular focus on how these tools can both support and potentially constrain educational outcomes. Building on these considerations, this paper argues that while generative AI offers meaningful pedagogical benefits for teachers in resource-constrained settings, inc"
+  },
+  {
+   "id": "https://openalex.org/W4410300293",
+   "doi": "10.3390/su17104370",
+   "title": "Integrating Business Ethics into Occupational Health and Safety: An Evaluation Framework for Sustainable Risk Management",
+   "publication_year": 2025,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 29,
+   "relevance_score": null,
+   "authors": [
+    "Stavroula Mixafenti",
+    "Aristi G. Karagkouni",
+    "Dimitrios Dimitriou"
+   ],
+   "n_authors": 3,
+   "abstract": "Occupational health and safety (OHS) is a critical component of sustainable work practices, guaranteeing employee well-being in parallel with minimizing business operation threats. The integration of ethics in OHS practices, however, poses a major obstacle, given that most businesses prefer complying with regulations rather than adopting proactive, ethically directed risk avoidance. This study employs a systemic process in assessing business ethics integration in practices of OHS, emphasizing leadership, employee engagement, and precautionary safety. This quantitative survey research sought to gauge the utilization of OHS practices among firms in the construction industry. This study examined critical factors such as employee training, absenteeism patterns, wellness programs, and usage of safety practices. Our study outcomes identify a reduction in accidents in workplaces, lower absenteeism, and improved monitoring of employee well-being when a blend of systemic safety programs and ethically directed strategies is utilized. This study emphasizes the imperative of a proactive, ethically comprehensive strategy in practices of OHS, which calls for improved leadership, constant safety learning, and enhanced wellness programs. The findings contribute to the development of sustainable risk management frameworks, offering practical insights for businesses, policymakers, and industry stakeholders to improve workplace safety culture."
+  },
+  {
+   "id": "https://openalex.org/W4283799797",
+   "doi": "10.3389/fdgth.2022.800367",
+   "title": "Wearable Biosensors in the Workplace: Perceptions and Perspectives",
+   "publication_year": 2022,
+   "source": "Frontiers in Digital Health",
+   "type": "article",
+   "cited_by_count": 29,
+   "relevance_score": null,
+   "authors": [
+    "Lauren C. Tindale",
+    "Derek S. Chiu",
+    "Nicole Minielly",
+    "Viorica M. Hrincu",
+    "Aline Talhouk",
+    "Judy Illes"
+   ],
+   "n_authors": 6,
+   "abstract": "Objectives: Wearable body and brain sensors are permeating the consumer market and are increasingly being considered for workplace applications with the goal of promoting safety, productivity, health, and wellness. However, the monitoring of physiologic signals in real-time prompts concerns about benefit and risk, ownership of such digital data, data transfer privacy, and the discovery and disclosure of signals of possible health significance. Here we explore the perceptions and perspectives of employers and employees about key ethical considerations regarding the potential use of sensors in the workplace. Methods: We distributed a survey developed and refined based on key research questions and past literature to a wide range and size of industries in British Columbia, Canada. Both employers (potential Implementers) and employees (potential Users) were invited to participate. Results: We received 344 survey responses. Most responses were from construction, healthcare, education, government, and utilities sectors. Across genders, industries, and workplace sizes, we found a convergence of opinions on perceived benefit and concern between potential Implementers and potential Users regarding the motivation to use biosensors in the workplace. Potential Implementers and Users also agreed on issues pertaining to safety, privacy, disclosure of findings of possible medical significance, risks, data ownership, data sharing, and transfer of data between workplaces. The greatest variabi"
+  },
+  {
+   "id": "https://openalex.org/W3001943034",
+   "doi": "10.1109/iccsnt47585.2019.8962495",
+   "title": "Helmet Detection under the Power Construction Scene Based on Image Analysis",
+   "publication_year": 2019,
+   "source": "International Conference on Computer Science and Network Technology (ICCSNT)",
+   "type": "conference-paper",
+   "cited_by_count": 29,
+   "relevance_score": null,
+   "authors": [
+    "Bo Yang",
+    "Qin Huan",
+    "Xie Huan",
+    "Rong Zhu",
+    "Li Hongbin",
+    "Mu Kebin"
+   ],
+   "n_authors": 8,
+   "abstract": "In this paper, an intelligent safety surveillance system is designed for the electric power construction system to detect whether workers wear helmets correctly. The YOLOv3 objective detection algorithm is used for fine-tuning the datasets for the electric power construction scene which is made by ourselves. The main targets for detection are the helmet and the head. The helmet and the head are tested to detect whether the worker wears a helmet. After our experiment, the accuracy of the helmet detection is over 90%. This method replaces the manual method with an automated way which saves a lot of human and material resources. This method can be applied to actual production."
+  },
+  {
+   "id": "https://openalex.org/W2591353493",
+   "doi": "10.1215/23289252-3711493",
+   "title": "Strange Alchemies",
+   "publication_year": 2017,
+   "source": "TSQ Transgender Studies Quarterly",
+   "type": "article",
+   "cited_by_count": 29,
+   "relevance_score": null,
+   "authors": [
+    "Vek Lewis",
+    "Dan Irving"
+   ],
+   "n_authors": 2,
+   "abstract": "The Rebis, the early modern European alchemical symbol pictured on the cover of this issue, is a winged hermaphroditic figure\u2014half woman, holding aloft a crown, half bearded man, brandishing a scepter\u2014that stands on a dragon whose twin heads encircle the dual figure's legs. The Rebis represented the pinnacle of alchemical transformation: it conjoined the lower realms with the higher, the secular with the divine, the physical with the spiritual, mind with matter, and masculine with feminine to depict the perfect resolution of all dichotomies, dualities, and antinomies. The Rebis is also a figure of sovereignty; it bears symbols of authority, holds sway over the elements, and is capable of surveilling all directions simultaneously with its double-headed vision. As an emblem redolent of godlike mastery over the material transformations of bodies, lives, and worlds, the Rebis exemplifies a Eurocentric and implicitly colonizing fantasy about the nature of power. As such, it exemplifies as well the key vectors of analysis, central categories of thought, and principal forms of rhetoric and representation that we seek (in less mystical and magical modes) to explore, critique, and resist in this special issue of TSQ on trans- political economy.Our chief concern is with how contemporary \u201carchitectures\u201d of power differentially and unequally affect trans and sex/gender-diverse people across the globe\u2014and how we all, from our different social and political locations, become implicated in "
+  },
+  {
+   "id": "https://openalex.org/W4388679883",
+   "doi": "10.1016/j.aei.2023.102250",
+   "title": "A digital twin-based motion forecasting framework for preemptive risk monitoring",
+   "publication_year": 2023,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 28,
+   "relevance_score": null,
+   "authors": [
+    "Yujun Jiao",
+    "Xukai Zhai",
+    "Luyajing Peng",
+    "Junkai Liu",
+    "Yang Liang",
+    "Zhishuai Yin"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4387197170",
+   "doi": "10.1109/access.2023.3320716",
+   "title": "Collaborative Worker Safety Prediction Mechanism Using Federated Learning Assisted Edge Intelligence in Outdoor Construction Environment",
+   "publication_year": 2023,
+   "source": "IEEE Access",
+   "type": "article",
+   "cited_by_count": 28,
+   "relevance_score": null,
+   "authors": [
+    "Sa Jim Soe Moe",
+    "Bong Wan Kim",
+    "Anam Nawaz Khan",
+    "Rongxu Xu",
+    "Nguyen Anh Tuan",
+    "Kwangsoo Kim"
+   ],
+   "n_authors": 7,
+   "abstract": "Monitoring construction site safety through physical observations is inherently flawed due to the complex and dynamic nature of construction sites. To overcome these challenges and enhance worker safety management, decentralized model training-assisted edge intelligence emerges as a promising solution. However, despite the potential benefits, our investigation reveals that no research for worker safety prediction has been grounded in the Federated Learning (FL) approach. In this context, we present a novel approach to worker safety prediction, leveraging FL in outdoor construction environments while preserving the privacy and security of sensitive data. Our methodology involves deploying sensor-based IoT devices at construction sites to collect highly granular spatial and temporal weather, building, and worker data. This data is then collaboratively utilized for training Deep Neural Network (DNN) models on the edge nodes in a cross-silos manner. To implement our approach, we establish a test-bed utilizing the EdgeX framework and constrained devices such as Raspberry Pi 4Bs, acting as edge nodes. Following the collaborative training, the resultant global model is deployed on participating nodes for edge inference, ensuring optimal network resource utilization and data privacy. The experimental results demonstrate the efficacy of the proposed approach in improving the utilization of construction safety management systems and reducing the risk of accidents and fatalities in the "
+  },
+  {
+   "id": "https://openalex.org/W4200455384",
+   "doi": "10.1097/cd9.0000000000000040",
+   "title": "Interpretation of Annual Report on Cardiovascular Health and Diseases in China 2019",
+   "publication_year": 2021,
+   "source": "Cardiology Discovery",
+   "type": "article",
+   "cited_by_count": 28,
+   "relevance_score": null,
+   "authors": [
+    "Tianyu Xu"
+   ],
+   "n_authors": 1,
+   "abstract": "The Chinese edition of Annual Report on Cardiovascular Health and Diseases in China 2019 have been published[1], and we present herein an interpretation of the report. Influencing factors on cardiovascular health Tobacco use The smoking prevalence among Chinese residents has shown a downward trend. According to the Chinese Adult Tobacco Survey in 2018, the current smoking prevalence among Chinese residents \u226515 years of age was 26.6%, which was higher in rural areas (28.9%) than in urban areas (25.1%), and the daily consumption by each smoker was 16.0 cigarettes on average. The highest prevalence was found in the 45 to 64 age group (30.2%), while the lowest was among people with college education or above (20.5%). According to the Global Youth Tobacco Survey (GYTS)-China 2014, the overall prevalence of tobacco use among Chinese adolescents was 6.9%. It was higher among boys (11.2%) than girls (2.2%) in junior high school, and higher in rural areas (7.8%) than in cities (4.8%). The proportion of attempt to smoke in students was 18.8%, 28.9% for boys and 7.7% for girls. The top 3 provinces with the highest prevalence of smoking were Tibet (19.0%), Yunnan (16.1%), and Guizhou (14.9%). In general, the rate of second-hand smoke exposure among non-smokers in China has been declining, with 72.4% in 2010 and 68.1% in 2018. And 35.5% were exposed to second-hand smoke almost every day, 44.9% of the respondents reported seeing someone smoking in their own homes, 50.9% of indoor workers w"
+  },
+  {
+   "id": "https://openalex.org/W4402491458",
+   "doi": "10.3390/buildings14092879",
+   "title": "An Evaluation of the Technologies Used for the Real-Time Monitoring of the Risk of Falling from Height in Construction\u2014Systematic Review",
+   "publication_year": 2024,
+   "source": "Buildings",
+   "type": "review",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "Filipa Pereira",
+    "Mar\u00eda de las Nieves Gonz\u00e1lez Garc\u00eda",
+    "Jo\u00e3o Po\u00e7as Martins"
+   ],
+   "n_authors": 3,
+   "abstract": "The construction industry has the highest number of fatal accidents compared to other industries. However, manual safety compliance monitoring is complex and difficult for safety engineers, and more automated solutions need to be found. The main research objective was to review the state of the art of real-time monitoring technologies used to assess the risk of falling from height in the construction sector. A systematic review is proposed in order to summarise the technologies used for real-time monitoring in the construction sector, following the PRISMA methodology. Only studies that assessed the risk of falling in real time were selected. From an initial set of 1289 articles, 40 were classified as strictly relevant to addressing the research questions. Various technologies that use artificial intelligence have been designed to monitor workers in real time and to send alerts to workers at any time in the event of a risk situation, thus preventing accidents. This study showed that new technologies are being introduced to predict the risk of a fall in real time, changing the approach from reactive to proactive and allowing this monitoring to improve workplace surveillance and safety. Further research is needed to develop effective systems that are easy for people to use without compromising productivity."
+  },
+  {
+   "id": "https://openalex.org/W2786869909",
+   "doi": "10.1186/s12913-017-2826-7",
+   "title": "She knows that she will not come back: tracing patients and new thresholds of collective surveillance in PMTCT Option B+",
+   "publication_year": 2018,
+   "source": "BMC Health Services Research",
+   "type": "article",
+   "cited_by_count": 27,
+   "relevance_score": null,
+   "authors": [
+    "on behalf of the Lablite team",
+    "Fabian Cataldo",
+    "Janet Seeley",
+    "Misheck Julian Nkhata",
+    "Zivai Mupambireyi",
+    "Edward Tumwesige"
+   ],
+   "n_authors": 7,
+   "abstract": "BACKGROUND: Malawi, Uganda, and Zimbabwe have recently adopted a universal 'test-and-treat' approach to the prevention of mother-to-child transmission of HIV (Option B+). Amongst a largely asymptomatic population of women tested for HIV and immediately started on antiretroviral treatment (ART), a relatively high number are not retained in care; they are labelled 'defaulters' or 'lost-to-follow-up' patients. METHODS: We draw on data collected as part of a study looking at ART decentralization (Lablite) to reflect on the spaces created through the instrumentalization of community health workers (CHWs) for the purpose of bringing women who default from Option B+ back into care. Data were collected through semi-structured interviews with CHWs who are designated to trace Option B+ patients in Uganda, Malawi and Zimbabwe. FINDINGS: Lost to follow up women give a range of reasons for not coming back to health facilities and often implicitly choose not to be traced by providing a false address at enrolment. New strategies have sought to utilize CHWs' liminal positionality - situated between the experience of living with HIV, having established local social ties, and being a caretaker - in order to track 'defaulters'. CHWs are often deployed without adequate guidance or training to protect confidentiality and respect patients' choice. CONCLUSIONS: CHWs provide essential linkages between health services and patients; they embody the role of 'extension workers', a bridge between a novel"
+  },
+  {
+   "id": "https://openalex.org/W4411729791",
+   "doi": "10.1016/j.autcon.2025.106346",
+   "title": "Electroencephalography (EEG) for psychological hazards and mental health in construction safety automation: Algorithmic Systematic Review (ASR)",
+   "publication_year": 2025,
+   "source": "Automation in Construction",
+   "type": "review",
+   "cited_by_count": 26,
+   "relevance_score": null,
+   "authors": [
+    "Haytham H. Elmousalami",
+    "Felix Kin Peng Hui",
+    "Lu Aye"
+   ],
+   "n_authors": 3,
+   "abstract": "This algorithmic systematic review investigates the applications of electroencephalography (EEG) for recognizing psychological hazards and monitoring mental health in construction safety. As automation and wearable technologies gain traction, EEG systems provide real-time insights into workers' cognitive and emotional states , helping to identify stress, fatigue, and safety risks. Utilizing a structured search algorithm, literature from Scopus and Web of Science was filtered and analysed to create a comprehensive framework for EEG deployment in five key domains: automated psychological and cognitive assessment, hazard recognition and safety decision-making, advanced technology integration, situational awareness enhancement, and sustainability contributions. The review underscores the synergy of EEG with robotics, virtual reality, and wearable devices , enhancing safety management in construction. Challenges such as data privacy and scalability are thoroughly examined. This paper significantly advances the understanding of EEG's role in construction automation, offering future research directions to optimize EEG-based systems for a safer, more sustainable construction industry."
+  },
+  {
+   "id": "https://openalex.org/W4404826561",
+   "doi": "10.54105/ijse.b1321.04021124",
+   "title": "Revolutionizing Structural Engineering: A Review of Digital Twins, BIM, and AI Applications",
+   "publication_year": 2024,
+   "source": "Indian Journal of Structure Engineering",
+   "type": "article",
+   "cited_by_count": 26,
+   "relevance_score": null,
+   "authors": [
+    "Girmay Mengesha Azanaw"
+   ],
+   "n_authors": 1,
+   "abstract": "The structural engineering industry is at a pivotal juncture, driven by the integration of cutting edge digital tools that are transforming traditional design, analysis, and construction practices. This review provides a comprehensive examination of three major technological advancements Digital Twins, Building Information Modeling (BIM), and Artificial Intelligence (AI) that are reshaping the landscape of structural engineering. By synthesizing recent research and case studies, we assess the current applications, benefits, and challenges associated with these technologies, along with their synergistic effects when used in tandem. Digital Twins enable real time data monitoring and predictive analysis, allowing for enhanced lifecycle management and operational efficiency of infrastructure systems. BIM improves design coordination and collaboration, reducing errors and optimizing resource allocation throughout the project lifecycle. AI, meanwhile, introduces powerful data processing capabilities, enabling predictive maintenance, design optimization, and automated decision making processes that enhance both safety and performance. Our findings indicate that while these technologies offer immense potential, there are significant implementation barriers, including data privacy concerns, high initial costs, and the need for skilled labor capable of managing complex digital tools. Future directions emphasize the need for standardized data integration protocols, advancements in digit"
+  },
+  {
+   "id": "https://openalex.org/W4390465247",
+   "doi": "10.1016/j.engappai.2023.107814",
+   "title": "Video surveillance-based multi-task learning with swin transformer for earthwork activity classification",
+   "publication_year": 2023,
+   "source": "Engineering Applications of Artificial Intelligence",
+   "type": "article",
+   "cited_by_count": 26,
+   "relevance_score": null,
+   "authors": [
+    "Yanan Lu",
+    "Ke You",
+    "Cheng Zhou",
+    "Jiaxi Chen",
+    "Zhangang Wu",
+    "Yutian Jiang"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2415376164",
+   "doi": "10.5271/sjweh.3541",
+   "title": "The 18th Collegium Ramazzini statement: The global health dimensions of asbestos and asbestos-related diseases",
+   "publication_year": 2015,
+   "source": "Scandinavian Journal of Work Environment & Health",
+   "type": "article",
+   "cited_by_count": 26,
+   "relevance_score": null,
+   "authors": [
+    "Collegium Ramazzini"
+   ],
+   "n_authors": 1,
+   "abstract": "The Collegium Ramazzini reaffirms its long-standing position that responsible public health action is to ban all extraction and use of asbestos, including chrysotile. This current statement updates the Collegium\u2019s earlier statements with a focus on global health dimensions of asbestos and asbestos-related diseases (ARD). The ARD epidemic will likely not peak for at least a decade in most industrialized countries and for several decades in industrializing countries. Asbestos and ARD will continue to present challenges in the arena of occupational medicine and public health, as well as in clinical research and practice, and have thus emerged as a global health issue. Industrialized countries that have already gone through the transition to an asbestos ban have learned lessons and acquired know-how and capacity that could be of great value if deployed in industrializing countries embarking on the transition. The accumulated wealth of experience and technologies in industrialized countries should thus be shared internationally through global campaigns to eliminate ARD. Background Every mined asbestos fiber is indestructible. As a result, many individuals are repeatedly exposed during the silicate mineral\u2019s lifecycle, from mining and extraction of asbestos-containing rocks to manufacturing of asbestos-containing products (ACP), and further during use, repair, demolition and abatement of ACP. Since 1993, the Collegium has repeatedly called for a global ban on all mining, manufactur"
+  },
+  {
+   "id": "https://openalex.org/W3204839224",
+   "doi": "10.1093/pubmed/fdab322",
+   "title": "Is there an opioid epidemic in India?",
+   "publication_year": 2021,
+   "source": "Journal of Public Health",
+   "type": "article",
+   "cited_by_count": 25,
+   "relevance_score": null,
+   "authors": [
+    "Bhrigupati Singh",
+    "Ravindra Rao"
+   ],
+   "n_authors": 2,
+   "abstract": "The opioid epidemic in the United States has brought addiction-related issues into global consciousness. Does this epidemic extend beyond American shores? High opioid-related mortality rates are reported in many parts of the world1 including Canada,2 the UK,3 Australia4 and Mexico.5 This essay asks: Is India going through an opioid epidemic? Data for middle and low economic countries (LMICs) are generally considered to be less \u2018reliable\u2019 than in high-income countries. For instance, in India, the precise numbers of opioid-related overdose deaths are not available. Deaths particularly among the homeless are often registered as \u2018cause unknown\u2019 or as \u2018death by exposure to cold\u2019 or \u2018heat\u2019, depending on the season. There have been only two national surveys that have estimated the prevalence of opioid use and opioid use disorders in India, the first in 2004 and a second in 2019. The 2019 study6 showed that the prevalence of opioid use in India is three times the global average. About 2.1% of India\u2019s population use opioids. There is considerable variation in the number of opioid users across Indian states. Uttar Pradesh has the highest number of people with opioid use problems, although in terms of percentage of population affected, the worst affected states are Mizoram and Nagaland. (Fig. 1) India still has lower figures than USA for opioid use prevalence. However, this may change in the future, as pharmaceutical companies begin to aggressively target developing world markets, and g"
+  },
+  {
+   "id": "https://openalex.org/W3127406502",
+   "doi": "10.1093/ije/dyaa279",
+   "title": "Cohort Profile: The Shanghai Children\u2019s Health, Education and Lifestyle Evaluation, Preschool (SCHEDULE-P) study",
+   "publication_year": 2021,
+   "source": "International Journal of Epidemiology",
+   "type": "article",
+   "cited_by_count": 25,
+   "relevance_score": null,
+   "authors": [
+    "Xuelai Wang",
+    "Yunting Zhang",
+    "Jin Hua Zhao",
+    "Wenjie Shan",
+    "Zichen Zhang",
+    "Guanghai Wang"
+   ],
+   "n_authors": 14,
+   "abstract": "Early childhood development (ECD) is defined as the period from conception up to school entry. It is a unique opportunity for children\u2019s cognitive, social, emotional and physical development.1 Neuroscientific evidence has proved that both adverse and positive experiences would affect brain development, influencing subsequent health and development.2,3 Thus, beneficial effect of intervention of this period has been shown in adult health, 4 competence, 5 reduction of violence and crime 6 and development of the subsequent generation.7 According to the global estimation, 43% of children in low-income and middle-income countries (LMICs) are at risk of poor development, 8 and they are subject to an average of 26% loss of adult income.9 Given the importance of ECD, it was included in Sustainable Development Goals (SDGs) to ensure that all children have access to quality ECD, care and pre-primary education so that they are ready for primary education.10 Although previous cohort studies have explored how early circumstances can influence later development, the risk factors and current levels of ECD have not been assessed systematically. The Millennium Cohort study, started in 2000, followed the lives of around 19 000 children born in the UK, which has found that circumstances such as child poverty and family issues influence later health and development and thus has informed the development of early years policy and practice and service provision in disadvantaged children.11 However, "
+  },
+  {
+   "id": "https://openalex.org/W3087987438",
+   "doi": "10.1109/aris50834.2020.9205772",
+   "title": "Intelligent Robot for Worker Safety Surveillance: Deep Learning Perception and Visual Navigation",
+   "publication_year": 2020,
+   "source": "International Conference on Advanced Robotics and Intelligent Systems (ARIS)",
+   "type": "conference-paper",
+   "cited_by_count": 25,
+   "relevance_score": null,
+   "authors": [
+    "Min\u2010Fan Ricky Lee",
+    "Tzu-Wei Chien"
+   ],
+   "n_authors": 2,
+   "abstract": "The fatal injury rate for the construction industry is higher than the average for all industries. Recently, researchers have shown an increased interest in occupational safety in the construction industry. However, all the current methods using conventional machine learning with stationary cameras suffer from some severe limitations, perceptual aliasing (e.g., different places/objects can appear identical), occlusion (e.g., place/object appearance changes between visits), seasonal / illumination changes, significant viewpoint changes, etc. This paper proposes a perception module using end-to-end deep-learning and visual SLAM (Simultaneous Localization and Mapping) for an effective and efficient object recognition and navigation using a differential-drive mobile robot. Various deep-learning frameworks and visual navigation strategies with evaluation metrics are implemented and validated for the selection of the best model. The deep-learning model's predictions are evaluated via the metrics (model speed, accuracy, complexity, precision, recall, P-R curve, F1 score). The YOLOv3 shows the best trade-off among all algorithms, 57.9% mean average precision (mAP), in real-world settings, and can process 45 frames per second (FPS) on NVIDIA Jetson TX2 which makes it suitable for real-time detection, as well as a right candidate for deploying the neural network on a mobile robot. The evaluation metrics used for the comparison of laser SLAM are Root Mean Square Error (RMSE). The Google"
+  }
+ ]
+}

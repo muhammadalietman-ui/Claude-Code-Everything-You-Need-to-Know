@@ -1,0 +1,1801 @@
+{
+ "query_id": "C1-CIT",
+ "run_date": "2026-11-23",
+ "query_url": "https://api.openalex.org/works?filter=title_and_abstract.search%3A%28%22digital+twin%22+OR+%22cyber-physical+system%22%29+AND+%28construction+OR+%22oil+and+gas%22+OR+pipeline+OR+pipelines+OR+%22linear+infrastructure%22%29+AND+%28monitoring+OR+progress+OR+%22site+operation%22+OR+production+OR+management%29%2Cfrom_publication_date%3A2010-01-01%2Ctype%3Aarticle%7Creview%7Cbook-chapter%7Cconference-paper%2Clanguage%3Aen&sort=cited_by_count%3Adesc&per-page=100&select=id%2Cdoi%2Ctitle%2Cdisplay_name%2Cpublication_year%2Cprimary_location%2Ctype%2Ccited_by_count%2Cauthorships%2Cabstract_inverted_index%2Crelevance_score",
+ "hits_total": 4680,
+ "retrieved": 100,
+ "records": [
+  {
+   "id": "https://openalex.org/W3003667836",
+   "doi": "10.1109/access.2020.2970143",
+   "title": "Digital Twin: Values, Challenges and Enablers From a Modeling Perspective",
+   "publication_year": 2020,
+   "source": "IEEE Access",
+   "type": "article",
+   "cited_by_count": 2726,
+   "relevance_score": null,
+   "authors": [
+    "Adil Rasheed",
+    "Omer San",
+    "Trond Kvamsdal"
+   ],
+   "n_authors": 3,
+   "abstract": "Digital twin can be defined as a virtual representation of a physical asset enabled through data and simulators for real-time prediction, optimization, monitoring, controlling, and improved decision making. Recent advances in computational pipelines, multiphysics solvers, artificial intelligence, big data cybernetics, data processing and management tools bring the promise of digital twins and their impact on society closer to reality. Digital twinning is now an important and emerging trend in many applications. Also referred to as a computational megamodel, device shadow, mirrored system, avatar or a synchronized virtual prototype, there can be no doubt that a digital twin plays a transformative role not only in how we design and operate cyber-physical intelligent systems, but also in how we advance the modularity of multi-disciplinary systems to tackle fundamental barriers not addressed by the current, evolutionary modeling practices. In this work, we review the recent status of methodologies and techniques related to the construction of digital twins mostly from a modeling perspective. Our aim is to provide a detailed coverage of the current challenges and enabling technologies along with recommendations and reflections for various stakeholders."
+  },
+  {
+   "id": "https://openalex.org/W3013120860",
+   "doi": "10.1016/j.autcon.2020.103179",
+   "title": "Towards a semantic Construction Digital Twin: Directions for future research",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 1881,
+   "relevance_score": null,
+   "authors": [
+    "Calin Boje",
+    "Annie Guerriero",
+    "Sylvain Kubicki",
+    "Yacine Rezgui"
+   ],
+   "n_authors": 4,
+   "abstract": "As the Architecture, Engineering and Construction sector is embracing the digital age, the processes involved in the design, construction and operation of built assets are more and more influenced by technologies dealing with value-added monitoring of data from sensor networks, management of this data in secure and resilient storage systems underpinned by semantic models, as well as the simulation and optimisation of engineering systems. Aside from enhancing the efficiency of the value chain, such information-intensive models and associated technologies play a decisive role in minimising the lifecycle impacts of our buildings. While Building Information Modelling provides procedures, technologies and data schemas enabling a standardised semantic representation of building components and systems, the concept of a Digital Twin conveys a more holistic socio-technical and process-oriented characterisation of the complex artefacts involved by leveraging the synchronicity of the cyber-physical bi-directional data flows. Moreover, BIM lacks semantic completeness in areas such as control systems, including sensor networks, social systems, and urban artefacts beyond the scope of buildings, thus requiring a holistic, scalable semantic approach that factors in dynamic data at different levels. The paper reviews the multi-faceted applications of BIM during the construction stage and highlights limits and requirements, paving the way to the concept of a Construction Digital Twin. A defini"
+  },
+  {
+   "id": "https://openalex.org/W3163698194",
+   "doi": "10.1016/j.jobe.2021.102726",
+   "title": "Digital twin application in the construction industry: A literature review",
+   "publication_year": 2021,
+   "source": "Journal of Building Engineering",
+   "type": "article",
+   "cited_by_count": 1017,
+   "relevance_score": null,
+   "authors": [
+    "De-Graft Joe Opoku",
+    "Srinath Perera",
+    "Robert Osei\u2010Kyei",
+    "Maria Rashidi"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3107782157",
+   "doi": "10.1017/dce.2020.16",
+   "title": "Construction with digital twin information systems",
+   "publication_year": 2020,
+   "source": "Data-Centric Engineering",
+   "type": "article",
+   "cited_by_count": 811,
+   "relevance_score": null,
+   "authors": [
+    "Rafael Sacks",
+    "Ioannis K. Brilakis",
+    "Ergo Pikas",
+    "Haiyan Sally Xie",
+    "Mark Girolami"
+   ],
+   "n_authors": 5,
+   "abstract": "The concept of a \u201cdigital twin\u201d as a model for data-driven management and control of physical systems has emerged over the past decade in the domains of manufacturing, production, and operations. In the context of buildings and civil infrastructure, the notion of a digital twin remains ill-defined, with little or no consensus among researchers and practitioners of the ways in which digital twin processes and data-centric technologies can support design and construction. This paper builds on existing concepts of Building Information Modeling (BIM), lean project production systems, automated data acquisition from construction sites and supply chains, and artificial intelligence to formulate a mode of construction that applies digital twin information systems to achieve closed loop control systems. It contributes a set of four core information and control concepts for digital twin construction (DTC), which define the dimensions of the conceptual space for the information used in DTC workflows. Working from the core concepts, we propose a DTC information system workflow\u2014including information stores, information processing functions, and monitoring technologies\u2014according to three concentric control workflow cycles. DTC should be viewed as a comprehensive mode of construction that prioritizes closing the control loops rather than an extension of BIM tools integrated with sensing and monitoring technologies."
+  },
+  {
+   "id": "https://openalex.org/W2786100634",
+   "doi": "10.1007/s00170-018-1617-6",
+   "title": "Digital twin-based smart production management and control framework for the complex product assembly shop-floor",
+   "publication_year": 2018,
+   "source": "The International Journal of Advanced Manufacturing Technology",
+   "type": "article",
+   "cited_by_count": 804,
+   "relevance_score": null,
+   "authors": [
+    "Cunbo Zhuang",
+    "Jianhua Liu",
+    "Hui Xiong"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2808904300",
+   "doi": "10.1007/s12652-018-0911-3",
+   "title": "An application framework of digital twin and its case study",
+   "publication_year": 2018,
+   "source": "Journal of Ambient Intelligence and Humanized Computing",
+   "type": "article",
+   "cited_by_count": 716,
+   "relevance_score": null,
+   "authors": [
+    "Yu Zheng",
+    "Sen Yang",
+    "Huanchong Cheng"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3007058815",
+   "doi": "10.1061/(asce)me.1943-5479.0000763",
+   "title": "Developing a Digital Twin at Building and City Levels: Case Study of West Cambridge Campus",
+   "publication_year": 2020,
+   "source": "Journal of Management in Engineering",
+   "type": "article",
+   "cited_by_count": 704,
+   "relevance_score": null,
+   "authors": [
+    "Qiuchen Lu",
+    "Ajith Kumar Parlikad",
+    "Philip Woodall",
+    "Gishan Don Ranasinghe",
+    "Xiang Xie",
+    "Zhenglin Liang"
+   ],
+   "n_authors": 9,
+   "abstract": "A digital twin (DT) refers to a digital replica of physical assets, processes, and systems. DTs integrate artificial intelligence, machine learning, and data analytics to create living digital simulation models that are able to learn and update from multiple sources as well as represent and predict the current and future conditions of physical counterparts. However, current activities related to DTs are still at an early stage with respect to buildings and other infrastructure assets from an architectural and engineering/construction point of view. Less attention has been paid to the operation and maintenance (O&M) phase, which is the longest time span in the asset life cycle. A systematic and clear architecture verified with practical use cases for constructing a DT would be the foremost step for effective operation and maintenance of buildings and cities. According to current research about multitier architectures, this paper presents a system architecture for DTs that is specifically designed at both the building and city levels. Based on this architecture, a DT demonstrator of the West Cambridge site of the University of Cambridge in the UK was developed that integrates heterogeneous data sources, supports effective data querying and analysis, supports decision-making processes in O&M management, and further bridges the gap between human relationships with buildings/cities. This paper aims at going through the whole process of developing DTs in building and city levels fr"
+  },
+  {
+   "id": "https://openalex.org/W3135141666",
+   "doi": "10.36680/j.itcon.2021.005",
+   "title": "From BIM to digital twins: a systematic review of the evolution of intelligent building representations in the AEC-FM industry",
+   "publication_year": 2021,
+   "source": "Journal of Information Technology in Construction",
+   "type": "review",
+   "cited_by_count": 691,
+   "relevance_score": null,
+   "authors": [
+    "Min Deng",
+    "Carol C. Menassa",
+    "Vineet R. Kamat"
+   ],
+   "n_authors": 3,
+   "abstract": "The widespread adoption of Building Information Modeling (BIM) and the recent emergence of Internet of Things (IoT) applications offer several new insights and decision-making capabilities throughout the life cycle of the built environment. In recent years, the ability of real-time connectivity to online sensors deployed in an environment has led to the emergence of the concept of the Digital Twin of the built environment. Digital Twins aim to achieve synchronization of the real world with a virtual platform for seamless management and control of the construction process, facility management, environment monitoring, and other life cycle processes in the built environment. However, research in Digital Twins for the built environment is still in its nascent stages and there is a need to understand the advances in the underlying enabling technologies and establish a convergent context for ongoing and future research. This paper conducted a systematic review to identify the development of the emerging technologies facilitating the evolution of BIM to Digital Twins in built environment applications. A total of 100 related papers including 23 review papers were selected and reviewed. In order to systematically classify the reviewed studies, the authors developed a five-level ladder categorization system based on the building life cycle to reflect the current state-of-the-art in Digital Twin applications. In each level of this taxonomy, applications were further categorized based on"
+  },
+  {
+   "id": "https://openalex.org/W3128714328",
+   "doi": "10.1016/j.autcon.2021.103564",
+   "title": "A BIM-data mining integrated digital twin framework for advanced project management",
+   "publication_year": 2021,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 654,
+   "relevance_score": null,
+   "authors": [
+    "Yue Pan",
+    "Limao Zhang"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3028926798",
+   "doi": "10.1016/j.autcon.2020.103277",
+   "title": "Digital twin-enabled anomaly detection for built asset monitoring in operation and maintenance",
+   "publication_year": 2020,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 623,
+   "relevance_score": null,
+   "authors": [
+    "Qiuchen Lu",
+    "Xiang Xie",
+    "Ajith Kumar Parlikad",
+    "Jennifer Mary Schooling"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4308000402",
+   "doi": "10.1007/s11831-022-09830-8",
+   "title": "Integrating BIM and AI for Smart Construction Management: Current Status and Future Directions",
+   "publication_year": 2022,
+   "source": "Archives of Computational Methods in Engineering",
+   "type": "article",
+   "cited_by_count": 614,
+   "relevance_score": null,
+   "authors": [
+    "Yue Pan",
+    "Limao Zhang"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3033971127",
+   "doi": "10.1109/access.2020.2998723",
+   "title": "Digital Twin for the Oil and Gas Industry: Overview, Research Trends, Opportunities, and Challenges",
+   "publication_year": 2020,
+   "source": "IEEE Access",
+   "type": "article",
+   "cited_by_count": 519,
+   "relevance_score": null,
+   "authors": [
+    "Thumeera R. Wanasinghe",
+    "Leah Wroblewski",
+    "B\u00fai K. Petersen",
+    "Raymond G. Gosine",
+    "Lesley Anne James",
+    "Oscar De Silva"
+   ],
+   "n_authors": 8,
+   "abstract": "With the emergence of industry 4.0, the oil and gas (O&G) industry is now considering a range of digital technologies to enhance productivity, efficiency, and safety of their operations while minimizing capital and operating costs, health and environment risks, and variability in the O&G project life cycles. The deployment of emerging technologies allows O&G companies to construct digital twins (DT) of their assets. Considering DT adoption, the O&G industry is still at an early stage with implementations limited to isolated and selective applications instead of industry-wide implementation, limiting the benefits from DT implementation. To gain the full potential of DT and related technological adoption, a comprehensive understanding of DT technology, the current status of O&G-related DT research activities, and the opportunities and challenges associated with the deployment of DT in the O&G industry are of paramount importance. In order to develop this understanding, this paper presents a literature review of DT within the context of the O&G industry. The paper follows a systematic approach to select articles for the literature review. First, a keywords-based publication search was performed on the scientific databases such as Elsevier, IEEE Xplore, OnePetro, Scopus, and Springer. The filtered articles were then analyzed using online text analytic software (Voyant Tools) followed by a manual review of the abstract, introduction and conclusion sections to select the most relev"
+  },
+  {
+   "id": "https://openalex.org/W3150590266",
+   "doi": "10.3390/buildings11040151",
+   "title": "Differentiating Digital Twin from Digital Shadow: Elucidating a Paradigm Shift to Expedite a Smart, Sustainable Built Environment",
+   "publication_year": 2021,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 484,
+   "relevance_score": null,
+   "authors": [
+    "Samad M. E. Sepasgozar"
+   ],
+   "n_authors": 1,
+   "abstract": "Construction projects and cities account for over 50% of carbon emissions and energy consumption. Industry 4.0 and digital transformation may increase productivity and reduce energy consumption. A digital twin (DT) is a key enabler in implementing Industry 4.0 in the areas of construction and smart cities. It is an emerging technology that connects different objects by utilising the advanced Internet of Things (IoT). As a technology, it is in high demand in various industries, and its literature is growing exponentially. Previous digital modeling practices, the use of data acquisition tools, human\u2013computer\u2013machine interfaces, programmable cities, and infrastructure, as well as Building Information Modeling (BIM), have provided digital data for construction, monitoring, or controlling physical objects. However, a DT is supposed to offer much more than digital representation. Characteristics such as bi-directional data exchange and real-time self-management (e.g., self-awareness or self-optimisation) distinguish a DT from other information modeling systems. The need to develop and implement DT is rising because it could be a core technology in many industrial sectors post-COVID-19. This paper aims to clarify the DT concept and differentiate it from other advanced 3D modeling technologies, digital shadows, and information systems. It also intends to review the state of play in DT development and offer research directions for future investigation. It recommends the development of"
+  },
+  {
+   "id": "https://openalex.org/W3013932226",
+   "doi": "10.1115/1.4046739",
+   "title": "Digital Twins: State-of-the-Art and Future Directions for Modeling and Simulation in Engineering Dynamics Applications",
+   "publication_year": 2020,
+   "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part B Mechanical Engineering",
+   "type": "article",
+   "cited_by_count": 473,
+   "relevance_score": null,
+   "authors": [
+    "David Wagg",
+    "Keith Worden",
+    "Robert J. Barthorpe",
+    "Paul A. Gardner"
+   ],
+   "n_authors": 4,
+   "abstract": "This paper presents a review of the state of the art for digital twins in the application domain of engineering dynamics. The focus on applications in dynamics is because: (i) they offer some of the most challenging aspects of creating an effective digital twin, and (ii) they are relevant to important industrial applications such as energy generation and transport systems. The history of the digital twin is discussed first, along with a review of the associated literature; the process of synthesizing a digital twin is then considered, including definition of the aims and objectives of the digital twin. An example of the asset management phase for a wind turbine is included in order to demonstrate how the synthesis process might be applied in practice. In order to illustrate modeling issues arising in the construction of a digital twin, a detailed case study is presented, based on a physical twin, which is a small-scale three-story structure. This case study shows the progression toward a digital twin highlighting key processes including system identification, data-augmented modeling, and verification and validation. Finally, a discussion of some open research problems and technological challenges is given, including workflow, joints, uncertainty management, and the quantification of trust. In a companion paper, as part of this special issue, a mathematical framework for digital twin applications is developed, and together the authors believe this represents a firm framework f"
+  },
+  {
+   "id": "https://openalex.org/W4210516792",
+   "doi": "10.3390/buildings12020120",
+   "title": "Digital Twins in Built Environments: An Investigation of the Characteristics, Applications, and Challenges",
+   "publication_year": 2022,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 453,
+   "relevance_score": null,
+   "authors": [
+    "Muhammad Shahzad",
+    "Muhammad Tariq Shafiq",
+    "Dean Douglas",
+    "Mohamad Kassem"
+   ],
+   "n_authors": 4,
+   "abstract": "The concept of digital twins is proposed as a new technology-led advancement to support the processes of the design, construction, and operation of built assets. Commonalities between the emerging definitions of digital twins describe them as digital or cyber environments that are bidirectionally-linked to their physical or real-life replica to enable simulation and data-centric decision making. Studies have started to investigate their role in the digitalization of asset delivery, including the management of built assets at different levels within the building and infrastructure sectors. However, questions persist regarding their actual applications and implementation challenges, including their integration with other digital technologies (i.e., building information modeling, virtual and augmented reality, Internet of Things, artificial intelligence, and cloud computing). Within the built environment context, this study seeks to analyze the definitions and characteristics of a digital twin, its interactions with other digital technologies used in built asset delivery and operation, and its applications and challenges. To achieve this aim, the research utilizes a thorough literature review and semi-structured interviews with ten industry experts. The literature review explores the merits and the relevance of digital twins relative to existing digital technologies and highlights potential applications and challenges for their implementation. The data from the semi-structured i"
+  },
+  {
+   "id": "https://openalex.org/W4285891733",
+   "doi": "10.3390/s22145396",
+   "title": "Design, Modeling and Implementation of Digital Twins",
+   "publication_year": 2022,
+   "source": "Sensors",
+   "type": "article",
+   "cited_by_count": 439,
+   "relevance_score": null,
+   "authors": [
+    "Mariana Segovia",
+    "Joaqu\u00edn Garc\u00eda-Alfaro"
+   ],
+   "n_authors": 2,
+   "abstract": "A Digital Twin (DT) is a set of computer-generated models that map a physical object into a virtual space. Both physical and virtual elements exchange information to monitor, simulate, predict, diagnose and control the state and behavior of the physical object within the virtual space. DTs supply a system with information and operating status, providing capabilities to create new business models. In this paper, we focus on the construction of DTs. More specifically, we focus on determining (methodologically) how to design, create and connect physical objects with their virtual counterpart. We explore the problem into several phases: from functional requirement selection and architecture planning to integration and verification of the final (digital) models. We address as well how physical components exchange real-time information with DTs, as well as experimental platforms to build DTs (including protocols and standards). We conclude with a discussion and open challenges."
+  },
+  {
+   "id": "https://openalex.org/W4283068318",
+   "doi": "10.1016/j.scs.2022.104009",
+   "title": "Study on city digital twin technologies for sustainable smart city design: A review and bibliometric analysis of geographic information system and building information modeling integration",
+   "publication_year": 2022,
+   "source": "Sustainable Cities and Society",
+   "type": "article",
+   "cited_by_count": 427,
+   "relevance_score": null,
+   "authors": [
+    "Haishan Xia",
+    "Zishuo Liu",
+    "Maria Efremochkina",
+    "Xiaotong Liu",
+    "Chunxiang Lin"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4381789065",
+   "doi": "10.1016/j.autcon.2023.104931",
+   "title": "Technologies for digital twin applications in construction",
+   "publication_year": 2023,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 416,
+   "relevance_score": null,
+   "authors": [
+    "Valerian Vanessa Tuhaise",
+    "J.H.M. Tah",
+    "Fonbeyin Henry Abanda"
+   ],
+   "n_authors": 3,
+   "abstract": "The construction industry is facing enormous pressure to adopt digital solutions to solve the industry's inherent problems. The digital twin has emerged as a solution that can update a BIM model with real-time data to achieve cyber-physical integration, enabling real-time monitoring of assets and activities and improving decision-making. The application of digital twins in the construction industry is still in its nascent stages but has been steadily growing over the past few years. A wide variety of emerging technologies are being used in the development of digital twins in diverse applications in construction but it is not immediately clear from the literature which ones are key to the successful development of digital twins, necessitating a systematic literature review with a focus on technologies. This paper aims to identify the key technologies used in the development of digital twins in construction in the existing literature, the research gaps and the potential areas for future research. This is achieved by conducting a systematic review of studies with demonstrative case studies and experimental setups in construction. Based on the observed research gaps, prominent future research directions are suggested, focusing on technologies in data transmission, interoperability and data integration and data processing and visualisation."
+  },
+  {
+   "id": "https://openalex.org/W4384201993",
+   "doi": "10.3390/su151410908",
+   "title": "Digital Twins in the Construction Industry: A Comprehensive Review of Current Implementations, Enabling Technologies, and Future Directions",
+   "publication_year": 2023,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 408,
+   "relevance_score": null,
+   "authors": [
+    "Hossein Omrany",
+    "Karam M. Al-Obaidi",
+    "Amreen Husain",
+    "Amirhosein Ghaffarianhoseini"
+   ],
+   "n_authors": 4,
+   "abstract": "This paper presents a comprehensive understanding of current digital twin (DT) implementations in the construction industry, along with providing an overview of technologies enabling the operation of DTs in the industry. To this end, 145 publications were identified using a systematic literature review. The results revealed eight key areas of DT implementation including (i) virtual design, (ii) project planning and management, (iii) asset management and maintenance, (iv) safety management, (v) energy efficiency and sustainability, (vi) quality control and management, (vii) supply chain management and logistics, and (viii) structural health monitoring. The findings demonstrate that DT technology has the capacity to revolutionise the construction industry across these areas, enabling optimised designs, improved collaboration, real-time monitoring, predictive maintenance, enhanced safety practices, energy performance optimisation, quality inspections, efficient supply chain management, and proactive maintenance. This study also identified several challenges that hinder the widespread implementation of DT in construction, including (i) data integration and interoperability, (ii) data accuracy and completeness, (iii) scalability and complexity, (iv) privacy and security, and (v) standards and governance. To address these challenges, this paper recommends prioritising standardised data formats, protocols, and APIs for seamless collaboration, exploring semantic data modelling and on"
+  },
+  {
+   "id": "https://openalex.org/W3035300366",
+   "doi": "10.1109/tii.2020.3002197",
+   "title": "Utilizing Industry 4.0 on the Construction Site: Challenges and Opportunities",
+   "publication_year": 2020,
+   "source": "IEEE Transactions on Industrial Informatics",
+   "type": "article",
+   "cited_by_count": 374,
+   "relevance_score": null,
+   "authors": [
+    "Christopher J. Turner",
+    "John Oluwagbemiga Oyekan",
+    "Lampros K. Stergioulas",
+    "David Griffin"
+   ],
+   "n_authors": 4,
+   "abstract": "In recent years, a step change has been seen in the rate of adoption of Industry 4.0 technologies by manufacturers and industrial organizations alike. This article discusses the current state of the art in the adoption of Industry 4.0 technologies within the construction industry. Increasing complexity in onsite construction projects coupled with the need for higher productivity is leading to increased interest in the potential use of Industry 4.0 technologies. This article discusses the relevance of the following key Industry 4.0 technologies to construction: data analytics and artificial intelligence, robotics and automation, building information management, sensors and wearables, digital twin, and industrial connectivity. Industrial connectivity is a key aspect as it ensures that all Industry 4.0 technologies are interconnected allowing the full benefits to be realized. This article also presents a research agenda for the adoption of Industry 4.0 technologies within the construction sector, a three-phase use of intelligent assets from the point of manufacture up to after build, and a four-staged R&D process for the implementation of smart wearables in a digital enhanced construction site."
+  },
+  {
+   "id": "https://openalex.org/W2947753446",
+   "doi": "10.1080/15732479.2019.1620789",
+   "title": "Development of a bridge maintenance system for prestressed concrete bridges using 3D digital twin model",
+   "publication_year": 2019,
+   "source": "Structure and Infrastructure Engineering",
+   "type": "article",
+   "cited_by_count": 354,
+   "relevance_score": null,
+   "authors": [
+    "Chang-Su Shim",
+    "Ngoc-Son Dang",
+    "Sokanya Lon",
+    "Chi-Ho Jeon"
+   ],
+   "n_authors": 4,
+   "abstract": "Preventive maintenance is increasingly becoming an essential strategy in the bridge industry owing to its proactive advantage of maintaining the structural sustainability during its entire service life. Several in-use bridges lack an appropriate regular maintenance solution, leading to extra cost during the operation stage. This paper proposes a new generation of the bridge maintenance system by using a digital twin model concept for more reliable decision-making. A detailed solution is proposed in this work to enhance the bridge maintenance process using a parallel solution: a maintenance information management system based on a 3D information model in conjunction with a digital inspection system using image processing. Three-dimensional digital models are required to utilise information from the entire lifecycle of a project, including design and construction, operation, and maintenance, by continuously exchanging and updating data from each stakeholder. For the maintenance of prestressed concrete bridges, the twin models are defined and their uses are presented."
+  },
+  {
+   "id": "https://openalex.org/W3041166419",
+   "doi": "10.3390/app10134678",
+   "title": "Digital Twin and Web-Based Virtual Gaming Technologies for Online Education: A Case of Construction Management and Engineering",
+   "publication_year": 2020,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 339,
+   "relevance_score": null,
+   "authors": [
+    "Samad M. E. Sepasgozar"
+   ],
+   "n_authors": 1,
+   "abstract": "Mixed reality is advancing exponentially in some innovative industries, including manufacturing and aerospace. However, advanced applications of these technologies in architecture, engineering, and construction (AEC) businesses remain nascent. While it is in demand, the use of these technologies in developing the AEC digital pedagogy and for improving professional competence have received little attention. This paper presents a set of five novel digital technologies utilising virtual and augmented reality and digital twin, which adds value to the literature by showing their usefulness in the delivery of construction courses. The project involved designing, developing, and implementing a construction augmented reality (AR), including Piling AR (PAR) and a virtual tunnel boring machine (VTBM) module. The PAR is a smartphone module that presents different elements of a building structure, the footing system, and required equipment for footing construction. VTBM is developed as a multiplayer and avatar-included module for experiencing mechanisms of a tunnel boring machine. The novelty of this project is that it developed innovative immersive construction modules, practices of implementing digital pedagogy, and presenting the capacity of virtual technologies for education. This paper is also highly valuable to educators since it shows how a set of simple to complex technologies can be used for teaching various courses from a distance, either in emergencies such as corona virus dis"
+  },
+  {
+   "id": "https://openalex.org/W2135846084",
+   "doi": "10.1109/mcse.2013.39",
+   "title": "Cloud-Based Software Platform for Big Data Analytics in Smart Grids",
+   "publication_year": 2013,
+   "source": "Computing in Science & Engineering",
+   "type": "article",
+   "cited_by_count": 331,
+   "relevance_score": null,
+   "authors": [
+    "Yogesh L. Simmhan",
+    "Saima Aman",
+    "Alok Gautam Kumbhare",
+    "Rongyang Liu",
+    "Sam Stevens",
+    "Qunzhi Zhou"
+   ],
+   "n_authors": 7,
+   "abstract": "This article focuses on a scalable software platform for the Smart Grid cyber-physical system using cloud technologies. Dynamic Demand Response (D2R) is a challenge-application to perform intelligent demand-side management and relieve peak load in Smart Power Grids. The platform offers an adaptive information integration pipeline for ingesting dynamic data; a secure repository for researchers to share knowledge; scalable machine-learning models trained over massive datasets for agile demand forecasting; and a portal for visualizing consumption patterns, and validated at the University of Southern California's campus microgrid. The article examines the role of clouds and their tradeoffs for use in the Smart Grid Cyber-Physical Sagileystem."
+  },
+  {
+   "id": "https://openalex.org/W2943464177",
+   "doi": "10.1016/j.jclepro.2019.04.156",
+   "title": "Digital twin aided sustainability-based lifecycle management for railway turnout systems",
+   "publication_year": 2019,
+   "source": "Journal of Cleaner Production",
+   "type": "article",
+   "cited_by_count": 319,
+   "relevance_score": null,
+   "authors": [
+    "Sakdirat Kaewunruen",
+    "Qiang Lian"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4226050269",
+   "doi": "10.1016/j.ngib.2021.08.019",
+   "title": "Deep and ultra-deep oil and gas well drilling technologies: Progress and prospect",
+   "publication_year": 2022,
+   "source": "Natural Gas Industry B",
+   "type": "article",
+   "cited_by_count": 316,
+   "relevance_score": null,
+   "authors": [
+    "Haige Wang",
+    "Hongchun Huang",
+    "Wenxin Bi",
+    "\u7eaa\u56fd\u680b",
+    "Bo Zhou",
+    "Lubin Zhuo"
+   ],
+   "n_authors": 6,
+   "abstract": "In the period of \u201c13th Five-Year Plan\u201d, domestic deep and ultra-deep oil/gas well drilling technologies were developed quickly and a great number of technological achievements were obtained by means of continuous researches, including: (1) high-end devices, such as automatic drilling rig, managed pressure drilling, logging, cementing and completion technology, high-torque top drive system, and deep-well coiled tubing operation unit; (2) advanced tools, such as vertical drilling tool, non-planar tooth bit, high-strength expandable tubular, high-temperature, high-torque and long-life screw rod, torsion impact tool, synergistic damping based rock breaking tool, measurement while drilling tool, and safety monitoring tool; (3) core additives, such as temperature-resistance high-density oil based drilling fluid, high-performance water based drilling fluid, ductile cement slurry, and self-healing cement slurry; (4) life-cycle wellbore integrity technology system. Nevertheless, oil and gas well drilling and completion still faces severe challenges, including deep (great burial depth), steep (large formation dip), narrow (narrow pressure window), thick (thick gravel layer, salt bed and other complex intervals), difficult (complex multi-pressure system, abundant complex accidents and poor drillability) and high (high temperature, high pressure and high acid). Facing these challenges, the following suggestions are proposed. The key to the oil and gas reserve and production increase duri"
+  },
+  {
+   "id": "https://openalex.org/W3164089829",
+   "doi": "10.1016/j.cmpbup.2021.100014",
+   "title": "Is Human Digital Twin possible?",
+   "publication_year": 2021,
+   "source": "Computer Methods and Programs in Biomedicine Update",
+   "type": "article",
+   "cited_by_count": 299,
+   "relevance_score": null,
+   "authors": [
+    "Shengli WEI"
+   ],
+   "n_authors": 1,
+   "abstract": "While Digital Twin finds its applications in many fields, mainly in advanced manufacturing, PLM (Product Lifecycle Management), and smart healthcare, attempt of using Digital Twin in full lifecycle management of human being is discussed. The concept of Augmented Digital Twin is put forward as the basis of the concept of Human Digital Twin (HDT), which is the core idea of the paper. With the experiences of Digital Twin application in smart manufacturing, PLM and smart healthcare, and the development of other related technologies such as Data Mining, Data Fusion Analysis, Artificial Intelligence, especially Deep Learning and Human Computer Science, a conclusion can be drawn naturally, that HDT is an enabling way of full lifecycle health management and it is possible to construct Human Digital Twin, particularly from the technology view. Comparison between Digital Twin and Human Digital Twin demonstrates the possibility. The concept, conceptual model and characteristics of HDT are presented for preparation of its construction. How to construct Human Digital Twin is discussed by proposing Human Digital Twin System Architecture and Implementation Approach. Also, it is pointed out that there will be a long way to go because of not only its extreme complexity, but also so many aspects being involved, especially the security and social ethics problem."
+  },
+  {
+   "id": "https://openalex.org/W2956380860",
+   "doi": "10.3390/app9142819",
+   "title": "Industry 4.0 for the Construction Industry\u2014How Ready Is the Industry?",
+   "publication_year": 2019,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 295,
+   "relevance_score": null,
+   "authors": [
+    "Raihan Maskuriy",
+    "Ali Selamat",
+    "Kherun Nita Ali",
+    "Petra Mare\u0161ov\u00e1",
+    "Ond\u0159ej Krejcar"
+   ],
+   "n_authors": 5,
+   "abstract": "Technology and innovations have fueled the evolution of Industry 4.0, the fourth industrial revolution. Industry 4.0 encourages growth and development through its efficiency capacity, as documented in the literature. The growth of the construction industry is a subset of the universal set of the gross domestic product value; thus, Industry 4.0 has a spillover effect on the engineering and construction industry. In this study, we aimed to map the state of Industry 4.0 in the construction industry, to identify its key areas, and evaluate and interpret the available evidence. We focused our literature search on Web of Science and Scopus between January 2015 and May 2019. The search was dependent on the following keywords: \u201cIndustry 4.0\u201d OR \u201cIndustrial revolution 4.0\u201d AND TOPIC: \u201cconstruction\u201d OR \u201cbuilding\u201d. From the 82 papers found, 20 full-length papers were included in this review. Results from the targeted papers were split into three clusters: technology, security, and management. With building information modelling (BIM) as the core in the cyber-physical system, the cyber-planning-physical system is able to accommodate BIM functionalities to improve construction lifecycle. This collaboration and autonomous synchronization system are able to automate the design and construction processes, and improve the ability of handling substantial amounts of heterogeneity-laden data. Industry 4.0 is expected to augment both the quality and productivity of construction and attract domest"
+  },
+  {
+   "id": "https://openalex.org/W3157108221",
+   "doi": "10.1108/sasbe-01-2021-0016",
+   "title": "Digital twin-based progress monitoring management model through reality capture to extended reality technologies (DRX)",
+   "publication_year": 2021,
+   "source": "Smart and Sustainable Built Environment",
+   "type": "article",
+   "cited_by_count": 294,
+   "relevance_score": null,
+   "authors": [
+    "Sepehr Alizadehsalehi",
+    "\u0130brahim Yitmen"
+   ],
+   "n_authors": 2,
+   "abstract": "Purpose The purpose of this research is to develop a generic framework of a digital twin (DT)-based automated construction progress monitoring through reality capture to extended reality (RC-to-XR). Design/methodology/approach IDEF0 data modeling method has been designed to establish an integration of reality capturing technologies by using BIM, DTs and XR for automated construction progress monitoring. Structural equation modeling (SEM) method has been used to test the proposed hypotheses and develop the skill model to examine the reliability, validity and contribution of the framework to understand the DRX model's effectiveness if implemented in real practice. Findings The research findings validate the positive impact and importance of utilizing technology integration in a logical framework such as DRX, which provides trustable, real-time, transparent and digital construction progress monitoring. Practical implications DRX system captures accurate, real-time and comprehensive data at construction stage, analyses data and information precisely and quickly, visualizes information and reports in a real scale environment, facilitates information flows and communication, learns from itself, historical data and accessible online data to predict future actions, provides semantic and digitalize construction information with analytical capabilities and optimizes decision-making process. Originality/value The research presents a framework of an automated construction progress monito"
+  },
+  {
+   "id": "https://openalex.org/W3039248377",
+   "doi": "10.1109/access.2020.3007206",
+   "title": "Integration of Industry 4.0 Related Technologies in Construction Industry: A Framework of Cyber-Physical System",
+   "publication_year": 2020,
+   "source": "IEEE Access",
+   "type": "article",
+   "cited_by_count": 274,
+   "relevance_score": null,
+   "authors": [
+    "Zhijia You",
+    "Lingjun Feng"
+   ],
+   "n_authors": 2,
+   "abstract": "The Fourth Industrial Revolution (Industry 4.0) is reshaping the construction industry and bringing it into an intelligent construction era. Emerging technologies, such as the Building Information Modelling, Internet of Things, big data, cloud computing, and artificial intelligence, have penetrated into all stages of the building life cycle and play a significant role. However, the major issue of intelligent construction is integrating multiple technologies to create more potential opportunities rather than their fragmented application. Considering the various special characteristics of the construction industry and the high heterogeneity of these technologies, their integration in the construction industry is challenging and requires in-depth investigations. This paper summarizes the Industry 4.0-related technologies involved in the construction industry based on an analysis of the characteristics of the industry. Further, this study presents a framework of a cyber-physical system to integrate these technologies and improve the overall capabilities of construction organization and management. A case study of the Xiong'an citizen service center is introduced to verify the technological feasibility and preliminary implementation effect of the proposed framework. As forward-looking research, the significance of this paper may also to inspire more efforts in this field."
+  },
+  {
+   "id": "https://openalex.org/W4213051105",
+   "doi": "10.1016/j.jobe.2022.104028",
+   "title": "Developing a conceptual framework for the application of digital twin technologies to revamp building operation and maintenance processes",
+   "publication_year": 2022,
+   "source": "Journal of Building Engineering",
+   "type": "article",
+   "cited_by_count": 265,
+   "relevance_score": null,
+   "authors": [
+    "Jianfeng Zhao",
+    "Haibo Feng",
+    "Qian Chen",
+    "Borja Garc\u00eda de Soto"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4319967909",
+   "doi": "10.1016/j.enbuild.2023.112851",
+   "title": "Digital twin with Machine learning for predictive monitoring of CO2 equivalent from existing buildings",
+   "publication_year": 2023,
+   "source": "Energy and Buildings",
+   "type": "article",
+   "cited_by_count": 256,
+   "relevance_score": null,
+   "authors": [
+    "Arva Arsiwala",
+    "Faris Elghaish",
+    "Mohammed Zoher"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3021238755",
+   "doi": "10.1016/j.jclepro.2020.121994",
+   "title": "Carbon dioxide transport via pipelines: A systematic review",
+   "publication_year": 2020,
+   "source": "Journal of Cleaner Production",
+   "type": "review",
+   "cited_by_count": 256,
+   "relevance_score": null,
+   "authors": [
+    "Hongfang L\u00fc",
+    "Xin Ma",
+    "Kun Huang",
+    "Lingdi Fu",
+    "Mohammadamin Azimi"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3107321147",
+   "doi": "10.1016/j.jclepro.2020.125391",
+   "title": "A blockchain- and IoT-based smart product-service system for the sustainability of prefabricated housing construction",
+   "publication_year": 2020,
+   "source": "Journal of Cleaner Production",
+   "type": "article",
+   "cited_by_count": 252,
+   "relevance_score": null,
+   "authors": [
+    "Clyde Zhengdao Li",
+    "Zhe Chen",
+    "Fan Xue",
+    "Xiang T.R. Kong",
+    "Bing Xiao",
+    "Xulu Lai"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2965867440",
+   "doi": "10.1007/978-3-030-27477-1_30",
+   "title": "From BIM Towards Digital Twin: Strategy and Future Development for Smart Asset Management",
+   "publication_year": 2019,
+   "source": "Studies in computational intelligence",
+   "type": "conference-paper",
+   "cited_by_count": 250,
+   "relevance_score": null,
+   "authors": [
+    "Qiuchen Lu",
+    "Xiang Xie",
+    "James Heaton",
+    "Ajith Kumar Parlikad",
+    "Jennifer Mary Schooling"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2969571197",
+   "doi": "10.1016/j.autcon.2019.102930",
+   "title": "The \u2018how\u2019 of benefits management for digital technology: From engineering to asset management",
+   "publication_year": 2019,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 245,
+   "relevance_score": null,
+   "authors": [
+    "Peter E.D. Love",
+    "Jane Matthews"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4393039375",
+   "doi": "10.1016/j.jclepro.2024.141814",
+   "title": "Digitalization for sustainable buildings: Technologies, applications, potential, and challenges",
+   "publication_year": 2024,
+   "source": "Journal of Cleaner Production",
+   "type": "article",
+   "cited_by_count": 240,
+   "relevance_score": null,
+   "authors": [
+    "Mohammad Asif",
+    "Ghinwa Naeem",
+    "Muhammad Khalid"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3185933388",
+   "doi": "10.36680/j.itcon.2021.027",
+   "title": "Towards next generation cyber-physical systems and digital twins for construction",
+   "publication_year": 2021,
+   "source": "Journal of Information Technology in Construction",
+   "type": "article",
+   "cited_by_count": 232,
+   "relevance_score": null,
+   "authors": [
+    "Abiola Abosede Akanmu",
+    "Chimay Anumba",
+    "Omobolanle Ruth Ogunseiju"
+   ],
+   "n_authors": 3,
+   "abstract": "The construction industry continues to seek innovative ways to safely, timely and cost-effectively deliver construction projects. Several efforts have been made to automate construction processes but marginial success has been achieved in effectively reducing the long standing risks suffered by the industry. While industry 4.0 promises to improve project efficiency, reduce waste and improve productivity, the transition to this will depend on the successful adoption of many emerging technologies such as virtual design modeling technologies, sensing technologies, data analysis, storage and communication technologies, human-computer interaction technologies, and robotics. To accelerate innovation, digital twins and cyber-physical systems will be a necessity to advance automation and real-time control with these technologies. While digital twin represents a digital replica of the asplanned and as-built facility, cyber physical systems involve integration of physical systems with their digital replica through sensors and actuators. Despite evidence of the efficacy of cyber-physical systems and digital twins for reducing non-fatal injuries, enhancing safety management, improving progress monitoring and enhancing performance monitoring and control of facilities, their adoption in the construction industry is still in its infancy. This paper sheds light on the opportunities offered by cyber-physical systems and digital twins in other industry sectors and advocates for their increased"
+  },
+  {
+   "id": "https://openalex.org/W4393181734",
+   "doi": "10.1016/j.techsoc.2024.102519",
+   "title": "Infrastructure digital twin technology: A new paradigm for future construction industry",
+   "publication_year": 2024,
+   "source": "Technology in Society",
+   "type": "article",
+   "cited_by_count": 231,
+   "relevance_score": null,
+   "authors": [
+    "Taofeeq Durojaye Moshood",
+    "James Olabode Bamidele Rotimi",
+    "Wajiha Mohsin Shahzad",
+    "Jibril Adewale Bamgbade"
+   ],
+   "n_authors": 4,
+   "abstract": "The construction industry has traditionally been slow to adopt digital technology, resulting in inefficient workflows, frequent cost overruns, and delays. Moreover, its fragmented structure, inherent to market dynamics, exacerbates these challenges. Embracing digitalization and transitioning to Industry 4.0 can substantially enhance efficiency and productivity in construction through increased innovation and improved collaboration, ultimately reducing information gaps and data discrepancies. This study aims to assess the potential integration of digital twin technology across various construction stages, spanning from initial design to project delivery. Existing literature emphasizes the transformative power of digital twin technology in advancing building innovation and environmental sustainability. These virtual replicas are crucial in optimizing industrial manufacturing by harmonizing production processes and societal interactions. A focused examination of digital twin technology applications in construction highlights its ability to streamline coordination and facilitate data sharing among stakeholders. Property owners increasingly recognise the value of digital twin technology in local contexts, driving the digitization of design and collaboration methods in construction. Integrating digital twin technology right from a project's inception and extending it across design phases optimizes project delivery, enhances asset quality, and contributes to societal sustainability."
+  },
+  {
+   "id": "https://openalex.org/W3183504846",
+   "doi": "10.3390/app11156810",
+   "title": "BIM-Based Digital Twin and XR Devices to Improve Maintenance Procedures in Smart Buildings: A Literature Review",
+   "publication_year": 2021,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 230,
+   "relevance_score": null,
+   "authors": [
+    "Corentin Coupry",
+    "Sylvain Noblecourt",
+    "Paul Richard",
+    "David Baudry",
+    "David Bigaud"
+   ],
+   "n_authors": 5,
+   "abstract": "In recent years, the use of digital twins (DT) to improve maintenance procedures has increased in various industrial sectors (e.g., manufacturing, energy industry, aerospace) but is more limited in the construction industry. However, the operation and maintenance (O&M) phase of a building\u2019s life cycle is the most expensive. Smart buildings already use BIM (Building Information Modeling) for facility management, but they lack the predictive capabilities of DT. On the other hand, the use of extended reality (XR) technologies to improve maintenance operations has been a major topic of academic research in recent years, both through data display and remote collaboration. In this context, this paper focuses on reviewing projects using a combination of these technologies to improve maintenance operations in smart buildings. This review uses a combination of at least three of the terms \u201cDigital Twin\u201d, \u201cMaintenance\u201d, \u201cBIM\u201d and \u201cExtended Reality\u201d. Results show how a BIM can be used to create a DT and how this DT use combined with XR technologies can improve maintenance operations in a smart building. This paper also highlights the challenges for the correct implementation of a BIM-based DT combined with XR devices. An example of use is also proposed using a diagram of the possible interactions between the user, the DT and the application framework during maintenance operations."
+  },
+  {
+   "id": "https://openalex.org/W3161004699",
+   "doi": "10.1016/j.jobe.2021.102730",
+   "title": "Digital Twin Research in the AECO-FM Industry",
+   "publication_year": 2021,
+   "source": "Journal of Building Engineering",
+   "type": "article",
+   "cited_by_count": 230,
+   "relevance_score": null,
+   "authors": [
+    "G\u00f6zde Ba\u015fak \u00d6zturk"
+   ],
+   "n_authors": 1,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3106498328",
+   "doi": "10.1155/2020/8846667",
+   "title": "Digital Twin Hospital Buildings: An Exemplary Case Study through Continuous Lifecycle Integration",
+   "publication_year": 2020,
+   "source": "Advances in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 230,
+   "relevance_score": null,
+   "authors": [
+    "Yang Peng",
+    "Ming Zhang",
+    "Fangqiang Yu",
+    "Jinglin Xu",
+    "Shang Gao"
+   ],
+   "n_authors": 5,
+   "abstract": "Hospital buildings usually contain sophisticated facility systems and special medical equipment, strict security requirements, and business systems. Traditional methods such as BIM are becoming less capable of real\u2010time updates of building status and big data volume. By proposing innovations both in technique and management\u2014a \u201ccontinuous lifecycle integration\u201d method based on the concept of Digital Twin (DT) and \u201cearly movement\u201d of the general contractor, this paper reported a successful project case in a large hospital in China. The case realized continuous, scheduled integration of static data and dynamic data of more than 20 management systems from the design, construction, pre\u2010O&M phase up to the O&M phase. Then, a DT software system with real\u2010time visual management and artificial intelligent diagnosis modules was developed and deployed in a newly built DT control center. Managers have the ability to grasp the detailed status of the whole hospital by visual management and receive timely facility diagnosis and operation suggestions that are automatically sent back from the digital building to reality. The case has been steadily running for more than a year in the hospital and achieved desired performance by reducing energy consumption, avoiding facility faults, reducing the number of requested repairs, and enhancing the quality of daily maintenance work."
+  },
+  {
+   "id": "https://openalex.org/W4200461109",
+   "doi": "10.1016/j.compind.2021.103594",
+   "title": "Digital twin-enabled smart modular integrated construction system for on-site assembly",
+   "publication_year": 2021,
+   "source": "Computers in Industry",
+   "type": "article",
+   "cited_by_count": 229,
+   "relevance_score": null,
+   "authors": [
+    "Yishuo Jiang",
+    "Ming Li",
+    "Daqiang Guo",
+    "Wei Ying Wu",
+    "Ray Y. Zhong",
+    "George Q. Huang"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3041848504",
+   "doi": "10.1016/j.compind.2020.103264",
+   "title": "Peeking into the void: Digital twins for construction site logistics",
+   "publication_year": 2020,
+   "source": "Computers in Industry",
+   "type": "article",
+   "cited_by_count": 228,
+   "relevance_score": null,
+   "authors": [
+    "Toni Greif",
+    "Nikolai Stein",
+    "Christoph M. Flath"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3095627075",
+   "doi": "10.1016/j.rcim.2020.102075",
+   "title": "The connotation of digital twin, and the construction and application method of shop-floor digital twin",
+   "publication_year": 2020,
+   "source": "Robotics and Computer-Integrated Manufacturing",
+   "type": "article",
+   "cited_by_count": 227,
+   "relevance_score": null,
+   "authors": [
+    "Cunbo Zhuang",
+    "Tian Miao",
+    "Jianhua Liu",
+    "Hui Xiong"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4200019569",
+   "doi": "10.1061/(asce)me.1943-5479.0000948",
+   "title": "Digital Twins for Construction Sites: Concepts, LoD Definition, and Applications",
+   "publication_year": 2021,
+   "source": "Journal of Management in Engineering",
+   "type": "article",
+   "cited_by_count": 225,
+   "relevance_score": null,
+   "authors": [
+    "Jiaying Zhang",
+    "Jack C.P. Cheng",
+    "Weiwei Chen",
+    "Keyu Chen"
+   ],
+   "n_authors": 4,
+   "abstract": "The lack of integration between the digital and physical world results in a lower level of efficiency and collaboration in the construction industry. Digital twin technology, which creates a visual and digital model of a corresponding physical object for simulating, monitoring, analyzing, and other actions throughout the whole life cycle, is considered as an effective solution to address these problems. This research proposes a framework to utilize digital twins and extend the existing level of details (LoDs) of building information modeling (BIM) for construction site management. This study analyzes and improves the operation principle and mechanism of digital twins, including the digital representation based on BIM, Internet of Things (IoT), data storage, integration, and analytics, as well as interaction with the physical environment. Questionnaires and interview results verify that the proposed framework can support construction site monitoring and management, enhance quality and efficiency, and improve construction safety. It also acknowledges the contribution of LoDs\u2019 extension to construction site management. The interviews underline the main challenges that BIM, IoT, and data processes face in practical applications."
+  },
+  {
+   "id": "https://openalex.org/W4221064980",
+   "doi": "10.1155/2022/2185170",
+   "title": "A Review of the Digital Twin Technology in the AEC\u2010FM Industry",
+   "publication_year": 2022,
+   "source": "Advances in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 224,
+   "relevance_score": null,
+   "authors": [
+    "Haidar Hosamo",
+    "Aksa Imran",
+    "Juan Cardenas-Cartagena",
+    "Paul Ragnar Svennevig",
+    "Kjeld Svidt",
+    "Henrik Kofoed Nielsen"
+   ],
+   "n_authors": 6,
+   "abstract": "The Architecture, Engineering, Construction, and Facility Management (AEC\u2010FM) industry is increasingly affected by digital technologies that monitor sensor network data and control automation systems. Advances in digital technologies like Digital Twin offer a high\u2010level representation of buildings and their assets by integrating the physical and digital world. This paper examines patterns, gaps, and trends in the AEC\u2010FM sector and contributes to digitalization and automation solutions for building management. This work covers a broad range of research topics, from intelligent information management of complex models to building information management and the interaction of building systems, where researchers are increasingly interested in using the Digital Twin to manage their information and in developing new research lines focused on data interchange and the interoperability of building information modeling (BIM) and facility management (FM). After a complete bibliometric search of several databases and following selection criteria, 77 academic publications about the Digital Twin application in the AEC\u2010FM industry were labeled and clustered accordingly. This study analyzed in detail the concept of key technologies, including \u201cDigital Twin in Facility Lifecycle Management,\u201d \u201cDigital Twin\u2010Information Integration Standards,\u201d \u201cDigital Twin\u2010Based Occupants Centric Building Design,\u201d \u201cDigital Twin\u2010Based Predictive Maintenance,\u201d \u201cSemantic Digital Twin for Facility Maintenance,\u201d and"
+  },
+  {
+   "id": "https://openalex.org/W4213210214",
+   "doi": "10.36680/j.itcon.2022.008",
+   "title": "A review of digital twin applications in construction",
+   "publication_year": 2022,
+   "source": "Journal of Information Technology in Construction",
+   "type": "article",
+   "cited_by_count": 223,
+   "relevance_score": null,
+   "authors": [
+    "Obinna C. Madubuike",
+    "Chimay Anumba",
+    "Rana Khallaf"
+   ],
+   "n_authors": 3,
+   "abstract": "The emergence of digital twin technology presents tremendous opportunities for several industry sectors. A digital twin is defined as the virtual representation of a physical asset that collects and sends real-time information. A digital twin collects data from the physical asset in real-time and uses this data to create a virtual model of the physical object. Its functionality depends on the bi-directional coordination of data between the physical and virtual models. This is likened to cyber-physical systems, which seek to provide bi-directional coordination between the physical and virtual worlds. While digital twins have found applications in the various industrial sectors such as aerospace, manufacturing, and industrial engineering, their applications in the construction industry are relatively limited. Although some level of progress has been made in the construction industry with the application of a digital twin, it still lags in other sectors. Virtual models of constructed facilities are developed and used to plan and construct the actual facility, with changes in the physical facility being automatically reflected in the virtual model based on real-time data and vice-versa. The digital twin shows promising possibilities in the design, construction, operation, and maintenance of a facility. This paper reviews the development and implementation of digital twin technology in the construction industry and compares its use with other industries while assessing the benefit"
+  },
+  {
+   "id": "https://openalex.org/W4200471413",
+   "doi": "10.3390/buildings11120670",
+   "title": "Adoption of Blockchain Technology through Digital Twins in the Construction Industry 4.0: A PESTELS Approach",
+   "publication_year": 2021,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 223,
+   "relevance_score": null,
+   "authors": [
+    "Benjamin Teisserenc",
+    "Samad M. E. Sepasgozar"
+   ],
+   "n_authors": 2,
+   "abstract": "The key challenges of the building, engineering, construction, operations, and mining (BECOM) industries are the lack of trust, inefficiencies, and the fragmentation of the information value chain into vulnerable data silos throughout the lifecycle of projects. This paper aims to develop a novel conceptual model for the implementation of blockchain technology (BCT) for digital twin(s) (DT) in the BECOM industry 4.0 to improve trust, cyber security, efficiencies, information management, information sharing, and sustainability. A PESTELS approach is used to review the literature and identify the key challenges affecting BCT adoption for the BECOM industry 4.0. A review of the technical literature on BCT combined with the findings from PESTELS analysis permitted researchers to identify the key technological factors affecting BCT adoption in the industry. This allowed offering a technological framework\u2014namely, the decentralized digital twin cycle (DDTC)\u2014that leverages BCT to address the key technological factors and to ultimately enhance trust, security, decentralization, efficiency, traceability, and transparency of information throughout projects\u2019 lifecycles. The study also identifies the gaps in the integration of BCT with key technologies of industry 4.0, including the internet of things (IoT), building information modeling (BIM), and DT. The framework offered addresses key technological factors and narrows key gaps around network governance, scalability, decentralization, in"
+  },
+  {
+   "id": "https://openalex.org/W4402653818",
+   "doi": "10.1016/j.jii.2024.100694",
+   "title": "Low-altitude intelligent transportation: System architecture, infrastructure, and key technologies",
+   "publication_year": 2024,
+   "source": "Journal of Industrial Information Integration",
+   "type": "article",
+   "cited_by_count": 222,
+   "relevance_score": null,
+   "authors": [
+    "Changqing Huang",
+    "Shifeng Fang",
+    "Hua Yao Wu",
+    "Yong Wang",
+    "Yichen Yang"
+   ],
+   "n_authors": 5,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4367043571",
+   "doi": "10.1016/j.jii.2023.100469",
+   "title": "Digital twin-driven fault diagnosis method for composite faults by combining virtual and real data",
+   "publication_year": 2023,
+   "source": "Journal of Industrial Information Integration",
+   "type": "article",
+   "cited_by_count": 222,
+   "relevance_score": null,
+   "authors": [
+    "Chao Ying Yang",
+    "Baoping Cai",
+    "Qibing Wu",
+    "Chenyushu Wang",
+    "Weifeng Ge",
+    "Zhiming Hu"
+   ],
+   "n_authors": 9,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4225619930",
+   "doi": "10.1016/j.autcon.2022.104245",
+   "title": "Computer vision-based construction progress monitoring",
+   "publication_year": 2022,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 221,
+   "relevance_score": null,
+   "authors": [
+    "Varun Kumar Reja",
+    "Koshy Varghese",
+    "Quang Phuc Ha"
+   ],
+   "n_authors": 3,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4224302562",
+   "doi": "10.1016/j.autcon.2022.104252",
+   "title": "Real-time mixed reality-based visual warning for construction workforce safety",
+   "publication_year": 2022,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 215,
+   "relevance_score": null,
+   "authors": [
+    "Shaoze Wu",
+    "Lei Hou",
+    "Guomin Zhang",
+    "Haosen Chen"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3213424142",
+   "doi": "10.1016/j.enbenv.2021.10.004",
+   "title": "Towards digital architecture, engineering, and construction (AEC) industry through virtual design and construction (VDC) and digital twin",
+   "publication_year": 2021,
+   "source": "Energy and Built Environment",
+   "type": "article",
+   "cited_by_count": 206,
+   "relevance_score": null,
+   "authors": [
+    "Hamed Nabizadeh Rafsanjani",
+    "Amir Hossein Nabizadeh"
+   ],
+   "n_authors": 2,
+   "abstract": "The architecture, engineering, and construction (AEC) industry is undergoing a substantial change, and the technological advancements are shaping the future of this industry. Over years, numerous tools have been developed based on building information modeling (BIM) and the Internet of Things (IoT) to manage a variety of tasks and activities within different construction and operational phases in the AEC industry. Recently, with the advent of novel internet-enabled technologies in providing the ability of real-time connectivity, researchers have started to develop virtual design and construction (VDC) and digital twin approaches to remotely monitor, control, and optimize different work progresses and activities in real-time at any work level in the AEC industry. This paper presents a reference model to illustrates the main advantages and applications of VDC and digital twin, and to demonstrate their trends and anticipated cost savings in the AEC industry at a global level. These technological advancements along with augmented reality (AR) and virtual reality (VR) can offer the unique benefit of real-time monitoring of the current status as well as predicting the future of any physical structure at any level of work. The global demand and usage of these technological advancements will lead to great cost savings in the AEC industry which would be US$950 million in design and construction and US$400 million in operation and maintenance phases in the non-residential AEC industry "
+  },
+  {
+   "id": "https://openalex.org/W3132404826",
+   "doi": "10.3390/su13042051",
+   "title": "Digital Twin Aided Vulnerability Assessment and Risk-Based Maintenance Planning of Bridge Infrastructures Exposed to Extreme Conditions",
+   "publication_year": 2021,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 205,
+   "relevance_score": null,
+   "authors": [
+    "Sakdirat Kaewunruen",
+    "Jessada Sresakoolchai",
+    "Wentao Ma",
+    "Olisa Phil-Ebosie"
+   ],
+   "n_authors": 4,
+   "abstract": "Over the past centuries, millions of bridge infrastructures have been constructed globally. Many of those bridges are ageing and exhibit significant potential risks. Frequent risk-based inspection and maintenance management of highway bridges is particularly essential for public safety. At present, most bridges rely on manual inspection methods for management. The efficiency is extremely low, causing the risk of bridge deterioration and defects to increase day by day, reducing the load-bearing capacity of bridges, and restricting the normal and safe use of them. At present, the applications of digital twins in the construction industry have gained significant momentum and the industry has gradually entered the information age. In order to obtain and share relevant information, engineers and decision makers have adopted digital twins over the entire life cycle of a project, but their applications are still limited to data sharing and visualization. This study has further demonstrated the unprecedented applications of digital twins to sustainability and vulnerability assessments, which can enable the next generation risk-based inspection and maintenance framework. This study adopts the data obtained from a constructor of Zhongcheng Village Bridge in Zhejiang Province, China as a case study. The applications of digital twins to bridge model establishment, information collection and sharing, data processing, inspection and maintenance planning have been highlighted. Then, the int"
+  },
+  {
+   "id": "https://openalex.org/W3127166206",
+   "doi": "10.1109/cac51589.2020.9327756",
+   "title": "The Development of Digital Twin Technology Review",
+   "publication_year": 2020,
+   "source": "Chinese Automation Congress",
+   "type": "conference-paper",
+   "cited_by_count": 205,
+   "relevance_score": null,
+   "authors": [
+    "Jiaju Wu",
+    "Yonghui Yang",
+    "Xun Cheng",
+    "Hongfu Zuo",
+    "Zheng Cheng"
+   ],
+   "n_authors": 5,
+   "abstract": "This article summarizes the development status of digital twins at home and abroad from the aspects of digital twin concept, research progress, digital twin connotation, challenging problems, and digital twin system construction. The article analyzes the application fields, functions and development trends of digital twins, and provides references for subsequent applications of digital twins in various fields."
+  },
+  {
+   "id": "https://openalex.org/W3121674946",
+   "doi": "10.1080/13467581.2020.1869557",
+   "title": "Augmented reality and digital twin system for interaction with construction machinery",
+   "publication_year": 2021,
+   "source": "Journal of Asian Architecture and Building Engineering",
+   "type": "article",
+   "cited_by_count": 198,
+   "relevance_score": null,
+   "authors": [
+    "Syedmobeen Hasan",
+    "Kyuhyup Lee",
+    "Daeyoon Moon",
+    "Soon\u2010Wook Kwon",
+    "Jinwoo Song",
+    "Seojoon Lee"
+   ],
+   "n_authors": 6,
+   "abstract": "Smart construction utilizes the latest IoT \u201csmart\u201d technologies, such as Cyber-Physical Systems, to aid in construction processes. A Cyber-Physical System (CPS) is an amalgamation of computation, networking and physical objects. There are various examples of CPS being employed in sectors varying from manufacturing, robotics, and smart cities. Where the application and literature are lacking, however, is construction. This paper focuses on construction machinery operation and work tracking through CPS. The relevant technologies required for creating a system with these capabilities are Augmented Reality (AR) and Digital Twin (DT). Two salient features of a CPS are real-time state knowledge and control. These are handled by the sensors and micro-controllers, respectively, allowing for bi-directional communication between the virtual models and physical objects. Remote control and tracking/monitoring of construction machinery can expedite certain on-site processes such as operations logging and 4D BIM, while improving operation precision and safety."
+  },
+  {
+   "id": "https://openalex.org/W4289076261",
+   "doi": "10.1016/j.autcon.2022.104397",
+   "title": "Digital twin-enabled real-time synchronization for planning, scheduling, and execution in precast on-site assembly",
+   "publication_year": 2022,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 196,
+   "relevance_score": null,
+   "authors": [
+    "Yishuo Jiang",
+    "Ming Li",
+    "Mingxing Li",
+    "Xinlai Liu",
+    "Ray Y. Zhong",
+    "Wei Pan"
+   ],
+   "n_authors": 7,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4387880578",
+   "doi": "10.3390/jpm13101522",
+   "title": "Digital Twins in Healthcare: Methodological Challenges and Opportunities",
+   "publication_year": 2023,
+   "source": "Journal of Personalized Medicine",
+   "type": "review",
+   "cited_by_count": 193,
+   "relevance_score": null,
+   "authors": [
+    "Charles Meijer",
+    "Hae\u2010Won Uh",
+    "Said el Bouhaddani"
+   ],
+   "n_authors": 3,
+   "abstract": "One of the most promising advancements in healthcare is the application of digital twin technology, offering valuable applications in monitoring, diagnosis, and development of treatment strategies tailored to individual patients. Furthermore, digital twins could also be helpful in finding novel treatment targets and predicting the effects of drugs and other chemical substances in development. In this review article, we consider digital twins as virtual counterparts of real human patients. The primary aim of this narrative review is to give an in-depth look into the various data sources and methodologies that contribute to the construction of digital twins across several healthcare domains. Each data source, including blood glucose levels, heart MRI and CT scans, cardiac electrophysiology, written reports, and multi-omics data, comes with different challenges regarding standardization, integration, and interpretation. We showcase how various datasets and methods are used to overcome these obstacles and generate a digital twin. While digital twin technology has seen significant progress, there are still hurdles in the way to achieving a fully comprehensive patient digital twin. Developments in non-invasive and high-throughput data collection, as well as advancements in modeling and computational power will be crucial to improve digital twin systems. We discuss a few critical developments in light of the current state of digital twin technology. Despite challenges, digital twin "
+  },
+  {
+   "id": "https://openalex.org/W4213373238",
+   "doi": "10.1007/s11069-021-05190-x",
+   "title": "Digital twin-driven intelligence disaster prevention and mitigation for infrastructure: advances, challenges, and opportunities",
+   "publication_year": 2022,
+   "source": "Natural Hazards",
+   "type": "review",
+   "cited_by_count": 192,
+   "relevance_score": null,
+   "authors": [
+    "Dianyou Yu",
+    "Zheng He"
+   ],
+   "n_authors": 2,
+   "abstract": "Natural hazards, which have the potential to cause catastrophic damage and loss to infrastructure, have increased significantly in recent decades. Thus, the construction demand for disaster prevention and mitigation for infrastructure (DPMI) systems is increasing. Many studies have applied intelligence technologies to solve key aspects of infrastructure, such as design, construction, disaster prevention and mitigation, and rescue and recovery; however, systematic construction is still lacking. Digital twin (DT) is one of the most promising technologies for multi-stage management which has great potential to solve the above challenges. This paper initially puts forward a scientific concept, in which DT drives the construction of intelligent disaster prevention and mitigation for infrastructure (IDPMI) systematically. To begin with, a scientific review of DT and IDPMI is performed, where the development of DT is summarized and a DT-based life cycle of infrastructures is defined. In addition, the intelligence technologies used in disaster management are key reviewed and their relative merits are illustrated. Furthermore, the development and technical feasibility of DT-driven IDPMI are illustrated by reviewing the relevant practice of DT in infrastructure. In conclusion, a scientific framework of DT-IDPMI is programmed, which not only provides some guidance for the deep integration between DT and IDPMI but also identifies the challenges that inspire the professional community to "
+  },
+  {
+   "id": "https://openalex.org/W3194286678",
+   "doi": "10.1061/(asce)cp.1943-5487.0000988",
+   "title": "Interactive and Immersive Process-Level Digital Twin for Collaborative Human\u2013Robot Construction Work",
+   "publication_year": 2021,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 191,
+   "relevance_score": null,
+   "authors": [
+    "Xi Wang",
+    "Ci\u2010Jyun Liang",
+    "Carol C. Menassa",
+    "Vineet R. Kamat"
+   ],
+   "n_authors": 4,
+   "abstract": "Human cognition plays a critical role in construction work, particularly in the context of high-level task planning and in-field improvisation. On the other hand, robots are adept at performing numerical computation and repetitive physical tasks with precise motion control. The unstructured and complex nature of construction environments and the inability to maintain tight tolerances in assembled workpieces pose several unique challenges to the wide application of robots in construction work. Thus, the robotization of field construction processes is best conceived as a collaborative human\u2013robot endeavor that takes advantage of both human and robot intelligence as well as robots\u2019 physical operation capabilities to overcome uncertainties and successfully perform useful construction work onsite. This paper proposes an interactive and immersive process-level digital twin (I2PL-DT) system in virtual reality (VR) that integrates visualization and supervision, task planning and execution, and bidirectional communication to enable collaborative human\u2013robot construction work. In this work paradigm, the human worker is responsible for high-level task planning and work process supervision. The robot undertakes workspace sensing and monitoring, detailed motion planning, and physical execution of the work. A drywall installation case study involving imperfect rough carpentry (wall framing) is presented using a KUKA mobile industrial robotic arm emulator. A human-in-the-loop study involvin"
+  },
+  {
+   "id": "https://openalex.org/W3006802555",
+   "doi": "10.1016/j.jmsy.2020.02.003",
+   "title": "Data Construction Method for the Applications of Workshop Digital Twin System",
+   "publication_year": 2020,
+   "source": "Journal of Manufacturing Systems",
+   "type": "article",
+   "cited_by_count": 189,
+   "relevance_score": null,
+   "authors": [
+    "Tianxiang Kong",
+    "Tianliang Hu",
+    "Tingting Zhou",
+    "Yingxin Ye"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2988439746",
+   "doi": "10.12783/shm2019/32287",
+   "title": "A Digital Twin of Bridges for Structural Health Monitoring",
+   "publication_year": 2019,
+   "source": "International Workshop on Structural Health Monitoring (IWSHM)",
+   "type": "conference-paper",
+   "cited_by_count": 189,
+   "relevance_score": null,
+   "authors": [
+    "Ye Cong",
+    "Liam Butler",
+    "BARTEK CALKA",
+    "MARAT IANGURAZOV",
+    "Qiuchen Lu",
+    "Alastair Gregory"
+   ],
+   "n_authors": 8,
+   "abstract": "Bridges are critical infrastructure systems connecting different regions and providing widespread social and economic benefits. It is therefore essential that they are designed, constructed and maintained properly to adapt to changing conditions of use and climate-driven events. With the rapid development in capability of collecting bridge monitoring data, a data challenge emerges due to insufficient capability in managing, processing and interpreting large monitoring datasets to extract useful information which is of practical value to the industry. One emerging area of research which focuses on addressing this challenge is the creation of \u2018digital twins\u2019 for bridges. A digital twin serves as a virtual representation of the physical infrastructure (i.e. the physical twin), which can be updated in near real time as new data is collected, provide feedback into the physical twin and perform \u2018what-if\u2019 scenarios for assessing asset risks and predicting asset performance. This paper presents and broadly discusses two years of exploratory study towards creating a digital twin of bridges for structural health monitoring purposes. In particular, it has involved an interdisciplinary collaboration between civil engineers at the Cambridge Centre for Smart Infrastructure and Construction (CSIC) and statisticians at the Alan Turing Institute (ATI), using two monitored railway bridges in Staffordshire, UK as a case study. Four areas of research were investigated: (i) real-time data managem"
+  },
+  {
+   "id": "https://openalex.org/W4282593313",
+   "doi": "10.3389/fbuil.2022.834671",
+   "title": "Digital Twins in the Construction Industry: A Perspective of Practitioners and Building Authority",
+   "publication_year": 2022,
+   "source": "Frontiers in Built Environment",
+   "type": "article",
+   "cited_by_count": 187,
+   "relevance_score": null,
+   "authors": [
+    "Ashtarout Ammar",
+    "Hala Nassereddine",
+    "Nadine AbdulBaky",
+    "Anwar AbouKansour",
+    "Juliano Tannoury",
+    "Harald Urban"
+   ],
+   "n_authors": 7,
+   "abstract": "As the notion of data-driven analytics and turning data into action is becoming more salient in the construction industry, researchers and practitioners have recently devoted considerable effort to investigate the digital transformation of the industry. Along this journey, Digital Twin has been introduced to the industry as a concept that holds the promise to challenge the status-quo and address long standing problems of productivity, efficiency, and value. While this concept is becoming more familiar among practitioners, there is a lack of universal definitions of what the Digital Twin of a construction project is. Additionally, while identifying the purpose of Digital Twin is recognized as the first step in implementing Digital Twins, there is little discussion on the perception of construction practitioners of the extent to which Digital Twin can deliver value. To address these research gaps and building on the existing work on Digital Twins in the context of the construction industry, this paper first proposes a definition of the Digital Twin of a construction project. Next, a series of semi-structured interviews are conducted with nine construction practitioners to understand their perceptions on the use and challenges of Digital Twins. Thematic analysis is then used to analyze interview data and summarize Digital Twins applications, capabilities, and challenges. Forty direct applications were identified and grouped into seven capabilities. Digital Twins capabilities of "
+  },
+  {
+   "id": "https://openalex.org/W4297093406",
+   "doi": "10.1016/j.compind.2022.103783",
+   "title": "A digital twin approach for tunnel construction safety early warning and management",
+   "publication_year": 2022,
+   "source": "Computers in Industry",
+   "type": "article",
+   "cited_by_count": 183,
+   "relevance_score": null,
+   "authors": [
+    "Zijian Ye",
+    "Ying Ye",
+    "Chengping Zhang",
+    "Zhiming Zhang",
+    "Wei Li",
+    "Xuejie Wang"
+   ],
+   "n_authors": 8,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W2127240436",
+   "doi": "10.1007/s10703-016-0241-z",
+   "title": "ModelPlex: verified runtime validation of verified cyber-physical system models",
+   "publication_year": 2016,
+   "source": "Formal Methods in System Design",
+   "type": "article",
+   "cited_by_count": 182,
+   "relevance_score": null,
+   "authors": [
+    "Stefan Mitsch",
+    "Andr\u00e9 Platzer"
+   ],
+   "n_authors": 2,
+   "abstract": "Formal verification and validation play a crucial role in making cyber-physical systems (CPS) safe. Formal methods make strong guarantees about the system behavior if accurate models of the system can be obtained, including models of the controller and of the physical dynamics. In CPS, models are essential; but any model we could possibly build necessarily deviates from the real world. If the real system fits to the model, its behavior is guaranteed to satisfy the correctness properties verified with respect to the model. Otherwise, all bets are off. This article introduces ModelPlex, a method ensuring that verification results about models apply to CPS implementations. ModelPlex provides correctness guarantees for CPS executions at runtime: it combines offline verification of CPS models with runtime validation of system executions for compliance with the model. ModelPlex ensures in a provably correct way that the verification results obtained for the model apply to the actual system runs by monitoring the behavior of the world for compliance with the model. If, at some point, the observed behavior no longer complies with the model so that offline verification results no longer apply, ModelPlex initiates provably safe fallback actions, assuming the system dynamics deviation is bounded. This article, furthermore, develops a systematic technique to synthesize provably correct monitors automatically from CPS proofs in differential dynamic logic by a correct-by-construction appro"
+  },
+  {
+   "id": "https://openalex.org/W4390933204",
+   "doi": "10.3390/en17020436",
+   "title": "Digital Twin Framework for Built Environment: A Review of Key Enablers",
+   "publication_year": 2024,
+   "source": "Energies",
+   "type": "article",
+   "cited_by_count": 181,
+   "relevance_score": null,
+   "authors": [
+    "Giuseppe Piras",
+    "Sofia Agostinelli",
+    "Francesco Muzi"
+   ],
+   "n_authors": 3,
+   "abstract": "The emergence of Digital Twin (DT) technology presents unique opportunities for society by facilitating real-time data transfer from the physical environment to its digital counterpart. Although progress has been made in various industry sectors such as aerospace, the Architecture, Engineering, Construction, and Operation (AECO) sector still requires further advancements, like the adoption of these technologies over traditional approaches. The use of these technologies should become standard practice rather than an advanced operation. This paper aims to address the existing gap by presenting a comprehensive framework that integrates technologies and concepts derived from purpose-driven case studies and research studies across different industries. The framework is designed to provide best practices for the AECO sector. Moreover, it aims to underscores the potential of DT for optimization through overseeing and digital management of the built environment across the entire life cycle of facilities, encompassing design, construction, operation, and maintenance. It is based on an extensive literature review and presents a holistic approach to outlining the roles of Building Information Modelling (BIM), Geographic Information Systems (GIS), Internet of Things (IoT), and other key enablers within the DT environment. These digital tools facilitating the simultaneous evaluation of associated benefits, such as resource savings and future prospects, like monitoring project sustainabili"
+  },
+  {
+   "id": "https://openalex.org/W3161403725",
+   "doi": "10.1109/tase.2021.3073396",
+   "title": "Hybrid Statistical-Machine Learning for Real-Time Anomaly Detection in Industrial Cyber\u2013Physical Systems",
+   "publication_year": 2021,
+   "source": "IEEE Transactions on Automation Science and Engineering",
+   "type": "article",
+   "cited_by_count": 180,
+   "relevance_score": null,
+   "authors": [
+    "Weijie Hao",
+    "Tao Yang",
+    "Qiang Yang"
+   ],
+   "n_authors": 3,
+   "abstract": "Critical industrial infrastructures are currently facing increasing cyberspace threats in their underlying information and communication systems. The advanced monitoring, control, and management functionalities of the industrial systems firmly rely on the reliable and secure operations of the industrial control system (ICS) network. This article characterizes the ICS network traffic and presents a scalable and efficient solution for real-time ICS network traffic anomaly detection, considering various forms of ICS anomaly events. The events due to the cyberattacks, malicious operating behaviors, and network anomalies can be effectively detected without sophisticated computational requirements and retrieval of communication protocols. The proposed hybrid statistical-machine learning model integrates a seasonal autoregressive integration moving average (SARIMA)-based dynamic threshold model and a long short-term memory (LSTM) model to jointly identify the abnormal traffic patterns with low false omission rates. The proposed solution is extensively evaluated at a realistic ICS cyber\u2013physical system (CPS) testbed, and the numerical results confirm its high detection accuracy and low computational complexity. Note to Practitioners\u2014This article was motivated by the challenge of real-time anomaly detection in industrial cyber\u2013physical systems (CPSs). The existing industrial control system (ICS) network anomaly detection solutions are generally carried out based on a single model base"
+  },
+  {
+   "id": "https://openalex.org/W4317772700",
+   "doi": "10.1016/j.rcim.2022.102524",
+   "title": "A framework for manufacturing system reconfiguration and optimisation utilising digital twins and modular artificial intelligence",
+   "publication_year": 2023,
+   "source": "Robotics and Computer-Integrated Manufacturing",
+   "type": "article",
+   "cited_by_count": 176,
+   "relevance_score": null,
+   "authors": [
+    "Fan Mo",
+    "Hamood Ur Rehman",
+    "Fabio Marco Monetti",
+    "Jack C. Chaplin",
+    "DAVID R. SANDERSON",
+    "Atanas A. Popov"
+   ],
+   "n_authors": 8,
+   "abstract": "Digital twins and artificial intelligence have shown promise for improving the robustness, responsiveness, and productivity of industrial systems. However, traditional digital twin approaches are often only employed to augment single, static systems to optimise a particular process. This article presents a paradigm for combining digital twins and modular artificial intelligence algorithms to dynamically reconfigure manufacturing systems, including the layout, process parameters, and operation times of numerous assets to allow system decision-making in response to changing customer or market needs. A knowledge graph has been used as the enabler for this system-level decision-making. A simulation environment has been constructed to replicate the manufacturing process, with the example here of an industrial robotic manufacturing cell. The simulation environment is connected to a data pipeline and an application programming interface to assist the integration of multiple artificial intelligence methods. These methods are used to improve system decision-making and optimise the configuration of a manufacturing system to maximise user-selectable key performance indicators. In contrast to previous research, this framework incorporates artificial intelligence for decision-making and production line optimisation to provide a framework that can be used for a wide variety of manufacturing applications. The framework has been applied and validated in a real use case, with the automatic re"
+  },
+  {
+   "id": "https://openalex.org/W4407392539",
+   "doi": "10.3390/app15041911",
+   "title": "Digital Twin Technology in Transportation Infrastructure: A Comprehensive Survey of Current Applications, Challenges, and Future Directions",
+   "publication_year": 2025,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 175,
+   "relevance_score": null,
+   "authors": [
+    "Di Xiao Wu",
+    "Ao Zheng",
+    "Wenshuai Yu",
+    "Hongbin Cao",
+    "Qiuyuan Ling",
+    "Jiawen Liu"
+   ],
+   "n_authors": 7,
+   "abstract": "Transportation infrastructure is central to economic development and the daily lives of citizens. However, rapid urbanization, increasing vehicle ownership, and growing concerns about sustainable development have significantly heightened the complexity of managing these systems. Although digital twin (DT) technology holds great promise, most current research focuses on specific areas, lacking a comprehensive framework that spans the entire lifecycle of transportation infrastructure, from planning and construction to operation and maintenance. The technical challenges of integrating different DT systems remain unclear, which to some extent limits the potential of DT technology in the management of transportation infrastructure. To address this gap, this review first summarizes the fundamental concepts and architectures involved in DT systems for transportation infrastructure, such as roads, bridges, tunnels, and hubs. From a lifecycle perspective, DT systems for transportation infrastructure are categorized based on functional scope, data integration methods, and application stages, and their key technologies and basic frameworks are outlined. Subsequently, the potential applications of DT in various lifecycle stages of transportation infrastructure\u2014planning and construction, operation and maintenance, and decommissioning and renewal\u2014are analyzed, and current research progress is reviewed and discussed. Finally, the challenges and future directions for achieving a full lifecyc"
+  },
+  {
+   "id": "https://openalex.org/W4317951842",
+   "doi": "10.1680/jmaen.2022.027",
+   "title": "State of the art in structural health monitoring of offshore and marine structures",
+   "publication_year": 2023,
+   "source": "Proceedings of the Institution of Civil Engineers - Maritime Engineering",
+   "type": "article",
+   "cited_by_count": 175,
+   "relevance_score": null,
+   "authors": [
+    "Hadi Pezeshki",
+    "Hojjat Adeli",
+    "Dimitrios G. Pavlou",
+    "Sudath C. Siriwardane"
+   ],
+   "n_authors": 4,
+   "abstract": "This paper deals with state of the art in structural health monitoring (SHM) methods in offshore and marine structures. Most SHM methods have been developed for onshore infrastructures. Few studies are available to implement SHM technologies in offshore and marine structures. This paper aims to fill this gap and highlight the challenges in implementing SHM methods in offshore and marine structures. The present work categorises the available techniques for establishing SHM models in oil rigs, offshore wind turbine structures, subsea systems, vessels, pipelines and so on. Additionally, the capabilities of proposed ideas in recent publications are classified into three main categories: model-based methods, vibration-based methods and digital twin methods. Recently developed novel signal processing and machine learning algorithms are reviewed and their abilities are discussed. Developed methods in vision-based and population-based approaches are also presented and discussed. The aim of this paper is to provide guidelines for selecting and establishing SHM in offshore and marine structures."
+  },
+  {
+   "id": "https://openalex.org/W3018546389",
+   "doi": "10.1108/ecam-10-2019-0578",
+   "title": "Cyber physical system for safety management in smart construction site",
+   "publication_year": 2020,
+   "source": "Engineering Construction & Architectural Management",
+   "type": "article",
+   "cited_by_count": 171,
+   "relevance_score": null,
+   "authors": [
+    "Weiguang Jiang",
+    "Lieyun Ding",
+    "Cheng Zhou"
+   ],
+   "n_authors": 3,
+   "abstract": "Purpose Construction safety has been a long-term problem in the development of the construction industry. An increasing number of smart construction sites have been designed using different techniques to reduce injuries caused by construction accidents and achieve proactive risk control. However, comprehensive smart construction site safety management solutions and applications have yet to be developed. Thus, this study proposes a smart construction site framework for safety management. Design/methodology/approach A safety management system based on a cyber-physical system is proposed. The system establishes risk data synchronization mapping between the virtual construction and physical construction sites through scene reconstruction design, data awareness, data communication and data processing modules. Personnel, mechanical and other risks on site will be warned and controlled. Findings The results of the case study have proved the management benefits of the system. On-site workers gradually realized that they should enter the construction site based on the standard process. And the number of people close to the construction hazard areas decreased. Research limitations/implications There are some limitations in the technology of smart construction site. The modeling speed can be faster, the data collection can be timelier, and the identification of unsafe behavior can be integrated into the system. Construction quality and efficiency issues in a virtual construction site wi"
+  },
+  {
+   "id": "https://openalex.org/W2138788982",
+   "doi": "10.1016/j.comcom.2012.01.005",
+   "title": "Real-time personal protective equipment monitoring system",
+   "publication_year": 2012,
+   "source": "Computer Communications",
+   "type": "article",
+   "cited_by_count": 171,
+   "relevance_score": null,
+   "authors": [
+    "Santiago Barro-Torres",
+    "Tiago M. Fern\u00e1ndez\u2010Caram\u00e9s",
+    "H\u00e9ctor J. P\u00e9rez\u2010Iglesias",
+    "Carlos J. Escudero"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3196025567",
+   "doi": "10.1016/j.jii.2021.100272",
+   "title": "Digital twin for oil pipeline risk estimation using prognostic and machine learning techniques",
+   "publication_year": 2021,
+   "source": "Journal of Industrial Information Integration",
+   "type": "article",
+   "cited_by_count": 169,
+   "relevance_score": null,
+   "authors": [
+    "Elanthakadu Bhaskaran Priyanka",
+    "S. Thangavel",
+    "Xiao\u2010Zhi Gao",
+    "N. Sivakumar"
+   ],
+   "n_authors": 4,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4240839386",
+   "doi": "10.1680/icsic.64669.067",
+   "title": "Developing a Dynamic Digital Twin at a Building Level: using Cambridge Campus as Case Study",
+   "publication_year": 2019,
+   "source": "ICE Publishing eBooks",
+   "type": "conference-paper",
+   "cited_by_count": 168,
+   "relevance_score": null,
+   "authors": [
+    "Qiuchen Lu",
+    "Ajith Kumar Parlikad",
+    "Philip Woodall",
+    "Gishan Don Ranasinghe",
+    "James Heaton"
+   ],
+   "n_authors": 5,
+   "abstract": "A Digital Twin (DT) refers to a digital replica of physical assets, processes and systems.DTs integrate artificial intelligence, machine learning and data analytics to create dynamic digital models that are able to learn and update the status of the physical counterpart from multiple sources.A DT, if equipped with appropriate algorithms will represent and predict future condition and performance of their physical counterparts.Current developments related to DTs are still at an early stage with respect to buildings and other infrastructure assets.Most of these developments focus on the architectural and engineering/construction point of view.Less attention has been paid to the operation & maintenance (O&M) phase, where the value potential is immense.A systematic and clear architecture verified with practical use cases for constructing a DT is the foremost step for effective operation and maintenance of assets.This paper presents a system architecture for developing dynamic DTs in building levels for integrating heterogeneous data sources, support intelligent data query, and provide smarter decision-making processes.This will further bridge the gaps between human relationships with buildings/regions via a more intelligent, visual and sustainable channels.This architecture is brought to life through the development of a dynamic DT demonstrator of the West Cambridge site of the University of Cambridge.Specifically, this demonstrator integrates an as-is multi-layered IFC Building "
+  },
+  {
+   "id": "https://openalex.org/W4210766573",
+   "doi": "10.3390/buildings12020113",
+   "title": "Drivers for Digital Twin Adoption in the Construction Industry: A Systematic Literature Review",
+   "publication_year": 2022,
+   "source": "Buildings",
+   "type": "review",
+   "cited_by_count": 166,
+   "relevance_score": null,
+   "authors": [
+    "De-Graft Joe Opoku",
+    "Srinath Perera",
+    "Robert Osei\u2010Kyei",
+    "Maria Rashidi",
+    "Tosin Famakinwa",
+    "Keivan Bamdad"
+   ],
+   "n_authors": 6,
+   "abstract": "Digital twin (DT) is gaining increasing attention due to its ability to present digital replicas of existing assets, processes and systems. DT can integrate artificial intelligence, machine learning, and data analytics to create real-time simulation models. These models learn and update from multiple data sources to predict their physical counterparts\u2019 current and future conditions. This has promoted its relevance in various industries, including the construction industry (CI). However, recognising the existence of a distinct set of factors driving its adoption has not been established. Therefore, this study aims to identify the drivers and integrate them into a classification framework to enhance its understanding. Utilising popular databases, including Scopus, Web of Science, and ScienceDirect, a systematic literature review of 58 relevant DT adoptions in the CI research was conducted. From the review, the drivers for DT adoption in the CI were identified and classified. The results show that developed countries such as the UK, US, Australia, and Italy have been the top countries in advancing DT adoption in the CI, while developing countries have made commendable contributions. A conceptual framework has been developed to enhance the successful adoption of DT in the CI based on 50 identified drivers. The major categories of the framework include concept-oriented drivers, production-driven drivers, operational success drivers, and preservation-driven drivers. The developed f"
+  },
+  {
+   "id": "https://openalex.org/W3007414912",
+   "doi": "10.1061/(asce)me.1943-5479.0000760",
+   "title": "Developing WSN/BIM-Based Environmental Monitoring Management System for Parking Garages in Smart Cities",
+   "publication_year": 2020,
+   "source": "Journal of Management in Engineering",
+   "type": "article",
+   "cited_by_count": 165,
+   "relevance_score": null,
+   "authors": [
+    "Yu\u2010Cheng Lin",
+    "Weng-Fong Cheung"
+   ],
+   "n_authors": 2,
+   "abstract": "In recent years, there have been many serious problems with air pollution (such as hazardous gases) in environmental management for parking garages of cities. These problems should be continuously improved and enhanced for smart cities. Building information modeling (BIM) has been revolutionary in construction industry applications; it integrates different kinds of construction information into a 3D digital model and can be applied in all stages of a project lifecycle. Furthermore, the wireless sensor network (WSN) is an important key technology in Internet of Things (IoT) development. In order to improve the performance of environmental monitoring management of parking garages in smart cities, this study proposes a planning approach for integration of WSN and BIM technologies and develops an advanced monitoring and control system for underground parking garage environment monitoring, adopting WSN and BIM technologies for digital twin (DT) application of Industry 4.0 (I4.0). Many WSN nodes with sensing and control capabilities were placed in a parking garage to collect carbon monoxide (CO), temperature, and humidity conditions in real time. All the collected information was transferred by a WSN self-constituted network, and the different location conditions were integrated and dynamically displayed on corresponding spatial components of a 3D BIM model. The proposed system was applied in a case study of a parking garage in Taipei to verify the system and demonstrate its effect"
+  },
+  {
+   "id": "https://openalex.org/W4402416065",
+   "doi": "10.3390/smartcities7050101",
+   "title": "Digital Twin Technology in Built Environment: A Review of Applications, Capabilities and Challenges",
+   "publication_year": 2024,
+   "source": "Smart Cities",
+   "type": "article",
+   "cited_by_count": 161,
+   "relevance_score": null,
+   "authors": [
+    "Yalda Mousavi",
+    "Zahra Gharineiat",
+    "Armin Agha Karimi",
+    "Kevin McDougall",
+    "Adriana Rossi",
+    "Sara Gonizzi Barsanti"
+   ],
+   "n_authors": 6,
+   "abstract": "Digital Twin (DT) technology is a pivotal innovation within the built environment industry, facilitating digital transformation through advanced data integration and analytics. DTs have demonstrated significant benefits in building design, construction, and asset management, including optimising lifecycle energy use, enhancing operational efficiency, enabling predictive maintenance, and improving user adaptability. By integrating real-time data from IoT sensors with advanced analytics, DTs provide dynamic and actionable insights for better decision-making and resource management. Despite these promising benefits, several challenges impede the widespread adoption of DT technology, such as technological integration, data consistency, organisational adaptation, and cybersecurity concerns. Addressing these challenges requires interdisciplinary collaboration, standardisation of data formats, and the development of universal design and development platforms for DTs. This paper provides a comprehensive review of DT definitions, applications, capabilities, and challenges within the Architecture, Engineering, and Construction (AEC) industries. This paper provides important insights for researchers and professionals, helping them gain a more comprehensive and detailed view of DT. The findings also demonstrate the significant impact that DTs can have on this sector, contributing to advancing DT implementations and promoting sustainable and efficient building management practices. Ultima"
+  },
+  {
+   "id": "https://openalex.org/W4309459224",
+   "doi": "10.3390/buildings12112004",
+   "title": "Digital Twin and Industry 4.0 Enablers in Building and Construction: A Survey",
+   "publication_year": 2022,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 159,
+   "relevance_score": null,
+   "authors": [
+    "Hu Wei",
+    "Kendrik Yan Hong Lim",
+    "Yiyu Cai"
+   ],
+   "n_authors": 3,
+   "abstract": "With increasing interest in automatic and intelligent systems to enhance the building and construction industry, digital twins (DT) are gaining popularity as cost-effective solutions to meet stakeholder requirements. Comprising real-time multi-asset connectivity, simulation, and decision support functionalities, many recent studies have utilised Industry 4.0 technologies with DT systems to fulfil construction-specific applications. However, there is no comprehensive review to our knowledge, holistically examining the benefits of using DT as a platform from the angles of Industry 4.0 technologies, project management, and building lifecycle. To bridge this gap, a systematic literature review of 182 papers on DT-in-construction works over the past 6 years is conducted to address the three perspectives. In this review, a unified framework is first modelled to incorporate Industry 4.0 technologies within the DT structure. Next, a Six M methodology (comprising of Machine, Manpower, Material, Measurement, Milieu, and Method) based on Ishikawa\u2019s Diagram with building lifecycle considerations is proposed to highlight the advantages of DT in ensuring successful construction projects. Lastly, through the identification of 11 future directions, this work aims to serve as a reference for both industry and academia towards the use of DT systems as a fundamental enabler to realise the Construction 4.0 paradigm."
+  },
+  {
+   "id": "https://openalex.org/W4405642324",
+   "doi": "10.3390/app142411934",
+   "title": "Artificial Intelligence and Smart Technologies in Safety Management: A Comprehensive Analysis Across Multiple Industries",
+   "publication_year": 2024,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 158,
+   "relevance_score": null,
+   "authors": [
+    "Jiyoung Park",
+    "Dongheon Kang"
+   ],
+   "n_authors": 2,
+   "abstract": "The integration of Artificial Intelligence (AI) and smart technologies into safety management is a pivotal aspect of the Fourth Industrial Revolution or Industry 4.0. This study conducts a systematic literature review to identify and analyze how AI and smart technologies enhance safety management across various sectors within the Safety 4.0 paradigm. Focusing on peer-reviewed journal articles that explicitly mention \u201cSmart\u201d, \u201cAI\u201d, or \u201cArtificial Intelligence\u201d in their titles, the research examines key safety management factors, such as accident prevention, risk management, real-time monitoring, and ethical implementation, across sectors, including construction, industrial safety, disaster and public safety, transport and logistics, energy and power, health, smart home and living, and other diverse industries. AI-driven solutions, such as predictive analytics, machine learning algorithms, IoT sensor integration, and digital twin models, are shown to proactively identify and mitigate potential hazards, optimize energy consumption, and enhance operational efficiency. For instance, in the energy and power sector, intelligent gas meters and automated fire suppression systems manage gas-related risks effectively, while in the health sector, AI-powered health monitoring devices and mental health support applications improve patient and worker safety. The analysis reveals a significant trend towards shifting from reactive to proactive safety management, facilitated by the convergence"
+  },
+  {
+   "id": "https://openalex.org/W4384103869",
+   "doi": "10.1016/j.aei.2023.102030",
+   "title": "Digital twin and its potential applications in construction industry: State-of-art review and a conceptual framework",
+   "publication_year": 2023,
+   "source": "Advanced Engineering Informatics",
+   "type": "article",
+   "cited_by_count": 157,
+   "relevance_score": null,
+   "authors": [
+    "Shuaiming Su",
+    "Ray Y. Zhong",
+    "Yishuo Jiang",
+    "Jidong Song",
+    "Fu Yang",
+    "Hongrui Cao"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W3088403552",
+   "doi": "10.1680/jsmic.19.00011",
+   "title": "Moving from building information models to digital twins for operation and maintenance",
+   "publication_year": 2020,
+   "source": "Proceedings of the Institution of Civil Engineers - Smart Infrastructure and Construction",
+   "type": "article",
+   "cited_by_count": 156,
+   "relevance_score": null,
+   "authors": [
+    "Qiuchen Lu",
+    "Xiang Xie",
+    "Ajith Kumar Parlikad",
+    "Jennifer Mary Schooling",
+    "Eirini Konstantinou"
+   ],
+   "n_authors": 5,
+   "abstract": "With the rising adoption of building information modelling (BIM) for asset management within the architecture, engineering and construction sectors, BIM-enabled asset management during the operation and maintenance phase has been increasingly attracting more and more attention in both research and practice. This paper provides a comprehensive review and analysis of the development of state-of-the-art research and industry standards that impact on BIM and asset management within the operation and maintenance phase. However, in the aspects of both information richness and analytical capability, BIM is not always enough in delivering effective and efficient asset management, particularly in the operation and maintenance phase. Therefore, a framework for future development of smart asset management is proposed, integrating the concept of digital twins. Digital twins integrate artificial intelligence, machine learning and data analytics to create dynamic digital models that are able to learn and update the status of the physical counterpart from multiple information sources. The findings will contribute to inspiring novel research ideas and promote widespread adoption of digital-twin-enabled asset management within the operation and maintenance phase."
+  },
+  {
+   "id": "https://openalex.org/W3163241835",
+   "doi": "10.3390/s21113583",
+   "title": "Digital Twin-Based Safety Risk Coupling of Prefabricated Building Hoisting",
+   "publication_year": 2021,
+   "source": "Sensors",
+   "type": "article",
+   "cited_by_count": 153,
+   "relevance_score": null,
+   "authors": [
+    "Zhansheng Liu",
+    "Xintong Meng",
+    "Zezhong Xing",
+    "Antong Jiang"
+   ],
+   "n_authors": 4,
+   "abstract": "Safety management in hoisting is the key issue to determine the development of prefabricated building construction. However, the security management in the hoisting stage lacks a truly effective method of information physical fusion, and the safety risk analysis of hoisting does not consider the interaction of risk factors. In this paper, a hoisting safety risk management framework based on digital twin (DT) is presented. The digital twin hoisting safety risk coupling model is built. The proposed model integrates the Internet of Things (IoT), Building Information Modeling (BIM), and a security risk analysis method combining the Apriori algorithm and complex network. The real-time perception and virtual-real interaction of multi-source information in the hoisting process are realized, the association rules and coupling relationship among hoisting safety risk factors are mined, and the time-varying data information is visualized. Demonstration in the construction of a large-scale prefabricated building shows that with the proposed framework, it is possible to complete the information fusion between the hoisting site and the virtual model and realize the visual management. The correlative relationship among hoisting construction safety risk factors is analyzed, and the key control factors are found. Moreover, the efficiency of information integration and sharing is improved, the gap of coupling analysis of security risk factors is filled, and effective security management and de"
+  },
+  {
+   "id": "https://openalex.org/W3087778284",
+   "doi": "10.3390/su12197873",
+   "title": "Digital Twin Aided Sustainability and Vulnerability Audit for Subway Stations",
+   "publication_year": 2020,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 153,
+   "relevance_score": null,
+   "authors": [
+    "Sakdirat Kaewunruen",
+    "Shijie Peng",
+    "Olisa Phil-Ebosie"
+   ],
+   "n_authors": 3,
+   "abstract": "Digital twin (DT) or so-called \u2018building information model (BIM)\u2019 has brought great revolution to the current building industry. Its applications to life cycle management of buildings and infrastructures can further increase the social and economic benefits. As a complete information model, a digital twin integrates the information of a project from different stages of the life cycle into a model, in order to facilitate better asset management and communicate through data visualizations with participants. This paper unprecedently introduces a digital-twin aided life cycle assessment to evaluate a subway station. Dadongmen subway station in Hefei was used as a case study. This new study benchmarks the cost estimation and carbon emission at each life cycle stage of the project. The cost in the construction stage of the project is the highest, accounting for 78% of the total cost. However, the amount of carbon emissions in the operation and maintenance is higher than the amount during the production of building materials, accounting for 67%. Among them, concrete only accounts for 43.66% of the carbon emissions of building materials, even though concrete was mainly used for constructing the metro station. Steel bar and aluminum alloy have carbon emissions of 29.73% and 17.64%, respectively. In addition, emerging risks of the subway stations can be identified. The digital twin has been used to illustrate vulnerability and potential solutions to emerging risks, and to assess the su"
+  },
+  {
+   "id": "https://openalex.org/W4385420522",
+   "doi": "10.3390/app13158814",
+   "title": "Exploring the Benefits and Limitations of Digital Twin Technology in Building Energy",
+   "publication_year": 2023,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 151,
+   "relevance_score": null,
+   "authors": [
+    "Faham Tahmasebinia",
+    "Lin Lin",
+    "Shuo Wu",
+    "Yifan Kang",
+    "Samad M. E. Sepasgozar"
+   ],
+   "n_authors": 5,
+   "abstract": "Buildings consume a significant amount of energy throughout their lifecycle; Thus, sustainable energy management is crucial for all buildings, and controlling energy consumption has become increasingly important for achieving sustainable construction. Digital twin (DT) technology, which lies at the core of Industry 4.0, has gained widespread adoption in various fields, including building energy analysis. With the ability to monitor, optimize, and predict building energy consumption in real time. DT technology has enabled sustainable building energy management and cost reduction. This paper provides a comprehensive review of the development and application of DT technology in building energy. Specifically, it discusses the background of building information modeling (BIM) and DT technology and their application in energy optimization in buildings. Additionally, this article reviews the application of DT technology in building energy management, indoor environmental monitoring, and building energy efficiency evaluation. It also examines the benefits and challenges of implementing DT technology in building energy analysis and highlights recent case studies. Furthermore, this review emphasizes emerging trends and opportunities for future research, including integrating machine learning techniques with DT technology. The use of DT technology in the energy sector is gaining momentum as efforts to optimize energy efficiency and reduce carbon emissions continue. The advancement of bu"
+  },
+  {
+   "id": "https://openalex.org/W4321381797",
+   "doi": "10.1016/j.rcim.2023.102545",
+   "title": "Hybrid learning-based digital twin for manufacturing process: Modeling framework and implementation",
+   "publication_year": 2023,
+   "source": "Robotics and Computer-Integrated Manufacturing",
+   "type": "article",
+   "cited_by_count": 150,
+   "relevance_score": null,
+   "authors": [
+    "Ziqi Huang",
+    "Marcel Fey",
+    "Chao Liu",
+    "Ege Beysel",
+    "Xun William Xu",
+    "Christian Brecher"
+   ],
+   "n_authors": 6,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4285804136",
+   "doi": "10.3390/su14148664",
+   "title": "Development of Digital Twin for Intelligent Maintenance of Civil Infrastructure",
+   "publication_year": 2022,
+   "source": "Sustainability",
+   "type": "article",
+   "cited_by_count": 148,
+   "relevance_score": null,
+   "authors": [
+    "Mojtaba Mahmoodian",
+    "Farham Shahrivar",
+    "Sujeeva Setunge",
+    "Sam Mazaheri"
+   ],
+   "n_authors": 4,
+   "abstract": "Over the life cycle of a civil infrastructure (a bridge as an example), 0.4\u20132% of the construction cost is spent annually on its maintenance. Utilising new technologies including the internet of things (IoT) and digital twin (DT) can significantly reduce the infrastructure maintenance costs. An infrastructure DT involves its digital replica and must include data on geometric, geospatial reference, performance, attributes (material, environment etc.) and management. Then, the acquired data need to be analysed and visualised to inform maintenance decision making. To develop this DT, the first step is the study of the infrastructure life cycle to design DT architecture. Using data semantics, this paper presents a novel DT architecture design for an intelligent infrastructure maintenance system. Semantic modelling is used as a powerful tool to structure and organize data. This approach provides an industry context through capturing knowledge about infrastructures in the structure of semantic model graph. Using new technologies, DT approach derives and presents meaningful data on infrastructure real-time performance and maintenance requirements, and in a more expressible and interpretable manner. The data semantic model will guide when and what data to collect for feeding into the infrastructure DT. The proposed DT concept was applied on one of the conveyors of Dalrymple Bay Coal Terminal in Queensland Australia to monitor the structural performance in real-time, which enables pre"
+  },
+  {
+   "id": "https://openalex.org/W4387534118",
+   "doi": "10.1016/j.dibe.2023.100247",
+   "title": "Automated vision-based construction progress monitoring in built environment through digital twin",
+   "publication_year": 2023,
+   "source": "Developments in the Built Environment",
+   "type": "article",
+   "cited_by_count": 146,
+   "relevance_score": null,
+   "authors": [
+    "Aritra Pal",
+    "Jacob J. Lin",
+    "Shang\u2010Hsien Hsieh",
+    "Mani Golparvar\u2010Fard"
+   ],
+   "n_authors": 4,
+   "abstract": "Effective progress monitoring is ineviTable for completing the construction of building and infrastructure projects successfully. In this digital transformation era, with the data-centric management and control approach, the effectiveness of monitoring methods is expected to improve dramatically. \u201dDigital Twin,\u201d which creates a bidirectional communication flow between a physical entity and its digital counterpart, is found to be a crucial enabling technology for information-aware decision-making systems in manufacturing and other automotive industries. Recognizing the benefits of this technology in production management in construction, researchers have proposed Digital Twin Construction (DTC). DTC leverages building information modeling technology and processes, lean construction practices, on-site digital data collection mechanisms, and Artificial Intelligence (AI) based data analytics for improving construction production planning and control processes. Progress monitoring, a key component in construction production planning and control, can significantly benefit from DTC. However, some knowledge gaps still need to be filled for the practical implementation of DTC for progress monitoring in the built environment domain. This research reviews the existing vision-based progress monitoring methods, studies the evolution of automated vision-based construction progress monitoring research, and highlights the methodological and technological knowledge gaps that must be addressed"
+  },
+  {
+   "id": "https://openalex.org/W3090431070",
+   "doi": "10.1145/3365438.3410941",
+   "title": "Model-driven digital twin construction: synthesizing the integration of cyber-physical systems with their information systems",
+   "publication_year": 2020,
+   "source": "ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS)",
+   "type": "conference-paper",
+   "cited_by_count": 145,
+   "relevance_score": null,
+   "authors": [
+    "J\u00f6rg Christian Kirchhof",
+    "Judith Michael",
+    "Bernhard Rumpe\u22c6",
+    "Simon Varga",
+    "Andreas Wortmann"
+   ],
+   "n_authors": 5,
+   "abstract": "Digital twins emerge in many disciplines to support engineering, monitoring, controlling, and optimizing cyber-physical systems, such as airplanes, cars, factories, medical devices, or ships. There is an increasing demand to create digital twins as representation of cyber-physical systems and their related models, data traces, aggregated data, and services. Despite a plethora of digital twin applications, there are very few systematic methods to facilitate the modeling of digital twins for a given cyber-physical system. Existing methods focus only on the construction of specific digital twin models and do not consider the integration of these models with the observed cyber-physical system. To mitigate this, we present a fully model-driven method to describe the software of the cyber-physical system, its digital twin information system, and their integration. The integration method relies on MontiArc models of the cyber-physical system's architecture and on UML/P class diagrams from which the digital twin information system is generated. We show the practical application and feasibility of our method on an IoT case study. Explicitly modeling the integration of digital twins and cyber-physical systems eliminates repetitive programming activities and can foster the systematic engineering of digital twins."
+  },
+  {
+   "id": "https://openalex.org/W4295982028",
+   "doi": "10.1016/j.autcon.2022.104551",
+   "title": "Systematic approach to generate Historical Building Information Modelling (HBIM) in architectural restoration project",
+   "publication_year": 2022,
+   "source": "Automation in Construction",
+   "type": "article",
+   "cited_by_count": 142,
+   "relevance_score": null,
+   "authors": [
+    "Juan Jos\u00e9 Moyano",
+    "Eva Carre\u00f1o",
+    "Juan Enrique Nieto-Juli\u00e1n",
+    "Ignacio Gil-Ariz\u00f3n",
+    "Silvana Bruno"
+   ],
+   "n_authors": 5,
+   "abstract": "Working with heritage is complex and projects often include scientific, structural, and documentary studies. Every step requires a systematic approach in which the contribution of the diverse experts that participate in the conservation of heritage assets is analysed following the logical sequence of the project execution phase. However, there are still no scientific contributions that record the complete process. A logical sequence, called a \u2018systematic approach\u2019 in this paper, should start with data acquisition using remote sensing techniques, the insertion of point cloud data in a Building Information Modelling (BIM) environment, ontologies applied to HBIM (Historic BIM), data classification, and evolution towards the Digital Twin (DT) concept. This paper also analyses the modelling workflow of a case study, the construction of a column base of the Santiago church in Jerez de la Frontera (Spain). This component has been automatically modelled from a mesh in an Autodesk Revit family and through an adaptive mesh process in ArchiCAD. Furthermore, one of the objectives was the data organisation by following and extending a standard data structure of the column components. This paper presents a novel holistic approach from data capture, analysis of complex geometry, construction of the semantically enriched parametric model, and exchange of it among all involved professionals in open source IFC formats. This systematic approach therefore makes it possible to obtain a validated "
+  },
+  {
+   "id": "https://openalex.org/W4285389446",
+   "doi": "10.1155/2022/2194949",
+   "title": "Digital Twin Technology for Bridge Maintenance using 3D Laser Scanning: A Review",
+   "publication_year": 2022,
+   "source": "Advances in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 141,
+   "relevance_score": null,
+   "authors": [
+    "Haidar Hosamo",
+    "Mohsen Hosamo"
+   ],
+   "n_authors": 2,
+   "abstract": "There has been a significant surge in the interest in adopting cutting\u2010edge new technologies in the civil engineering industry in recent times that monitor the Internet of Things (IoT) data and control automation systems. By combining the real and digital worlds, digital technologies, such as Digital Twin, provide a high\u2010level depiction of bridges and their assets. The inspection, evaluation, and management of infrastructure have experienced profound changes in technological advancement over the last decade. Technologies like laser scanners have emerged as a viable replacement for labor\u2010intensive, costly, and dangerous traditional methods that risk health and safety. The new maintenance techniques have increased their use in the construction section, particularly regarding bridges. This review paper aims to present a comprehensive and state\u2010of\u2010the\u2010art review upon using laser scanners in bridge maintenance and engineering and looking deeper into the study field in focus and researchers\u2019 suggestions in this field. Moreover, the review was conducted to gather, evaluate, and analyze the papers collected in the years from 2017 to 2022. The interaction of research networks, dominant subfields, the co\u2010occurrence of keywords, and countries were all examined. Four main categories were presented, namely machine learning, bridge management system (BMS), bridge information modeling (BrIM), and 3D modeling. The findings demonstrate that information standardization is the first significant"
+  },
+  {
+   "id": "https://openalex.org/W3214580838",
+   "doi": "10.3390/buildings11110554",
+   "title": "Incremental Digital Twin Conceptualisations Targeting Data-Driven Circular Construction",
+   "publication_year": 2021,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 141,
+   "relevance_score": null,
+   "authors": [
+    "P. M\u00eada",
+    "Diego Calvetti",
+    "Eilif Hjelseth",
+    "Hip\u00f3lito Jos\u00e9 Campos De Sousa"
+   ],
+   "n_authors": 4,
+   "abstract": "The construction industry faces multiple challenges, where transition to circular production is key. Digitalisation is a strategy to increase the sector\u2019s productivity, competitiveness, and efficiency. However, digitalisation also impacts environmental goals, such as those concerning more eco-friendly solutions, energy efficiency, products recycling, and sustainability certifications. These strategies rely on data, understood as digital, interoperable, incremental and traceable. Data related concepts, such as digital data templates (DDT) and digital building logbooks (DBL), contribute to \u201cgood data\u201d. Despite some research focused on each one, little importance has yet been given to their combination. Relevant relationships and overlaps exist, as they partially share the exact same data through the built environment life cycle. This research aims to provide improved understanding on the role of these concepts and their contribution to a more circular industry. The review develops conceptualisations where DDT and DBL are complementary and framed within an incremental digital twin construction (DTC). Misconceptions or confrontations between these three solutions can therefore stand down, for the benefit of a data-driven priority. To increase understanding and reduce misconceptions, our study developed the \u201cDigital data-driven concept\u201d (D3c). This concept contribution is the ability to structure, store, and trace data, opening way to streamlined digital transformation impacting c"
+  },
+  {
+   "id": "https://openalex.org/W4225145878",
+   "doi": "10.3390/buildings12050571",
+   "title": "Collaboration and Risk in Building Information Modelling (BIM): A Systematic Literature Review",
+   "publication_year": 2022,
+   "source": "Buildings",
+   "type": "review",
+   "cited_by_count": 140,
+   "relevance_score": null,
+   "authors": [
+    "Kherun Nita Ali",
+    "Hamed H. Alhajlah",
+    "Mukhtar A. Kassem"
+   ],
+   "n_authors": 3,
+   "abstract": "Building information modelling (BIM) has become increasingly popular in construction projects in recent years. Simultaneously, project management has received more attention from academics and practitioners worldwide. Many studies have suggested that perceiving collaboration and risk are critical for successful construction project management. This study investigates the current status and future trends in building information modeling (BIM) literature from the Web of Science database. This review systematically uses bibliometric and systematic literature review (SLR) methods through co-occurrence and co-citation analysis. First, 650 academic documents were retrieved from the Web of Science database. Then, co-occurrence and co-citation analyses were performed along with network visualization to examine research interconnections\u2019 patterns. As a result, relevant keywords, productive authors, and important journals have been highlighted. The prominent research topics within the literature on building information modelling focus on the following topics: collaborative in BIM, integration of BIM, GIS and Internet of Things (IoT), barriers to the integration of BIM, sustainability and BIM, and risk assessment and uncertainty. Finally, the potential research directions are developing towards digital twin technology, integration of BIM and AI, and Augmented Reality (AR) and BIM. The presented findings of only 88 articles discuss the collaboration and risk issue in BIM for the construc"
+  },
+  {
+   "id": "https://openalex.org/W3181328872",
+   "doi": "10.1016/j.jii.2021.100242",
+   "title": "Developing sensor signal-based digital twins for intelligent machine tools",
+   "publication_year": 2021,
+   "source": "Journal of Industrial Information Integration",
+   "type": "article",
+   "cited_by_count": 140,
+   "relevance_score": null,
+   "authors": [
+    "Angkush Kumar Ghosh",
+    "AMM Sharif Ullah",
+    "Roberto Teti",
+    "Akihiko Kubo"
+   ],
+   "n_authors": 4,
+   "abstract": "Abstract Digital twins can assist machine tools in performing their monitoring and troubleshooting tasks autonomously from the context of smart manufacturing. For this, a special type of twin denoted as sensor signal-based twin must be constructed and adapted into the cyber-physical systems. The twin must (1) machine-learn the required knowledge from the historical sensor signal datasets, (2) seamlessly interact with the real-time sensor signals, (3) handle the semantically annotated datasets stored in clouds, and (4) accommodate the data transmission delay. The development of such twins has not yet been studied in detail. This study fills this gap by addressing sensor signal-based digital twin development for intelligent machine tools. Two computerized systems denoted as Digital Twin Construction System (DTCS) and Digital Twin Adaptation System (DTAS) are proposed to construct and adapt the twin, respectively. The modular architectures of the proposed DTCS and DTAS are presented in detail. The real-time responses and delay-related computational arrangements are also elucidated for both systems. The systems are also developed using a Java\u2122-based platform. Milling torque signals are used as an example to demonstrate the efficacy of DTCS and DTAS. This study thus contributes toward the advancement of intelligent machine tools from the context of smart manufacturing."
+  },
+  {
+   "id": "https://openalex.org/W3095719583",
+   "doi": "10.1061/(asce)cp.1943-5487.0000933",
+   "title": "Vision-Based Framework for Automatic Progress Monitoring of Precast Walls by Using Surveillance Videos during the Construction Phase",
+   "publication_year": 2020,
+   "source": "Journal of Computing in Civil Engineering",
+   "type": "article",
+   "cited_by_count": 140,
+   "relevance_score": null,
+   "authors": [
+    "Zhichen Wang",
+    "Qilin Zhang",
+    "Bin Yang",
+    "Tiankai Wu",
+    "Ke Lei",
+    "Binghan Zhang"
+   ],
+   "n_authors": 7,
+   "abstract": "Detecting and locating precast components to confirm and update components\u2019 status information is the key to construction progress monitoring. There are several ways to collect the information of elements in construction sites, such as manual collection, laser scanning, and tag-based methods. But each of these methods has its own limitations. Considering that effective and accurate construction progress monitoring is fundamental to construction management, this paper proposes a novel framework that integrates the latest computer vision methods to realize automatically monitoring construction progress of precast walls, one of the essential components in precast construction. In this framework, object detection, instance segmentation, and multiple-object tracking are combined to collect precast walls\u2019 location and temporal information from the surveillance videos recording the construction phase. Status information identified and collected is stored as a JavaScript object notation (JSON) format and then sent into a corresponding building information model (BIM) to timestamp the wall components. Each method in the framework is evaluated, respectively, and the demonstration on a real project proves the feasibility, convenience, and efficiency of this vision-based framework. The research results prove the proposed framework\u2019s ability to monitor the construction progress of precast walls automatically. Furthermore, the vital information extracted by the proposed framework contribut"
+  },
+  {
+   "id": "https://openalex.org/W3120767325",
+   "doi": "10.1007/s10845-020-01724-5",
+   "title": "A digital twin emulator of a modular production system using a data-driven hybrid modeling and simulation approach",
+   "publication_year": 2021,
+   "source": "Journal of Intelligent Manufacturing",
+   "type": "article",
+   "cited_by_count": 138,
+   "relevance_score": null,
+   "authors": [
+    "Konstantinos Mykoniatis",
+    "Gregory A. Harris"
+   ],
+   "n_authors": 2,
+   "abstract": ""
+  },
+  {
+   "id": "https://openalex.org/W4391025112",
+   "doi": "10.3390/s24020655",
+   "title": "Human Digital Twin in Industry 5.0: A Holistic Approach to Worker Safety and Well-Being through Advanced AI and Emotional Analytics",
+   "publication_year": 2024,
+   "source": "Sensors",
+   "type": "article",
+   "cited_by_count": 136,
+   "relevance_score": null,
+   "authors": [
+    "Saul Davila-Gonzalez",
+    "Sergio Mart\u00edn"
+   ],
+   "n_authors": 2,
+   "abstract": "This research introduces a conceptual framework designed to enhance worker safety and well-being in industrial environments, such as oil and gas construction plants, by leveraging Human Digital Twin (HDT) cutting-edge technologies and advanced artificial intelligence (AI) techniques. At its core, this study is in the developmental phase, aiming to create an integrated system that could enable real-time monitoring and analysis of the physical, mental, and emotional states of workers. It provides valuable insights into the impact of Digital Twins (DT) technology and its role in Industry 5.0. With the development of a chatbot trained as an empathic evaluator that analyses emotions expressed in written conversations using natural language processing (NLP); video logs capable of extracting emotions through facial expressions and speech analysis; and personality tests, this research intends to obtain a deeper understanding of workers' psychological characteristics and stress levels. This innovative approach might enable the identification of stress, anxiety, or other emotional factors that may affect worker safety. Whilst this study does not encompass a case study or an application in a real-world setting, it lays the groundwork for the future implementation of these technologies. The insights derived from this research are intended to inform the development of practical applications aimed at creating safer work environments."
+  },
+  {
+   "id": "https://openalex.org/W4287887880",
+   "doi": "10.1109/mnet.119.2200080",
+   "title": "Digital Twin for Networking: A Data-Driven Performance Modeling Perspective",
+   "publication_year": 2022,
+   "source": "IEEE Network",
+   "type": "article",
+   "cited_by_count": 136,
+   "relevance_score": null,
+   "authors": [
+    "Linbo Hui",
+    "Mowei Wang",
+    "Liang Zhang",
+    "Lu Lu",
+    "Yong Cui"
+   ],
+   "n_authors": 5,
+   "abstract": "Emerging technologies and applications make the network unprecedentedly complex and heterogeneous, leading the network operations to be costly and risky. The digital twin network (DTN) can ease these burdens by virtually enabling users to understand how performance changes accordingly with modifications. For this \u201cWhat-if\u201d performance evaluation, conventional simulation and analytical approaches are inefficient, inaccurate, and inflexible, and we argue that data-driven methods are most promising. In this article, we identify three requirements (fidelity, efficiency, and flexibility) for performance evaluation. Then we present a comparison of selected data-driven methods and investigate their potential trends in data, models, and applications. We find that performance models have enabled extensive applications, while there are still significant conflicts between models' capacities to handle diversified inputs and limited data collected from the production network. We further illustrate the opportunities for data collection, model construction, and application prospects. This survey aims to provide a reference for performance evaluation while also facilitating future DTN research."
+  },
+  {
+   "id": "https://openalex.org/W4386935297",
+   "doi": "10.1080/15583058.2023.2258084",
+   "title": "Shaping Digital Twin Concept for Built Cultural Heritage Conservation: A Systematic Literature Review",
+   "publication_year": 2023,
+   "source": "International Journal of Architectural Heritage",
+   "type": "review",
+   "cited_by_count": 134,
+   "relevance_score": null,
+   "authors": [
+    "Annalaura Vuoto",
+    "\u202aMarco Francesco Funari",
+    "Paulo Barbosa Louren\u00e7o"
+   ],
+   "n_authors": 3,
+   "abstract": "The Digital Twin (DT) technology has shown promise in transforming complex engineered systems. However, its adoption in the Architecture, Engineering, Construction, and Operation (AECO) field, particularly for Built Cultural Heritage (BCH) conservation, is still in its early stages. This study presents a systematic literature review of 85 academic publications to evaluate the current state of DT implementation in heritage building conservation and identifies areas for optimising preventive management. In addition, this review explores interpretations of the DT concept in this field, addressing overlaps with Historical/Heritage Building Information Modelling (HBIM), discusses DT functionalities and presents existing frameworks. The findings demonstrate the potential of DT to revolutionise BCH conservation through a holistic approach. However, further focus is needed on features and tools for enhancing performance-based management with targeted strategies and advanced data analysis. Future research should prioritise developing these aspects to fully leverage the potential of the DT paradigm in BCH conservation."
+  },
+  {
+   "id": "https://openalex.org/W4221122187",
+   "doi": "10.3390/app12062928",
+   "title": "Options for and Challenges of Employing Digital Twins in Construction Management",
+   "publication_year": 2022,
+   "source": "Applied Sciences",
+   "type": "article",
+   "cited_by_count": 133,
+   "relevance_score": null,
+   "authors": [
+    "Tareq J. Salem",
+    "Mihai Dragomir"
+   ],
+   "n_authors": 2,
+   "abstract": "The notions of smart construction and smart or digital cities include many modern concepts that are advocated today, especially in countries with advanced economies, and depend on using information technology and the Internet of Things as a basis to automate processes and activate digital systems to manage activities and services related to the operation of buildings and urban structures. In light of the spread of digital technology and modern managerial approaches, the concept of a digital twin is being used on a large scale with the current trend and direction to digitalize activities providing many economic, social and technical advantages. A digital twin is a system in which a virtual representation of a real entity or physical system is used continuously by being fed with data and deriving outputs in the form of decisions and actions that are generated through the processes of machine learning, simulation, development and lifecycle management. This study aims to review the literature on construction project management through the lens of digital twins and ways to use them in the field to improve operational results. The authors propose a framework for analyzing and supervising the development of digital twins that uses three main stages: the commonly encountered Building Information Modeling (BIM); the existing monitoring and actuation digital twins; and an envisioned third stage that makes use of artificial intelligence, complex visualization instruments and advanced co"
+  },
+  {
+   "id": "https://openalex.org/W2969561908",
+   "doi": "10.3390/buildings9090191",
+   "title": "Delay Causes and Emerging Digital Tools: A Novel Model of Delay Analysis, Including Integrated Project Delivery and PMBOK",
+   "publication_year": 2019,
+   "source": "Buildings",
+   "type": "article",
+   "cited_by_count": 133,
+   "relevance_score": null,
+   "authors": [
+    "Samad M. E. Sepasgozar",
+    "Reyhaneh Karimi",
+    "Sara Shirowzhan",
+    "Mohammad Mojtahedi",
+    "Sabbar Ebrahimzadeh",
+    "David McCarthy"
+   ],
+   "n_authors": 6,
+   "abstract": "Delay is one of the main challenges of construction projects, and there is still much to overcome in order to reach near zero delay in all construction projects. This project aims to conduct a systematic critical review including a bibliography analysis on delay literature in construction. The main questions consider what has been learnt from a decade investigating delay causes and effects in the construction literature and what factors have been missed in the literature. This paper also presents a new and challenging question regarding how digital tools and associated technologies may prevent any delay in construction projects, which can change the research direction from delay investigations to identifying prevention factors. The paper identifies the delay dataset, including 493 papers investigating delay in construction, and establishes a specific dataset of papers focusing on delay effects and causes (DEC), including 94 selected papers covering different factors examined in over 29 countries such as Iran, India, Turkey, Bangladesh, Saudi Arabia, the United Arab Emirates (UAE), Cambodia, Oman, Malaysia, Taiwan, China, Vietnam, the US, the UK, and Egypt. In addition, the paper identifies 30 critical factors with the frequency of occurrences over three times in the DEC dataset and computes their medians of ranking. This paper also discusses digital tools and methods that can be used for delay analysis and preventions, including MS Project, Oracle Primavera P6, and Open Plan "
+  }
+ ]
+}
