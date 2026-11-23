@@ -19,3 +19,8 @@ logs/
 
 # Claude Code local configuration
 .claude.json
+# SiteOps prototype
+siteops-twin/prototype/.venv/
+siteops-twin/prototype/*.db
+__pycache__/
+.pytest_cache/

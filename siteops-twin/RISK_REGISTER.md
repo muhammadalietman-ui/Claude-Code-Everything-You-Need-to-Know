@@ -4,7 +4,7 @@ Scoring: Likelihood (L) and Impact (I) are each rated 1–5. Score = L × I. **�
 
 | ID | Risk | Category | L | I | Score | Mitigation | Owner | Status |
 |---|---|---|---|---|---|---|---|---|
-| R-01 | Pilot spread not available in the research window (schedule slip, demobilisation) | Access | 3 | 5 | **15** | Pick the site early (P1). Have a backup spread. Fall back to historical data | project-manager | Open |
+| R-01 | Pilot spread not available (re-scoped by D-071: reference project first, so lower impact) | Access | 3 | 3 | 9 | Pick the site early (P1). Have a backup spread. Fall back to historical data | project-manager | Open |
 | R-02 | Drone volumetric accuracy is insufficient to verify contract quantities | Technical | 3 | 4 | 12 | GCP/RTK protocol; check points; uncertainty budget; use drones as a tolerance test, not as the sole basis for certification | gis-engineer | Open |
 | R-03 | Personnel tracking and cameras breach privacy or labour law (GDPR; e.g. Art. 4 of the Italian Workers' Statute if the site is in Italy; local law elsewhere). **Exposure higher after D-069** | Legal/ethical | 3 | 5 | **15** | Crew/zone only; DPIA; consent; worker-representative consultation; legal review; opt-out | research-lead | Open |
 | R-04 | Researcher bias: the Commercial Manager evaluates their own process and tool | Validity | 4 | 3 | 12 | Pre-registered metrics; independent QS checks; supervisor audit; report negative results | research-lead | Open |
@@ -22,7 +22,7 @@ Scoring: Likelihood (L) and Impact (I) are each rated 1–5. Score = L × I. **�
 | R-20 | Loss of POLIMI database access blocks Scopus/WoS | Access | 2 | 4 | 8 | Confirm early (Q-022); fall back to Scholar and interlibrary loan | literature-reviewer | Open |
 | R-30 | The as-is differs materially between spreads | Validity | 3 | 3 | 9 | Document variants; choose a representative pilot | process-analyst | Open |
 | R-31 | Historical dispute data unavailable or too sensitive | Data access | 3 | 3 | 9 | Prospective baseline; anonymised aggregates | commercial-analyst | Open |
-| R-40 | MVP (14–18 developer-weeks) exceeds the P6 window (10 weeks) | Delivery | 4 | 3 | 12 | Cut order in `mvp_scope.md` §2; Streamlit fallback (Q-043) | solution-architect | Open |
+| R-40 | MVP exceeds the P6 window (**closed**: no fixed calendar, D-071; first MVP iteration built) | Delivery | 1 | 3 | 3 | Cut order in `mvp_scope.md` §2; Streamlit fallback (Q-043) | solution-architect | Open |
 | R-41 | Offline sync produces duplicate or conflicting records | Data quality | 3 | 3 | 9 | Client UUIDs; append-only versions; data-quality flags | data-engineer | Open |
 | R-50 | Time-window activities are missed by the flight timing | Technical | 3 | 3 | 9 | Coordinate flights; as-built survey as witness; KP-linked photos | gis-engineer | Open |
 | R-51 | Datum or GCP inconsistency causes systematic volume bias | Technical | 2 | 4 | 8 | Fixed GCP network; RMSE gate | gis-engineer | Open |
@@ -33,3 +33,6 @@ Scoring: Likelihood (L) and Impact (I) are each rated 1–5. Score = L × I. **�
 | R-70 | Workforce or union resistance to check-in, cameras or badges leads to a stoppage or reputational issue | Labour relations | 3 | 4 | 12 | Consultation before deployment; HSE-led framing; aggregates only; transparency and opt-out for wearables | research-lead | Open |
 | R-71 | Camera trailers or trackers are stolen, vandalised or lose power at remote fronts | Technical | 3 | 2 | 6 | Solar plus battery; tamper alerts; insurance; relocatable units | field-operations-specialist | Open |
 | R-72 | Subcontractors refuse presence verification without a contract basis | Commercial | 3 | 4 | 12 | Written pilot agreement; clauses in future subcontracts; show faster payment as the benefit | commercial-analyst | Open |
+| R-73 | No works agreement (BetrVG §87(1) No. 6) in time for live sensing | Labour relations | 3 | 4 | 12 | Early engagement; template works agreement; aggregates-only design; demo shows the safeguards | research-lead | Open |
+| R-74 | Legal basis for employee data challenged (BDSG §26 after CJEU C-34/21) | Legal | 2 | 4 | 8 | GDPR Art. 6 bases + works agreement; DPIA; legal review | research-lead | Open |
+| R-75 | Reference-project data is incomplete (no KP on claims, no σ on measurements) | Data | 3 | 3 | 9 | Step-wise intake; UNVERIFIABLE status; disaggregation rules | data-engineer | Open |

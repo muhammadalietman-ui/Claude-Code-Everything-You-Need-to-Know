@@ -1,0 +1,3 @@
+# SYNTHETIC DATA - SiteOps Twin demo - not a real project - seed 20270104
+spread_id,name,site_tz,crs_code,kp_start_m,kp_end_m,is_synthetic
+SYN-SPREAD-01,Synthetic 24-inch onshore spread,Europe/Berlin,SYN-LOCAL,0,25000,1

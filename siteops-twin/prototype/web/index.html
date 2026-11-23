@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SiteOps Twin Dashboard</title>
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script src="vendor/chartjs/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <h1>SiteOps Twin</h1>
+    <span class="badge-synthetic" title="All data shown is synthetic demo data">SYNTHETIC DEMO</span>
+    <span id="spreadLabel" class="muted"></span>
+    <div class="controls">
+      <label>Date <input type="date" id="datePick"></label>
+      <label>Role
+        <select id="rolePick" aria-describedby="roleHelp">
+          <option value="CM">CM: Commercial Manager</option>
+          <option value="QS">QS: Quantity Surveyor</option>
+          <option value="SM">SM: Spread Manager</option>
+          <option value="FM">FM: Foreman</option>
+          <option value="SV">SV: Survey</option>
+          <option value="SC">SC: Subcontractor</option>
+          <option value="ADM">ADM: Admin</option>
+          <option value="AUD">AUD: Auditor</option>
+        </select>
+      </label>
+      <label id="scWrap" hidden>Subcontractor <select id="scPick"></select></label>
+      <a href="field.html" class="muted">Field app ↗</a>
+    </div>
+    <span id="roleHelp" hidden>The demo role is sent as the X-Role header on every request</span>
+  </header>
+  <nav class="tabs" aria-label="Screens">
+    <a href="#overview">S1 Overview</a>
+    <a href="#production">S2 Production</a>
+    <a href="#reconciliation">S3 Reconciliation</a>
+    <a href="#scorecard">S4 Scorecard</a>
+    <a href="#alerts">S5 Alerts</a>
+    <a href="#certificate">S7 Certificate</a>
+    <a href="#presence">S8 Presence</a>
+  </nav>
+  <main id="view" tabindex="-1" aria-live="polite"></main>
+
+  <dialog id="certDialog" aria-labelledby="certTitle">
+    <form method="dialog" id="certForm">
+      <h2 id="certTitle">Certify quantity</h2>
+      <div id="certInfo" class="msg"></div>
+      <label>Quantity to certify <input type="number" step="any" min="0" id="certQty" required></label>
+      <label id="reasonWrap" hidden>Override reason (required above cap)
+        <select id="certReason">
+          <option value="">Select a reason</option>
+          <option value="JOINT_MEASUREMENT">Joint measurement</option>
+          <option value="SURVEY_RECHECK">Survey recheck</option>
+          <option value="CONTRACT_RULE">Contract rule</option>
+          <option value="OTHER">Other</option>
+        </select>
+      </label>
+      <label>Comment <textarea id="certComment" rows="3"></textarea></label>
+      <div id="certMsg" class="msg" role="status"></div>
+      <div class="actions">
+        <button type="button" id="certCancel">Cancel</button>
+        <button type="submit" class="primary" id="certSubmit">Certify</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="alertDialog" aria-labelledby="alertTitle">
+    <form method="dialog" id="alertForm">
+      <h2 id="alertTitle">Update alert</h2>
+      <div id="alertInfo" class="msg"></div>
+      <label>Comment <textarea id="alertComment" rows="3" required></textarea></label>
+      <div id="alertMsg" class="msg" role="status"></div>
+      <div class="actions">
+        <button type="button" id="alertCancel">Cancel</button>
+        <button type="submit" class="primary" id="alertSubmit">Save</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

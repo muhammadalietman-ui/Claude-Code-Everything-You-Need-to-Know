@@ -28,6 +28,12 @@ T-206,P2,Extract IPLOCA practice evidence table,literature-reviewer;field-operat
 T-207,P2,Code Novel Construction barriers/enablers vs UTAUT,literature-reviewer,T-201,02_literature_review/,Coded table for RQ5,Should,To do
 T-208,P3,Validate as-is and measurability matrix vs IPLOCA and interviews,field-operations-specialist,T-206;T-301,03_as_is_analysis/industry_practice_alignment.md,All 10 alignment items closed,Must,To do
 T-105,P1,DPIA screening and labour-law route for field sensing (T1-T5),research-lead,Q-008;Q-072,01_governance/data_governance_ethics.md,DPO opinion recorded; tiers approved,Must,To do
-T-401,P4,Design E11 field presence sensing (work-front registry; presence entities; AL-09..AL-13),solution-architect;data-engineer,D-069,04_to_be_architecture/field_sensing_layer.md,Entities in data dictionary; stories with AC,Must,To do
-T-402,P4,Add E11 stories and acceptance criteria to MVP backlog,ux-designer;commercial-analyst,T-401,04_to_be_architecture/ux/mvp_backlog.md,AL-09..AL-13 each with numeric AC,Must,To do
-T-403,P4,Extend synthetic dataset spec with presence/vehicle/camera data and seeded AL-09..AL-13,data-engineer,T-401,04_to_be_architecture/data_model/synthetic_dataset_spec.md,Ground-truth counts defined,Must,To do
+T-401,P4,Design E11 field presence sensing (work-front registry; presence entities; AL-09..AL-13),solution-architect;data-engineer,D-069,04_to_be_architecture/field_sensing_layer.md,Entities in data dictionary; stories with AC,Must,Done (implemented in D1 demo)
+T-402,P4,Add E11 stories and acceptance criteria to MVP backlog,ux-designer;commercial-analyst,T-401,04_to_be_architecture/ux/mvp_backlog.md,AL-09..AL-13 each with numeric AC,Must,Done (implemented in D1 demo)
+T-403,P4,Extend synthetic dataset spec with presence/vehicle/camera data and seeded AL-09..AL-13,data-engineer,T-401,04_to_be_architecture/data_model/synthetic_dataset_spec.md,Ground-truth counts defined,Must,Done (implemented in D1 demo)
+T-501,D1,MVP demo iteration 1 (generator; engine; API; dashboard; field app; tests),full-stack-developer,D-005,prototype/,22 tests pass; e2e clean,Must,Done
+T-502,D2,Reference project intake step 1 (structure) + tolerances,data-engineer,user data,data/templates/REFERENCE_PROJECT_INTAKE.md,Loads without errors,Must,Waiting for user
+T-503,D3,GAEB/Aufmass export (VOB/B §14),commercial-analyst;full-stack-developer,D2,prototype/,Export validated against GAEB schema,Should,To do
+T-504,D3,German UI (i18n de/en),ux-designer;full-stack-developer,D1,prototype/web/,All labels translated,Should,To do
+T-505,D3,T8 machine-control as-built import,gis-engineer;data-engineer,Q-075,prototype/siteops/,TRN verified from machine logs,Could,To do
+T-506,D5a,Works agreement template + DPIA for sensing tiers,research-lead,D-074,01_governance/,DPO + works council review,Must,To do

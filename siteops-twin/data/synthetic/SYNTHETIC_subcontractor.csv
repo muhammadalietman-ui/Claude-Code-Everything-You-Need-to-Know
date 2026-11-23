@@ -1,0 +1,6 @@
+# SYNTHETIC DATA - SiteOps Twin demo - not a real project - seed 20270104
+subcontractor_id,scope
+SYN-SUB-A,"Clearing, grading, reinstatement"
+SYN-SUB-B,"Trenching, padding and backfill"
+SYN-SUB-C,"Stringing, welding, coating"
+SYN-SUB-D,Lowering-in and crossings

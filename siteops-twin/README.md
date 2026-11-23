@@ -3,7 +3,7 @@
 **An Interactive Digital Twin for Daily Production, Personnel/Equipment Tracking, and Subcontractor Quantity Verification in Oil & Gas Pipeline Construction**
 
 Master's research project in collaboration with Politecnico di Milano (POLIMI).
-Status: **Phase 0: Research and solution structure (for review)**
+Status: **Plan v0.2, demo first (D-071). P0 approved. D1 MVP demo built (synthetic data), see [`prototype/README.md`](prototype/README.md)**
 
 > **Confidentiality.** This repository contains no real company names, coordinates, personnel identities or proprietary data. Placeholders are used throughout: `[PROJECT_CODE]`, `[SITE_ID]`, `[SPREAD_ID]`, `[CONTRACTOR_A]`, `[SUBCONTRACTOR_B]`, `[DRONE_SW]`, `[ERP_SYSTEM]`. Any data under `data/synthetic/` is **synthetic demo data** and is labelled as such.
 
@@ -15,7 +15,7 @@ Status: **Phase 0: Research and solution structure (for review)**
 | `handovers/` | Agent-to-agent handover notes (`<phase>_<agent>.md`) | rolling |
 | `qa/` | Quality-reviewer phase-gate reviews | rolling |
 | `00_project_management/` | Master plan (MD + CSV), project task backlog | 0 |
-| `01_governance/` | Charter, stakeholder map, RACI, data-governance, privacy, cybersecurity and ethics plan, pilot-site criteria | 1 |
+| `01_governance/` | [Germany context](01_governance/germany_context.md) (BetrVG, GDPR/BDSG, VOB, GAEB, DVGW); later the charter, RACI, DPIA and works agreement | D5a |
 | `02_literature_review/` | PRISMA protocol, search strings, screening log, reference matrix, gap analysis | 0 (protocol) → 2 |
 | `03_as_is_analysis/` | As-is process map, data-flow diagram, pain points, root causes, KPI baseline | 0 (draft) → 3 |
 | `04_to_be_architecture/` | Conceptual architecture, quantity measurability matrix, MVP scope, later the data dictionary, ERD and wireframes | 0 (concept) → 4 |
@@ -26,7 +26,7 @@ Status: **Phase 0: Research and solution structure (for review)**
 | `09_paper/` | Journal and conference paper plan | 9 |
 | `data/templates/` | Machine-readable templates (CSV, JSON) | rolling |
 | `data/synthetic/` | Labelled synthetic demo data for the prototype | 6 |
-| `prototype/` | MVP dashboard (**not started: code gate D-005**) | 6 |
+| `prototype/` | **Working MVP demo**: FastAPI + SQLite + dashboard + offline field app, 22 tests | D1 |
 | `docs/` | Shareable outputs, such as the executive brief | rolling |
 | `phase_reports/` | End-of-phase close-out reports | rolling |
 

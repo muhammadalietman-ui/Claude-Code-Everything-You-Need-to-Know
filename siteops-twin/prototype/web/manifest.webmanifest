@@ -1,0 +1,10 @@
+{
+  "name": "SiteOps Twin Field Report (SYNTHETIC DEMO)",
+  "short_name": "SiteOps Field",
+  "start_url": "field.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#0b5cad",
+  "icons": []
+}

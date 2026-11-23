@@ -1,6 +1,6 @@
 # Research Framing: Questions, Hypotheses, Scope and Success Criteria
 
-Owner: research-lead. Version 0.1 (Phase 0). Status: for user and supervisor review (D-002).
+Owner: research-lead. Version 0.1 (Phase 0). Status: **approved by the user (D-002, 2026-11-23)**; supervisor review after the demo (D-071).
 
 ## 1. Problem statement
 **[F] From the user brief:**
@@ -32,7 +32,7 @@ Owner: research-lead. Version 0.1 (Phase 0). Status: for user and supervisor rev
 | H3 | Automated quantity reconciliation reduces invoicing disputes, rework in commercial administration, and payment-cycle delays. | Disputed line items per certificate; resubmissions; days from period end to certificate | Commercial records, certificate log | Baseline vs pilot periods; the historical periods give context | A trend is observed. Treat as exploratory, because the pilot has few billing cycles (L-02). |
 | H4 | Personnel, equipment and activity tracking improves visibility of work-front productivity and supports early identification of delays. | Productivity (unit/crew-h); lead time of the delay signal vs the conventional report; % of equipment idle time visible | Telematics, mobile logs, activity sampling | Pilot: alert date vs date of the conventional recognition | Median lead time of 2 days or more on detected slowdowns. Qualitative confirmation from interviews. |
 
-| H5 *(proposed, D-070)* | Structured presence sensing (check-in, vehicle GPS, telematics, cameras) reduces the discrepancy between claimed and independently verified manpower and equipment hours. | \|claimed − verified\| / verified for headcount-days and equipment-hours | Field sensing layer (E11), audit sample | Baseline vs pilot | Median discrepancy falls by 30% or more (Wilcoxon) |
+| H5 *(approved, D-070)* | Structured presence sensing (check-in, vehicle GPS, telematics, cameras) reduces the discrepancy between claimed and independently verified manpower and equipment hours. | \|claimed − verified\| / verified for headcount-days and equipment-hours | Field sensing layer (E11), audit sample | Baseline vs pilot | Median discrepancy falls by 30% or more (Wilcoxon) |
 
 **[A] A-011.** The thresholds above are initial targets for discussion with the supervisor. They are not findings.
 

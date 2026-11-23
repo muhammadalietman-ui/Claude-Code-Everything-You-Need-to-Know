@@ -72,6 +72,19 @@ Reporting guideline: PRISMA 2020 (Page et al., 2021). Procedures informed by Kit
 - **[R]** Vendor material on `[DRONE_SW]` capability may inform the architecture. It is not cited as evidence of accuracy.
 
 ## 6. Information sources
+
+> **Amendment A1 (2026-11-23, D-072).** The student has no Scopus/WoS access at present. The primary sources are therefore open, reproducible bibliographic databases:
+> - **OpenAlex** (API, full query logging)
+> - **Crossref** (DOI verification of every reference, which also resolves R-11)
+> - **Semantic Scholar**
+> - Google Scholar (first 200 results per string)
+> - **BASE**
+> - **DOAJ**
+> - POLITesi and RE.PUBLIC@POLIMI open records
+> - Industry practice: IPLOCA and the German sources in `01_governance/germany_context.md`
+>
+> Scopus/WoS strings are kept unchanged for a later run if POLIMI access is obtained. This limitation is reported in the thesis.
+
 - Scopus and Web of Science Core Collection are the primary sources.
 - Google Scholar is used as a supplementary source, limited to the first 200 results by relevance per string.
 - POLIMI institutional sources: POLITesi (theses), RE.PUBLIC@POLIMI (institutional research repository), and the POLIMI library discovery service.

@@ -1,0 +1,26 @@
+# SYNTHETIC DATA - SiteOps Twin demo - not a real project - seed 20270104
+anomaly_id,rule_id,entity,entity_id,work_date,description
+GT-001,AL-05,crew,SYN-CRW-04,2027-02-08,Seeded productivity drop without weather cause
+GT-002,AL-05,crew,SYN-CRW-04,2027-02-09,Seeded productivity drop without weather cause
+GT-003,AL-05,crew,SYN-CRW-06,2027-02-20,Seeded productivity drop without weather cause
+GT-004,AL-02,crew,SYN-CRW-06,2027-01-29,Seeded missing field daily report
+GT-005,AL-02,crew,SYN-CRW-06,2027-02-16,Seeded missing field daily report
+GT-006,AL-01,reconciliation,S07|TRN|SYN-SUB-B,,Seeded over-claim vs independent measurement
+GT-007,AL-01,reconciliation,S12|BKF|SYN-SUB-B,,Seeded over-claim vs independent measurement
+GT-008,AL-03,claim_line,CL-000189,2027-02-02,Seeded duplicate claim of the same KP range
+GT-009,AL-03,claim_line,CL-000344,2027-02-15,Seeded overlapping backfill claim (200 m)
+GT-010,AL-08,reconciliation,S15|LOW|SYN-SUB-D,2027-02-12,Seeded lowering-in claimed ahead of trenching
+GT-011,AL-04,boq_item,BOQ-A-CLR,,Seeded BoQ quantity exceeded by cumulative claims
+GT-012,AL-06,reconciliation,S03|RST|SYN-SUB-A,,Seeded reinstatement claimed with no measurement
+GT-013,AL-09,resource_claim,SYN-CRW-06,2027-01-21,Seeded headcount over-claim (+8)
+GT-014,AL-09,resource_claim,SYN-CRW-06,2027-01-22,Seeded headcount over-claim (+8)
+GT-015,AL-07,equipment,SYN-EQ-017,2027-01-27,"Seeded equipment reported working, telematics idle"
+GT-016,AL-07,equipment,SYN-EQ-017,2027-01-28,"Seeded equipment reported working, telematics idle"
+GT-017,AL-09,resource_claim,SYN-CRW-06,2027-02-03,Seeded headcount over-claim (+8)
+GT-018,AL-11,equipment,SYN-EQ-016,2027-02-05,Seeded equipment hire hours not supported by telematics
+GT-019,AL-11,equipment,SYN-EQ-016,2027-02-06,Seeded equipment hire hours not supported by telematics
+GT-020,AL-11,equipment,SYN-EQ-016,2027-02-11,Seeded equipment hire hours not supported by telematics
+GT-021,AL-12,front,FR-08,2027-02-19,Seeded work reported/claimed at a front with no presence signal
+GT-022,AL-07,equipment,SYN-EQ-017,2027-02-24,"Seeded equipment reported working, telematics idle"
+GT-023,AL-10,badge,B-1400,2027-02-04,Seeded impossible presence at two fronts 14 km apart within 5 minutes
+GT-024,AL-13,standby_claim,SB-0005,2027-02-03,Seeded weather standby on a workable day

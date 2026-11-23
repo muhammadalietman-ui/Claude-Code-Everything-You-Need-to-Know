@@ -1,0 +1,11 @@
+# SYNTHETIC DATA - SiteOps Twin demo - not a real project - seed 20270104
+activity_code,name,unit,sequence_no,uav_observability,verification_source
+CLR,ROW clearing & topsoil strip,m,1,Yes,UAV
+GRD,Grading,m,2,Yes,UAV
+STR,Stringing,m,3,Yes,UAV
+WLD,Mainline welding,nr,4,No,LOG
+FJC,Field joint coating,nr,5,No,LOG
+TRN,Trenching,m,6,Partial,UAV
+LOW,Lowering-in,m,7,Time-window,ASBUILT
+BKF,Padding & backfill,m,8,Yes,UAV
+RST,Clean-up & reinstatement,m2,9,Yes,UAV

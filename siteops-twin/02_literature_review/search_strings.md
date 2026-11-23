@@ -183,3 +183,12 @@ These searches run outside the PRISMA count, in the industry-practice stream, an
 | IP-S03 | Google (`site:iploca.com`) | `site:iploca.com (drone OR UAV OR "digital twin" OR "progress monitoring" OR productivity OR "as-built")` |
 | IP-S04 | IPLOCA Yearbook/Newsletter (issuu) | `IPLOCA yearbook (drone OR digital OR "spread" OR productivity)` |
 | IP-S05 | Scopus/WoS | `TITLE-ABS-KEY(IPLOCA OR "International Pipe Line and Offshore Contractors")`, to find academic papers citing IPLOCA practice |
+
+## 9. Open-source equivalents (Amendment A1, D-072)
+| ID | Source | Form |
+|---|---|---|
+| OA-01 | OpenAlex API | `https://api.openalex.org/works?search=<CORE-01 terms>&filter=from_publication_date:2010-01-01,type:article\|proceedings-article&per-page=200`. Run one query per cluster (C1–C9) with the cluster terms; save the JSON responses and the query URL with the date |
+| OA-02 | Crossref API | `https://api.crossref.org/works?query.bibliographic=<title>&rows=1`, used to verify every DOI in the reference matrix |
+| OA-03 | Semantic Scholar API | `/graph/v1/paper/search?query=<terms>&year=2010-2026&fields=title,year,externalIds,venue` |
+| OA-04 | BASE / DOAJ | Cluster strings, simplified to AND/OR blocks |
+| DE-01 | German practice sources | Search in German as well: `"digitaler Zwilling" Rohrleitungsbau`, `Aufmaß Drohne`, `Baustellen-Tracking Betriebsrat`, `GAEB Mengenermittlung` |

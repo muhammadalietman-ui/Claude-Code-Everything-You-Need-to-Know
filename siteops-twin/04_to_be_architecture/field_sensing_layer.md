@@ -125,3 +125,22 @@ flowchart LR
   CLAIM --> REC
   REC --> DASH
 ```
+
+## 9. Approved sensing level: maximum feasible for the German market (D-073, user decision 2026-11-23)
+The user asked for **the highest level of sensing currently reachable** with commercially available sensors, matched to the needs of German clients. The design therefore covers every tier that is legally deployable in Germany, together with the safeguards in `01_governance/germany_context.md`.
+
+| Tier | Sensor | Status in the MVP demo (synthetic) | Live deployment condition (Germany) |
+|---|---|---|---|
+| T0 | UAV photogrammetry (existing) | ✅ Implemented: daily flights, σ per measurement | Existing permits |
+| T1 | Muster check-in (NFC/QR, geofenced) | ✅ `presence_daily.checkin_count` | Works agreement (BetrVG §87(1) No. 6) + DPIA |
+| T2 | Crew-bus/vehicle GPS + digital manifest | ✅ `vehicle_trip`, `manifest_count` | Works agreement (vehicles assigned to crews) |
+| T3 | OEM telematics (ISO 15143-3) + retrofit trackers on hired plant | ✅ `telematics_daily`, AL-07, AL-11 | Hire contracts give data access; operator-linked data counts as employee data |
+| T4 | Solar AI camera trailers, count-only | ✅ `camera_max` at 3 fronts | BDSG §4 / GDPR, signage, short retention, works agreement |
+| T5 | UWB/BLE + GNSS/LoRaWAN badges, zone counts, pseudonymised | ✅ `badge_event`, AL-10 | Works agreement; HSE purpose (mustering, lone worker) as the primary justification |
+| T8 | **3D GNSS machine control** on excavators: as-built trench depth and length | Roadmap (data model ready: add as a `measurement.source`) | Contractor- or hire-owned systems; export logs |
+| T9 | **Digital weld and pipe-joint traceability**: welding-machine parameter logs, joint QR/RFID tags | Partly: QA weld log is the LOG source for WLD/FJC | QA/QC system export (Q-054) |
+| T10 | **Site weather station** | ✅ `weather_obs`, AL-13 | None |
+| T11 | Mobile LiDAR / GNSS rover as-built survey | ✅ As-built survey for LOW (`ASBUILT_SURVEY`) | Existing survey crew |
+| T7 | Facial recognition / biometrics | ❌ Excluded | Not proportionate (GDPR Art. 9) |
+
+H5 is **approved** (D-070). The demo already produces H5's dependent variables: headcount and equipment-hour discrepancy.

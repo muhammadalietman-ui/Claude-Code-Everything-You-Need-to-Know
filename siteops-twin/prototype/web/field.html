@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b5cad">
+  <title>SiteOps Field Report</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="field">
+  <header>
+    <h1>Field report <span class="badge-synthetic">SYNTHETIC DEMO</span></h1>
+    <span id="net" class="net" role="status" aria-live="polite"></span>
+  </header>
+  <main>
+    <!-- M1 Daily report: 3 steps -->
+    <section id="pageReport" aria-labelledby="hReport">
+      <h2 id="hReport" class="sr">Daily report</h2>
+      <div class="steps" aria-hidden="true"><span data-s="1">1 Crew</span><span data-s="2">2 Work</span><span data-s="3">3 Evidence</span></div>
+      <form id="reportForm" novalidate>
+        <div class="step" data-step="1">
+          <label>Date <input type="date" id="rDate" required></label>
+          <label>Crew <select id="rCrew" required></select></label>
+          <label>Work front <select id="rFront" required></select></label>
+          <!-- M4 crew muster: headcount only, no names -->
+          <fieldset>
+            <legend>Crew muster (headcount only)</legend>
+            <div class="stepper">
+              <button type="button" id="hcMinus" aria-label="Decrease headcount">−</button>
+              <output id="hcOut" aria-live="polite">0</output>
+              <button type="button" id="hcPlus" aria-label="Increase headcount">+</button>
+            </div>
+            <p class="muted" style="font-size:14px">Count the people present at the muster point. No names are recorded.</p>
+          </fieldset>
+          <button type="button" id="copyYesterday">Copy yesterday's report</button>
+        </div>
+        <div class="step" data-step="2" hidden>
+          <div id="lines"></div>
+          <button type="button" id="addLine">+ Add activity line</button>
+        </div>
+        <div class="step" data-step="3" hidden>
+          <!-- M3 photo evidence -->
+          <fieldset>
+            <legend>Photo evidence</legend>
+            <label>KP of photo (m) <input type="number" inputmode="numeric" id="photoKp" min="0"></label>
+            <label>Take or choose photo <input type="file" id="photoIn" accept="image/*" capture="environment" multiple></label>
+            <div id="photoList"></div>
+            <p class="muted" style="font-size:14px">Only the name, time and KP are sent in the MVP. The thumbnail stays on this device.</p>
+          </fieldset>
+          <div id="summary" class="qitem"></div>
+        </div>
+        <div id="formErr" class="err" role="alert"></div>
+        <div class="navbtns">
+          <button type="button" id="prevBtn">Back</button>
+          <button type="button" id="nextBtn" class="primary">Next</button>
+        </div>
+      </form>
+    </section>
+
+    <!-- M2 Offline queue -->
+    <section id="pageQueue" hidden aria-labelledby="hQueue">
+      <h2 id="hQueue">Outbox</h2>
+      <button type="button" id="syncBtn" class="primary">Sync now</button>
+      <p id="syncMsg" class="muted" role="status"></p>
+      <div id="queue"></div>
+    </section>
+  </main>
+  <nav class="bottomnav" aria-label="Field app">
+    <button type="button" data-page="pageReport" aria-current="page">Report</button>
+    <button type="button" data-page="pageQueue">Outbox <span id="qCount"></span></button>
+    <button type="button" onclick="location.href='index.html'">Dashboard</button>
+  </nav>
+  <template id="lineTpl">
+    <fieldset class="line">
+      <legend>Activity line</legend>
+      <label>Activity <select class="lAct" required></select></label>
+      <div class="row2">
+        <label>KP from (m) <input type="number" inputmode="numeric" class="lFrom" min="0" required></label>
+        <label>KP to (m) <input type="number" inputmode="numeric" class="lTo" min="0" required></label>
+      </div>
+      <div class="row2">
+        <label>Quantity <input type="number" inputmode="decimal" step="any" class="lQty" min="0" required></label>
+        <label>Unit <input type="text" class="lUnit" readonly></label>
+      </div>
+      <div class="row2">
+        <label>Hours worked <input type="number" inputmode="decimal" step="0.5" class="lHours" min="0" max="24" required></label>
+        <label>Headcount <input type="number" inputmode="numeric" class="lHead" min="0"></label>
+      </div>
+      <label>Equipment used <select class="lEq" multiple size="4"></select></label>
+      <div class="row2">
+        <label>Downtime (h) <input type="number" inputmode="decimal" step="0.5" class="lDown" min="0" max="24" value="0"></label>
+        <label>Reason
+          <select class="lReason">
+            <option value="">None</option><option>WEATHER</option><option>ACCESS</option><option>MATERIAL</option>
+            <option>BREAKDOWN</option><option>PERMIT</option><option>OTHER</option>
+          </select>
+        </label>
+      </div>
+      <button type="button" class="lRemove">Remove line</button>
+    </fieldset>
+  </template>
+  <style>.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}</style>
+  <script type="module" src="field.js"></script>
+</body>
+</html>

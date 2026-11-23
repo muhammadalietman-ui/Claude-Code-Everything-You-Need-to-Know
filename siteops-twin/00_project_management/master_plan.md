@@ -1,5 +1,13 @@
 # Master Project Plan: SiteOps Twin
 
+> **Re-plan v0.2 (2026-11-23, D-071): demo first, no fixed calendar.** The user confirmed that there is no academic calendar for now. The **MVP demo** is built first. Then the user feeds a **reference project** to test the model. **POLIMI** is approached with the working demo, and only after that does the work move to **live project data**. The dated Gantt chart below (v0.1) is kept for reference only. The current sequence is:
+>
+> 1. **D1: MVP demo on synthetic data**. ✅ First iteration built 2026-11-23 (`prototype/`).
+> 2. **D2: Reference-project test.** Step-wise intake (`data/templates/REFERENCE_PROJECT_INTAKE.md`), parameter calibration (tolerances, AL-05), and the model–reality gap log.
+> 3. **D3: Demo hardening.** User feedback, German-market features (GAEB/Aufmaß export, German UI), and the T8 machine-control import.
+> 4. **D4: POLIMI engagement.** Demo, executive brief and research framing → supervisor; then the SLR (open sources, D-072) and the methodology.
+> 5. **D5: Live project.** Governance (works agreement, DPIA, D-074), baseline + pilot, evaluation of H1–H5, business case, thesis and paper.
+
 Owner: project-manager. Version 0.1 (Phase 0 draft). Machine-readable copy: [`master_plan.csv`](master_plan.csv).
 
 ## 1. Planning basis

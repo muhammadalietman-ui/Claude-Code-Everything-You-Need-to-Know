@@ -1,0 +1,11 @@
+# SYNTHETIC DATA - SiteOps Twin demo - not a real project - seed 20270104
+boq_item_id,subcontractor_id,activity_code,unit,unit_rate,contract_qty
+BOQ-A-CLR,SYN-SUB-A,CLR,m,2.0,24500.0
+BOQ-A-GRD,SYN-SUB-A,GRD,m,3.0,25000.0
+BOQ-C-STR,SYN-SUB-C,STR,m,1.5,25000.0
+BOQ-C-WLD,SYN-SUB-C,WLD,nr,180.0,2083.3
+BOQ-C-FJC,SYN-SUB-C,FJC,nr,60.0,2083.3
+BOQ-B-TRN,SYN-SUB-B,TRN,m,25.0,25000.0
+BOQ-D-LOW,SYN-SUB-D,LOW,m,15.0,25000.0
+BOQ-B-BKF,SYN-SUB-B,BKF,m,12.0,25000.0
+BOQ-A-RST,SYN-SUB-A,RST,m2,0.8,750000.0
