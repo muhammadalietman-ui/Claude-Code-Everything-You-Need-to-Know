@@ -4,8 +4,8 @@
 |---|---|
 | Project | SiteOps Twin `[PROJECT_CODE]` |
 | Plan | **v0.2, demo first, no fixed calendar (D-071)** |
-| Current step | **D1: MVP demo on synthetic data.** Iteration 1 built, in user review |
-| Next step | D2: reference-project test (waiting for the user's first data drop, step 1 of the intake) |
+| Current step | **THEORY TRACK (D-096): systematic literature review + market scan → conceptual framework.** Demo paused at iteration D2a |
+| Next step | Review the SLR synthesis, gap analysis and market scan with the user; then the theoretical framework chapter |
 | Overall RAG | 🟢 Demo · 🟡 Live use depends on a works agreement + DPIA in Germany (R-73) |
 | Last updated | 2026-11-23 |
 
