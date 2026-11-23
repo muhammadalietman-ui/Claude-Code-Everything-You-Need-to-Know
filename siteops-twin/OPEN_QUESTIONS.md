@@ -52,3 +52,5 @@
 | Q-079 | Which suppliers and form versions should get adapters first (by commercial value or volume)? | User | D2b | | Open |
 | Q-080 | Can master data be shared (anonymised): plan-sheet index, crossing list with KP, pipe tally, weld log, hydrotest test sections, HDD rod lengths? | User | D2b | | Open |
 | Q-081 | Is the "no countersigned daily report, not payable" rule acceptable for future subcontracts (D-087)? | User / Legal | D3 | | Open |
+| Q-082 | For the duct pressure-test claim (RPT-N): is payment per duct-metre conditional on a passed test per duct? Who witnesses tests for the JV? | Commercial / QA | D2b | | Open |
+| Q-083 | Do daywork records require a prior written instruction (VOB/B §15 practice) under the subcontracts, and what is the countersignature deadline? | Commercial / Legal | D2b | | Open |

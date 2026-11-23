@@ -44,3 +44,5 @@ T-510,D2b,Schema delta + location-resolution service (sheet/crossing/pipe/weld/t
 T-511,D2b,Adapter framework + Excel diary and HDD datalogger reference adapters (tested on private extracts),data-engineer,T-510,prototype/siteops/ingest/,Extracted values match manual extract,Must,To do
 T-512,D2b,Review/quarantine screen S10,ux-designer;full-stack-developer,T-511,prototype/web/,Confirm/correct actions audited,Must,To do
 T-513,D2b,Rules AL-21 AL-17 AL-18 AL-19 then AL-23,data-scientist;commercial-analyst,D-086,prototype/siteops/engine.py,Seeded synthetic cases detected,Must,To do
+T-514,D2b,Claim evidence model (claim_line to evidence rows; per-component pass/fail) + AL-26 and AL-03 on evidence rows,data-engineer;commercial-analyst,D-088,prototype/siteops/,RPT-N-type sample reconciled in demo with synthetic data,Must,To do
+T-515,D2b,Daywork sheet model + AL-28/AL-29 (VOB/B §15 checks),commercial-analyst;data-engineer,Q-083,prototype/siteops/,Daywork synthetic cases detected,Should,To do

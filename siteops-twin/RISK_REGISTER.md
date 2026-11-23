@@ -36,3 +36,4 @@ Scoring: Likelihood (L) and Impact (I) are each rated 1–5. Score = L × I. **�
 | R-73 | No works agreement (BetrVG §87(1) No. 6) in time for live sensing | Labour relations | 3 | 4 | 12 | Early engagement; template works agreement; aggregates-only design; demo shows the safeguards | research-lead | Open |
 | R-74 | Legal basis for employee data challenged (BDSG §26 after CJEU C-34/21) | Legal | 2 | 4 | 8 | GDPR Art. 6 bases + works agreement; DPIA; legal review | research-lead | Open |
 | R-75 | Reference-project data is incomplete (no KP on claims, no σ on measurements) | Data | 3 | 3 | 9 | Step-wise intake; UNVERIFIABLE status; disaggregation rules | data-engineer | Open |
+| R-76 | Findings from real claims are communicated as accusations before verification, damaging subcontractor relations | Relationship | 2 | 4 | 8 | Platform outputs are queries with evidence, not conclusions; QS confirms before contact | commercial-analyst | Open |

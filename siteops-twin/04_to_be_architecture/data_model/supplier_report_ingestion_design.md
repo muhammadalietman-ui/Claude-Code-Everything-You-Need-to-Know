@@ -104,3 +104,35 @@ Rule: **no countersigned daily report → not payable** (AL-21). This turns the 
 3. Review queue screen (S10), with quarantine and confirm/correct actions.
 4. Rules AL-21, AL-17, AL-18 and AL-19 first, then AL-23.
 5. Synthetic generator: add presence-only days, unsigned documents and template residue, so the demo shows these cases without real data.
+
+## 8. Addendum: batch 3, the claim side (RPT-K…N, 2026-11-23)
+Source: `03_as_is_analysis/supplier_daily_reports_analysis_batch3.md`. RPT-N is the first real **subcontractor quantity claim** in the sample. RPT-K holds seven daywork/work records.
+
+**Key evidence.** Each item below was verified independently by the lead agent against the source PDF.
+- **Claim lines are period totals, with no KP or date.** The supporting weekly sheets carry date, plan-sheet range and route metres. This answers Q-053: A-054 (claims at KP × date grain) is *not* met by claims, only by their evidence sheets. Reconciliation must therefore run **evidence-row → claim-line**.
+- **The quantity-based claim total equals the hours-based total of the weekly sheets within cents.** This suggests the quantities were fitted to a time-based amount. It is a query for the supplier, not a finding of fact.
+- **"Completed and tested" metres include rows whose remarks record leaking ducts.** The ×3 duct multiplier is applied regardless.
+- **Overlapping plan-sheet ranges are counted twice.** Repeat items are claimed in addition.
+- **The JV confirmation field is empty** on every evidence sheet.
+- **Daywork records (RPT-K)** have no instruction reference, empty persons/hours columns, late submission, and missing or undated countersignatures. They are used as a mix of measurement and day rates.
+
+**Model delta (claim side)**
+| Entity | Change |
+|---|---|
+| `subcontractor_claim_line` | + `pricing_basis` (`UNIT_RATE`/`DAY_RATE`/`HOURLY`/`LUMP_SUM`/`MILESTONE`), `multiplier` (e.g. ducts ×3) with `multiplier_basis` |
+| `claim_evidence` (new) | claim_line_id ↔ evidence row (date, sheet range, metres, component results pass/fail per duct, remark, signed_by_jv) |
+| `daywork_sheet` (new) | sheet_no, instruction_ref, instructed_by_role, work_date(s), persons × hours, equipment × hours, material (incl. client-furnished flag), submitted_at, countersigned_at |
+
+**Proposed rules AL-25…AL-32** (in addition to AL-15…AL-24):
+| Rule | Detects |
+|---|---|
+| AL-25 | Pricing-basis inconsistency (unit-rate claim reconciles exactly to an hours basis, or mixed bases on one item) |
+| AL-26 | Multiplied or test quantity without a per-component *pass* record |
+| AL-27 | Repeat or abortive visit without cause attribution, routed to back-charge review |
+| AL-28 | Daywork record late or incomplete (no instruction, no persons/hours, countersignature missing or late), VOB/B §15 practice (VERIFY) |
+| AL-29 | Duplicate resource-day (same technician/crew billed twice on one date) |
+| AL-30 | Item-code integrity (addendum code collisions, unknown items) |
+| AL-31 | Asset billed twice, or client-furnished material billed |
+| AL-32 | Front-loaded lump sum (e.g. full mob/demob in the first claim) |
+
+**Updated first-build recommendation:** AL-21 (unsigned → not payable), AL-26 (no pass → not payable), AL-03 on evidence rows (overlap), AL-19/AL-25 (arithmetic and pricing basis), AL-28/AL-29 (daywork).

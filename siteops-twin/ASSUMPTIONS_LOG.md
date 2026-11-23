@@ -36,7 +36,7 @@ Every statement tagged **[A]** in any deliverable must have an entry here. Valid
 | A-051 | UAV vertical RMSE about 3–5 cm with RTK/PPK; GSD ≤ 3 cm | Typical survey practice | H1 coverage | Accuracy reports | gis-engineer | P3 | Open |
 | A-052 | At least 5 check points per flight block | Survey practice | Uncertainty unknown | Survey team | gis-engineer | P3 | Open |
 | A-053 | Spoil can be masked for trench volume | Method | TRN volume unverifiable | Pilot trial | gis-engineer | P7 | Open |
-| A-054 | Claims are weekly at activity × KP × date grain | Spec | Disaggregation needed | Claim sample (Q-053) | data-engineer | P3 | Open |
+| A-054 | Claims are weekly at activity × KP × date grain | Spec | Disaggregation needed | Claim sample (Q-053) | data-engineer | P3 | **Invalidated for claim lines (RPT-N); holds for evidence sheets → D-088** |
 | A-055 | One field report per crew per day, with KP from/to | Spec | Model change | Foreman interviews | data-engineer | P3 | Open |
 | A-056 | Synthetic productivity rates are illustrative only | Spec | none (not benchmarks) | Field-operations review | data-engineer | P6 | Open |
 | A-060 | Story points are relative (MVP ≈ 127 points) | Planning | Re-plan | P4 re-estimate | ux-designer | P4 | Open |
