@@ -115,9 +115,43 @@ def create_app(db_path=None) -> FastAPI:
                            "tol_eq_h": C.TOL_EQ_H, "currency": C.CURRENCY},
                 "roles": ROLES}
 
+    route_file = Path(os.environ.get("SITEOPS_ROUTE", Path(__file__).resolve().parent.parent.parent / "data" / "private" / "route.json"))
+
+    def real_geometry(d):
+        """Synthetic sections/fronts positioned proportionally along a real route (lon/lat). Display only."""
+        r = json.loads(route_file.read_text(encoding="utf-8"))
+        pts, kps, L = r["points"], r["kp"], r["length_m"]
+        scale = L / C.KP_END_M
+
+        def at(k):  # interpolate lon/lat at real chainage k
+            k = min(max(k, 0.0), kps[-1])
+            for i in range(1, len(kps)):
+                if kps[i] >= k:
+                    t = 0.0 if kps[i] == kps[i - 1] else (k - kps[i - 1]) / (kps[i] - kps[i - 1])
+                    return [pts[i - 1][0] + t * (pts[i][0] - pts[i - 1][0]), pts[i - 1][1] + t * (pts[i][1] - pts[i - 1][1])]
+            return pts[-1]
+
+        def piece(k0, k1):
+            a, b = k0 * scale, k1 * scale
+            return [at(a)] + [p for p, k in zip(pts, kps) if a < k < b] + [at(b)]
+        feats = [{"type": "Feature", "properties": {"kind": "centreline"}, "geometry": {"type": "LineString", "coordinates": pts}}]
+        for s in d.sections:
+            feats.append({"type": "Feature", "properties": {"kind": "section", **{k: s[k] for k in ("section_id", "kp_from_m", "kp_to_m")}},
+                          "geometry": {"type": "LineString", "coordinates": piece(s["kp_from_m"], s["kp_to_m"])}})
+        for f in d.fronts.values():
+            feats.append({"type": "Feature", "properties": {"kind": "front", "front_id": f["front_id"], "type": f["type"], "name": f["name"]},
+                          "geometry": {"type": "Point", "coordinates": at((f["kp_from_m"] + f["kp_to_m"]) / 2 * scale)}})
+        for p in r.get("pois", []):
+            feats.append({"type": "Feature", "properties": {"kind": "poi", "name": p["name"]},
+                          "geometry": {"type": "Point", "coordinates": [p["lon"], p["lat"]]}})
+        return {"type": "FeatureCollection", "crs": "EPSG:4326", "title": r.get("title"), "route_length_m": L,
+                "crs_note": "Real route geometry (private); quantities and statuses are SYNTHETIC", "features": feats}
+
     @app.get("/api/geometry")
     def geometry():
         d = st.data()
+        if route_file.exists():
+            return real_geometry(d)
         pts = centreline()
         step = C.KP_END_M / (len(pts) - 1)
         at = lambda kp: pts[min(int(round(kp / step)), len(pts) - 1)]  # noqa: E731

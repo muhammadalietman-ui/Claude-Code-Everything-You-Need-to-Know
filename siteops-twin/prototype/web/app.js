@@ -169,7 +169,7 @@ async function overview() {
         <span class="muted">Mini-bars: cumulative progress per activity (reported ÷ planned)</span></div>` : empty('No sections.');
     view.innerHTML = `<h2>S1 Spread overview <span class="muted">· ${esc(state.date)}</span></h2>${tiles}
       <div class="panel"><h3>KP strip: worst status per section (select one to open its detail)</h3>${strip}</div>
-      <div class="panel"><h3>Map (local synthetic coordinates, not real geography)</h3><div id="map" role="img" aria-label="Map of the synthetic spread centreline, sections and work fronts"></div></div>`;
+      <div class="panel"><h3 id="mapTitle">Map (local synthetic coordinates, not real geography)</h3><div id="map" role="img" aria-label="Map of the synthetic spread centreline, sections and work fronts"></div></div>`;
     view.querySelectorAll('.kpcell').forEach((b) => b.addEventListener('click', () => { location.hash = `section/${encodeURIComponent(b.dataset.sec)}`; }));
     drawMap(geo, secs);
   } catch (e) { view.innerHTML = `<h2>S1 Spread overview</h2>${errorBox(e)}`; }
@@ -180,9 +180,22 @@ function drawMap(geo, secs) {
   if (!el) return;
   if (!geo || !window.L) { el.innerHTML = empty('Map not available (geometry or Leaflet failed to load).'); return; }
   const statusBySec = Object.fromEntries((secs || []).map((s) => [s.section_id, s.worst_status]));
-  const map = L.map(el, { crs: L.CRS.Simple, minZoom: -6, attributionControl: false });
+  const real = geo.crs === 'EPSG:4326';
+  let map;
+  if (real) {
+    // Real project route (lon/lat). Basemap tiles load from the internet; the route still shows offline.
+    map = L.map(el, { minZoom: 8, maxZoom: 19 });
+    const osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '© OpenStreetMap contributors' });
+    const sat = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', { maxZoom: 19, attribution: 'Tiles © Esri' });
+    osm.addTo(map);
+    L.control.layers({ 'Map (OpenStreetMap)': osm, 'Aerial (Esri)': sat }, null, { collapsed: false }).addTo(map);
+    const t = $('#mapTitle');
+    if (t) t.textContent = geo.title || 'Map: real project route (synthetic data positioned along it)';
+  } else {
+    map = L.map(el, { crs: L.CRS.Simple, minZoom: -6, attributionControl: false });
+  }
   state.map = map;
-  // GeoJSON coordinates are [x, y] metres; with CRS.Simple, lat = y and lng = x.
+  // Synthetic: GeoJSON [x, y] metres with CRS.Simple (lat = y, lng = x). Real: [lon, lat].
   const layer = L.geoJSON(geo, {
     coordsToLatLng: (c) => L.latLng(c[1], c[0]),
     style: (f) => {
@@ -199,10 +212,13 @@ function drawMap(geo, secs) {
         lyr.on('click', () => { location.hash = `section/${encodeURIComponent(p.section_id)}`; });
       } else if (p.kind === 'front') {
         lyr.bindTooltip(`${p.front_id} (${p.type || ''})`);
+      } else if (p.kind === 'poi') {
+        lyr.setStyle && lyr.setStyle({ radius: 4, color: '#5b2a86', fillColor: '#d9c6ee' });
+        lyr.bindTooltip(esc(p.name || ''));
       }
     },
   }).addTo(map);
-  try { map.fitBounds(layer.getBounds(), { padding: [20, 20] }); } catch { map.setView([0, 0], -4); }
+  try { map.fitBounds(layer.getBounds(), { padding: [20, 20] }); } catch { if (!real) map.setView([0, 0], -4); }
 }
 
 // ---------- S2 Production ----------

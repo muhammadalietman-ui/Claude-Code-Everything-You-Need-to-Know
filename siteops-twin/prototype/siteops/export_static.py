@@ -212,5 +212,6 @@ def build(out_dir: Path = DIST, db_path=None) -> list[Path]:
 
 
 if __name__ == "__main__":
-    for p in build():
+    import os
+    for p in build(Path(os.environ["SITEOPS_DIST"]) if os.environ.get("SITEOPS_DIST") else DIST):
         print(p, f"{p.stat().st_size / 1e6:.1f} MB")

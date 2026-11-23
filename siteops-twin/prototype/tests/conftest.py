@@ -1,4 +1,8 @@
+import os
+
 import pytest
+
+os.environ.setdefault("SITEOPS_ROUTE", "/nonexistent/route.json")  # tests always use the synthetic geometry
 from fastapi.testclient import TestClient
 
 from siteops.cli import build

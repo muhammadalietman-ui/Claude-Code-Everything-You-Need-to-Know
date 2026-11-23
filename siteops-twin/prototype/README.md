@@ -45,5 +45,13 @@ Leaflet 1.9.4 (BSD-2) and Chart.js 4.4.1 (MIT) are bundled under `web/vendor/`. 
 - Real-server end-to-end run in Chromium: all 8 dashboard screens and the field app rendered with **0 console, page or HTTP errors**.
 - **Calibration finding:** with daily productivity variability σ = 0.12, the AL-05 25% threshold gave about 1.3% false positives per crew-day. The demo uses σ = 0.08. Calibrate on reference-project data (A-043).
 
+## Show the real project route on the map (private)
+Export the route from Google My Maps (⋮ → Export to KML/KMZ → ".KML file"), then:
+```bash
+.venv/bin/python -m siteops.route_import /path/to/export.kml
+SITEOPS_DIST=../data/private/dist .venv/bin/python -m siteops.export_static
+```
+The route is written to `data/private/route.json` and the demo to `data/private/dist/`, both git-ignored. The map shows the real alignment with an OpenStreetMap or aerial basemap (internet needed for the basemap only). All quantities stay synthetic.
+
 ## Load your reference project
 See [`../data/templates/REFERENCE_PROJECT_INTAKE.md`](../data/templates/REFERENCE_PROJECT_INTAKE.md). Put CSVs with the same table and column names in a folder, then run `python -m siteops.cli load <folder>`.

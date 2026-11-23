@@ -56,3 +56,6 @@
 | Q-083 | Do daywork records require a prior written instruction (VOB/B §15 practice) under the subcontracts, and what is the countersignature deadline? | Commercial / Legal | D2b | | Open |
 | Q-084 | DRS workshop: activity families, tier thresholds, location-key standard, downtime codes, photo minimum, delivery deadline (see `05_methodology/daily_reporting_standard_framework.md` §4) | User | D2b | | Open |
 | Q-085 | Are Propeller measurements produced routinely (daily, per plan sheet) or on request? Can the drone team export CSV/DXF per measurement? | User / Survey | D2b | | Open |
+| Q-086 | Can the drone team adopt a measurement routine (trench centreline, top-of-pipe every 10–25 m, ground points, pit polygons) and load the design alignment/profile into the platform? | User / Survey | D2b | | Open |
+| Q-087 | Minimum depth of cover per project specification (assumed 1.0 m for AL-33)? | Engineering | D2b | | Open |
+| Q-088 | DRN-3 is labelled 'HDD exit side' but measures at the rig anchor and is named G113 inside: please confirm with the drone team | Survey | D2b | | Open |
