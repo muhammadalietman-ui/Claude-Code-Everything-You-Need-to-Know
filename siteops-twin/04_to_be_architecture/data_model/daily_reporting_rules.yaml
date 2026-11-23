@@ -1,0 +1,32 @@
+# Daily Reporting Standard (DRS): project rule set. DRAFT v0.1: default values are proposals for joint review.
+# Supervisor/countersignature rules are intentionally excluded for now (D-090).
+project:
+  id: "[PROJECT_CODE]"
+  route_length_m: null          # e.g. 30000
+  spreads: 1
+  crossings: null               # count of crossing objects
+  duration_weeks: null
+  workforce_peak_persons: null
+  location_keys: [plan_sheet, kp]   # plan_sheet mandatory for all tiers; kp mandatory for tier L
+tiers:
+  S: {max_persons: 5, max_locations: 1, max_weeks: 2, report_unit: supplier_day, frequency: daily_rows_weekly_ok, photos_min: 0}
+  M: {max_persons: 25, report_unit: crew_day, frequency: daily_next_working_day, photos_min: 1}
+  L: {min_persons: 26, or_mainline_spread: true, or_min_m_per_day: 1000, report_unit: crew_front_day, frequency: daily_same_day, photos_min: 1, kp_mandatory: true, telematics_preferred: true}
+activity_families:
+  linear:      {unit: m,   rule_of_credit: daily_from_to, location: [plan_sheet, kp_from, kp_to], evidence: [drone, asbuilt_survey]}
+  count:       {unit: nr,  rule_of_credit: per_id, ids_required: true, location: [weld_no], evidence: [weld_log, ndt_register]}
+  crossing:    {unit: pct, rule_of_credit: stage_weights, stages: [start_pit, target_pit, casing, product_pipe], location: [crossing_id], evidence: [drone_pit_survey, hdd_logger]}
+  testing:     {unit: m,   rule_of_credit: per_component_passed, location: [test_section, plan_sheet_range], evidence: [test_protocol]}
+  lump_sum:    {unit: pct, rule_of_credit: stage_weights, location: [station_id], evidence: [inspection_record, photos]}
+  logistics:   {unit: pcs, rule_of_credit: per_pipe_no, location: [from_sheet, to_sheet], evidence: [pipe_tally]}
+  time_based:  {unit: h,   rule_of_credit: hours_with_reason, location: [front_id], evidence: [presence_sensing, telematics]}
+labour:   {fields: [role, persons, hours], hours_basis: [gross, net], breaks_deducted: true}
+equipment: {fields: [unit_id, type, hours], hours_basis: [meter, logger, declared, day_rate], meter_reading_daily: true}
+non_production_codes: [MOBILISATION, SETUP, STANDBY, LOGISTICS, REWORK, WAITING_FRONT, WEATHER, ACCESS, MATERIAL, BREAKDOWN, PERMIT]
+downtime: {fields: [code, start, end, reason], instructed_by: optional}
+delivery: {format: [xlsx_template, app], scans: by_exception, deadline: "next working day 10:00"}
+validation:
+  - {id: DRS-02, check: quantity_line_has_activity_unit_location}
+  - {id: DRS-03, check: no_blank_quantity_without_non_production_code}
+  - {id: DRS-05, check: test_quantity_per_component_pass}
+  - {id: DRS-10, check: arithmetic_consistency}

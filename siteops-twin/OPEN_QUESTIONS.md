@@ -54,3 +54,5 @@
 | Q-081 | Is the "no countersigned daily report, not payable" rule acceptable for future subcontracts (D-087)? | User / Legal | D3 | | Open |
 | Q-082 | For the duct pressure-test claim (RPT-N): is payment per duct-metre conditional on a passed test per duct? Who witnesses tests for the JV? | Commercial / QA | D2b | | Open |
 | Q-083 | Do daywork records require a prior written instruction (VOB/B §15 practice) under the subcontracts, and what is the countersignature deadline? | Commercial / Legal | D2b | | Open |
+| Q-084 | DRS workshop: activity families, tier thresholds, location-key standard, downtime codes, photo minimum, delivery deadline (see `05_methodology/daily_reporting_standard_framework.md` §4) | User | D2b | | Open |
+| Q-085 | Are Propeller measurements produced routinely (daily, per plan sheet) or on request? Can the drone team export CSV/DXF per measurement? | User / Survey | D2b | | Open |

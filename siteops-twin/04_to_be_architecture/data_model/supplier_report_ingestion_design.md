@@ -75,7 +75,7 @@ The existing rules AL-01…AL-14 apply (see the batch files §c). Ten new rules 
 
 | Priority | Rule | Detects | Evidence |
 |---|---|---|---|
-| 1 | **AL-21** Unsigned or unaccepted document used for payment | Certification blocked until the countersignature exists | 9/10 not countersigned |
+| 1 | ~~AL-21~~ **Deferred (D-090)** Unsigned document used for payment | n/a for now | 9/10 not countersigned |
 | 2 | **AL-17** Standby/idle billed without reason or instruction | Unsupported standby | RPT-I, RPT-F |
 | 3 | **AL-18** Billing line without matching attendance | Phantom billing | RPT-I |
 | 4 | **AL-19** Internal arithmetic failure | Blank or mismatched totals, spreadsheet errors, finish < start | RPT-F, RPT-G |
@@ -96,7 +96,7 @@ Introduce a **mandatory standard subcontractor daily report** in future subcontr
 - digital submission by the next working day 10:00;
 - contractor countersignature within 24 h.
 
-Rule: **no countersigned daily report → not payable** (AL-21). This turns the platform's controls into contract terms (links to R-72 and to the GAEB/VOB work, Q-074).
+~~Rule: no countersigned daily report → not payable (AL-21).~~ **Deferred by the user (D-090).** Sign-off controls are out of scope for now. The template content itself is now developed as the Daily Reporting Standard (`05_methodology/daily_reporting_standard_framework.md`, D-091).
 
 ## 7. Implementation plan (D2b)
 1. Schema delta (§3) and the location service (§4), with backward-compatible synthetic data.
@@ -135,4 +135,4 @@ Source: `03_as_is_analysis/supplier_daily_reports_analysis_batch3.md`. RPT-N is 
 | AL-31 | Asset billed twice, or client-furnished material billed |
 | AL-32 | Front-loaded lump sum (e.g. full mob/demob in the first claim) |
 
-**Updated first-build recommendation:** AL-21 (unsigned → not payable), AL-26 (no pass → not payable), AL-03 on evidence rows (overlap), AL-19/AL-25 (arithmetic and pricing basis), AL-28/AL-29 (daywork).
+**Updated first-build recommendation** (sign-off rules deferred, D-090): AL-26 (no pass → not payable), AL-03 on evidence rows (overlap), AL-19/AL-25 (arithmetic and pricing basis), AL-28/AL-29 (daywork).
